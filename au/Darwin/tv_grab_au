@@ -1,0 +1,37 @@
+#!/bin/sh
+
+URL="https://i.mjh.nz/au/Darwin/epg.xml"
+DESCRIPTION="tv_grab_au (MattHuisman.nz)"
+VERSION="1.1"
+
+if [ $# -lt 1 ]; then
+    >&2 echo "Downloading $URL..."
+    curl -s -L "$URL.gz" | gzip -q -d 2>/dev/null ||
+        curl -s -L "$URL" ||
+          wget -qO - "$URL.gz" | gzip -q -d 2>/dev/null ||
+              wget -qO - "$URL" ||
+                    >&2 echo "ERROR: Failed to fetch data"
+    exit 0
+fi
+
+dflag=
+vflag=
+cflag=
+
+for a in "$@"; do
+  [ "$a" = "-d" -o "$a" = "--description"  ] && dflag=1
+  [ "$a" = "-v" -o "$a" = "--version"      ] && vflag=1
+  [ "$a" = "-c" -o "$a" = "--capabilities" ] && cflag=1
+done
+
+if [ -n "$dflag" ]; then
+  echo $DESCRIPTION
+fi
+
+if [ -n "$vflag" ]; then
+  echo $VERSION
+fi
+
+if [ -n "$cflag" ]; then
+  echo "baseline"
+fi

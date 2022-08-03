@@ -1,0 +1,115 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Perth/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="tv.101406070683" tvg-logo="https://i.mjh.nz/.images/tv.101406070683.png",10 SHAKE
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101406070683.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406070683 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406070688" tvg-logo="https://i.mjh.nz/.images/tv.101406070688.png",10 Peach
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101406070688.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406070688 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406070687" tvg-logo="https://i.mjh.nz/.images/tv.101406070687.png",10 BOLD
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101406070687.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406070687 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406070685" tvg-logo="https://i.mjh.nz/.images/tv.101406070685.png",10
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101406070685.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406070685 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.7ausbiz.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7ausbiz -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305060560" tvg-logo="https://i.mjh.nz/.images/tv.101305060560.png",Seven
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101305060560.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305060560 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101305020528.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020528 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.7pac12.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7pac12 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.7outdoor.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7outdoor -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.7fueltv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7fueltv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305060563" tvg-logo="https://i.mjh.nz/.images/tv.101305060563.png",7mate
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101305060563.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305060563 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305060565" tvg-logo="https://i.mjh.nz/.images/tv.101305060565.png",7flix
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101305060565.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305060565 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305060562" tvg-logo="https://i.mjh.nz/.images/tv.101305060562.png",7TWO
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101305060562.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305060562 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000308" tvg-logo="https://i.mjh.nz/.images/tv.320203000308.png",SBS WorldWatch
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.320203000308.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000308 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.320203000307.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000307 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.320203000303.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000303 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.320203000304.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000304 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.320203000301.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000301 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.320203000305.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000305 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204600461" tvg-logo="https://i.mjh.nz/.images/tv.101204600461.png",Nine
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101204600461.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204600461 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204600469" tvg-logo="https://i.mjh.nz/.images/tv.101204600469.png",9Rush
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101204600469.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204600469 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204600464" tvg-logo="https://i.mjh.nz/.images/tv.101204600464.png",9Life
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101204600464.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204600464 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204600468" tvg-logo="https://i.mjh.nz/.images/tv.101204600468.png",9Go!
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101204600468.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204600468 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204600467" tvg-logo="https://i.mjh.nz/.images/tv.101204600467.png",9Gem
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.101204600467.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204600467 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/abc2 -vcodec copy -acodec copy -metadata service_name=tv.abc2 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.abc_news_90 -vcodec copy -acodec copy -metadata service_name=tv.abc_news_90 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210220 -vcodec copy -acodec copy -metadata service_name=tv.101002210220 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210224 -vcodec copy -acodec copy -metadata service_name=tv.101002210224 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210222 -vcodec copy -acodec copy -metadata service_name=tv.101002210222 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.3201026102E1" tvg-logo="https://i.mjh.nz/.images/tv.3201026102E1.png",ABC
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/3201026102E1 -vcodec copy -acodec copy -metadata service_name=tv.3201026102E1 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.skyrtc.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.skyrtc -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing #2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.sky2rw.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.sky2rw -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing #1
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.sky1rw.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.sky1rw -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.redbull.tv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.redbull.tv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.acctv" tvg-logo="https://i.mjh.nz/.images/tv.good.png",GOOD.
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.acctv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.acctv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.cna.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.cna -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.bloomberg.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.bloomberg -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Perth/tv.46.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.46 -f mpegts pipe:1

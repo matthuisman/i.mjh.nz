@@ -1,0 +1,340 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Adelaide/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="radio.ih.7116" tvg-logo="https://i.mjh.nz/.images/radio.ih.7116.png" radio="true",triple j Unearthed
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7116.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7116 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7115" tvg-logo="https://i.mjh.nz/.images/radio.ih.7115.png" radio="true",triple j
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7115.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7115 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7972" tvg-logo="https://i.mjh.nz/.images/radio.ih.7972.png" radio="true",triple j
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7972.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7972 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7075" tvg-logo="https://i.mjh.nz/.images/radio.ih.7075.png" radio="true",iHeartYou
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7075.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7075 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9430" tvg-logo="https://i.mjh.nz/.images/radio.ih.9430.png" radio="true",iHeartRadio Wango Tango
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9430.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9430 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6996" tvg-logo="https://i.mjh.nz/.images/radio.ih.6996.png" radio="true",iHeartRadio Old Skool
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6996.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6996 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6941" tvg-logo="https://i.mjh.nz/.images/radio.ih.6941.png" radio="true",iHeartRadio Dance
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6941.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6941 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6902" tvg-logo="https://i.mjh.nz/.images/radio.ih.6902.png" radio="true",iHeartRadio Countdown AUS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6902.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6902 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7222" tvg-logo="https://i.mjh.nz/.images/radio.ih.7222.png" radio="true",iHeartCountry Australia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7222.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7222 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7050" tvg-logo="https://i.mjh.nz/.images/radio.ih.7050.png" radio="true",iHeartAustralia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7050.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7050 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9243" tvg-logo="https://i.mjh.nz/.images/radio.ih.9243.png" radio="true",eJukebox
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9243 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9243 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9195" tvg-logo="https://i.mjh.nz/.images/radio.ih.9195.png" radio="true",Woolworths Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9195.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9195 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9083" tvg-logo="https://i.mjh.nz/.images/radio.ih.9083.png" radio="true",Waiata Anthems
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9083 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9083 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9025" tvg-logo="https://i.mjh.nz/.images/radio.ih.9025.png" radio="true",VA Radio Adelaide
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9025.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9025 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8876" tvg-logo="https://i.mjh.nz/.images/radio.ih.8876.png" radio="true",TikTok Trending on iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8876.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8876 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9406" tvg-logo="https://i.mjh.nz/.images/radio.ih.9406.png" radio="true",The Voice on iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9406.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9406 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8734" tvg-logo="https://i.mjh.nz/.images/radio.ih.8734.png" radio="true",The Get Up
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8734 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8734 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7419" tvg-logo="https://i.mjh.nz/.images/radio.ih.7419.png" radio="true",The Faction Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7419 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7419 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6180" tvg-logo="https://i.mjh.nz/.images/radio.ih.6180.png" radio="true",The Edge
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6180 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6180 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6327" tvg-logo="https://i.mjh.nz/.images/radio.ih.6327.png" radio="true",The Bounce
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6327.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6327 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6793" tvg-logo="https://i.mjh.nz/.images/radio.ih.6793.png" radio="true",The 90s iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6793.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6793 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6794" tvg-logo="https://i.mjh.nz/.images/radio.ih.6794.png" radio="true",The 80s iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6794.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6794 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9056" tvg-logo="https://i.mjh.nz/.images/radio.ih.9056.png" radio="true",TICKER NEWS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9056.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9056 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8319" tvg-logo="https://i.mjh.nz/.images/radio.ih.8319.png" radio="true",Sky News Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8319.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8319 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9387" tvg-logo="https://i.mjh.nz/.images/radio.ih.9387.png" radio="true",Shane Warne Memorial Service
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9387 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9387 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7026" tvg-logo="https://i.mjh.nz/.images/radio.ih.7026.png" radio="true",SBS Radio 3
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7026 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7026 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7025" tvg-logo="https://i.mjh.nz/.images/radio.ih.7025.png" radio="true",SBS Radio 2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7025 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7025 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6998" tvg-logo="https://i.mjh.nz/.images/radio.ih.6998.png" radio="true",SBS Radio 1
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6998 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6998 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7031" tvg-logo="https://i.mjh.nz/.images/radio.ih.7031.png" radio="true",SBS PopDesi
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7031 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7031 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7028" tvg-logo="https://i.mjh.nz/.images/radio.ih.7028.png" radio="true",SBS PopAsia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7028 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7028 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7029" tvg-logo="https://i.mjh.nz/.images/radio.ih.7029.png" radio="true",SBS Chill
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7029 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7029 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7030" tvg-logo="https://i.mjh.nz/.images/radio.ih.7030.png" radio="true",SBS Arabic24
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7030 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7030 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7111" tvg-logo="https://i.mjh.nz/.images/radio.ih.7111.png" radio="true",Radio National
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7111.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7111 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8331" tvg-logo="https://i.mjh.nz/.images/radio.ih.8331.png" radio="true",Radio National
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8331.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8331 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8005" tvg-logo="https://i.mjh.nz/.images/radio.ih.8005.png" radio="true",Radio Australia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8005.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8005 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6319" tvg-logo="https://i.mjh.nz/.images/radio.ih.6319.png" radio="true",Radio Adelaide
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6319.pls -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6319 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9164" tvg-logo="https://i.mjh.nz/.images/radio.ih.9164.png" radio="true",Musicians Making A Difference
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9164 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9164 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6184" tvg-logo="https://i.mjh.nz/.images/radio.ih.6184.png" radio="true",Mix102.3
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6184.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6184 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7293" tvg-logo="https://i.mjh.nz/.images/radio.ih.7293.png" radio="true",Mardi Gras Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7293 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7293 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9036" tvg-logo="https://i.mjh.nz/.images/radio.ih.9036.png" radio="true",MTV Sounds on iHeartRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9036.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9036 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6970" tvg-logo="https://i.mjh.nz/.images/radio.ih.6970.png" radio="true",Little Rockers Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6970 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6970 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9315" tvg-logo="https://i.mjh.nz/.images/radio.ih.9315.png" radio="true",Kix Country
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9315.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9315 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7918" tvg-logo="https://i.mjh.nz/.images/radio.ih.7918.png" radio="true",Kinderling Kids Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7918 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7918 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7920" tvg-logo="https://i.mjh.nz/.images/radio.ih.7920.png" radio="true",Kinderling Kids Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7920 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7920 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6315" tvg-logo="https://i.mjh.nz/.images/radio.ih.6315.png" radio="true",Inspire Digital
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6315 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6315 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7260" tvg-logo="https://i.mjh.nz/.images/radio.ih.7260.png" radio="true",Guzman Y Gomez
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7260 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7260 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6313" tvg-logo="https://i.mjh.nz/.images/radio.ih.6313.png" radio="true",Fresh 92.7 Adelaide
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6313 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6313 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6440" tvg-logo="https://i.mjh.nz/.images/radio.ih.6440.png" radio="true",Elf Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6440 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6440 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.double.j" tvg-logo="http://i.mjh.nz/.images/radio.double.j.png" radio="true",Double J
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.double.j -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.double.j -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7090" tvg-logo="https://i.mjh.nz/.images/radio.ih.7090.png" radio="true",Double J
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7090.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7090 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7968" tvg-logo="https://i.mjh.nz/.images/radio.ih.7968.png" radio="true",Double J
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7968.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7968 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8873" tvg-logo="https://i.mjh.nz/.images/radio.ih.8873.png" radio="true",Dancing with the Stars
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8873 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8873 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.curtin.radio" tvg-logo="http://i.mjh.nz/.images/radio.curtin.radio.png" radio="true",Curtin Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.curtin.radio -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.curtin.radio -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6177" tvg-logo="https://i.mjh.nz/.images/radio.ih.6177.png" radio="true",Cruise 1323
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6177.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6177 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6178" tvg-logo="https://i.mjh.nz/.images/radio.ih.6178.png" radio="true",Chemist Warehouse Remix
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6178.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6178 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.6179" tvg-logo="https://i.mjh.nz/.images/radio.ih.6179.png" radio="true",CADA
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.6179.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6179 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9383" tvg-logo="https://i.mjh.nz/.images/radio.ih.9383.png" radio="true",CADA
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9383.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9383 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7421" tvg-logo="https://i.mjh.nz/.images/radio.ih.7421.png" radio="true",AndrewHaug.com Metal Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7421 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7421 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9244" tvg-logo="https://i.mjh.nz/.images/radio.ih.9244.png" radio="true",All Day KJ
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.9244.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9244 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7112" tvg-logo="https://i.mjh.nz/.images/radio.ih.7112.png" radio="true",ABC Sport
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7112.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7112 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7992" tvg-logo="https://i.mjh.nz/.images/radio.ih.7992.png" radio="true",ABC South East SA
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7992 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7992 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7991" tvg-logo="https://i.mjh.nz/.images/radio.ih.7991.png" radio="true",ABC Riverland
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7991 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7991 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7126" tvg-logo="https://i.mjh.nz/.images/radio.ih.7126.png" radio="true",ABC Radio Adelaide
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7126.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7126 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7142" tvg-logo="https://i.mjh.nz/.images/radio.ih.7142.png" radio="true",ABC North and West
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7142 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7142 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7110" tvg-logo="https://i.mjh.nz/.images/radio.ih.7110.png" radio="true",ABC NewsRadio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7110.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7110 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7967" tvg-logo="https://i.mjh.nz/.images/radio.ih.7967.png" radio="true",ABC KIDS Listen
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7967.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7967 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7124" tvg-logo="https://i.mjh.nz/.images/radio.ih.7124.png" radio="true",ABC Jazz
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7124.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7124 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7990" tvg-logo="https://i.mjh.nz/.images/radio.ih.7990.png" radio="true",ABC Eyre Peninsula
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7990 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7990 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7125" tvg-logo="https://i.mjh.nz/.images/radio.ih.7125.png" radio="true",ABC Country
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7125.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7125 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7123" tvg-logo="https://i.mjh.nz/.images/radio.ih.7123.png" radio="true",ABC Classic 2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7123.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7123 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.7118" tvg-logo="https://i.mjh.nz/.images/radio.ih.7118.png" radio="true",ABC Classic
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.7118.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7118 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8325" tvg-logo="https://i.mjh.nz/.images/radio.ih.8325.png" radio="true",ABC Classic
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8325.m3u8 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8325 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8848" tvg-logo="https://i.mjh.nz/.images/radio.ih.8848.png" radio="true",A Tribute To Michael Gudinski
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8848 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8848 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.8879" tvg-logo="https://i.mjh.nz/.images/radio.ih.8879.png" radio="true",1079 Life
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/radio.ih.8879 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8879 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406050653" tvg-logo="https://i.mjh.nz/.images/tv.101406050653.png",10 SHAKE 
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101406050653.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406050653 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406050658" tvg-logo="https://i.mjh.nz/.images/tv.101406050658.png",10 Peach
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406050658 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406050657" tvg-logo="https://i.mjh.nz/.images/tv.101406050657.png",10 BOLD
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101406050657.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406050657 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101406050655" tvg-logo="https://i.mjh.nz/.images/tv.101406050655.png",10
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101406050655 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.7ausbiz.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7ausbiz -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305050550" tvg-logo="https://i.mjh.nz/.images/tv.101305050550.png",Seven
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101305050550.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305050550 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101305020528.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020528 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.7pac12.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7pac12 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.7outdoor.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7outdoor -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.7fueltv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.7fueltv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305050553" tvg-logo="https://i.mjh.nz/.images/tv.101305050553.png",7mate
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101305050553.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305050553 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305050555" tvg-logo="https://i.mjh.nz/.images/tv.101305050555.png",7flix
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101305050555.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305050555 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101305050552" tvg-logo="https://i.mjh.nz/.images/tv.101305050552.png",7TWO
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers User-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101305050552.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305050552 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000308" tvg-logo="https://i.mjh.nz/.images/tv.320203000308.png",SBS WorldWatch
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.320203000308.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000308 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.320203000307.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000307 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.320203000303.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000303 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.320203000304.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000304 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.320203000301.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000301 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.320203000305.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.320203000305 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204500451" tvg-logo="https://i.mjh.nz/.images/tv.101204500451.png",Nine
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101204500451.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204500451 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204500459" tvg-logo="https://i.mjh.nz/.images/tv.101204500459.png",9Rush
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101204500459.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204500459 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204500454" tvg-logo="https://i.mjh.nz/.images/tv.101204500454.png",9Life
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101204500454.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204500454 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204500458" tvg-logo="https://i.mjh.nz/.images/tv.101204500458.png",9Go!
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101204500458.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204500458 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101204500457" tvg-logo="https://i.mjh.nz/.images/tv.101204500457.png",9Gem
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.101204500457.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101204500457 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/abc2 -vcodec copy -acodec copy -metadata service_name=tv.abc2 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.abc_news_90 -vcodec copy -acodec copy -metadata service_name=tv.abc_news_90 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210220 -vcodec copy -acodec copy -metadata service_name=tv.101002210220 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210224 -vcodec copy -acodec copy -metadata service_name=tv.101002210224 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002210222 -vcodec copy -acodec copy -metadata service_name=tv.101002210222 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.101002510251" tvg-logo="https://i.mjh.nz/.images/tv.101002510251.png",ABC
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://c.mjh.nz/101002510251 -vcodec copy -acodec copy -metadata service_name=tv.101002510251 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.skyrtc.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.skyrtc -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing #2
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.sky2rw.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.sky2rw -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing #1
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.sky1rw.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.sky1rw -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.redbull.tv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.redbull.tv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.acctv" tvg-logo="https://i.mjh.nz/.images/tv.good.png",GOOD.
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.acctv.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.acctv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.cna.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.cna -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.c44" tvg-logo="https://i.mjh.nz/.images/tv.c44.png",Channel 44
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.c44.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.c44 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.bloomberg.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.bloomberg -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 110.33.122.75\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Adelaide/tv.46.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.46 -f mpegts pipe:1
