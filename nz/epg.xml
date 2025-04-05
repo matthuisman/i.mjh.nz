@@ -225,10 +225,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme channel="mjh-discovery-popup1" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>NASCAR Xfinity - Darlington Raceway Live today 7am</title>
-    <category>Arts, Culture</category>
-  </programme>
   <programme channel="mjh-discovery-popup1" start="20250406030000 +1200" stop="20250406060000 +1200">
     <title>NASCAR Xfinity - Darlington Raceway Live today 7am</title>
     <category>Arts, Culture</category>
@@ -251,12 +247,23 @@
     <title>NASCAR Cup - Darlington Raceway Live today 6am</title>
     <category>Arts, Culture</category>
   </programme>
+  <programme channel="mjh-discovery-popup1" start="20250407060000 +1200" stop="20250407103000 +1200">
+    <title>Live: NASCAR Cup - Darlington Raceway</title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90072418/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <category>Sports</category>
+  </programme>
   <programme channel="mjh-discovery-ptcn" start="20250405070000 +1300" stop="20250406055959 +1200">
     <title>CNN Fast</title>
     <sub-title>CNN Fast</sub-title>
     <category>Movies</category>
   </programme>
   <programme channel="mjh-discovery-ptcn" start="20250406060000 +1200" stop="20250407055959 +1200">
+    <title>CNN Fast</title>
+    <sub-title>CNN Fast</sub-title>
+    <category>Movies</category>
+  </programme>
+  <programme channel="mjh-discovery-ptcn" start="20250407060000 +1200" stop="20250408055959 +1200">
     <title>CNN Fast</title>
     <sub-title>CNN Fast</sub-title>
     <category>Movies</category>
@@ -341,9 +348,10 @@
     <sub-title>Tulip Fever</sub-title>
     <category>Movies</category>
   </programme>
-  <programme channel="mjh-discovery-fast3" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>Below Deck Vault Back Soon</title>
-    <category>Arts, Culture</category>
+  <programme channel="mjh-discovery-ptms" start="20250407060000 +1200" stop="20250407072027 +1200">
+    <title>Tulip Fever</title>
+    <sub-title>Tulip Fever</sub-title>
+    <category>Movies</category>
   </programme>
   <programme channel="mjh-discovery-fast3" start="20250406030000 +1200" stop="20250406034500 +1200">
     <title>Below Deck</title>
@@ -555,18 +563,21 @@
     <title>Below Deck Vault Back Soon</title>
     <category>Arts, Culture</category>
   </programme>
+  <programme channel="mjh-discovery-fast3" start="20250407060000 +1200" stop="20250407061500 +1200">
+    <title>Below Deck Vault Back Soon</title>
+    <category>Arts, Culture</category>
+  </programme>
+  <programme channel="mjh-discovery-fast3" start="20250407061500 +1200" stop="20250407070000 +1200">
+    <title>Below Deck</title>
+    <sub-title>Magic Ashton</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/26285/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S07E05</episode-num>
+  </programme>
   <programme channel="mjh-discovery-ptgn" start="20250406022227 +1200" stop="20250406030823 +1200">
     <title>The Graham Norton Show</title>
     <sub-title>Episode 1</sub-title>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/82019916/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
     <episode-num system="onscreen">S20E01</episode-num>
-    <category>Game Show</category>
-  </programme>
-  <programme channel="mjh-discovery-ptgn" start="20250406024254 +1300" stop="20250406022227 +1200">
-    <title>The Graham Norton Show</title>
-    <sub-title>Episode 13</sub-title>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/82019916/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
-    <episode-num system="onscreen">S14E13</episode-num>
     <category>Game Show</category>
   </programme>
   <programme channel="mjh-discovery-ptgn" start="20250406030823 +1200" stop="20250406035523 +1200">
@@ -835,9 +846,19 @@
     <episode-num system="onscreen">S16E01</episode-num>
     <category>Game Show</category>
   </programme>
-  <programme channel="mjh-discovery-fast4" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>Warner Bros. TV True Crime Back Soon</title>
-    <category>Arts, Culture</category>
+  <programme channel="mjh-discovery-ptgn" start="20250407060000 +1200" stop="20250407061547 +1200">
+    <title>The Graham Norton Show</title>
+    <sub-title>Episode 01</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/82019916/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S16E01</episode-num>
+    <category>Game Show</category>
+  </programme>
+  <programme channel="mjh-discovery-ptgn" start="20250407061547 +1200" stop="20250407070920 +1200">
+    <title>The Graham Norton Show</title>
+    <sub-title>Episode 13</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/82019916/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S21E13</episode-num>
+    <category>Game Show</category>
   </programme>
   <programme channel="mjh-discovery-fast4" start="20250406030000 +1200" stop="20250406034500 +1200">
     <title>Murder In The Heartland</title>
@@ -1053,9 +1074,15 @@
     <title>Warner Bros. TV True Crime Back Soon</title>
     <category>Arts, Culture</category>
   </programme>
-  <programme channel="mjh-discovery-fast5" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>Warner Bros. TV Paranormal Back Soon</title>
+  <programme channel="mjh-discovery-fast4" start="20250407060000 +1200" stop="20250407060500 +1200">
+    <title>Warner Bros. TV True Crime Back Soon</title>
     <category>Arts, Culture</category>
+  </programme>
+  <programme channel="mjh-discovery-fast4" start="20250407060500 +1200" stop="20250407065500 +1200">
+    <title>Betrayed</title>
+    <sub-title>Keep Your Friends Close</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90011990/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S03E10</episode-num>
   </programme>
   <programme channel="mjh-discovery-fast5" start="20250406030000 +1200" stop="20250406034500 +1200">
     <title>Trending Fear</title>
@@ -1276,9 +1303,15 @@
     <title>Warner Bros. TV Paranormal Back Soon</title>
     <category>Arts, Culture</category>
   </programme>
-  <programme channel="mjh-discovery-fast1" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>Warner Bros. TV Motorheads Back Soon</title>
+  <programme channel="mjh-discovery-fast5" start="20250407060000 +1200" stop="20250407062500 +1200">
+    <title>Warner Bros. TV Paranormal Back Soon</title>
     <category>Arts, Culture</category>
+  </programme>
+  <programme channel="mjh-discovery-fast5" start="20250407062500 +1200" stop="20250407071000 +1200">
+    <title>The Alaska Triangle</title>
+    <sub-title>The Secrets Of Mount Hayes</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90022457/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S01E01</episode-num>
   </programme>
   <programme channel="mjh-discovery-fast1" start="20250406030000 +1200" stop="20250406034500 +1200">
     <title>Street Outlaws: No Prep Kings</title>
@@ -1553,8 +1586,8 @@
     <title>Warner Bros. TV Motorheads Back Soon</title>
     <category>Arts, Culture</category>
   </programme>
-  <programme channel="mjh-discovery-fast7" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>West Family Sagas Back Soon</title>
+  <programme channel="mjh-discovery-fast1" start="20250407060000 +1200" stop="20250407071500 +1200">
+    <title>Warner Bros. TV Motorheads Back Soon</title>
     <category>Arts, Culture</category>
   </programme>
   <programme channel="mjh-discovery-fast7" start="20250406030000 +1200" stop="20250406034500 +1200">
@@ -1761,9 +1794,11 @@
     <title>West Family Sagas Back Soon</title>
     <category>Arts, Culture</category>
   </programme>
-  <programme channel="mjh-discovery-fast2" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>Warner Bros. TV Deadliest Catch Back Soon</title>
-    <category>Arts, Culture</category>
+  <programme channel="mjh-discovery-fast7" start="20250407060000 +1200" stop="20250407065000 +1200">
+    <title>Westside</title>
+    <sub-title>Episode 2</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/24245/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S04E02</episode-num>
   </programme>
   <programme channel="mjh-discovery-fast2" start="20250406030000 +1200" stop="20250406034500 +1200">
     <title>Deadliest Catch</title>
@@ -1979,9 +2014,19 @@
     <episode-num system="onscreen">S08E10</episode-num>
     <category>Education</category>
   </programme>
-  <programme channel="mjh-discovery-fast6" start="20250406020000 +1200" stop="20250406030000 +1200">
-    <title>Warner Bros. TV House Hunters Back Soon</title>
-    <category>Arts, Culture</category>
+  <programme channel="mjh-discovery-fast2" start="20250407060000 +1200" stop="20250407064500 +1200">
+    <title>Deadliest Catch</title>
+    <sub-title>I Don't Wanna Die</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S08E07</episode-num>
+    <category>Education</category>
+  </programme>
+  <programme channel="mjh-discovery-fast2" start="20250407064500 +1200" stop="20250407082500 +1200">
+    <title>Deadliest Catch</title>
+    <sub-title>The Aftermath</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S08E08</episode-num>
+    <category>Education</category>
   </programme>
   <programme channel="mjh-discovery-fast6" start="20250406030000 +1200" stop="20250406032000 +1200">
     <title>House Hunters International</title>
@@ -2455,5 +2500,21 @@
   <programme channel="mjh-discovery-fast6" start="20250407053500 +1200" stop="20250407060000 +1200">
     <title>Warner Bros. TV House Hunters Back Soon</title>
     <category>Arts, Culture</category>
+  </programme>
+  <programme channel="mjh-discovery-fast6" start="20250407060000 +1200" stop="20250407062500 +1200">
+    <title>Warner Bros. TV House Hunters Back Soon</title>
+    <category>Arts, Culture</category>
+  </programme>
+  <programme channel="mjh-discovery-fast6" start="20250407062500 +1200" stop="20250407064500 +1200">
+    <title>House Hunters</title>
+    <sub-title>Looking For The Good Life In Napa</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S200E08</episode-num>
+  </programme>
+  <programme channel="mjh-discovery-fast6" start="20250407064500 +1200" stop="20250407071000 +1200">
+    <title>House Hunters</title>
+    <sub-title>An Impressive Home In San Francisco</sub-title>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;ts=1743907201"/>
+    <episode-num system="onscreen">S201E08</episode-num>
   </programme>
 </tv>
