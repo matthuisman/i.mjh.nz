@@ -17,19 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250509213938 +0000" stop="20250509223047 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Esperanto</title>
-    <sub-title lang="en">A love letter to cycling</sub-title>
-    <desc lang="en">Shred the language barrier, ride the universal rhythm. Esperanto is an action-packed global journey on two wheels that celebrates the unifying spirit of cycling that transcends language and geography.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:d4bd89d1-a11d-4d6d-b031-9b4b02821312/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/esperanto</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:d4bd89d1-a11d-4d6d-b031-9b4b02821312</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</series-desc>
-  </programme>
   <programme start="20250509223047 +0000" stop="20250509231840 +0000" channel="mjh-redbull-tv">
     <title lang="en">Shaping Jordy</title>
     <sub-title lang="en">Discover the South African coast with surfer Jordy Smith</sub-title>
@@ -571,72 +558,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</series-desc>
-  </programme>
-  <programme start="20250509220000 +0000" stop="20250509223000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1818243604</episode-num>
-    <episode-num system="freeviewnz.tv">episode/11a1cd98-b51d-4126-a0a7-c06406f409e3</episode-num>
-    <episode-num system="original-air-date">2025-05-10 10:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250509223000 +0000" stop="20250509230000 +0000" channel="mjh-al-jazeera">
-    <title>Counting the Cost</title>
-    <sub-title>Counting the Cost</sub-title>
-    <desc>Will African nations ever be able to repay their debts?</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/e848b45d-0f3c-48c5-8650-233c16f77554/15143844_SC_Counting%2520the%2520Cost_1.jpg" width="480" height="640"/>
-    <episode-num system="dd_progid">55327044</episode-num>
-    <episode-num system="freeviewnz.tv">episode/de013219-2025-4f9e-b0b8-5a302266889f</episode-num>
-    <episode-num system="dd_seriesid">15143844</episode-num>
-    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
-    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
-    <episode-num system="original-air-date">2025-05-10 20:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20250509230000 +0000" stop="20250509233000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -11386,12 +11307,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250509220000 +0000" stop="20250509230000 +0000">
-    <title>Singapore Tonight</title>
-    <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cd1fe4b028d3ad594396-1632544919474?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250509230000 +0000" stop="20250509233000 +0000">
     <title>Asia Now</title>
     <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
@@ -11522,22 +11437,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61fb49bae4b0d60e9704fc59-1643858365067?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250509220000 +0000" stop="20250509223000 +0000">
-    <title>BBC World News America</title>
-    <desc>The hosts shed light on political, economic and social issues in the United States and other notable events across the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338443_2_20240215T220856974Z_85.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250509223000 +0000" stop="20250509230000 +0000">
-    <title>The President's Path</title>
-    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the U.S. presidency.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_737263645_0_20250123T072927476Z_83_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250509230000 +0000" stop="20250509233000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -11603,6 +11502,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250510030000 +0000" stop="20250510033000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510033000 +0000" stop="20250510040000 +0000">
+    <title>The Media Show</title>
+    <desc>Journalists shed light on global affairs and analyze the ways media organizations present controversial topics and social issues.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_539710551_0_20240321T182946471Z_24.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510040000 +0000" stop="20250510043000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
