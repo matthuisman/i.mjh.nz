@@ -17,20 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250510065238 +0000" stop="20250510073638 +0000" channel="mjh-redbull-tv">
-    <title lang="en">WSL Championship Tour 2025</title>
-    <sub-title lang="en">WSL Surf City El Salvador Pro wrap show</sub-title>
-    <desc lang="en">Enjoy an in-depth analysis of the 2025 Surf City El Salvador Pro’s biggest talking points and key takeaways with the WSL commentary team.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:c0004a47-bfe9-44a9-867d-4c60a00dbd05/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/wsl-championship-tour-2025-surf-city-el-salvador-pro-wrap-show</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:c0004a47-bfe9-44a9-867d-4c60a00dbd05</episode-num>
-    <episode-num system="original-air-date">2025-05-01 20:12:30</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</series-desc>
-  </programme>
   <programme start="20250510073638 +0000" stop="20250510082114 +0000" channel="mjh-redbull-tv">
     <title lang="en">Inside Pro Surfing</title>
     <sub-title lang="en">WSL Lexus Pipe Pro</sub-title>
@@ -275,40 +261,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</series-desc>
-  </programme>
-  <programme start="20250510070000 +0000" stop="20250510080000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1818243621</episode-num>
-    <episode-num system="freeviewnz.tv">episode/9fd8639e-f6b7-42ef-a18f-02936ee6739d</episode-num>
-    <episode-num system="original-air-date">2025-05-10 19:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250510080000 +0000" stop="20250510083000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10493,23 +10445,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250510070000 +0000" stop="20250510073000 +0000">
-    <title>Asia Now</title>
-    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250510073000 +0000" stop="20250510080000 +0000">
-    <title>Lunch With Us</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250510080000 +0000" stop="20250510080200 +0000">
-    <title>Headline News</title>
-    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250510080200 +0000" stop="20250510090000 +0000">
     <title>Has The Internet Broken Parenting?</title>
     <desc>Indisputably, social media has disrupted the traditional contexts of parenting.</desc>
@@ -10640,21 +10575,10 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61429f07e4b0bbed8e93250e-1631764093256?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250510070000 +0000" stop="20250510073000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250510073000 +0000" stop="20250510080000 +0000">
-    <title>Wonders of Turkey: The Buried God</title>
-    <desc>Bettany Hughes continues her exploration of the archaeological sites in Turkey, visiting the team at Aphrodisias, a UNESCO world heritage site founded in the second century.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_548699575_1_20241007T002303118Z_111_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250510190000 +0000" stop="20250510200000 +0000">
+    <title>An Unequal Heatwave</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250510080000 +0000" stop="20250510090000 +0000">
     <title>BBC News</title>
@@ -10697,6 +10621,38 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250510110000 +0000" stop="20250510113000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510113000 +0000" stop="20250510120000 +0000">
+    <title>This Week's World</title>
+    <desc>Global news.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_804477864_0_20250205T182128755Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-m4dpr.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510120000 +0000" stop="20250510123000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510123000 +0000" stop="20250510130000 +0000">
+    <title>TechXplore: Morocco</title>
+    <desc>Tech reporter Paul Carter is in Morocco to see the exciting tech developments which are helping it make the most of its natural resources.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338645_1_20240215T220900252Z_136.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510130000 +0000" stop="20250510133000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
