@@ -17,22 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250510125735 +0000" stop="20250510131855 +0000" channel="mjh-redbull-tv">
-    <title lang="en">No Contest: Off Tour</title>
-    <sub-title lang="en">Sydney</sub-title>
-    <desc lang="en">From the Eastern Suburbs to the Central Coast and from The Shire to the Northern Beaches, meet the colourful characters and explore the surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:31650ca3-3fa9-4217-99a7-022e4fb444b0/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/no-contest-off-tour-s3-e2</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:13364a5d-b69f-44b7-9899-a96b20b43def</episode-num>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-    <episode-num system="original-air-date">2025-05-02 02:23:21</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:31650ca3-3fa9-4217-99a7-022e4fb444b0</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</series-desc>
-  </programme>
   <programme start="20250510131855 +0000" stop="20250510141128 +0000" channel="mjh-redbull-tv">
     <title lang="en">More than a Dive</title>
     <sub-title lang="en">Pressure in paradise</sub-title>
@@ -131,40 +115,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</series-desc>
-  </programme>
-  <programme start="20250510130000 +0000" stop="20250510140000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1818243630</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4a907db5-29ba-47c5-865c-2a01657da639</episode-num>
-    <episode-num system="original-air-date">2025-05-11 01:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250510140000 +0000" stop="20250510143000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10028,11 +9978,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250510130200 +0000" stop="20250510140000 +0000">
-    <title>The Internet &amp; Us</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250510140000 +0000" stop="20250510143000 +0000">
     <title>Singapore Tonight</title>
     <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
@@ -10150,21 +10095,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250510130000 +0000" stop="20250510133000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250511003000 +0000" stop="20250511010000 +0000">
+    <title>Lunch With Us</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250510133000 +0000" stop="20250510140000 +0000">
-    <title>The Travel Show</title>
-    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250511010000 +0000" stop="20250511013000 +0000">
+    <title>Asia Now</title>
+    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="mjh-channel-news-asia" start="20250511013000 +0000" stop="20250511020000 +0000">
+    <title>Tender Loving Food</title>
+    <desc>You're Invited! Italy. Malaysia. Singapore. Pizza, Pineapple tarts &amp; Cinnamon rolls. Stressed is desserts spelt backwards!</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61fb49bae4b0d60e9704fc59-1643858365067?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250510140000 +0000" stop="20250510143000 +0000">
     <title>BBC News</title>
@@ -10207,6 +10153,38 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250510170000 +0000" stop="20250510173000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510173000 +0000" stop="20250510180000 +0000">
+    <title>This Week's World</title>
+    <desc>Global news.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_804477864_0_20250205T182128755Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-m4dpr.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510180000 +0000" stop="20250510183000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510183000 +0000" stop="20250510190000 +0000">
+    <title>Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250510190000 +0000" stop="20250510193000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
