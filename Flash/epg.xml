@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz">
-  <programme channel="sky-news-australia" start="20250516160000 +0000" stop="20250516170000 +0000">
-    <title>Sky News UK</title>
-    <desc>Britain''s award winning Sky News brings you the latest news from across the world and the UK.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="sky-news-australia" start="20250516170000 +0000" stop="20250516180000 +0000">
     <title>Sky News UK</title>
     <desc>Britain''s award winning Sky News brings you the latest news from across the world and the UK.</desc>
@@ -159,16 +153,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="sky-news-australia" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>Sky News UK</title>
+    <desc>Britain''s award winning Sky News brings you the latest news from across the world and the UK.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="sky-news-australia">
     <display-name>Sky News Australia</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aa92b6e4b04942d8309e03?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="cnn" start="20250516170000 +0000" stop="20250516180000 +0000">
-    <title>Amanpour</title>
-    <desc>Host Christiane Amanpour conducts in-depth interviews with the world's leading newsmakers in the flagship daily news program.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6135cd56e4b0ade66819fc6b-1724423476581?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="cnn" start="20250516180000 +0000" stop="20250516190000 +0000">
     <title>Isa Soares Tonight</title>
     <desc>Isa Soares breaks down the day's news, curating the stories that matter and getting into exactly why they are important.</desc>
@@ -340,15 +334,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6136bb49e4b0bc61d471850a-1631068692812?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="cnn" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>CNN Newsroom</title>
+    <desc>A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6136c1ede4b0bc61d4718511-1723206349334?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="cnn">
     <display-name>CNN</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aa92b6e4b04942d8309e04?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="msnbc" start="20250517040000 +0000" stop="20250517050000 +0000">
-    <title>The Briefing with Jen Psaki</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="msnbc" start="20250517050000 +0000" stop="20250517060000 +0000">
     <title>The Last Word With Lawrence O'Donnell</title>
     <desc>In his signature style, Lawrence O''Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
@@ -415,16 +410,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/642d122ee4b0a5d503cb7bc2-1722691132495?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="msnbc" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting, and coverage of the day's important stories.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/642e26f3e4b055365fe6533a-1680746232187?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="msnbc">
     <display-name>MSNBC</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a1c?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="fox-news" start="20250516170000 +0000" stop="20250516180000 +0000">
-    <title>America Reports With John Roberts &amp; Sandra Smith</title>
-    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/628d8342e4b0048570d735e4-1724421601195?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="fox-news" start="20250516180000 +0000" stop="20250516190000 +0000">
     <title>America Reports With John Roberts &amp; Sandra Smith</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
@@ -562,15 +557,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6141828be4b051be50a8c881-1631683214336?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="fox-news" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>Fox News Live</title>
+    <desc>Covers the latest news on the economy, society, sport and culture, with insightful analysis and expert commentary.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6141828be4b051be50a8c881-1631683214336?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="fox-news">
     <display-name>Fox News</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a1d?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="cnbc" start="20250517040000 +0000" stop="20250517050000 +0000">
-    <title>Tour Of Turkey</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="cnbc" start="20250517050000 +0000" stop="20250517060000 +0000">
     <title>Asian Le Mans</title>
     <desc>The Asian Le Mans Series is an Asian sports car racing endurance series created by the Automobile Club de l'Ouest and based in Asia.</desc>
@@ -665,22 +661,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61414198e4b028d3ad594148-1722683933203?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="cnbc" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>Mad Money</title>
+    <desc>Learning with Wall Street's most respected and successful money managers; navigating through the opportunities and pitfalls of the Wall Street jungle.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61414198e4b028d3ad594148-1722683933203?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="cnbc">
     <display-name>CNBC</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a1e?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="fox-sports-news" start="20250516190000 +0000" stop="20250516193000 +0000">
-    <title>FOX SPORTS News</title>
-    <desc>Features the latest sports news, highlights, and analysis of the biggest sport events from Australia and across the globe.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66ae1fb4e4b03bc140942070-1722687486471?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="fox-sports-news" start="20250516193000 +0000" stop="20250516200000 +0000">
-    <title>FOX SPORTS News</title>
-    <desc>Features the latest sports news, highlights, and analysis of the biggest sport events from Australia and across the globe.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66ae1fb4e4b03bc140942070-1722687486471?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="fox-sports-news" start="20250516200000 +0000" stop="20250516203000 +0000">
     <title>FOX SPORTS News</title>
     <desc>Features the latest sports news, highlights, and analysis of the biggest sport events from Australia and across the globe.</desc>
@@ -933,20 +923,22 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66ae1fb4e4b03bc140942070-1722687486471?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="fox-sports-news" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>FOX SPORTS News</title>
+    <desc>Features the latest sports news, highlights, and analysis of the biggest sport events from Australia and across the globe.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66ae1fb4e4b03bc140942070-1722687486471?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="fox-sports-news" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>FOX SPORTS News</title>
+    <desc>Features the latest sports news, highlights, and analysis of the biggest sport events from Australia and across the globe.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66ae1fb4e4b03bc140942070-1722687486471?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="fox-sports-news">
     <display-name>Fox Sports News</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a1f?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="ticker-news" start="20250516190000 +0000" stop="20250516193000 +0000">
-    <title>ticker NEWS</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="ticker-news" start="20250516193000 +0000" stop="20250516200000 +0000">
-    <title>Ticker Tech</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="ticker-news" start="20250516200000 +0000" stop="20250516203000 +0000">
     <title>ticker NEWS</title>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
@@ -1157,22 +1149,20 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="ticker-news" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>ticker NEWS</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="ticker-news" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>Ticker Leaders</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="ticker-news">
     <display-name>Ticker News</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a20?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="al-jazeera" start="20250516173000 +0000" stop="20250516180000 +0000">
-    <title>Inside Story</title>
-    <desc>Al Jazeera talks to some of the best minds to peering beyond the headlines to get to the heart crucial matters.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66d6f4fae4b0ba027b6fd60e-1725363465390?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="al-jazeera" start="20250516180000 +0000" stop="20250516190000 +0000">
-    <title>News Hour</title>
-    <desc>A closer look at international news, events, current affairs, and exclusive stories from around the world.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66ae2b08e4b09c3801e0521e-1722690782729?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="al-jazeera" start="20250516190000 +0000" stop="20250516193000 +0000">
     <title>News Live</title>
     <desc>Presenting the latest news, looking into everything that is happening all around the globe in Asia, Africa, Europe and the Americas.</desc>
@@ -1394,6 +1384,18 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="al-jazeera" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>News Live</title>
+    <desc>Presenting the latest news, looking into everything that is happening all around the globe in Asia, Africa, Europe and the Americas.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66ae2e6de4b0218dd1bd5c7c-1722691609100?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="al-jazeera" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>Inside Story</title>
+    <desc>Al Jazeera talks to some of the best minds to peering beyond the headlines to get to the heart crucial matters.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66d6f4fae4b0ba027b6fd60e-1725363465390?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="al-jazeera">
     <display-name>Al Jazeera</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a21?location=tile&amp;imwidth=400"/>
@@ -1430,18 +1432,6 @@
     <display-name>Ausbiz</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a22?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="bloomberg" start="20250516163000 +0000" stop="20250516170000 +0000">
-    <title>Bloomberg Markets</title>
-    <desc>An examination of the some of the most important business news and breaking market news around the world.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="bloomberg" start="20250516170000 +0000" stop="20250516180000 +0000">
-    <title>Bloomberg: Balance of Power</title>
-    <desc>Focuses on the intersection between business and politics in the United States, with expert analysis and interviews.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="bloomberg" start="20250516180000 +0000" stop="20250516190000 +0000">
     <title>Bloomberg Businessweek</title>
     <desc>Carol Massar and Jason Kelly talk about news headlines with the writers of the Bloomberg Businessweek magazine.</desc>
@@ -1624,16 +1614,21 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/64efd506e4b07df226c5dd00-1693439243928?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="bloomberg" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>The David Rubenstein Show</title>
+    <desc>To find out what makes a good leader, financier and philanthropist David Rubenstein journeys across countries to talk to business world's most influential people.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61448158e4b0bbed8e932625-1631879527778?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="bloomberg" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>Bloomberg Primer: How New Magnets Could Power the Future</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="bloomberg">
     <display-name>Bloomberg Television</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a23?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="quicktake" start="20250516163000 +0000" stop="20250516180000 +0000">
-    <title>Bloomberg Originals</title>
-    <desc>Experts offer bold takes on some of today''s most important topics and cover stories and investigations at the intersection of business and culture.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/64efd506e4b07df226c5dd00-1693439243928?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="quicktake" start="20250516180000 +0000" stop="20250516210000 +0000">
     <title>Bloomberg Businessweek</title>
     <desc>Carol Massar and Jason Kelly talk about news headlines with the writers of the Bloomberg Businessweek magazine.</desc>
@@ -1808,16 +1803,22 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/64827620e4b0213e9ca28e8d-1686271524196?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="quicktake" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>The Circuit</title>
+    <desc>A Bloomberg Originals series hosted by Emily Chang that goes behind the scenes with founders, influencers and innovators.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/64827620e4b0213e9ca28e8d-1686271524196?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="quicktake" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>The Circuit</title>
+    <desc>A Bloomberg Originals series hosted by Emily Chang that goes behind the scenes with founders, influencers and innovators.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/64827620e4b0213e9ca28e8d-1686271524196?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="quicktake">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a24?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="cgtn" start="20250517040000 +0000" stop="20250517050000 +0000">
-    <title>Global Watch</title>
-    <desc>Presenting local and international news updates on the current affairs and big stories, from a Chinese perspective.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="cgtn" start="20250517050000 +0000" stop="20250517060000 +0000">
     <title>Big Story</title>
     <desc>Featuring current affairs documentaries from around the globe, including in-depth reporting.</desc>
@@ -1956,15 +1957,22 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/63158a65e4b01347a622a0d5-1662356070582?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="cgtn" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>Africa Live</title>
+    <desc>Native correspondents and local production teams provide authoritative and in-depth stories from across the African continent.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="cgtn" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>Talk Africa</title>
+    <desc>Influential voices in Africa present, to the world, a native perspective on various aspects of life in Africa.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/63158a07e4b0952ad98beb3d-1662355977248?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="cgtn">
     <display-name>CGTN</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a25?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="channel-news-asia" start="20250516170000 +0000" stop="20250516180000 +0000">
-    <title>Panda Power: Rise Of Furry Diplomats</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="channel-news-asia" start="20250516180000 +0000" stop="20250516190000 +0000">
     <title>Singapore Tonight</title>
     <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
@@ -2213,22 +2221,22 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6142923ee4b078d6bb788b6e-1631752787128?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="channel-news-asia" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>The Beauty Of Tenacity</title>
+    <desc>An exploration of the beauty of the tenacity of women as they trailblaze in their various fields of work in Singapore.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/62be7df4e4b00d8f62bcc148-1656651254354?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="channel-news-asia" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>Tender Loving Food</title>
+    <desc>You're Invited! Italy. Malaysia. Singapore. Pizza, Pineapple tarts &amp; Cinnamon rolls. Stressed is desserts spelt backwards!</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61fb49bae4b0d60e9704fc59-1643858365067?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="channel-news-asia">
     <display-name>CNA</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a26?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="et-now" start="20250516190000 +0000" stop="20250516193000 +0000">
-    <title>India Tonight</title>
-    <desc>A panel of experts discuss what''s happening in the world of business and finance, offering their analysis.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="et-now" start="20250516193000 +0000" stop="20250516200000 +0000">
-    <title>India Tonight</title>
-    <desc>A panel of experts discuss what''s happening in the world of business and finance, offering their analysis.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="et-now" start="20250516200000 +0000" stop="20250516203000 +0000">
     <title>Startup Central</title>
     <desc>News and analysis of what''s going on in the world of startup businesses, with those in the know offering their advice.</desc>
@@ -2462,20 +2470,21 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="et-now" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>Brand Equity</title>
+    <desc>Comprehensive coverage of business news, taking a close look at brands and how they're faring in the market.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6195eb13e4b067f9619bcf50-1637215007182?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="et-now" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>BSE @ 150</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="et-now">
     <display-name>ET Now</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a27?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="france24" start="20250516234500 +0000" stop="20250516235400 +0000">
-    <title>Arts24</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="france24" start="20250516235400 +0000" stop="20250517000000 +0000">
-    <title>Short Cuts</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="france24" start="20250517000000 +0000" stop="20250517001500 +0000">
     <title>News</title>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66c09312e4b0cd913c5f410f-1723896672592?location=tile&amp;imwidth=400"/>
@@ -2703,16 +2712,20 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="france24" start="20250517103000 +0000" stop="20250517104500 +0000">
+    <title>News</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/66c09312e4b0cd913c5f410f-1723896672592?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="france24" start="20250517104500 +0000" stop="20250517104600 +0000">
+    <title>Introduction</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="france24">
     <display-name>France24</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a28?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="gb-news" start="20250516160000 +0000" stop="20250516180000 +0000">
-    <title>Patrick Christys Tonight</title>
-    <desc>Patrick chairs two hours of spirited debate and news making interviews while the top guests tackle the issues that matter, with a sharp take on every story.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="gb-news" start="20250516180000 +0000" stop="20250516190000 +0000">
     <title>Headliners</title>
     <desc>An all-star comedy cast cover the papers, delivering an intelligent and insightful look at some of the biggest headlines.</desc>
@@ -2785,12 +2798,6 @@
     <display-name>GB News</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a29?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="i24-news" start="20250516165300 +0000" stop="20250516190000 +0000">
-    <title>Friday Cabinet</title>
-    <desc>Naveh Dromi and a team of experts discuss all the main headlines, magazine articles and stories that made the week.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="i24-news" start="20250516190000 +0000" stop="20250516200000 +0000">
     <title>The Israelis</title>
     <desc>Ori Qual and a team of panelists provide news coverage of daily events.</desc>
@@ -2874,6 +2881,12 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="i24-news" start="20250517165300 +0000" stop="20250517183000 +0000">
+    <title>Main Edition</title>
+    <desc>Miri Michaeli, Oren Weigenfeld and the team discuss the most important international newstories.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="i24-news">
     <display-name>i24 News</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a2a?location=tile&amp;imwidth=400"/>
@@ -2938,15 +2951,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6419355ae4b0567b390db70b-1679373662081?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="nbc-news-now" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>Dateline NBC</title>
+    <desc>NBC News correspondents cover compelling stories, mysteries, powerful documentaries and in-depth investigations.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6419355ae4b0567b390db70b-1679373662081?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="nbc-news-now">
     <display-name>NBC News Now</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a2b?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="newsmax" start="20250516170000 +0000" stop="20250516180000 +0000">
-    <title>Ed Henry: The Briefing</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="newsmax" start="20250516180000 +0000" stop="20250516190000 +0000">
     <title>Woke America</title>
     <desc>The left is on a campaign to transform America forever. Common sense and traditional values are being trampled. Examines who''s behind this dangerous movement.</desc>
@@ -3059,28 +3073,15 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="newsmax" start="20250517170000 +0000" stop="20250517190000 +0000">
+    <title>Pope Leo Xiv Inauguration Mass</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="newsmax">
     <display-name>Newsmax</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a2d?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="nhk-world" start="20250516231500 +0000" stop="20250516233000 +0000">
-    <title>Japan''s Top Inventions</title>
-    <desc>A behind the scenes look at the Japanese craftsmanship being employed to birth world acclaimed inventions.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="nhk-world" start="20250516233000 +0000" stop="20250516235700 +0000">
-    <title>Grand Sumo Highlights</title>
-    <desc>Learning about Sumo wrestling, the traditional Japanese sport where wrestlers weighing more than 160 kilos clash in the sacred ring.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="nhk-world" start="20250516235700 +0000" stop="20250517000000 +0000">
-    <title>Sumopedia</title>
-    <desc>Enhancing the experience of Sumo Wrestling with information on the techniques, traditions and famous wrestlers of the past.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="nhk-world" start="20250517000000 +0000" stop="20250517001000 +0000">
     <title>NHK Newsline</title>
     <desc>Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.</desc>
@@ -3331,6 +3332,24 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="nhk-world" start="20250517114000 +0000" stop="20250517115500 +0000">
+    <title>Bosai</title>
+    <desc>“Bosai” is a Japanese word that means preparing for natural disasters and preventing damage. This show helps provide information for foreigners in Japan for when disaster strikes.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6146e98ae4b0bbed8e93271e-1632037271906?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="nhk-world" start="20250517115500 +0000" stop="20250517120000 +0000">
+    <title>Design Museum Japan</title>
+    <desc>Japanese design is world-famous, but not because it is expensive, stylish or modern. It''s because excellent design exists within the tools and habits of everyday life. Leading</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="nhk-world" start="20250517120000 +0000" stop="20250517121000 +0000">
+    <title>NHK Newsline</title>
+    <desc>Hourly news updates featuring current affairs, business news, financial updates and global weather forecasts.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="nhk-world">
     <display-name>NHK World</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a2e?location=tile&amp;imwidth=400"/>
@@ -3339,18 +3358,6 @@
     <display-name>realestate.com.au</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a2f?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="sky-news-extra" start="20250516163000 +0000" stop="20250516170000 +0000">
-    <title>C-SPAN on Sky News Extra</title>
-    <desc>Live from Washington, C-SPAN present the news and current affairs direct from Congress and the Trump administration.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61431acce4b051be50a8c906-1633992579969?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="sky-news-extra" start="20250516170000 +0000" stop="20250516180000 +0000">
-    <title>C-SPAN on Sky News Extra</title>
-    <desc>Live from Washington, C-SPAN present the news and current affairs direct from Congress and the Trump administration.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61431acce4b051be50a8c906-1633992579969?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="sky-news-extra" start="20250516180000 +0000" stop="20250516190000 +0000">
     <title>C-SPAN on Sky News Extra</title>
     <desc>Live from Washington, C-SPAN present the news and current affairs direct from Congress and the Trump administration.</desc>
@@ -3457,22 +3464,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61431acce4b051be50a8c906-1633992579969?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="sky-news-extra" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>C-SPAN on Sky News Extra</title>
+    <desc>Live from Washington, C-SPAN present the news and current affairs direct from Congress and the Trump administration.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61431acce4b051be50a8c906-1633992579969?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="sky-news-extra">
     <display-name>Sky News Election</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a30?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="sky-news-weather" start="20250516190000 +0000" stop="20250516193000 +0000">
-    <title>Australia's Weather</title>
-    <desc>News in weather, the latest forecasts for today and the week to come, plus up to date special reports on severe weather events.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/643cda45e4b05bbfe32879c0-1697503385850?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="sky-news-weather" start="20250516193000 +0000" stop="20250516200000 +0000">
-    <title>Australia's Weather</title>
-    <desc>News in weather, the latest forecasts for today and the week to come, plus up to date special reports on severe weather events.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/643cda45e4b05bbfe32879c0-1697503385850?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="sky-news-weather" start="20250516200000 +0000" stop="20250516203000 +0000">
     <title>Australia's Weather</title>
     <desc>News in weather, the latest forecasts for today and the week to come, plus up to date special reports on severe weather events.</desc>
@@ -3725,6 +3726,18 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/643cda45e4b05bbfe32879c0-1697503385850?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="sky-news-weather" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>Australia's Weather</title>
+    <desc>News in weather, the latest forecasts for today and the week to come, plus up to date special reports on severe weather events.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/643cda45e4b05bbfe32879c0-1697503385850?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="sky-news-weather" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>Australia's Weather</title>
+    <desc>News in weather, the latest forecasts for today and the week to come, plus up to date special reports on severe weather events.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/643cda45e4b05bbfe32879c0-1697503385850?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="sky-news-weather">
     <display-name>Sky News Weather</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a31?location=tile&amp;imwidth=400"/>
@@ -3873,22 +3886,16 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="sky-news-uk" start="20250517170000 +0000" stop="20250517180000 +0000">
+    <title>Sky News UK</title>
+    <desc>Britain''s award winning Sky News brings you the latest news from across the world and the UK.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="sky-news-uk">
     <display-name>Sky News UK</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a32?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="trt" start="20250516190000 +0000" stop="20250516200000 +0000">
-    <title>Newshour</title>
-    <desc>Reports the latest news from around the globe, as and when it happens; provides context and the event's impact through insightful interactions.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61481c2ce4b06f6128e15b5f-1662338211215?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="trt" start="20250516200000 +0000" stop="20250516203000 +0000">
-    <title>News</title>
-    <desc>The host presents news from various regions of Turkey along with international news and updates that are related to Turkey.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6311723be4b01347a6229e4d-1662087741001?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="trt" start="20250516203000 +0000" stop="20250516210000 +0000">
     <title>Westminster Watch</title>
     <desc>Nick de Bois presents a power-packed dose of insightful conversations with politicians as they discuss the twists and turns of the week's top stories.</desc>
@@ -4139,22 +4146,22 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/653847b6e4b0372b0cc5d282-1698187217361?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="trt" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>News</title>
+    <desc>The host presents news from various regions of Turkey along with international news and updates that are related to Turkey.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6311723be4b01347a6229e4d-1662087741001?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="trt" start="20250517173000 +0000" stop="20250517180000 +0000">
+    <title>Africa Matters</title>
+    <desc>Covering the untold and under-reported stories from across the continent of Africa while discussing the issues that matter to Africans.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/631170cee4b03a611dd2f0e0-1662087376459?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="trt">
     <display-name>TRT</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a35?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="times-now" start="20250516190000 +0000" stop="20250516193000 +0000">
-    <title>India Upfront</title>
-    <desc>A deep dive into the latest social, economic, and political issues from across India, including major news stories.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="times-now" start="20250516193000 +0000" stop="20250516200000 +0000">
-    <title>The Newshour First</title>
-    <desc>Hosts, along with their correspondents, present important happenings that affect people in numerous ways.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="times-now" start="20250516200000 +0000" stop="20250516203000 +0000">
     <title>The Newshour First</title>
     <desc>Hosts, along with their correspondents, present important happenings that affect people in numerous ways.</desc>
@@ -4403,21 +4410,20 @@
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/619b114ee4b067f9619bd2f3-1637552469317?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
+  <programme channel="times-now" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>News Now Overnight</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="times-now" start="20250517173000 +0000" stop="20250517183000 +0000">
+    <title>News Now Overnight</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
   <channel id="times-now">
     <display-name>Times Now</display-name>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/66aab98fe4b028a906966a36?location=tile&amp;imwidth=400"/>
   </channel>
-  <programme channel="usa-today" start="20250516193000 +0000" stop="20250516200000 +0000">
-    <title>Alive &amp; Well</title>
-    <desc>Host Michelle Harris examines healthy living and alternative medicines.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/63e9b274e4b0c4279b405d09-1676259963482?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="usa-today" start="20250516200000 +0000" stop="20250516201500 +0000">
-    <title>Highlighting the Best of Women in Sports</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="usa-today" start="20250516203000 +0000" stop="20250516210000 +0000">
     <title>IndyStar - Slasher: How detectives solved a nearly 50-year</title>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
@@ -4583,6 +4589,16 @@
     <title>USA Today</title>
     <desc>USA TODAY delivers current national and local news, sports, entertainment, finance, technology, and more through award-winning journalism.</desc>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/62fb0eece4b0952ad98bd7b6-1660620653593?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="usa-today" start="20250517170000 +0000" stop="20250517173000 +0000">
+    <title>USA TODAY Trending News</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="usa-today" start="20250517173000 +0000" stop="20250517174500 +0000">
+    <title>Highlighting the Best of Women in Sports</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
   <channel id="usa-today">

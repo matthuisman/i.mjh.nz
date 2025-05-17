@@ -17,18 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250517033323 +0000" stop="20250517042748 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Toby Price: Ridin’ Shotgun</title>
-    <sub-title lang="en">Finke Desert Race 2021</sub-title>
-    <desc lang="en">Six-time winner on two-wheels, three-time DNF on four: can Toby Price make the start line and finally shake his demons to become the undisputed king of the Australian desert at the Finke Desert Race?</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:films:f88c5b3e-7dbd-4a7d-8382-9b43931f380c/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/toby-price-ridin-shotgun</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:f88c5b3e-7dbd-4a7d-8382-9b43931f380c</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</series-desc>
-  </programme>
   <programme start="20250517042748 +0000" stop="20250517050834 +0000" channel="mjh-redbull-tv">
     <title lang="en">True to This</title>
     <sub-title lang="en">Volcom's cultural journey of revolutionising board sports</sub-title>
@@ -320,78 +308,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Koa Smith goes on a South African surf adventure, where waves (or lack thereof) lead to profound discoveries.</series-desc>
-  </programme>
-  <programme start="20250517040000 +0000" stop="20250517043000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1842415392</episode-num>
-    <episode-num system="freeviewnz.tv">episode/72dcd7f3-f496-4c8d-9e18-32dccfac5619</episode-num>
-    <episode-num system="original-air-date">2025-05-17 16:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250517043000 +0000" stop="20250517050000 +0000" channel="mjh-al-jazeera">
-    <title>UpFront</title>
-    <sub-title>UpFront</sub-title>
-    <desc>Marc Lamont Hill discusses Western hypocrisy on Gaza and how people will look back on this period in the future with journalist and author Omar El Akkad.</desc>
-    <date>2025</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/306815-1.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">55384356</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7e63b905-e765-410a-a819-e696ea42248b</episode-num>
-    <episode-num system="dd_seriesid">27700925</episode-num>
-    <episode-num system="freeviewnz.tv">season/34dc9687-b675-4a33-96e1-7bd8ca27c0fc</episode-num>
-    <episode-num system="freeviewnz.tv">show/cc09789e-82e3-4d7c-92f5-9e7a6fc391bf</episode-num>
-    <episode-num system="original-air-date">2025-05-17 07:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/70246</episode-num>
-    <episode-num system="thetvdb.com">series/306815</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>With the thrust and parry of rigorous debate, Mehdi Hasan cuts through the headlines to challenge conventional wisdom, highlight contradictions and uncover double standards.</series-desc>
   </programme>
   <programme start="20250517050000 +0000" stop="20250517053000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10731,24 +10647,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250517040000 +0000" stop="20250517043000 +0000">
-    <title>Asia Now</title>
-    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250517043000 +0000" stop="20250517050000 +0000">
-    <title>The Beauty Of Tenacity</title>
-    <desc>An exploration of the beauty of the tenacity of women as they trailblaze in their various fields of work in Singapore.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/62be7df4e4b00d8f62bcc148-1656651254354?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250517050000 +0000" stop="20250517050200 +0000">
-    <title>Headline News</title>
-    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250517050200 +0000" stop="20250517060000 +0000">
     <title>Insight</title>
     <desc>An exploration of topical issues that impact Asia and the rest of the world through in-depth investigations and reports.</desc>
@@ -10874,21 +10772,23 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61515e51e4b078d6bb789398-1632722523301?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250517040000 +0000" stop="20250517043000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250517160000 +0000" stop="20250517160300 +0000">
+    <title>Headline News</title>
+    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250517043000 +0000" stop="20250517050000 +0000">
-    <title>The Travel Show</title>
-    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250517160300 +0000" stop="20250517163000 +0000">
+    <title>CNA Correspondent</title>
+    <desc>CNA correspondents from Asia and Europe examine different current affairs, offering their take and updates from across the globe.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6152abdee4b0bbed8e932d39-1632807918821?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="mjh-channel-news-asia" start="20250517163000 +0000" stop="20250517170000 +0000">
+    <title>Money Mind</title>
+    <desc>An insight into how to make the most of finances, with tips for investors and economic, market, and trend analysis.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6142923ee4b078d6bb788b6e-1631752787128?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250517050000 +0000" stop="20250517053000 +0000">
     <title>BBC News</title>
@@ -10947,6 +10847,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250517090000 +0000" stop="20250517093000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250517093000 +0000" stop="20250517100000 +0000">
+    <title>The Interview: Yungblud: My Generation</title>
+    <desc>Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541346237_0_20240503T143215912Z_95.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250517100000 +0000" stop="20250517103000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
