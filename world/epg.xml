@@ -17,22 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250517064359 +0000" stop="20250517072835 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Inside Pro Surfing</title>
-    <sub-title lang="en">WSL Surf Abu Dhabi Pro</sub-title>
-    <desc lang="en">As the 2025 WSL Championship Tour heads to the Middle East for the Surf Abu Dhabi Pro, come backstage for a closer look at the action in and out of the water.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:1fd62542-4bd8-4abf-984f-080c5e5d7fdc/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/inside-pro-surfing-2025-e2</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:ba3a54cb-4499-4940-b5dc-2458a9227461</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2025-04-02 05:21:20</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:1fd62542-4bd8-4abf-984f-080c5e5d7fdc</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</series-desc>
-  </programme>
   <programme start="20250517072835 +0000" stop="20250517081235 +0000" channel="mjh-redbull-tv">
     <title lang="en">Inside Pro Surfing</title>
     <sub-title lang="en">WSL MEO Rip Curl Pro Portugal</sub-title>
@@ -251,40 +235,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Koa Smith goes on a South African surf adventure, where waves (or lack thereof) lead to profound discoveries.</series-desc>
-  </programme>
-  <programme start="20250517070000 +0000" stop="20250517080000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1842415398</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e18b4fda-2f51-47da-ae1d-51bcf2dbbc01</episode-num>
-    <episode-num system="original-air-date">2025-05-17 19:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250517080000 +0000" stop="20250517083000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10445,24 +10395,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250517070000 +0000" stop="20250517073000 +0000">
-    <title>Asia Now</title>
-    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250517073000 +0000" stop="20250517080000 +0000">
-    <title>Into the Vault</title>
-    <desc>Four Singaporeans go on four new missions to find answers to mysteries from the past, and uncover more unusual, surprising, even frightening chapters from Singapore’s history.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61933d3ce4b094b5ecd4f299-1637039424722?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250517080000 +0000" stop="20250517080200 +0000">
-    <title>Headline News</title>
-    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250517080200 +0000" stop="20250517090000 +0000">
     <title>Has The Internet Broken Parenting?</title>
     <desc>Indisputably, social media has disrupted the traditional contexts of parenting.</desc>
@@ -10594,21 +10526,10 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61429f07e4b0bbed8e93250e-1631764093256?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250517070000 +0000" stop="20250517073000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250517073000 +0000" stop="20250517080000 +0000">
-    <title>Inside Museums: Museum of Islamic Art, Doha</title>
-    <desc>Alastair Sooke goes on a journey of discovery to the world's most inspiring museums. He visits Doha, the capital of the Gulf state of Qatar, to explore the collections of the Museum of Islamic Art.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538440446_1_20240219T005330727Z_134.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250517190000 +0000" stop="20250517200000 +0000">
+    <title>Panda Power: Rise Of Furry Diplomats</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250517080000 +0000" stop="20250517090000 +0000">
     <title>BBC News</title>
@@ -10667,6 +10588,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250517120000 +0000" stop="20250517123000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250517123000 +0000" stop="20250517130000 +0000">
+    <title>AI Decoded</title>
+    <desc>Join our "AI Decoded" team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1154790534_0_20250413T123009784Z_95_imageprocessorclient-tvplus-linear-b76dd9bbb-9k92n.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250517130000 +0000" stop="20250517133000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
