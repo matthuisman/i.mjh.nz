@@ -17,34 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250524064410 +0000" stop="20250524072856 +0000" channel="mjh-redbull-tv">
-    <title lang="en">WSL Championship Tour 2025</title>
-    <sub-title lang="en">WSL Abu Dhabi Pro wrap show</sub-title>
-    <desc lang="en">After three days of insane action, the WSL’s first Middle Eastern event was a wild success. The commentary team break down all the storylines as Caitlin Simmers and Italo Ferreira take the crowns.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:fe6770fa-0896-47e6-8442-815b5ae023dd/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/wsl-championship-tour-surf-abu-dhabi-pro-wrap-show</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:fe6770fa-0896-47e6-8442-815b5ae023dd</episode-num>
-    <episode-num system="original-air-date">2025-04-02 03:09:00</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</series-desc>
-  </programme>
-  <programme start="20250524072856 +0000" stop="20250524075541 +0000" channel="mjh-redbull-tv">
-    <title lang="en">FIM Hard Enduro World Championship 2024</title>
-    <sub-title lang="en">Best of Bolton – Sea to Sky</sub-title>
-    <desc lang="en">Come along for the ride with our field reporter Paul Bolton as he follows our Hard Enduro riders fighting for the win from the sea to the sky in Turkey.</desc>
-    <category lang="en">Hard Enduro</category>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:70363646-93e6-4079-89ef-3c0245c0b5bc/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/fim-hard-enduro-world-championship-2024-best-of-bolton-sea-to-sky</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:70363646-93e6-4079-89ef-3c0245c0b5bc</episode-num>
-    <episode-num system="original-air-date">2025-03-31 04:59:19</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</series-desc>
-  </programme>
   <programme start="20250524075541 +0000" stop="20250524082143 +0000" channel="mjh-redbull-tv">
     <title lang="en">Toyota Porto Extreme XL Lagares 2019</title>
     <sub-title lang="en">Extreme XL Lagares recap</sub-title>
@@ -232,40 +204,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</series-desc>
-  </programme>
-  <programme start="20250524070000 +0000" stop="20250524080000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1866619021</episode-num>
-    <episode-num system="freeviewnz.tv">episode/b8d19c8a-6577-4bb9-9052-5393155559d1</episode-num>
-    <episode-num system="original-air-date">2025-05-24 19:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250524080000 +0000" stop="20250524083000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -9958,24 +9896,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250524070000 +0000" stop="20250524073000 +0000">
-    <title>Asia Now</title>
-    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250524073000 +0000" stop="20250524080000 +0000">
-    <title>Into the Vault</title>
-    <desc>Four Singaporeans go on four new missions to find answers to mysteries from the past, and uncover more unusual, surprising, even frightening chapters from Singapore’s history.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61933d3ce4b094b5ecd4f299-1637039424722?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20250524080000 +0000" stop="20250524080200 +0000">
-    <title>Headline News</title>
-    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250524080200 +0000" stop="20250524090000 +0000">
     <title>The Peacemakers</title>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
@@ -10106,21 +10026,10 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61429f07e4b0bbed8e93250e-1631764093256?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250524070000 +0000" stop="20250524073000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250524073000 +0000" stop="20250524080000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250524190000 +0000" stop="20250524200000 +0000">
+    <title>Secret Lives of Live-Streamers</title>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250524080000 +0000" stop="20250524090000 +0000">
     <title>BBC News</title>
@@ -10179,6 +10088,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250524120000 +0000" stop="20250524123000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250524123000 +0000" stop="20250524130000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250524130000 +0000" stop="20250524133000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
