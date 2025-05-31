@@ -17,40 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250531130000 +0000" stop="20250531140000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1888495319</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a24758e7-f582-45ff-87c0-8b0c5fc1b930</episode-num>
-    <episode-num system="original-air-date">2025-06-01 01:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
   <programme start="20250531140000 +0000" stop="20250531143000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
     <sub-title>News Live</sub-title>
@@ -9910,11 +9876,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250531130200 +0000" stop="20250531140000 +0000">
-    <title>Taste of the Times</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250531140000 +0000" stop="20250531143000 +0000">
     <title>Singapore Tonight</title>
     <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
@@ -10034,21 +9995,17 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61933d3ce4b094b5ecd4f299-1637039424722?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250531130000 +0000" stop="20250531133000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250601010000 +0000" stop="20250601013000 +0000">
+    <title>Asia Now</title>
+    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250531133000 +0000" stop="20250531140000 +0000">
-    <title>The Security Brief</title>
-    <desc>Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1331003052_0_20250515T092710560Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-ddgfn.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250601013000 +0000" stop="20250601020000 +0000">
+    <title>Tender Loving Food</title>
+    <desc>You're Invited! Italy. Malaysia. Singapore. Pizza, Pineapple tarts &amp; Cinnamon rolls. Stressed is desserts spelt backwards!</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61fb49bae4b0d60e9704fc59-1643858365067?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250531140000 +0000" stop="20250531143000 +0000">
     <title>BBC News</title>
@@ -10107,6 +10064,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250531180000 +0000" stop="20250531183000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250531183000 +0000" stop="20250531190000 +0000">
+    <title>Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250531190000 +0000" stop="20250531193000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
