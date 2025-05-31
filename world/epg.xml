@@ -17,20 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250531205727 +0000" stop="20250531212349 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Mercedes-Benz UCI Mountain Bike World Cup 2022</title>
-    <sub-title lang="en">DH recap show – Lenzerheide </sub-title>
-    <desc lang="en">Enjoy a full recap of all the downhill from action Lenzerheide, Switzerland, the halfway point of the UCI Mountain Bike World Cup 2022, as Rachel Atherton returned to action after a three-year hiatus.</desc>
-    <category lang="en">Mountain Bike Downhill</category>
-    <icon src="https://resources.redbull.tv/rrn:content:recap-videos:92493795-9dad-4998-8680-b63c6dc89b83/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/recap-videos/uci-mountain-bike-world-cup-2022-lenzerheide-dh-recap-show</url>
-    <episode-num system="redbull.com">episode/rrn:content:recap-videos:92493795-9dad-4998-8680-b63c6dc89b83</episode-num>
-    <episode-num system="original-air-date">2025-04-22 19:44:06</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Catch up on all the DH action from Lenzerheide, the halfway point of the UCI Mountain Bike World Cup 2022.</series-desc>
-  </programme>
   <programme start="20250531212349 +0000" stop="20250531221559 +0000" channel="mjh-redbull-tv">
     <title lang="en">FIA World Rally-Raid Championship</title>
     <sub-title lang="en">Abu Dhabi Desert Challenge 2024 highlights</sub-title>
@@ -132,40 +118,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</series-desc>
-  </programme>
-  <programme start="20250531210000 +0000" stop="20250531220000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1888495332</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2ecced4d-a0b4-43e1-9d63-dc5a0e9ba40e</episode-num>
-    <episode-num system="original-air-date">2025-06-01 09:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250531220000 +0000" stop="20250531223000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10999,11 +10951,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250531210000 +0000" stop="20250531220000 +0000">
-    <title>Taste of the Times</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250531220000 +0000" stop="20250531223000 +0000">
     <title>Singapore Tonight</title>
     <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
@@ -11134,13 +11081,17 @@ We also interview the voiceless - individuals who by accident or choice find the
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250531210000 +0000" stop="20250531220000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250601090000 +0000" stop="20250601093000 +0000">
+    <title>Asia Now</title>
+    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
+  </programme>
+  <programme channel="mjh-channel-news-asia" start="20250601093000 +0000" stop="20250601100000 +0000">
+    <title>Money Mind</title>
+    <desc>An insight into how to make the most of finances, with tips for investors and economic, market, and trend analysis.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6142923ee4b078d6bb788b6e-1631752787128?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250531220000 +0000" stop="20250531223000 +0000">
     <title>BBC News</title>
@@ -11207,6 +11158,22 @@ We also interview the voiceless - individuals who by accident or choice find the
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250601020000 +0000" stop="20250601023000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250601023000 +0000" stop="20250601030000 +0000">
+    <title>The Security Brief</title>
+    <desc>Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1331003052_0_20250515T092710560Z_49_imageprocessorclient-tvplus-linear-b76dd9bbb-ddgfn.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250601030000 +0000" stop="20250601033000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
