@@ -17,81 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250607090000 +0000" stop="20250607093000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1912732428</episode-num>
-    <episode-num system="freeviewnz.tv">episode/028f5fe3-2d4a-4d4e-9aa2-13f727aeb8c1</episode-num>
-    <episode-num system="original-air-date">2025-06-07 21:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250607093000 +0000" stop="20250607100000 +0000" channel="mjh-al-jazeera">
-    <title>The Stream</title>
-    <sub-title>Space Tourism - Will Our Planet Pay The Price?</sub-title>
-    <desc>Today on The Stream: We explore how the race to conquer space will impact the world's environment.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/5c2f07c918a3b.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">55532078</episode-num>
-    <episode-num system="freeviewnz.tv">episode/8cbd421e-e5be-4eaa-9c40-37d1786cab04</episode-num>
-    <episode-num system="dd_seriesid">19302971</episode-num>
-    <episode-num system="freeviewnz.tv">season/cdb79035-0bd1-4201-9d60-3cf6a98a59ae</episode-num>
-    <episode-num system="freeviewnz.tv">show/dda3df77-4170-4805-bb5f-00ddb86a379e</episode-num>
-    <episode-num system="original-air-date">2025-06-06 16:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/39162</episode-num>
-    <episode-num system="thetvdb.com">series/280050</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>The Stream is a daily television programme on Al Jazeera English. It is branded as a “Web community With a Global TV show”. On television and online The Stream taps into the extraordinary potential of social media to disseminate news. The Stream is an aggregator of online sources and discussion, seeking out unheard voices, new perspectives from people on the ground and untold angles related to the most compelling stories of the day.
-
-Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher replaced them as the new presenter. On June 25, 2012, the Stream was relaunched with a new studio and opening graphics. Femi Oke replaced Fletcher when Fletcher was picked to host a version of The Stream on Al Jazeera America.</series-desc>
-  </programme>
   <programme start="20250607100000 +0000" stop="20250607110000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <sub-title>Newshour</sub-title>
@@ -10148,22 +10073,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250607090000 +0000" stop="20250607093000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250607093000 +0000" stop="20250607100000 +0000">
-    <title>The Interview</title>
-    <desc>The host interviews influential figures from different fields and asks questions about a wide range of topics.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541346237_0_20240503T143215912Z_95.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250607100000 +0000" stop="20250607103000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -10229,6 +10138,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250607140000 +0000" stop="20250607143000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250607143000 +0000" stop="20250607150000 +0000">
+    <title>The Media Show</title>
+    <desc>Journalists shed light on global affairs and analyze the ways media organizations present controversial topics and social issues.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_539710551_0_20240321T182946471Z_24.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250607150000 +0000" stop="20250607153000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
