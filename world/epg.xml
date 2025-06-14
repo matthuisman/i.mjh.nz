@@ -17,78 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250614140000 +0000" stop="20250614143000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1936004402</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2d989a88-5307-47fe-a16e-7d2d1d97ec6b</episode-num>
-    <episode-num system="original-air-date">2025-06-15 02:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250614143000 +0000" stop="20250614150000 +0000" channel="mjh-al-jazeera">
-    <title>UpFront</title>
-    <sub-title>UpFront</sub-title>
-    <desc>Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
-    <date>2025</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/306815-1.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">55575180</episode-num>
-    <episode-num system="freeviewnz.tv">episode/6910b85b-5b56-45cd-8293-430ef0375673</episode-num>
-    <episode-num system="dd_seriesid">27700925</episode-num>
-    <episode-num system="freeviewnz.tv">season/34dc9687-b675-4a33-96e1-7bd8ca27c0fc</episode-num>
-    <episode-num system="freeviewnz.tv">show/cc09789e-82e3-4d7c-92f5-9e7a6fc391bf</episode-num>
-    <episode-num system="original-air-date">2025-06-14 16:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/70246</episode-num>
-    <episode-num system="thetvdb.com">series/306815</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>With the thrust and parry of rigorous debate, Mehdi Hasan cuts through the headlines to challenge conventional wisdom, highlight contradictions and uncover double standards.</series-desc>
-  </programme>
   <programme start="20250614150000 +0000" stop="20250614160000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <sub-title>Newshour</sub-title>
@@ -9908,22 +9836,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250614140000 +0000" stop="20250614143000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250614143000 +0000" stop="20250614150000 +0000">
-    <title>The Media Show</title>
-    <desc>Journalists shed light on global affairs and analyze the ways media organizations present controversial topics and social issues.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_539710551_0_20240321T182946471Z_24.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250614150000 +0000" stop="20250614153000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -9981,6 +9893,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250614190000 +0000" stop="20250614193000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250614193000 +0000" stop="20250614200000 +0000">
+    <title>The Travel Show</title>
+    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250614200000 +0000" stop="20250614210000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
