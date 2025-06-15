@@ -17,21 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250615174722 +0000" stop="20250615183212 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Red Bull Soapbox Race</title>
-    <sub-title lang="en">São Paulo, Brazil</sub-title>
-    <desc lang="en">The world's craziest and most creative four-wheeled race went to Brazil for intrepid teams to take on the tricky course with their homemade soapbox cars.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/red-bull-soapbox-race-2019-season-e1</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:f89d3bc8-920e-41fa-888c-ab6299d83cf6</episode-num>
-    <episode-num system="xmltv_ns">8.0.0</episode-num>
-    <episode-num system="original-air-date">2023-04-16 02:59:26</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</series-desc>
-  </programme>
   <programme start="20250615183212 +0000" stop="20250615191515 +0000" channel="mjh-redbull-tv">
     <title lang="en">Red Bull Soapbox Race</title>
     <sub-title lang="en">Cincinnati, Ohio, USA</sub-title>
@@ -634,40 +619,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</series-desc>
-  </programme>
-  <programme start="20250615180000 +0000" stop="20250615190000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1936004451</episode-num>
-    <episode-num system="freeviewnz.tv">episode/763e3d0c-369e-416c-b419-0563822b99f1</episode-num>
-    <episode-num system="original-air-date">2025-06-16 06:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250615190000 +0000" stop="20250615193000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -11700,22 +11651,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250615180000 +0000" stop="20250615183000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250615183000 +0000" stop="20250615190000 +0000">
-    <title>Ukrainecast</title>
-    <desc>The anchors provide the latest updates, interviews and analyses focused on Ukraine's situation amid the Russian invasion.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550657502_0_20241111T002600152Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250615190000 +0000" stop="20250615193000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -11773,6 +11708,22 @@ We also interview the voiceless - individuals who by accident or choice find the
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250615230000 +0000" stop="20250615233000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250615233000 +0000" stop="20250616000000 +0000">
+    <title>The Interview</title>
+    <desc>The host interviews influential figures from different fields and asks questions about a wide range of topics.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541346237_0_20240503T143215912Z_95.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250616000000 +0000" stop="20250616003000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
