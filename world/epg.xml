@@ -17,35 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250615123818 +0000" stop="20250615131254 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Red Bull Drop In Tour</title>
-    <sub-title lang="en">South America Tour</sub-title>
-    <desc lang="en">Skaters Ryan Sheckler, Jamie Foy, Torey Pudwill, Felipe Gustavo, Ryan Decenzo, Alex Sorgente, Angelo Caro, Gustavo Ribeiro, Gavin Bottger and friends rip right through Brazil, Argentina and Chile.</desc>
-    <category lang="en">Skateboard Street</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:94a86d40-5c7d-4f01-95b7-838b6c5fb48e/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/red-bull-drop-in-tour-south-america-tour</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:daaded1a-97a0-48d8-8136-a64224913a29</episode-num>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="original-air-date">2025-04-23 12:26:15</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:94a86d40-5c7d-4f01-95b7-838b6c5fb48e</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</series-desc>
-  </programme>
-  <programme start="20250615131254 +0000" stop="20250615140024 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Rolling Away</title>
-    <sub-title lang="en">Ryan Sheckler’s skate epic</sub-title>
-    <desc lang="en">Dive into the soul of skateboarding with Ryan Sheckler to discuss the importance of skate videos for passionate individuals to push boundaries, chase dreams, and carve their own paths on four wheels.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:829c4fad-7ec7-43d7-8195-211d1c139318/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/rolling-away</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:829c4fad-7ec7-43d7-8195-211d1c139318</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Pushing boundaries and defying expectations – it's all a normal part of Ryan Sheckler's epic skateboarding journey.</series-desc>
-  </programme>
   <programme start="20250615140024 +0000" stop="20250615142101 +0000" channel="mjh-redbull-tv">
     <title lang="en">Leticia Pushes Mzansi</title>
     <sub-title lang="en">Meet the ladies of South Africa's skate scene</sub-title>
@@ -606,40 +577,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Riders dug deep for the final event of the 2020 UCI Mountain Bike World Cup season in Lousã, Portugal.</series-desc>
-  </programme>
-  <programme start="20250615130000 +0000" stop="20250615140000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1936004443</episode-num>
-    <episode-num system="freeviewnz.tv">episode/ae5854c6-ae22-46c6-9e70-2a0d22a935b5</episode-num>
-    <episode-num system="original-air-date">2025-06-16 01:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250615140000 +0000" stop="20250615143000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10534,22 +10471,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250615130000 +0000" stop="20250615133000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250615133000 +0000" stop="20250615140000 +0000">
-    <title>Tech Now</title>
-    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250615140000 +0000" stop="20250615143000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -10607,6 +10528,22 @@ We also interview the voiceless - individuals who by accident or choice find the
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250615180000 +0000" stop="20250615183000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250615183000 +0000" stop="20250615190000 +0000">
+    <title>Ukrainecast</title>
+    <desc>The anchors provide the latest updates, interviews and analyses focused on Ukraine's situation amid the Russian invasion.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550657502_0_20241111T002600152Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250615190000 +0000" stop="20250615193000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
