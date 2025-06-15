@@ -17,21 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250615170416 +0000" stop="20250615174722 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Red Bull Soapbox Race</title>
-    <sub-title lang="en">Seattle, USA</sub-title>
-    <desc lang="en">Brave teams send their homemade soapbox racers down the steepest course in Red Bull Soapbox history. In front of 40,000 fans, the teams will also have to raise the bar in creativity and showmanship.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/seattle-united-states-red-bull-soapbox-race-s02-e03</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:c8e59546-06ad-5dba-915b-7eaa70edc417</episode-num>
-    <episode-num system="xmltv_ns">4.2.0</episode-num>
-    <episode-num system="original-air-date">2025-05-06 23:14:34</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:c33fbeb3-ea37-521f-bac7-0444657fc0ff</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">This stop features the steepest course in soapbox history and the return of a fan-favourite obstacle. </series-desc>
-  </programme>
   <programme start="20250615174722 +0000" stop="20250615183212 +0000" channel="mjh-redbull-tv">
     <title lang="en">Red Bull Soapbox Race</title>
     <sub-title lang="en">São Paulo, Brazil</sub-title>
@@ -649,79 +634,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</series-desc>
-  </programme>
-  <programme start="20250615170000 +0000" stop="20250615173000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1936004449</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7c42ca07-900e-44bc-96d8-8c4a04a8c931</episode-num>
-    <episode-num system="original-air-date">2025-06-16 05:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250615173000 +0000" stop="20250615180000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg" width="480" height="640"/>
-    <episode-num system="dd_progid">55575185</episode-num>
-    <episode-num system="freeviewnz.tv">episode/b80319ad-bc74-442d-a074-1b5462b09d9a</episode-num>
-    <episode-num system="xmltv_ns">0.1000.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2025-06-16 05:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
   </programme>
   <programme start="20250615180000 +0000" stop="20250615190000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
@@ -11788,22 +11700,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250615170000 +0000" stop="20250615173000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250615173000 +0000" stop="20250615180000 +0000">
-    <title>Talking Business</title>
-    <desc>The host sits down with experts to shed light on various issues from the business world and interviews them on the latest innovations in technology.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338642_2_20240215T220844317Z_85.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250615180000 +0000" stop="20250615183000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -11861,6 +11757,22 @@ We also interview the voiceless - individuals who by accident or choice find the
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250615220000 +0000" stop="20250615223000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250615223000 +0000" stop="20250615230000 +0000">
+    <title>Ukrainecast</title>
+    <desc>The anchors provide the latest updates, interviews and analyses focused on Ukraine's situation amid the Russian invasion.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550657502_0_20241111T002600152Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250615230000 +0000" stop="20250615233000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
