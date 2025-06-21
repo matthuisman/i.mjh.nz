@@ -17,76 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250621190000 +0000" stop="20250621193000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1961429999</episode-num>
-    <episode-num system="freeviewnz.tv">episode/22386122-b1f2-4082-8be0-bc7c5dd1c3e4</episode-num>
-    <episode-num system="original-air-date">2025-06-22 07:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250621193000 +0000" stop="20250621200000 +0000" channel="mjh-al-jazeera">
-    <title>Talk to Al Jazeera</title>
-    <sub-title>Mariano Grossi</sub-title>
-    <desc>As the Israel-Iran conflict escalates, the IAEA chief discusses whether the global system is failing to prevent nuclear war and uphold non-proliferation.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>Discussion, Interview, Debate</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/261793-1.jpg"/>
-    <episode-num system="dd_progid">55794599</episode-num>
-    <episode-num system="freeviewnz.tv">episode/9830845b-01b4-423f-8f0a-299099077d39</episode-num>
-    <episode-num system="dd_seriesid">15422837</episode-num>
-    <episode-num system="freeviewnz.tv">season/3cac4093-082b-4796-b000-f892d22233e9</episode-num>
-    <episode-num system="freeviewnz.tv">show/c928a536-eb5e-4f0b-b2f6-5167ce60a286</episode-num>
-    <episode-num system="original-air-date">2025-06-22 07:30:00</episode-num>
-    <episode-num system="thetvdb.com">series/261793</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>Al Jazeera’s flagship interview show. A weekly one-on-one conversation with global leaders, icons, influencers, and alternative voices shaping our times.
-
-We also interview the voiceless - individuals who by accident or choice find themselves in extraordinary events. On Talk to Al Jazeera - In the Field</series-desc>
-  </programme>
   <programme start="20250621200000 +0000" stop="20250621203000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
     <sub-title>News Live</sub-title>
@@ -11074,22 +11004,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250621190000 +0000" stop="20250621193000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250621193000 +0000" stop="20250621200000 +0000">
-    <title>The Travel Show</title>
-    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250621200000 +0000" stop="20250621210000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -11123,6 +11037,38 @@ We also interview the voiceless - individuals who by accident or choice find the
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250621230000 +0000" stop="20250621233000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250621233000 +0000" stop="20250622000000 +0000">
+    <title>The Media Show</title>
+    <desc>Journalists shed light on global affairs and analyze the ways media organizations present controversial topics and social issues.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_539710551_0_20240321T182946471Z_24.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250622000000 +0000" stop="20250622003000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250622003000 +0000" stop="20250622010000 +0000">
+    <title>Talking Movies: Tribeca Festival</title>
+    <desc>Talking Movies reports from New York's Tribeca Festival and sits down with Tribeca Co-Founder, and acting legend, Robert De Niro.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338448_0_20240215T220849262Z_140.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250622010000 +0000" stop="20250622013000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
