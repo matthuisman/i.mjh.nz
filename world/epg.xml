@@ -17,21 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250629173337 +0000" stop="20250629181348 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Reel Rock</title>
-    <sub-title lang="en">High tension</sub-title>
-    <desc lang="en">While attempting a new route on Mount Everest, Ueli Steck and Simone Moro are attacked by a crowd of angry Sherpas at Camp 2. The altercation exposes a tension between climbers and Sherpas.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:eb17e649-80ed-53d9-8e33-f323efbd85ff/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/high-tension-reel-rock-s01-e11</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:9097fb63-a2d1-5c5e-a0c7-20b9cf611164</episode-num>
-    <episode-num system="xmltv_ns">0.10.0</episode-num>
-    <episode-num system="original-air-date">2025-05-26 14:56:04</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:eb17e649-80ed-53d9-8e33-f323efbd85ff</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</series-desc>
-  </programme>
   <programme start="20250629181348 +0000" stop="20250629195257 +0000" channel="mjh-redbull-tv">
     <title lang="en">Valley Uprising</title>
     <sub-title lang="en">Pushing the limits of climbing</sub-title>
@@ -44,40 +29,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</series-desc>
-  </programme>
-  <programme start="20250629180000 +0000" stop="20250629190000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1985069626</episode-num>
-    <episode-num system="freeviewnz.tv">episode/72c490f3-3bbc-4f56-aaf7-098a4caeebea</episode-num>
-    <episode-num system="original-air-date">2025-06-30 06:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250629190000 +0000" stop="20250629193000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -11203,30 +11154,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250629180000 +0000" stop="20250629183000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250629183000 +0000" stop="20250629185500 +0000">
-    <title>The Killing Call</title>
-    <desc>Three years after Punjabi hip-hop artist Sidhu Moose Wala is killed, BBC Eye investigates the murder and asks how he ended up on the wrong side of the country's most feared gang.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1572954884_0_20250626T093224966Z_120_imageprocessorclient-tvplus-linear-95576dcd4-nbrt2.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250629185500 +0000" stop="20250629190000 +0000">
-    <title>Tech Now</title>
-    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250629190000 +0000" stop="20250629193000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -11284,6 +11211,22 @@ We also interview the voiceless - individuals who by accident or choice find the
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250629230000 +0000" stop="20250629233000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250629233000 +0000" stop="20250630000000 +0000">
+    <title>Scams &amp; Scandals: Holiday Parks Exposed</title>
+    <desc>Allegations of over-charging, threats and intimidation. Just how far will some companies go to make a profit in the holiday park industry?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_544567580_4_20240712T193428966Z_86.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250630000000 +0000" stop="20250630003000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
