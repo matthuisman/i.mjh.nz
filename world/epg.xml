@@ -17,46 +17,6 @@
     <display-name>BBC News</display-name>
     <icon src="https://i.mjh.nz/.images/bbc-news.png"/>
   </channel>
-  <programme start="20250630010000 +0000" stop="20250630020000 +0000" channel="mjh-al-jazeera">
-    <title>Al Jazeera World</title>
-    <sub-title>Israel - The Yemenite Children Affair</sub-title>
-    <desc>Mystery and controversy still surround the disappearance of over 2,000 Yemenite Jewish babies after they arrived in the new state of Israel over 70 years ago.</desc>
-    <date>2024</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/qhnKPu91Re6wRtV5QxNSOHjDqf1.jpg"/>
-    <country>Qatar</country>
-    <episode-num system="dd_progid">53810133</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e9b5c472-17ef-4cac-91a8-1d6df4f613d8</episode-num>
-    <episode-num system="xmltv_ns">12.330.0</episode-num>
-    <episode-num system="dd_seriesid">18902631</episode-num>
-    <episode-num system="freeviewnz.tv">season/70800b3b-9e2a-4fb3-801e-9d2f9a2e771f</episode-num>
-    <episode-num system="freeviewnz.tv">show/7eec8b14-c0b0-4461-b593-44fdb9b166a3</episode-num>
-    <episode-num system="original-air-date">2024-10-23 01:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/205446</episode-num>
-    <episode-num system="thetvdb.com">series/269057</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
-
-English</series-desc>
-  </programme>
   <programme start="20250630020000 +0000" stop="20250630023000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
     <sub-title>News Live</sub-title>
@@ -10749,22 +10709,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250630010000 +0000" stop="20250630013000 +0000">
-    <title>Newsday</title>
-    <desc>International news from London and Singapore.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338453_2_20240215T220856973Z_18.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250630013000 +0000" stop="20250630020000 +0000">
-    <title>Ukrainecast</title>
-    <desc>The anchors provide the latest updates, interviews and analyses focused on Ukraine's situation amid the Russian invasion.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550657502_0_20241111T002600152Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20250630020000 +0000" stop="20250630023000 +0000">
     <title>Newsday</title>
     <desc>International news from London and Singapore.</desc>
@@ -10838,6 +10782,30 @@ We also interview the voiceless - individuals who by accident or choice find the
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250630060000 +0000" stop="20250630063000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250630063000 +0000" stop="20250630065500 +0000">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250630065500 +0000" stop="20250630070000 +0000">
+    <title>Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250630070000 +0000" stop="20250630073000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
