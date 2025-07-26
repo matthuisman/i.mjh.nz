@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://tvschedule.zap2it.com/" source-info-name="zap2it.com">
+	<channel id="KUAC">
+		<display-name>KUACDT</display-name>
+		<display-name>PUBLIC BROADCASTING SERVICE</display-name>
+		<display-name>9.1</display-name>
+		<icon src="http://zap2it.tmsimg.com/h3/NowShowing/44779/s32356_ll_h15_ac.png" />
+	</channel>
+	<programme start="20250726020000 -0400" stop="20250726030000 -0400" channel="KUAC">
+		<episode-num system="dd_progid">EP05206430.0011</episode-num>
+		<title lang="en">Sisi: Austrian Empress</title>
+		<desc lang="en">Season 2 - Episode 5 
+While the war poses problems for Franz, Sisi must prove herself as ruler in Vienna -- on her own. 
+TV-14 </desc>
+		<episode-num system="onscreen">S02E05</episode-num>
+		<episode-num system="xmltv_ns">1.4.</episode-num>
+		<icon src="https://zap2it.tmsimg.com/assets/p23485538_e_v10_ac.jpg" />
+		<previously-shown  />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20250726030000 -0400" stop="20250726040000 -0400" channel="KUAC">
+		<episode-num system="dd_progid">EP03003307.1798</episode-num>
+		<title lang="en">Amanpour and Company</title>
+		<desc lang="en">NEW | Season 7 - Episode 280 
+Christiane Amanpour leads discussions about world issues and interviews with global leaders. 
+STEREO | CC </desc>
+		<episode-num system="onscreen">S07E280</episode-num>
+		<episode-num system="xmltv_ns">6.279.</episode-num>
+		<icon src="https://zap2it.tmsimg.com/assets/p15694932_b_v13_ac.jpg" />
+		<new />
+	</programme>
+	<programme start="20250726040000 -0400" stop="20250726050000 -0400" channel="KUAC">
+		<episode-num system="dd_progid">EP05169847.0300</episode-num>
+		<title lang="en">PBS News Hour</title>
+		<desc lang="en">Season 52 - Episode 19 
+Co-anchors Amna Nawaz and Geoff Bennett and correspondents offer in-depth analysis of current events. 
+STEREO | CC </desc>
+		<episode-num system="onscreen">S52E19</episode-num>
+		<episode-num system="xmltv_ns">51.18.</episode-num>
+		<icon src="https://zap2it.tmsimg.com/assets/p27608822_b_v13_ac.jpg" />
+		<previously-shown  />
+	</programme>
+</tv>
