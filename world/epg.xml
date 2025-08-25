@@ -21,54 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250825172706 +0000" stop="20250825181106 +0000" channel="mjh-redbull-tv">
-    <title lang="en">WSL Championship Tour 2025</title>
-    <sub-title lang="en">WSL Bonsoy Gold Coast Pro wrap show</sub-title>
-    <desc lang="en">As Snapper Rocks makes a popular return to the Championship Tour the WSL commentators break down all the key moments from the 2025 Bonsoy Gold Coast Pro event.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:36ddfbd8-a3d3-4184-a5db-b681d1d4c274/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/wsl-championship-tour-2025-bonsoy-gold-coast-pro-wrap-show</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:36ddfbd8-a3d3-4184-a5db-b681d1d4c274</episode-num>
-    <episode-num system="original-air-date">2025-06-02 18:00:00</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">The WSL team dissect the top stories, triumphs and upsets of the 2025 Bonsoy Gold Coast Pro.</series-desc>
-  </programme>
-  <programme start="20250825180000 +0000" stop="20250825190000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">198424956</episode-num>
-    <episode-num system="freeviewnz.tv">episode/16e24c1f-0bcb-4591-a834-8d39955acb87</episode-num>
-    <episode-num system="original-air-date">2025-08-26 06:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
   <programme start="20250825190000 +0000" stop="20250825193000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
     <sub-title>News Live</sub-title>
@@ -11081,12 +11033,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250825180000 +0000" stop="20250825190000 +0000">
-    <title>Singapore Tonight</title>
-    <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cd1fe4b028d3ad594396-1632544919474?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250825190000 +0000" stop="20250825200000 +0000">
     <title>Insight</title>
     <desc>An exploration of topical issues that impact Asia and the rest of the world through in-depth investigations and reports.</desc>
@@ -11132,29 +11078,11 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250825180000 +0000" stop="20250825183000 +0000">
-    <title>The World Today with Maryam Moshiri</title>
-    <desc>Maryam Moshiri delivers the latest stories from around the world and interviews prominent figures to analyze various issues from multiple perspectives.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538529642_0_20240221T130102253Z_134.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250825183000 +0000" stop="20250825185500 +0000">
-    <title>The World Today with Maryam Moshiri</title>
-    <desc>Maryam Moshiri delivers the latest stories from around the world and interviews prominent figures to analyze various issues from multiple perspectives.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538529642_0_20240221T130102253Z_134.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250825185500 +0000" stop="20250825190000 +0000">
-    <title>Tech Now</title>
-    <desc>Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled to help with airport logistics  the musicians using AI code during live performances.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250826060000 +0000" stop="20250826080000 +0000">
+    <title>Asia Now</title>
+    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250825190000 +0000" stop="20250825193000 +0000">
     <title>The Context</title>
@@ -11228,22 +11156,21 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250825180000 +0000" stop="20250825183000 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250825233000 +0000" stop="20250826000000 +0000">
+    <title>Newscast</title>
+    <desc>Political coverage and analysis with the Brexitcast team.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1313880084_0_20250512T082812326Z_29_imageprocessorclient-tvplus-linear-b76dd9bbb-fgxfq.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250825183000 +0000" stop="20250825190000 +0000">
-    <title>Close up</title>
-    <desc>The weekly half-hour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886950_0_20241126T122304995Z_43_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20250825190000 +0000" stop="20250825190200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250826000000 +0000" stop="20250826003000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250825190200 +0000" stop="20250825193000 +0000">
     <title>Afrimaxx</title>
@@ -11303,5 +11230,26 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250825231500 +0000" stop="20250825233000 +0000">
+    <title>Business Beyond</title>
+    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_564930907_0_20250109T021603081Z_73_imageprocessorclient-tvplus-linear-7cd5d896cc-sbnsg.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250825233000 +0000" stop="20250826000000 +0000">
+    <title>Close up</title>
+    <desc>The weekly half-hour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886950_0_20241126T122304995Z_43_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250826000000 +0000" stop="20250826000200 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250826000200 +0000" stop="20250826003000 +0000">
+    <title>The Day</title>
+    <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886845_0_20241126T122304742Z_55_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
