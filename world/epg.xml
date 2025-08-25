@@ -21,40 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250825130000 +0000" stop="20250825140000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">198424948</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7af3027a-65ff-491a-92c5-e34cfa5c3b91</episode-num>
-    <episode-num system="original-air-date">2025-08-26 01:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
   <programme start="20250825140000 +0000" stop="20250825143000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
     <sub-title>News Live</sub-title>
@@ -9934,11 +9900,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250825130000 +0000" stop="20250825140000 +0000">
-    <title>Singapore''s Balancing Act: Trade-Offs Of A City-State</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250825140000 +0000" stop="20250825150000 +0000">
     <title>Singapore Tonight</title>
     <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
@@ -10001,32 +9962,6 @@ We also interview the voiceless - individuals who by accident or choice find the
     <desc>Top stories, market updates, and business intel from across the region to prepare Asia for the day ahead.</desc>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/614327d8e4b06f6128e158b6-1631791085698?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250825130000 +0000" stop="20250825133000 +0000">
-    <title>BBC News</title>
-    <sub-title>Now</sub-title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338647_0_20240215T220853691Z_24.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250825133000 +0000" stop="20250825134500 +0000">
-    <title>Business Today USA</title>
-    <desc>The latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541136813_0_20240429T032200315Z_108.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250825134500 +0000" stop="20250825140000 +0000">
-    <title>BBC News</title>
-    <sub-title>Now</sub-title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338647_0_20240215T220853691Z_24.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20250825140000 +0000" stop="20250825143000 +0000">
     <title>Verified Live</title>
@@ -10116,21 +10051,29 @@ We also interview the voiceless - individuals who by accident or choice find the
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250825130000 +0000" stop="20250825131500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250825183000 +0000" stop="20250825185500 +0000">
+    <title>The World Today with Maryam Moshiri</title>
+    <desc>Maryam Moshiri delivers the latest stories from around the world and interviews prominent figures to analyze various issues from multiple perspectives.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538529642_0_20240221T130102253Z_134.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250825131500 +0000" stop="20250825133000 +0000">
-    <title>Business Beyond</title>
-    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_564930907_0_20250109T021603081Z_73_imageprocessorclient-tvplus-linear-7cd5d896cc-sbnsg.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250825185500 +0000" stop="20250825190000 +0000">
+    <title>Tech Now</title>
+    <desc>Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled to help with airport logistics  the musicians using AI code during live performances.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250825133000 +0000" stop="20250825140000 +0000">
-    <title>The 77 Percent</title>
-    <desc>77 percent of Africans are younger than 35. These are the people who will shape the continent's future. DW's TV magazine The 77 Percent gives Africa's youth a platform for debate, information and inspiration.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887004_0_20241126T122304738Z_60_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250825190000 +0000" stop="20250825193000 +0000">
+    <title>The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1061528935_0_20250326T222343931Z_48_imageprocessorclient-tvplus-linear-b76dd9bbb-vg5j4.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250825140000 +0000" stop="20250825143000 +0000">
     <title>DW</title>
@@ -10186,5 +10129,21 @@ We also interview the voiceless - individuals who by accident or choice find the
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250825183000 +0000" stop="20250825190000 +0000">
+    <title>Close up</title>
+    <desc>The weekly half-hour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886950_0_20241126T122304995Z_43_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250825190000 +0000" stop="20250825190200 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250825190200 +0000" stop="20250825193000 +0000">
+    <title>Afrimaxx</title>
+    <desc>Afrimaxx celebrates the contemporary lifestyle of sub-Saharan Africa. The weekly lifestyle magazine seeks out the continent's innovation and inspiration across the spectrum – from fashion and interior design to architecture, arts, food and travel.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886852_0_20241126T122257327Z_29_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
