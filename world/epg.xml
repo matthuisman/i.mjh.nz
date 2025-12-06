@@ -17,19 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20251206125541 +0000" stop="20251206133826 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Paved</title>
-    <sub-title lang="en">An unfiltered snow odyssey two years in the making</sub-title>
-    <desc lang="en">Part history lesson, part hangout, part backcountry odyssey, Paved – a Burton and Red Bull Media House co-production – celebrates the passion and soul of snowboarding in raw, wry and light-hearted style.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:518d59a1-abe6-47df-ad17-6f71d0ef7a0b/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/paved</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:518d59a1-abe6-47df-ad17-6f71d0ef7a0b</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Experience the joy as snowboarding’s elite push boundaries and chase podium dreams ahead of the 2026 season.</series-desc>
-  </programme>
   <programme start="20251206133826 +0000" stop="20251206144648 +0000" channel="mjh-redbull-tv">
     <title lang="en">Pressure Drop</title>
     <sub-title lang="en">Born from a dream, this is TGR’s 30th annual film</sub-title>
@@ -80,40 +67,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en"/>
-  </programme>
-  <programme start="20251206130000 +0000" stop="20251206140000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">551448730</episode-num>
-    <episode-num system="freeviewnz.tv">episode/3689e5bd-0b42-4660-ad1b-0da4693d1a19</episode-num>
-    <episode-num system="original-air-date">2025-12-07 02:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20251206140000 +0000" stop="20251206143000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -9925,11 +9878,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20251206130200 +0000" stop="20251206140000 +0000">
-    <title>Inside The Great ATM Heist</title>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20251206140000 +0000" stop="20251206143000 +0000">
     <title>Singapore Tonight</title>
     <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
@@ -10055,16 +10003,17 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/62a82d9ce4b017db32c07fec-1655188897971?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-dw-news" start="20251206130000 +0000" stop="20251206131500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-channel-news-asia" start="20251207010000 +0000" stop="20251207013000 +0000">
+    <title>Asia Now</title>
+    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-dw-news" start="20251206131500 +0000" stop="20251206140000 +0000">
-    <title>DocFilm</title>
-    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-channel-news-asia" start="20251207013000 +0000" stop="20251207020000 +0000">
+    <title>Talking Point</title>
+    <desc>Investigations of contemporary issues and events, offering a range of perspectives on stories and how they affect people.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614936cae4b051be50a8ccac-1632281359110?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-dw-news" start="20251206140000 +0000" stop="20251206141500 +0000">
     <title>DW</title>
@@ -10141,5 +10090,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <title>Reporter</title>
     <desc>DW's on-the-ground reporters are always close to the action. They report on the changes they see taking place in Germany, Europe and around the world.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886843_0_20241126T122304485Z_104_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206183000 +0000" stop="20251206190000 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>DW News Africa: our daily look at the people and stories beyond the headlines in Africa, with reports from our correspondents across the region.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206190000 +0000" stop="20251206191500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206191500 +0000" stop="20251206200000 +0000">
+    <title>DocFilm</title>
+    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
