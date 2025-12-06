@@ -17,19 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20251206094521 +0000" stop="20251206102724 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Chasing Winter</title>
-    <sub-title lang="en">Snowboarding's best prepare for the world stage</sub-title>
-    <desc lang="en">Join Mark McMorris and friends as they push themselves and their sport in preparation for the biggest contest season of their careers at an idyllic training camp in Switzerland.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:289c6780-f290-49b7-9365-dc01b6079525/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/chasing-winter</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:289c6780-f290-49b7-9365-dc01b6079525</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Pro snowboarder Mark McMorris and friends prepare for the upcoming high-stakes competition season.</series-desc>
-  </programme>
   <programme start="20251206102724 +0000" stop="20251206113456 +0000" channel="mjh-redbull-tv">
     <title lang="en">Yamnuska: The Ragged Edge </title>
     <sub-title lang="en">Explore the legacy of Canada's climbing icon, Mount Yamnuska</sub-title>
@@ -131,40 +118,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en"/>
-  </programme>
-  <programme start="20251206100000 +0000" stop="20251206110000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">551448726</episode-num>
-    <episode-num system="freeviewnz.tv">episode/c1a4703f-33c4-42f3-aec3-8ccbeb72063b</episode-num>
-    <episode-num system="original-air-date">2025-12-06 23:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20251206110000 +0000" stop="20251206113000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10122,24 +10075,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20251206100000 +0000" stop="20251206103000 +0000">
-    <title>Asia Now</title>
-    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20251206103000 +0000" stop="20251206110000 +0000">
-    <title>In Search of Heat</title>
-    <desc>Private chef and avid photographer Kevin Lee embarks on a journey to discover how many different cultures embrace their passionate love affair with chilli and heat.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/62a82d9ce4b017db32c07fec-1655188897971?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20251206110000 +0000" stop="20251206110200 +0000">
-    <title>Headline News</title>
-    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20251206110200 +0000" stop="20251206120000 +0000">
     <title>Japan Hour</title>
     <desc>An exploration into the different kinds of travel, food, and culture on offer in Japan, featuring lesser known destinations and meals.</desc>
@@ -10258,16 +10193,17 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-dw-news" start="20251206100000 +0000" stop="20251206101500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-channel-news-asia" start="20251206220000 +0000" stop="20251206223000 +0000">
+    <title>Singapore Tonight</title>
+    <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cd1fe4b028d3ad594396-1632544919474?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-dw-news" start="20251206101500 +0000" stop="20251206103000 +0000">
-    <title>Shift</title>
-    <desc>How is the Internet changing society – in Germany and around the world? The magazine for digital culture, issues and technology, delivered directly from blogs and boardrooms.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886807_0_20241126T122257433Z_74_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-channel-news-asia" start="20251206223000 +0000" stop="20251206230000 +0000">
+    <title>What's the Big Deal?</title>
+    <desc>You’ve heard the hype, the wild claims, the grand plans of how the next big thing like 3D-printing, tech wearables, or AI will change the way we live forever.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/63cf0a7ce4b0bdfa8a75ca92-1674513302293?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-dw-news" start="20251206103000 +0000" stop="20251206120000 +0000">
     <title>DocFilm</title>
@@ -10327,5 +10263,21 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <title>Interview</title>
     <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206153000 +0000" stop="20251206160000 +0000">
+    <title>Euromaxx</title>
+    <desc>Europe in all its facets: the countries and cultures, the everyday and the exceptional, the gossip and the glamour.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491114660_0_20240502T102114688Z_104.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206160000 +0000" stop="20251206161500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206161500 +0000" stop="20251206163000 +0000">
+    <title>Sports Life</title>
+    <desc>Everything we know about life can be found in sports: Success and failure, euphoria and despair. Sports Life tells stories from across the globe, where sport drives personal growth and changes lives.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886880_0_20241126T122257217Z_60_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
