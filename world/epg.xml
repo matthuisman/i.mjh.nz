@@ -17,21 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20251206065200 +0000" stop="20251206071836 +0000" channel="mjh-redbull-tv">
-    <title lang="en">For Reals</title>
-    <sub-title lang="en">From F1 soapbox racing to breaking world records</sub-title>
-    <desc lang="en">Breaking world records – it's all in a day's work for Red Bull athletes! See Felix Baumgartner jump from space, 65 women skydive together and one BMXer conquer the globe's biggest full loop.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:28251908-2cc8-489f-9bb6-9b563abaa72d/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/for-reals-s1-e2</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:90e91a7d-74bb-42b7-b9b3-078865d7b451</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2024-10-20 23:20:52</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:28251908-2cc8-489f-9bb6-9b563abaa72d</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</series-desc>
-  </programme>
   <programme start="20251206071836 +0000" stop="20251206085047 +0000" channel="mjh-redbull-tv">
     <title lang="en">Au Revoir</title>
     <sub-title lang="en">Raph Derome's wakeboarding career</sub-title>
@@ -172,40 +157,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en"/>
-  </programme>
-  <programme start="20251206070000 +0000" stop="20251206080000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">551448721</episode-num>
-    <episode-num system="freeviewnz.tv">episode/cb9cb462-fccb-4ab0-af5c-57aa1cf8c793</episode-num>
-    <episode-num system="original-air-date">2025-12-06 20:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20251206080000 +0000" stop="20251206083000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10337,24 +10288,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20251206070000 +0000" stop="20251206073000 +0000">
-    <title>Asia Now</title>
-    <desc>Coverage of what's happening around the world and in the region, with expert analysis of all the news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20251206073000 +0000" stop="20251206080000 +0000">
-    <title>In Search of Heat</title>
-    <desc>Private chef and avid photographer Kevin Lee embarks on a journey to discover how many different cultures embrace their passionate love affair with chilli and heat.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/62a82d9ce4b017db32c07fec-1655188897971?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
-  <programme channel="mjh-channel-news-asia" start="20251206080000 +0000" stop="20251206080200 +0000">
-    <title>Headline News</title>
-    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20251206080200 +0000" stop="20251206090000 +0000">
     <title>Growing Wild</title>
     <desc>Nature enthusiasts take an intimate look at the processes that plants and animals use to grow in the wild.</desc>
@@ -10486,21 +10419,11 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/61429f07e4b0bbed8e93250e-1631764093256?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-dw-news" start="20251206070000 +0000" stop="20251206071500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20251206071500 +0000" stop="20251206073000 +0000">
-    <title>Sports Life</title>
-    <desc>Everything we know about life can be found in sports: Success and failure, euphoria and despair. Sports Life tells stories from across the globe, where sport drives personal growth and changes lives.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886880_0_20241126T122257217Z_60_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20251206073000 +0000" stop="20251206080000 +0000">
-    <title>Tomorrow Today</title>
-    <desc>Developments and trends in research: From space travel to environmental conservation, from genetic engineering to medical innovations, Tomorrow Today has the scoop on science.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886825_0_20241126T122257007Z_22_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-channel-news-asia" start="20251206190000 +0000" stop="20251206200000 +0000">
+    <title>When Titans Clash</title>
+    <desc>Investigating the historical and contemporary forces driving the conflict between the US and China, and assessing how it could develop in the future.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/615299d1e4b0bbed8e932d25-1632872786492?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-dw-news" start="20251206080000 +0000" stop="20251206081500 +0000">
     <title>DW</title>
@@ -10555,5 +10478,21 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <title>Shift</title>
     <desc>How is the Internet changing society – in Germany and around the world? The magazine for digital culture, issues and technology, delivered directly from blogs and boardrooms.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886807_0_20241126T122257433Z_74_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206123000 +0000" stop="20251206130000 +0000">
+    <title>Euromaxx</title>
+    <desc>Europe in all its facets: the countries and cultures, the everyday and the exceptional, the gossip and the glamour.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491114660_0_20240502T102114688Z_104.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206130000 +0000" stop="20251206131500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20251206131500 +0000" stop="20251206140000 +0000">
+    <title>DocFilm</title>
+    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
