@@ -17,82 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20260128160000 +0000" stop="20260128163000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">749731107</episode-num>
-    <episode-num system="freeviewnz.tv">episode/1dd0c4f4-abdf-4275-a819-4eae3a996589</episode-num>
-    <episode-num system="original-air-date">2026-01-29 05:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260128163000 +0000" stop="20260128170000 +0000" channel="mjh-al-jazeera">
-    <title>The Bottom Line</title>
-    <sub-title>The Bottom Line</sub-title>
-    <desc>Does the World Economic forum in Davos still matter in a fractured global economy?</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>Discussion, Interview, Debate</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/94C2A67A-B8C1-48DF-A299DF2CABF18B9A.jpg"/>
-    <episode-num system="dd_progid">57213516</episode-num>
-    <episode-num system="freeviewnz.tv">episode/bf790b00-2c59-48f8-bfb5-a14181b060de</episode-num>
-    <episode-num system="dd_seriesid">39152977</episode-num>
-    <episode-num system="freeviewnz.tv">season/43673052-b598-4f4b-9735-0a3c1a040556</episode-num>
-    <episode-num system="freeviewnz.tv">show/2cd33e07-87d0-43a1-af26-46e64e0ac898</episode-num>
-    <episode-num system="original-air-date">2026-01-25 11:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc860346252</episode-num>
-    <episode-num system="themoviedb.com">tv/19791</episode-num>
-    <episode-num system="thetvdb.com">series/227451</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>The Bottom Line is a business discussion programme broadcast in the UK on BBC Radio 4 and the BBC News Channel, and internationally on the BBC World Service and BBC World News. It is co-production between BBC News and The Open University.</series-desc>
-  </programme>
   <programme start="20260128170000 +0000" stop="20260128173000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
     <sub-title>News Live</sub-title>
@@ -11407,12 +11331,6 @@ Each half-hour programme features one investigative documentaries on an issue re
     </star-rating>
     <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20260128160300 +0000" stop="20260128170000 +0000">
-    <title>Asia Tonight</title>
-    <desc>Views, current affairs and headlining news from around the region, with a unique Asian perspective and expertise.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d2f4e4b0bbed8e932737-1632097030074?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20260128170000 +0000" stop="20260128180000 +0000">
     <title>The Mark of Empire: Kingdoms of the Sea</title>
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6137e4f2e4b06f6128e154f4-1631053056594?location=tile&amp;imwidth=400"/>
@@ -11477,17 +11395,6 @@ Each half-hour programme features one investigative documentaries on an issue re
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-dw-news" start="20260128160000 +0000" stop="20260128161500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260128161500 +0000" stop="20260128170000 +0000">
-    <title>DocFilm</title>
-    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
   <programme channel="mjh-dw-news" start="20260128170000 +0000" stop="20260128171500 +0000">
     <title>DW</title>
     <sub-title>News</sub-title>
@@ -11548,9 +11455,25 @@ Each half-hour programme features one investigative documentaries on an issue re
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
   </programme>
-  <programme channel="mjh-dw-news" start="20260128210200 +0000" stop="20260128211625 +0000">
+  <programme channel="mjh-dw-news" start="20260128210200 +0000" stop="20260128211500 +0000">
     <title>Planet A</title>
     <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886917_0_20241126T122304475Z_57_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260128211500 +0000" stop="20260128220000 +0000">
+    <title>DocFilm</title>
+    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260128220000 +0000" stop="20260128220200 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260128220200 +0000" stop="20260128223000 +0000">
+    <title>The Day</title>
+    <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886845_0_20241126T122304742Z_55_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
