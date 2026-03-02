@@ -17,19 +17,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20260302095635 +0000" stop="20260302105310 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Red Bull Soapbox Race: 50 Genius Designs</title>
-    <sub-title lang="en">Mayhem, crashes and creativity</sub-title>
-    <desc lang="en">Red Bull Soapbox Race: a hilarious race format in homemade motorless racecars hurtling down steep, obstacle-filled courses. Laugh along with our edit of 50 of the most genius designs from 2014-2025.</desc>
-    <category lang="en">Soapbox Race</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:69d16b4b-e32b-417e-bf66-1f5cca38c218/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/red-bull-soapbox-race-50-genius-designs</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:69d16b4b-e32b-417e-bf66-1f5cca38c218</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Laugh along with our edit of 50 of the most genius designs from the insane Red Bull Soapbox Race 2014-2025.</series-desc>
-  </programme>
   <programme start="20260302105310 +0000" stop="20260302111113 +0000" channel="mjh-redbull-tv">
     <title lang="en">Reel Rock</title>
     <sub-title lang="en">Riders on the storm – part 2</sub-title>
@@ -195,42 +182,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">The 2025 season concludes with a dramatic double-header in Japan and Saudi Arabia. Who will come out on top?</series-desc>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">880350179</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0eb6751b-eed4-487a-abed-b2e34236f329</episode-num>
-    <episode-num system="original-air-date">2026-03-02 23:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20260302110000 +0000" stop="20260302113000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10499,22 +10450,6 @@ Each half-hour programme features one investigative documentaries on an issue re
     </star-rating>
     <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
-  <programme channel="mjh-dw-news" start="20260302100200 +0000" stop="20260302101500 +0000">
-    <title>Sports Life</title>
-    <desc>Everything we know about life can be found in sports: Success and failure, euphoria and despair. Sports Life tells stories from across the globe, where sport drives personal growth and changes lives.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886880_0_20241126T122257217Z_60_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260302101500 +0000" stop="20260302110000 +0000">
-    <title>DocFilm</title>
-    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20260302110000 +0000" stop="20260302110200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
-  </programme>
   <programme channel="mjh-dw-news" start="20260302110200 +0000" stop="20260302113000 +0000">
     <title>Eco Africa</title>
     <desc>A showcase of environmental ideas from Africa and Europe. Eco Africa explores innovative solutions designed to protect our natural world and invites viewers to share their own projects and initiatives.</desc>
@@ -10582,6 +10517,17 @@ Each half-hour programme features one investigative documentaries on an issue re
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
   <programme channel="mjh-dw-news" start="20260302150000 +0000" stop="20260302153000 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260302153000 +0000" stop="20260302160000 +0000">
+    <title>Global Us</title>
+    <desc>There are eight billion of us on Earth. And we're interconnected like never before. How are we harnessing our powers of communication? Global Us scrutinizes, inspires and offers perspectives for a complex global society.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886817_0_20241126T122304737Z_22_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20260302160000 +0000" stop="20260302163000 +0000">
     <title>DW</title>
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
