@@ -282,6 +282,10 @@
     <display-name>Bondi Rescue</display-name>
     <icon src="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png"/>
   </channel>
+  <channel id="mjh-qrl-hostplus-cup-2026-fast">
+    <display-name>QRL Hostplus Cup 2026</display-name>
+    <icon src="https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png"/>
+  </channel>
   <channel id="mjh-seinfeld-fast">
     <display-name>Seinfeld</display-name>
     <icon src="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png"/>
@@ -353,10 +357,6 @@
   <channel id="mjh-bbc-food-fast">
     <display-name>BBC Food</display-name>
     <icon src="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png"/>
-  </channel>
-  <channel id="mjh-qrl-hostplus-cup-2026-fast">
-    <display-name>QRL Hostplus Cup 2026</display-name>
-    <icon src="https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png"/>
   </channel>
   <channel id="mjh-wnbl-townsville-tip-off-2026-fast">
     <display-name>WNBL Townsville Tip-off 2026</display-name>
@@ -741,19 +741,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20260913033000 +0000" stop="20260913041500 +0000" channel="mjh-abc-tas">
-    <title>Gardening Australia</title>
-    <sub-title>A Celebration of Australian Native Plants</sub-title>
-    <desc>A celebration of Australian native plants. Costa visits a garden that brings the local bush to the city, Sophie meets a family nurturing a connection to the country, and Clarence explores wattles and visits a designer's native garden.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d942431b5afe611ef613/image"/>
-    <episode-num system="SxxExx">S2026E05</episode-num>
-    <episode-num system="xmltv_ns">2025.4.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260913041500 +0000" stop="20260913051000 +0000" channel="mjh-abc-tas">
     <title>Portrait Artist of the Year Australia</title>
     <sub-title>Episode 4</sub-title>
@@ -3002,19 +2989,6 @@
     <episode-num system="SxxExx">S2026E33</episode-num>
     <episode-num system="xmltv_ns">2025.32.</episode-num>
     <episode-num system="original-air-date">2026-09-20</episode-num>
-  </programme>
-  <programme start="20260913030700 +0000" stop="20260913041500 +0000" channel="mjh-channel-9-vic">
-    <title>The Block</title>
-    <sub-title>Guest Suite Week</sub-title>
-    <desc>Cheating allegations are made against The Block's favourite tradies.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9ac304780a6714b51397/image"/>
-    <episode-num system="SxxExx">S22E23</episode-num>
-    <episode-num system="xmltv_ns">21.22.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20260913041500 +0000" stop="20260913053000 +0000" channel="mjh-channel-9-vic">
     <title>The Block</title>
@@ -7340,16 +7314,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260913022200 +0000" stop="20260913042600 +0000" channel="mjh-go-vic">
-    <title>Premier League</title>
-    <sub-title>Arsenal v Chelsea</sub-title>
-    <desc>Nine presents a replay of the 2026/27 Premier league match - Arsenal v Chelsea from Emirates Stadium.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c1b9982b952dcb2255e8/image"/>
-    <episode-num system="SxxExx">S2026E06</episode-num>
-    <episode-num system="xmltv_ns">2025.5.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-  </programme>
   <programme start="20260913042600 +0000" stop="20260913060300 +0000" channel="mjh-go-vic">
     <title>Lego Masters Australia</title>
     <sub-title>Batman</sub-title>
@@ -10064,19 +10028,6 @@
     <episode-num system="original-air-date">2026-09-19</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260913040000 +0000" stop="20260913043000 +0000" channel="mjh-life-vic">
-    <title>Mexico Life</title>
-    <sub-title>A View of the Arches in Cabo San Lucas</sub-title>
-    <desc>A Colorado couple with a young daughter ditch the cold to start a new life in Cabo San Lucas.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7c8e9b9a07f1071a818c/image"/>
-    <episode-num system="SxxExx">S03E02</episode-num>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20260913043000 +0000" stop="20260913053000 +0000" channel="mjh-life-vic">
@@ -12887,19 +12838,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260913040100 +0000" stop="20260913050100 +0000" channel="mjh-rush-vic">
-    <title>Wheeler Dealers</title>
-    <sub-title>Fiat Coupe 20 Valve Turbo</sub-title>
-    <desc>Mike and Elvis get their hands on a Fiat Coupe 20V Turbo, and sets out to increase the power output on a budget.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d644a14e20362b476f8e/image"/>
-    <episode-num system="SxxExx">S17E03</episode-num>
-    <episode-num system="xmltv_ns">16.2.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260913050100 +0000" stop="20260913053200 +0000" channel="mjh-rush-vic">
     <title>Storage Hunters</title>
     <sub-title>After Dark / After Midnight</sub-title>
@@ -15682,19 +15620,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260913033550 +0000" stop="20260913043425 +0000" channel="mjh-7two-mel">
-    <title>Better Homes And Gardens</title>
-    <sub-title>Episode 22</sub-title>
-    <desc>Joh catches up with TV chef Julie Goodwin ahead of her Dancing With The Stars appearance. Adam shows you how to build your own mini golf course. Graham meets a bunch of orchid enthusiasts.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f62466aca1e8f067d6e1/image"/>
-    <episode-num system="SxxExx">S30E22</episode-num>
-    <episode-num system="xmltv_ns">29.21.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260913043425 +0000" stop="20260913054010 +0000" channel="mjh-7two-mel">
     <title>The Yorkshire Vet</title>
     <sub-title>Episode 6 of Season 18</sub-title>
@@ -18168,32 +18093,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260913035835 +0000" stop="20260913042910 +0000" channel="mjh-7mate-mel">
-    <title>Red's Fishing Adventures</title>
-    <sub-title>Marion Bay Samson Fish</sub-title>
-    <desc>The boys head over the border to Marion Bay, South Australia to battle the wind and the mighty Samson fish.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d4ee48cef43a3029d70f/image"/>
-    <episode-num system="SxxExx">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260913042910 +0000" stop="20260913050000 +0000" channel="mjh-7mate-mel">
-    <title>Al McGlashan's Fish'n With Mates</title>
-    <sub-title>Al's Amazing Adventures</sub-title>
-    <desc>Al takes a look back at some of the best fishing spots, local and abroad, that he and his mates have experienced.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/146d14d741f93d3e6d17/image"/>
-    <episode-num system="SxxExx">S09E07</episode-num>
-    <episode-num system="xmltv_ns">8.6.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260913050000 +0000" stop="20260913060220 +0000" channel="mjh-7mate-mel">
     <title>Air Crash Investigation</title>
     <sub-title>Stealth Bomber Down</sub-title>
@@ -20419,32 +20318,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <episode-num system="SxxExx">S25E05</episode-num>
     <episode-num system="xmltv_ns">24.4.</episode-num>
     <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260913035110 +0000" stop="20260913041820 +0000" channel="mjh-7flix-mel">
-    <title>Home and Away</title>
-    <sub-title>Episode 149</sub-title>
-    <desc>Zane's anxiety spikes. Lacey lashes out. Leah doubts Marilyn's choices.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/eb302335dee8881cf63e/image"/>
-    <episode-num system="SxxExx">S39E149</episode-num>
-    <episode-num system="xmltv_ns">38.148.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260913041820 +0000" stop="20260913044545 +0000" channel="mjh-7flix-mel">
-    <title>Home and Away</title>
-    <sub-title>Episode 150</sub-title>
-    <desc>Eden wants to go home. David and Lacey lock horns. Cash is hit hard by reality.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/eb302335dee8881cf63e/image"/>
-    <episode-num system="SxxExx">S39E150</episode-num>
-    <episode-num system="xmltv_ns">38.149.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -22970,19 +22843,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <episode-num system="original-air-date">2026-09-19</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913032810 +0000" stop="20260913050012 +0000" channel="mjh-10-vic">
-    <title>The Traitors</title>
-    <sub-title>Episode 12</sub-title>
-    <desc>It all comes down to this. Trust is weaponized in the series finale as the final four scramble to assure their place as an ultimate victor. But who will take the crown?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/085b76350440caec803d/image"/>
-    <episode-num system="SxxExx">S03E12</episode-num>
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20260913050012 +0000" stop="20260913055948 +0000" channel="mjh-10-vic">
@@ -25805,19 +25665,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <episode-num system="xmltv_ns">2025.9.</episode-num>
     <episode-num system="original-air-date">2026-09-19</episode-num>
   </programme>
-  <programme start="20260913040244 +0000" stop="20260913050141 +0000" channel="mjh-10bold-vic">
-    <title>JAG</title>
-    <sub-title>Mishap</sub-title>
-    <desc>Lieutenant Elizabeth Skates Hawkes, Harm's former RIO comes under fire after the crash landing of a Tomcat aboard the USS Patrick Henry.</desc>
-    <category>Action &amp; Adventure</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3da590233f34b8a1d60a/image"/>
-    <episode-num system="SxxExx">S05E10</episode-num>
-    <episode-num system="xmltv_ns">4.9.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260913050141 +0000" stop="20260913060038 +0000" channel="mjh-10bold-vic">
     <title>JAG</title>
     <sub-title>Ghosts Of Christmas Past</sub-title>
@@ -28429,32 +28276,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <episode-num system="original-air-date">2026-09-20</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913040041 +0000" stop="20260913043012 +0000" channel="mjh-10peach-vic">
-    <title>Frasier</title>
-    <sub-title>Door Jam</sub-title>
-    <desc>Frasier and Niles become obsessed by a new day spa, first with gaining entry, then gaining access to the spa's exclusive areas.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7353f7598b7f6c41bca2/image"/>
-    <episode-num system="SxxExx">S10E11</episode-num>
-    <episode-num system="xmltv_ns">9.10.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260913043012 +0000" stop="20260913050100 +0000" channel="mjh-10peach-vic">
-    <title>Friends</title>
-    <sub-title>The One With All The Thanksgivings</sub-title>
-    <desc>The gang reminisce past terrible Thanksgiving experiences, and Chandler tells Monica that he loves her.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d3beff34b53d4e4095ff/image"/>
-    <episode-num system="SxxExx">S05E08</episode-num>
-    <episode-num system="xmltv_ns">4.7.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20260913050100 +0000" stop="20260913053042 +0000" channel="mjh-10peach-vic">
@@ -32231,45 +32052,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <episode-num system="SxxExx">S03E48</episode-num>
     <episode-num system="xmltv_ns">2.47.</episode-num>
     <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913034622 +0000" stop="20260913041125 +0000" channel="mjh-10shake-vic">
-    <title>The Patrick Star Show</title>
-    <sub-title>Late For Breakfast/bummer Jobs</sub-title>
-    <desc>Patrick presents a show about food after missing out on a hearty breakfast. // Patrick and SpongeBob experience the wonders of the workforce.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f1d4591e327bdc0b266f/image"/>
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913041125 +0000" stop="20260913043629 +0000" channel="mjh-10shake-vic">
-    <title>Avatar: The Last Airbender</title>
-    <sub-title>The Southern Raiders</sub-title>
-    <desc>Katara and Zuko journey together to find the man responsible for the death of Katara's mother, Kya, who was killed in a Southern Water Tribe raid.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0fbb1a5dce67327faa7e/image"/>
-    <episode-num system="SxxExx">S03E16</episode-num>
-    <episode-num system="xmltv_ns">2.15.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913043629 +0000" stop="20260913050151 +0000" channel="mjh-10shake-vic">
-    <title>Avatar: The Last Airbender</title>
-    <sub-title>The Ember Island Players</sub-title>
-    <desc>The gang goes to the theatre to see a play about themselves, but are not happy with the production and the inaccurate portrayals of themselves.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0fbb1a5dce67327faa7e/image"/>
-    <episode-num system="SxxExx">S03E17</episode-num>
-    <episode-num system="xmltv_ns">2.16.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -36696,25 +36478,25 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20260913035545 +0000" stop="20260913042245 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD-159_medium.jpeg"/>
-    <desc>Officers find some suspicious equipment hidden in the bags of a man travelling with his mother. An American woman says she is here to tie up some loose ends of a failed relationship but a mystery man turns up to meet her at the airport and drops a bomb shell. Narrated by GRANT BOWLER.</desc>
-    <sub-title>1.55 - 2.22pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20260913042246 +0000" stop="20260913045146 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD-160_medium.jpeg"/>
-    <desc>A woman has a major meltdown when officers find a big problem with her handbag. An elderly New Zealand traveller with a criminal record says he's turned over a new leaf but could his past still stop him from attending an important event. Then, when a box of cereal is found with suspicious contents, it might not be the best way to start the day. Narrated by GRANT BOWLER.</desc>
-    <sub-title>2.22 - 2.51pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
   <programme channel="mjh-bordersecurityaustralia-fast" start="20260913045204 +0000" stop="20260913051904 +0000">
     <title>Border Security - Australia's Front Line</title>
     <icon src="https://api.tvapi.com.au/images/BORD-161_medium.jpeg"/>
     <desc>A Canadian man has brought a few packages with him into the country and traces of drugs are detected. His highly suspicious and nervous behaviour has officers on his case. Next, a man from Ghana has arrived and officers need him to prove his relationship to an Australian is the real deal. Then, officers discover an amazing secret inside a mysterious carpet from Syria. Narrated by GRANT BOWLER.</desc>
     <sub-title>2.52 - 3.19pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20260913051904 +0000" stop="20260913054604 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD-162_medium.jpeg"/>
+    <desc>A man has arrived in the country without any clothes in his bag and only has random objects that could be the perfect hiding place for illegal goods. Bad karma lies ahead when a group of men say they are only here to worship the gods at a temple but there's evidence they have other plans for their stay in Australia. A specialised mobile unit is called in to investigate some suspicious material that has been seen on the x-ray machine. Narrated by</desc>
+    <sub-title>3.19 - 3.46pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20260913054615 +0000" stop="20260913061215 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD-163_medium.jpeg"/>
+    <desc>A body search reveals something hidden on a passenger but the concealment attempt goes horribly wrong. Then immigration officers have pulled aside an Ecuadorian national travelling on a tourist visa. The man has been to Australia before but an anonymous tip off suggests he's here for more than a holiday. Narrated by GRANT BOWLER.</desc>
+    <sub-title>3.46 - 4.12pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme start="20260913023000 +0000" stop="20260913080000 +0000" channel="mjh-racing-fast">
@@ -38598,33 +38380,26 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <episode-num system="xmltv_ns">2025.918.</episode-num>
     <episode-num system="original-air-date">2026-09-19</episode-num>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20260913034849 +0000" stop="20260913041249 +0000">
-    <title>S2 E1 - Crazy Cash</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN2-001_medium.jpeg"/>
-    <desc>It's close encounters of the strange kind when Les is presented with an item that's alleged to communicate with aliens. Then, Seth squares off with a customer who flips out when she can't get earrings out of pawn. Plus, an ex- adult film star brings in a box of his biggest hits to the shop. And, Ashley is  reduced to tears when she and Seth trade blows over a lost sale.</desc>
-    <sub-title>S2 E1 - Crazy Cash</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20260913050607 +0000" stop="20260913053207 +0000">
+    <title>S3 E1 - Whack Job</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN3-001_medium.jpeg"/>
+    <desc>A long-time customer is upset at the offer she gets on an often pawned ring. A man if forcefully ejected after the clerk refused to cheat on a sale of a chain. A man comes to pawn an array of worthless goods - and a 2002 Chevrolet Monte Carlo (which doubles as his home) and a 1906 antique telephone.</desc>
+    <sub-title>S3 E1 - Whack Job</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20260913041313 +0000" stop="20260913043913 +0000">
-    <title>S2 E2 - The Big Bet</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN2-002_medium.jpeg"/>
-    <desc>Les challenges Seth to a high stakes sales competition. As the battle heats up, Les faces his most dangerous customer yet. Will security step in or will Les throw down? Plus, Ashley goes toe-to-toe with a customer who won't take no for an answer.</desc>
-    <sub-title>S2 E2 - The Big Bet</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20260913053234 +0000" stop="20260913055834 +0000">
+    <title>S3 E2 - Hot Rods, Raging Tempers</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN3-002_medium.jpeg"/>
+    <desc>A man is late on his pawn payment and loses his television; however, he claims  that the shop mixed the dates up. A couple comes in to ask if any of their stolen goods came in. A widowed husband sells his late wife's wedding rings, except that they are broken.</desc>
+    <sub-title>S3 E2 - Hot Rods, Raging Tempers</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20260913043940 +0000" stop="20260913050540 +0000">
-    <title>S2 E3 - Storm's a-Brewin'</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN2-003_medium.jpeg"/>
-    <desc>The shop becomes a powder keg when hundreds of angry customers face hour- long lines. Plus, Les must determine if a customer is fencing stolen goods. Then , the Golds are presented with a rusty old tractor that could be worth a truckload of cash. And, Seth and Ashley's feud erupts in front of the entire staff and Les is forced to intervene.</desc>
-    <sub-title>S2 E3 - Storm's a-Brewin'</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20260913055857 +0000" stop="20260913062357 +0000">
+    <title>S3 E3 - Acid Test</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN3-003_medium.jpeg"/>
+    <desc>Seth has a problem with people pawning rings, but not reclaiming them, as well as having an inaccurate carat amount; he  has a solution, but Les doesn't like what he hears. A woman tries to pawn a ring, but gets abusive when Les refuses to pay the amount she wants. A man tries  to sell a motorcycle, but settles for a  pawn as wintertime is a bad time to sell. And finally, a couple sells a video game unit for bail money.</desc>
+    <sub-title>S3 E3 - Acid Test</sub-title>
     <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-racingwa-fast" start="20260913040000 +0000" stop="20260913050000 +0000">
-    <title>Racing WA</title>
-    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
-    <desc>Racing WA</desc>
-    <sub-title>Racing WA</sub-title>
-    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-racingwa-fast" start="20260913050000 +0000" stop="20260913060000 +0000">
     <title>Racing WA</title>
@@ -38640,12 +38415,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Racing WA</sub-title>
     <category>GENERAL</category>
   </programme>
-  <programme channel="mjh-allsaints-fast" start="20260913033139 +0000" stop="20260913042139 +0000">
-    <title>All Saints S5 Episode 6</title>
-    <icon src="https://api.tvapi.com.au/images/AST-174_medium.jpeg"/>
-    <desc>Rumours that Mitch and Terri are having an affair run wild and Mitch thinks about taking a post at another hospital.</desc>
-    <sub-title>Loose Lips</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-racingwa-fast" start="20260913070000 +0000" stop="20260913080000 +0000">
+    <title>Racing WA</title>
+    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
+    <desc>Racing WA</desc>
+    <sub-title>Racing WA</sub-title>
+    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-allsaints-fast" start="20260913042238 +0000" stop="20260913051238 +0000">
     <title>All Saints S5 Episode 7</title>
@@ -38661,12 +38436,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>All Choked Up</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-mythbusters-fast" start="20260913033138 +0000" stop="20260913042538 +0000">
-    <title>Unfinished Business</title>
-    <icon src="https://api.tvapi.com.au/images/MYTH09-010_medium.jpeg"/>
-    <desc>Adam and Jamie tackle four fan favourites – from video games to grenades, from spy cars to super-fast firearms, the Mythbusters are having a blast! </desc>
-    <sub-title>Unfinished Business</sub-title>
-    <category>SCIENCE &amp; TECHNOLOGY</category>
+  <programme channel="mjh-allsaints-fast" start="20260913060412 +0000" stop="20260913065312 +0000">
+    <title>All Saints S5 Episode 9</title>
+    <icon src="https://api.tvapi.com.au/images/AST-177_medium.jpeg"/>
+    <desc>Mitch and Rose finally make a decision, Nelson nurses a formidable ex Head Mistress, Von and Luke treat an epileptic woman, Terri and Nelson treat a young Islamic woman with hypertension.</desc>
+    <sub-title>Flaws In The Glass</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-mythbusters-fast" start="20260913042626 +0000" stop="20260913052026 +0000">
     <title>Flights of Fantasy</title>
@@ -38682,33 +38457,33 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Poop Hits the Fan / Cold Feet</sub-title>
     <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20260913034318 +0000" stop="20260913040818 +0000">
+  <programme channel="mjh-mythbusters-fast" start="20260913061614 +0000" stop="20260913070814 +0000">
+    <title>Driven To Destruction</title>
+    <icon src="https://api.tvapi.com.au/images/MYTH10-010_medium.jpeg"/>
+    <desc>Adam and Jamie destroy cars in style – one with a vacuum cleaner and the other with a massive amount of C4!</desc>
+    <sub-title>Driven To Destruction</sub-title>
+    <category>SCIENCE &amp; TECHNOLOGY</category>
+  </programme>
+  <programme channel="mjh-travelaustralia-fast" start="20260913050215 +0000" stop="20260913052815 +0000">
+    <title>Sydney Weekender</title>
+    <icon src="https://api.tvapi.com.au/images/7SWE31-023_medium.jpeg"/>
+    <desc>Gabby learns the ancient art of weaving from Tegan at Ngumpie Weaving. Sally whisks off to The Quarters Forresters Beach. Candice enjoys modern bush tucker on Dharawal land.</desc>
+    <sub-title>3.02 - 3.28pm</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
+  </programme>
+  <programme channel="mjh-travelaustralia-fast" start="20260913052830 +0000" stop="20260913055330 +0000">
     <title>Australia's Best Drives</title>
-    <icon src="https://api.tvapi.com.au/images/BDRI01-003_medium.jpeg"/>
+    <icon src="https://api.tvapi.com.au/images/BDRI01-004_medium.jpeg"/>
     <desc>Hosted by Shane Jolley, with guest appearances by Melissa Doyle, Collette Dinnigan and more, Australia's Best Drives takes you on a journey through six of our very best touring holidays.</desc>
-    <sub-title>1.43 - 2.08pm</sub-title>
+    <sub-title>3.28 - 3.53pm</sub-title>
     <category>TRAVEL</category>
   </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20260913040856 +0000" stop="20260913043556 +0000">
-    <title>Your 4x4 S6 E2</title>
-    <icon src="https://api.tvapi.com.au/images/YFBF06-002_medium.jpeg"/>
-    <desc>Watch Simon Christie and mates explore the Eyre Peninsula, South East Queensland beaches and tropical ranges in their search for the best 4x4 tracks, destinations and adventures.</desc>
-    <sub-title>2.08 - 2.35pm</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20260913043609 +0000" stop="20260913050209 +0000">
+  <programme channel="mjh-travelaustralia-fast" start="20260913055430 +0000" stop="20260913062030 +0000">
     <title>Weekender</title>
-    <icon src="https://api.tvapi.com.au/images/WEKN25-028_medium.jpeg"/>
-    <desc>Sammie is off to a popular Queensland holiday destination, doing activities you know and love and testing out new experiences, from the surf to a cliff picnic, this is Noosa like never before!</desc>
-    <sub-title>2.36 - 3.02pm</sub-title>
+    <icon src="https://api.tvapi.com.au/images/WEKN25-029_medium.jpeg"/>
+    <desc>Lee explores the latest Mater Home Prize! Al is in Logan touring his tastebuds at the Global Food Market. Sammie checks out the fun at Bluey's World and Al ends his Longreach rail adventure!</desc>
+    <sub-title>3.54 - 4.20pm</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-aircrashinvestigations-fast" start="20260913033538 +0000" stop="20260913043238 +0000">
-    <title>Air Crash Investigations</title>
-    <icon src="https://api.tvapi.com.au/images/MDAY6-003_medium.jpeg"/>
-    <desc>When pilots climb into the cockpit of a modern jetliner, they put their trust in an automated computer system that can control virtually every aspect of flight. It's a complicated relationship between man and machine and when it doesn't work perfectly, disaster can strike in an instant.</desc>
-    <sub-title>Who's Flying the Plane?</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-aircrashinvestigations-fast" start="20260913043253 +0000" stop="20260913052253 +0000">
     <title>Air Crash Investigations</title>
@@ -38724,12 +38499,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Lockerbie Disaster</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-betterhomesandgardens-fast" start="20260913033619 +0000" stop="20260913045819 +0000">
-    <title>Better Homes And Gardens</title>
-    <icon src="https://api.tvapi.com.au/images/BHAG29-008_medium.jpeg"/>
-    <desc>Joh meets music icon Harry Connick Jr, to talk about his career, working on Idol and classic southern food. Adam meets a lady in Bega with a passion for carpentry. Ed cooks Chinese salmon.</desc>
-    <sub-title>1.36 - 2.58pm</sub-title>
-    <category>HOUSE &amp; GARDEN</category>
+  <programme channel="mjh-aircrashinvestigations-fast" start="20260913061415 +0000" stop="20260913070415 +0000">
+    <title>Air Crash Investigations</title>
+    <icon src="https://api.tvapi.com.au/images/MDAY7-003_medium.jpeg"/>
+    <desc>September 8, 1989. High above the North Sea, an aging propeller plane tumbles from the sky. Investigators consider a string of possibilities; it takes two years to find the cause. It's something that's never been seen in previous investigations. It would lead to arrests half a world away and call into question the safety of one of the world's most important planes, Air Force One.</desc>
+    <sub-title>Blown Apart</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-betterhomesandgardens-fast" start="20260913045841 +0000" stop="20260913061841 +0000">
     <title>Better Homes And Gardens</title>
@@ -38745,12 +38520,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>4.19 - 5.40pm</sub-title>
     <category>HOUSE &amp; GARDEN</category>
   </programme>
-  <programme channel="mjh-cas33-fast" start="20260913035825 +0000" stop="20260913045025 +0000">
-    <title>Season 10 Ep 10</title>
-    <icon src="https://api.tvapi.com.au/images/YORK10-010_medium.jpeg"/>
-    <desc>Vets Julian Norton and Peter Wright continue to lead the programme as they introduce us to a whole range of clients and their animals of all shapes and sizes.</desc>
-    <sub-title>Season 10 Ep 10</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-betterhomesandgardens-fast" start="20260913074100 +0000" stop="20260913090100 +0000">
+    <title>Better Homes And Gardens</title>
+    <icon src="https://api.tvapi.com.au/images/BHAG30-020_medium.jpeg"/>
+    <desc>Joh catches up with celebrity chef Hayden Quinn. Juliet transforms a plain bedroom into a bright, yet cozy, soothing space. Graham visits Deepdene Forest Garden.</desc>
+    <sub-title>5.41 - 7.01pm</sub-title>
+    <category>HOUSE &amp; GARDEN</category>
   </programme>
   <programme channel="mjh-cas33-fast" start="20260913045026 +0000" stop="20260913054126 +0000">
     <title>Season 10 Ep 11</title>
@@ -38766,12 +38541,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Season 10 Ep 12</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20260913034137 +0000" stop="20260913043137 +0000">
-    <title>CSI: New York - Second Chances</title>
-    <icon src="https://api.tvapi.com.au/images/CSIY06-011_medium.jpeg"/>
-    <desc>A reformed drug addict with everything to live for is found dead in an alley. The CSI's discover he was the victim of a premeditated plot.</desc>
-    <sub-title>Second Chances</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-cas33-fast" start="20260913063237 +0000" stop="20260913072237 +0000">
+    <title>Season 10 Ep 13</title>
+    <icon src="https://api.tvapi.com.au/images/YORK10-013_medium.jpeg"/>
+    <desc>Vets Julian Norton and Peter Wright continue to lead the programme as they introduce us to a whole range of clients and their animals of all shapes and sizes.</desc>
+    <sub-title>Season 10 Ep 13</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-csicrimesceneinvestigation-fast" start="20260913043153 +0000" stop="20260913052053 +0000">
     <title>CSI: New York - Criminal Justice</title>
@@ -38787,19 +38562,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Sink Or Swim</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-mightymachines-fast" start="20260913032153 +0000" stop="20260913041453 +0000">
-    <title>Mighty Trains S1 E3</title>
-    <icon src="https://api.tvapi.com.au/images/MTRA01-003_medium.jpeg"/>
-    <desc>The Canadian is VIA Rail's iconic passenger train, which travels between Vancouver's Central Station and Toronto's Union Station on a four-day, four-night journey.</desc>
-    <sub-title>The Canadian</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
-  </programme>
-  <programme channel="mjh-mightymachines-fast" start="20260913041525 +0000" stop="20260913050825 +0000">
-    <title>Mighty Trains S1 E4</title>
-    <icon src="https://api.tvapi.com.au/images/MTRA01-004_medium.jpeg"/>
-    <desc>The White Pass and Yukon route was built in 1869 to take miners and supplies to the Klondike gold fields, and was the world's first containerized freight railway.</desc>
-    <sub-title>White Pass And Yukon</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20260913061136 +0000" stop="20260913070236 +0000">
+    <title>CSI: Miami - Divorce Party</title>
+    <icon src="https://api.tvapi.com.au/images/CSIM07-017_medium.jpeg"/>
+    <desc>The CSIs investigate the murder of a man during his ex-wife's divorce party. As the case progresses, the detectives uncover the strange tale of the victim's double life.</desc>
+    <sub-title>Divorce Party</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-mightymachines-fast" start="20260913050857 +0000" stop="20260913060057 +0000">
     <title>Mighty Cruise Ships S1 E5</title>
@@ -38808,12 +38576,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Stella Australis</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas21-fast" start="20260913034103 +0000" stop="20260913043203 +0000">
-    <title>S06 E20 - The Oldest House in Georgia</title>
-    <icon src="https://api.tvapi.com.au/images/GSHU06-020_medium.png"/>
-    <desc>The team travel to Stone Mountain, Georgia to investigate claims of paranormal activity at Thornton House.</desc>
-    <sub-title>S06 E20 - The Oldest House in Georgia</sub-title>
-    <category>ENTERTAINMENT</category>
+  <programme channel="mjh-mightymachines-fast" start="20260913060057 +0000" stop="20260913065257 +0000">
+    <title>Mighty Cruise Ships</title>
+    <icon src="https://api.tvapi.com.au/images/MCRU-006_medium.jpeg"/>
+    <desc>On this 14-day voyage aboard the Paul Cauguin, the waters come in a dozen shades of turquoise and the adventures are too numerous to count. But will a tropical storm bring some unwelcome excitement?</desc>
+    <sub-title>Paul Gauguin</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas21-fast" start="20260913043227 +0000" stop="20260913052327 +0000">
     <title>S06 E21 - Home Is Where the Haunt Is</title>
@@ -38829,12 +38597,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>S07 E19 - Stage Fright</sub-title>
     <category>ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-onthecase-fast" start="20260913033448 +0000" stop="20260913042248 +0000">
-    <title>On The Case S9 E16</title>
-    <icon src="https://api.tvapi.com.au/images/ONTC09-016_medium.jpeg"/>
-    <desc>A beloved grandmother is savagely murdered during a life and death struggle. Will a family secret be the key to bringing her heartless killer to justice?</desc>
-    <sub-title>S9 E16 - Blood Secrets</sub-title>
-    <category>DOCUMENTARY SERIES</category>
+  <programme channel="mjh-cas21-fast" start="20260913061429 +0000" stop="20260913070429 +0000">
+    <title>S07 E20 - Murdered Matron</title>
+    <icon src="https://api.tvapi.com.au/images/GSHU07-020_medium.png"/>
+    <desc>Meredith Vieira teams up with TAPS while they explore Sailors' Snug Harbor in Staten Island, New York. Currently the home of the spirit of a murdered matron.</desc>
+    <sub-title>S07 E20 - Murdered Matron</sub-title>
+    <category>ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-onthecase-fast" start="20260913042320 +0000" stop="20260913051120 +0000">
     <title>On The Case S9 E17</title>
@@ -38850,12 +38618,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>S9 E18 - She's Gone</sub-title>
     <category>DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas24-fast" start="20260913035515 +0000" stop="20260913044315 +0000">
-    <title>Bondi Vet</title>
-    <icon src="https://api.tvapi.com.au/images/BONV05-010_medium.jpeg"/>
-    <desc>Chris faces a porker of a decision as he helps a young family choose a very unusual pet – a Mini Pig.  A wrong decision could cause chaos, so Chris needs to make sure that the family is ready for the challenges of owning a little piggie.</desc>
-    <sub-title>1.55 - 2.43pm</sub-title>
-    <category>ANIMALS</category>
+  <programme channel="mjh-onthecase-fast" start="20260913060018 +0000" stop="20260913064818 +0000">
+    <title>On The Case S9 E19</title>
+    <icon src="https://api.tvapi.com.au/images/ONTC09-019_medium.jpeg"/>
+    <desc>After a four-year-old girl finds her mother's lifeless body, police must try to unravel a puzzling mystery. A murder investigation in which they must rule out multiple solid suspects before they arrive at the unlikely killer.</desc>
+    <sub-title>S9 E19 - While her children slept</sub-title>
+    <category>DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas24-fast" start="20260913044355 +0000" stop="20260913053055 +0000">
     <title>Bondi Vet</title>
@@ -38871,12 +38639,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>3.31 - 4.18pm</sub-title>
     <category>ANIMALS</category>
   </programme>
-  <programme channel="mjh-athleticsreplays-fast" start="20260913011035 +0000" stop="20260913041535 +0000">
-    <title>Day 5 Heats Session | Full Replay</title>
-    <icon src="https://api.tvapi.com.au/images/3ATH26-012_medium.jpeg"/>
-    <desc>Peter Bol hits the track for the first time as another massive day of Athletics begins in Glasgow</desc>
-    <sub-title>Day 5 Heats Session | Full Replay</sub-title>
-    <category>SPORT</category>
+  <programme channel="mjh-cas24-fast" start="20260913061900 +0000" stop="20260913070000 +0000">
+    <title>Bondi Vet</title>
+    <icon src="https://api.tvapi.com.au/images/BONV05-013_medium.jpeg"/>
+    <desc>Little Gizmo was saved from death row by Denise from PAWS rescue. The little Shih Tzu is suffering chronic ear infections, and for the last three months since his rescue, Chris and Denise have tried unsuccessfully to treat the debilitating problem. Chris is now being forced to take extreme measures or Gizmo will never be able to find a new forever home.</desc>
+    <sub-title>Relocating An Angry Alligator And Dr</sub-title>
+    <category>ANIMALS</category>
   </programme>
   <programme channel="mjh-athleticsreplays-fast" start="20260913041608 +0000" stop="20260913084008 +0000">
     <title>Day 5 Finals Session | Full Replay</title>
@@ -38892,53 +38660,46 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Finals | Day 7</sub-title>
     <category>SPORT</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20260913034843 +0000" stop="20260913041343 +0000">
-    <title>(1988) Birth - Martha Mackenzie</title>
-    <icon src="https://api.tvapi.com.au/images/HAW-169_medium.jpeg"/>
-    <desc>New grandfather Alf heads off for a break in Tahiti, while Narelle does her best to ensnare Philip with her obvious intentions.</desc>
-    <sub-title>1.48 - 2.13pm</sub-title>
-    <category>DRAMA</category>
-  </programme>
-  <programme channel="mjh-cas26-fast" start="20260913041422 +0000" stop="20260913044022 +0000">
-    <title>(1989) Wedding - Frank &amp; Bobby</title>
-    <icon src="https://api.tvapi.com.au/images/HAW-243_medium.jpeg"/>
-    <desc>Will Bobby's mother reveal herself at the wedding?</desc>
-    <sub-title>2.14 - 2.40pm</sub-title>
-    <category>DRAMA</category>
-  </programme>
-  <programme channel="mjh-cas26-fast" start="20260913044121 +0000" stop="20260913050821 +0000">
-    <title> (1989) Birth - Duncan Stewart</title>
-    <icon src="https://api.tvapi.com.au/images/HAW-328_medium.jpeg"/>
-    <desc>A traumatized Ailsa rebels against the arrival of her baby, while Alf and Tom cling desperately to life.</desc>
-    <sub-title>2.41 - 3.08pm</sub-title>
-    <category>DRAMA</category>
-  </programme>
-  <programme channel="mjh-glasgowglory-fast" start="20260913035744 +0000" stop="20260913041544 +0000">
-    <title>Women's 4000m Team Pursuit Final</title>
-    <icon src="https://api.tvapi.com.au/images/3CTR26-006_medium.jpeg"/>
-    <desc>Australia battle New Zealand with a gold medal on the line!</desc>
-    <sub-title>Women's 4000m Team Pursuit Final</sub-title>
+  <programme channel="mjh-athleticsreplays-fast" start="20260913122835 +0000" stop="20260913172135 +0000">
+    <title>Athletics: Morning Session | Day 8</title>
+    <icon src="https://api.tvapi.com.au/images/3ATH26-045_medium.jpeg"/>
+    <desc>Another day of athletics gets underway in Glasgow</desc>
+    <sub-title>Athletics: Morning Session | Day 8</sub-title>
     <category>SPORT</category>
   </programme>
-  <programme channel="mjh-glasgowglory-fast" start="20260913041641 +0000" stop="20260913044641 +0000">
-    <title>Women's C4-5 4000m Individual Pursuit Final</title>
-    <icon src="https://api.tvapi.com.au/images/3CTR26-008_medium.jpeg"/>
-    <desc>Aussie Tara Neyland races for gold in the Women's C4-5 4000m Individual Pursuit Final</desc>
-    <sub-title>Women's C4-5 4000m Individual Pursuit Final</sub-title>
+  <programme channel="mjh-cas26-fast" start="20260913050840 +0000" stop="20260913053540 +0000">
+    <title>(1990) Death - Tom Fletcher</title>
+    <icon src="https://api.tvapi.com.au/images/HAW-525_medium.jpeg"/>
+    <desc>Matt and Adam get more than they bargained for when Marilyn moves into the beach house.  A tragedy befalls the Fletcher family.</desc>
+    <sub-title>3.08 - 3.35pm</sub-title>
+    <category>DRAMA</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20260913053557 +0000" stop="20260913060257 +0000">
+    <title>(1990) Wedding - Ben &amp; Carly</title>
+    <icon src="https://api.tvapi.com.au/images/HAW-582_medium.jpeg"/>
+    <desc>Ben finally makes it back to Summer Bay and he and Carly are married at last.</desc>
+    <sub-title>3.35 - 4.02pm</sub-title>
+    <category>DRAMA</category>
+  </programme>
+  <programme channel="mjh-glasgowglory-fast" start="20260913050205 +0000" stop="20260913052305 +0000">
+    <title>Women's 10km Scratch Race Final</title>
+    <icon src="https://api.tvapi.com.au/images/3CTR26-016_medium.jpeg"/>
+    <desc>Three Aussies race for gold in the strenuous Women's 10km Scratch Race</desc>
+    <sub-title>Women's 10km Scratch Race Final</sub-title>
     <category>SPORT</category>
   </programme>
-  <programme channel="mjh-glasgowglory-fast" start="20260913044715 +0000" stop="20260913050115 +0000">
-    <title>Men's Team Sprint Final</title>
-    <icon src="https://api.tvapi.com.au/images/3CTR26-011_medium.jpeg"/>
-    <desc>Australia and England battle once more for a gold medal in the Cycling</desc>
-    <sub-title>Men's Team Sprint Final</sub-title>
+  <programme channel="mjh-glasgowglory-fast" start="20260913052331 +0000" stop="20260913053831 +0000">
+    <title>Men's 4000m Individual Pursuit Final</title>
+    <icon src="https://api.tvapi.com.au/images/3CTR26-017_medium.jpeg"/>
+    <desc>Aussies Oliver Bleddyn and Conor Leahy battle for the gold, while James Moriarty is in contention for the bronze medal</desc>
+    <sub-title>Men's 4000m Individual Pursuit Final</sub-title>
     <category>SPORT</category>
   </programme>
-  <programme channel="mjh-livgolfreplays-fast" start="20260912235115 +0000" stop="20260913050815 +0000">
-    <title>South Africa | Final Round</title>
-    <icon src="https://api.tvapi.com.au/images/LIVG26-021_medium.jpeg"/>
-    <desc>LIV Golf lands on African soil for the first time in its history with four rounds of mouth-watering action from The Club at Steyn City, South Africa.</desc>
-    <sub-title>South Africa | Final Round</sub-title>
+  <programme channel="mjh-glasgowglory-fast" start="20260913053850 +0000" stop="20260913055950 +0000">
+    <title>Men's Elimination Race Final</title>
+    <icon src="https://api.tvapi.com.au/images/3CTR26-021_medium.jpeg"/>
+    <desc>Aussies Blake Agnoletto and Thomas Cornish feature in a thrilling Men's Elimination Race</desc>
+    <sub-title>Men's Elimination Race Final</sub-title>
     <category>SPORT</category>
   </programme>
   <programme channel="mjh-livgolfreplays-fast" start="20260913050841 +0000" stop="20260913071041 +0000">
@@ -38955,32 +38716,25 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Mexico City | Round 2</sub-title>
     <category>GOLF</category>
   </programme>
-  <programme channel="mjh-swimmingreplays-fast" start="20260913020432 +0000" stop="20260913044132 +0000">
-    <title>Swimming: Heats | Day 3</title>
-    <icon src="https://api.tvapi.com.au/images/3SWM26-022_medium.jpeg"/>
-    <desc>Day 3 of competition gets underway in the pool</desc>
-    <sub-title>Swimming: Heats | Day 3</sub-title>
-    <category>SPORT</category>
-  </programme>
-  <programme channel="mjh-swimmingreplays-fast" start="20260913044214 +0000" stop="20260913050614 +0000">
-    <title>Men's 1500m Freestyle Final</title>
-    <icon src="https://api.tvapi.com.au/images/3SWM26-069_medium.jpeg"/>
-    <desc>Matt Galea, Ben Goedemans and Sam Short swim for gold in the 1500m</desc>
-    <sub-title>Men's 1500m Freestyle Final</sub-title>
-    <category>SPORT</category>
-  </programme>
   <programme channel="mjh-swimmingreplays-fast" start="20260913050635 +0000" stop="20260913072735 +0000">
     <title>Swimming: Finals | Day 1</title>
     <icon src="https://api.tvapi.com.au/images/3SWM26-002_medium.jpeg"/>
     <desc>Swimming: Finals | Day 1</desc>
     <sub-title>3.06 - 5.27pm</sub-title>
   </programme>
-  <programme channel="mjh-waterrats-fast" start="20260913040313 +0000" stop="20260913045213 +0000">
-    <title>Water Rats - S5 E27 - Kaddish</title>
-    <icon src="https://api.tvapi.com.au/images/WARA05-027_medium.jpeg"/>
-    <desc>A team from Homicide, lead by Det. Sgt. Joe Da Silva, arrives to begin the investigation into Rachel's death.</desc>
-    <sub-title>S5 E27 - Kaddish</sub-title>
-    <category>DRAMA SERIAL</category>
+  <programme channel="mjh-swimmingreplays-fast" start="20260913072820 +0000" stop="20260913101620 +0000">
+    <title>Swimming: Heats | Day 2</title>
+    <icon src="https://api.tvapi.com.au/images/3SWM26-012_medium.jpeg"/>
+    <desc>Swimming: Heats | Day 2</desc>
+    <sub-title>5.28 - 8.16pm</sub-title>
+    <category>SPORT</category>
+  </programme>
+  <programme channel="mjh-swimmingreplays-fast" start="20260913101629 +0000" stop="20260913134029 +0000">
+    <title>Swimming: Heats | Day 3	</title>
+    <icon src="https://api.tvapi.com.au/images/3SWM26-023_medium.jpeg"/>
+    <desc>Swimming: Heats | Day 3	</desc>
+    <sub-title>8.16 - 11.40pm</sub-title>
+    <category>SPORTS</category>
   </programme>
   <programme channel="mjh-waterrats-fast" start="20260913045301 +0000" stop="20260913054201 +0000">
     <title>Water Rats - S5 E28 - For Love or Money</title>
@@ -38994,6 +38748,13 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://api.tvapi.com.au/images/WARA05-029_medium.jpeg"/>
     <desc>Frustrated by what he perceives as the police's lack of progress in solving Rachel's murder, Jack, now suspended from police duty, steps up his vigilante efforts to bring her killer to justice.</desc>
     <sub-title>S5 E29 - Helter Skelter</sub-title>
+    <category>DRAMA SERIAL</category>
+  </programme>
+  <programme channel="mjh-waterrats-fast" start="20260913063322 +0000" stop="20260913072322 +0000">
+    <title>Water Rats - S5 E30 - Friend or Foe</title>
+    <icon src="https://api.tvapi.com.au/images/WARA05-030_medium.jpeg"/>
+    <desc>When a young woman is found drowned in the harbour, the detectives look into the activities of the last people to see her alive, forcing Mick to have to investigate one of his oldest mates.</desc>
+    <sub-title>S5 E30 - Friend or Foe</sub-title>
     <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-7afl-fast" start="20260913025200 +0000" stop="20260913054100 +0000">
@@ -39017,13 +38778,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Mark Blicavs</sub-title>
     <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
-  <programme channel="mjh-cas32-fast" start="20260913031021 +0000" stop="20260913044121 +0000">
-    <title>The Truth Behind William &amp; Harry's Rift</title>
-    <icon src="https://api.tvapi.com.au/images/7NSP24-057_medium.jpeg"/>
-    <desc>Prince William. Prince Harry. Long thought to be the bright future of the monarchy. But the boys who grew up together have grown apart.</desc>
-    <sub-title>The Truth Behind William &amp; Harry's Rift</sub-title>
-    <category>DOCUMENTARY</category>
-  </programme>
   <programme channel="mjh-cas32-fast" start="20260913044130 +0000" stop="20260913053830 +0000">
     <title>Gout Gout</title>
     <icon src="https://api.tvapi.com.au/images/7SPL-SHOW_medium.jpeg"/>
@@ -39038,12 +38792,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Electric Vehicle Con</sub-title>
     <category>NEWS</category>
   </programme>
-  <programme channel="mjh-wtn-fast" start="20260913034741 +0000" stop="20260913043941 +0000">
-    <title>Keeping Up with Marciano</title>
-    <icon src="https://api.tvapi.com.au/images/WT179_medium.jpeg"/>
-    <desc>Hard Merchandise faces a pressing health matter and monumental fish fight.</desc>
-    <sub-title>Keeping Up with Marciano</sub-title>
-    <category>Documentary</category>
+  <programme channel="mjh-cas32-fast" start="20260913063116 +0000" stop="20260913072116 +0000">
+    <title>The Verdict</title>
+    <icon src="https://api.tvapi.com.au/images/7SPL25-003_medium.jpeg"/>
+    <desc>A comprehensive analysis of the key issues from the Leaders' Debate. Hosted by Michael Usher.</desc>
+    <sub-title>The Verdict</sub-title>
+    <category>NEWS</category>
   </programme>
   <programme channel="mjh-wtn-fast" start="20260913043945 +0000" stop="20260913053145 +0000">
     <title>Tuna Overload</title>
@@ -39059,12 +38813,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Makin' the Bite</sub-title>
     <category>Documentary</category>
   </programme>
-  <programme channel="mjh-winnersnlosers-fast" start="20260913033713 +0000" stop="20260913042613 +0000">
-    <title>A Problem Shared S2 Ep13</title>
-    <icon src="https://api.tvapi.com.au/images/WILO2-013_medium.jpeg"/>
-    <desc>Jenny is a ball of stress about starting her teaching rounds at Renwood and visions of Tiffany are doing little to ease her angst. Dot tells her, if in doubt, try a dose of tough love but when Jenny tries this approach it only makes the situation worse. Bec tells her to ignore the troublemakers but this doesn't work either. Finally, inspired by a chat with Bridget, she decides that the best course of action is to become mates with her students. How will the girls in her class respond to this tactic?</desc>
-    <sub-title>A Problem Shared</sub-title>
-    <category>FAMILY DRAMA SERIES</category>
+  <programme channel="mjh-wtn-fast" start="20260913062352 +0000" stop="20260913071552 +0000">
+    <title>Double or Nothing</title>
+    <icon src="https://api.tvapi.com.au/images/WT182_medium.jpeg"/>
+    <desc>The Ott family fishing vessel Bad Fish joins the hunt for bluefin tuna.</desc>
+    <sub-title>Double or Nothing</sub-title>
+    <category>Documentary</category>
   </programme>
   <programme channel="mjh-winnersnlosers-fast" start="20260913042621 +0000" stop="20260913051521 +0000">
     <title>The Right Time S2 Ep14 </title>
@@ -39080,19 +38834,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Footprints</sub-title>
     <category>FAMILY DRAMA SERIES</category>
   </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20260913040436 +0000" stop="20260913041936 +0000">
-    <title>Surveillance Oz: Dashcam</title>
-    <icon src="https://api.tvapi.com.au/images/DCAM02-003_medium.jpeg"/>
-    <desc>A freak accident for a motorcyclist as a truck blows a tyre, a multi car pile-up on the freeway, a show-off on a bike loses control and a hoon does a burnout right in front of police!</desc>
-    <sub-title>2.04 - 2.19pm</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20260913041945 +0000" stop="20260913044445 +0000">
-    <title>Surveillance Oz</title>
-    <icon src="https://api.tvapi.com.au/images/SURV3-001_medium.jpeg"/>
-    <desc>Tonight, a man dangles a child over train tracks and a brazen man tries to steal a snake.</desc>
-    <sub-title>2.19 - 2.44pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-winnersnlosers-fast" start="20260913060514 +0000" stop="20260913065314 +0000">
+    <title>A Whole New World S2 Ep16</title>
+    <icon src="https://api.tvapi.com.au/images/WILO2-016_medium.jpeg"/>
+    <desc>When Jonathan and Rhys are the victims of a brutal assault, Frances goes on a crusade to obtain justice. In the process Flynn becomes aware of Frances's passion and skill as a lawyer - so invites her to join him as a partner in his private practice. Feeling increasingly alienated in his marriage to Bec and as 'Daddy' to Harrison, Matt turns to Tiffany for a sympathetic ear. Determined to show Matt how much she loves him, Bec organises a surprise ahead of their first wedding anniversary. But despite her efforts, nothing Bec does can stop Matt's continual draw towards Tiffany.</desc>
+    <sub-title>A Whole New World</sub-title>
+    <category>FAMILY DRAMA SERIES</category>
   </programme>
   <programme channel="mjh-surveillancecentral-fast" start="20260913044521 +0000" stop="20260913051021 +0000">
     <title>Surveillance Oz</title>
@@ -39101,12 +38848,19 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>2.45 - 3.10pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-outbacktruckers-fast" start="20260913034648 +0000" stop="20260913043748 +0000">
-    <title>Outback Truckers</title>
-    <icon src="https://api.tvapi.com.au/images/MUTR07-013_medium.jpeg"/>
-    <desc>Truck drivers Ash Bryant and Darryl Armfield are on a time critical job shifting 200 cattle over 500 kilometres of bush roads - but have they driven straight into trouble?</desc>
-    <sub-title>1.46 - 2.37pm</sub-title>
+  <programme channel="mjh-surveillancecentral-fast" start="20260913051056 +0000" stop="20260913053556 +0000">
+    <title>Surveillance Oz</title>
+    <icon src="https://api.tvapi.com.au/images/SURV3-003_medium.jpeg"/>
+    <desc>Tonight, one small mistake with a jerry can turns deadly in a flash at a busy petrol station. A drunk driver sends sparks flying when he crashes his car.</desc>
+    <sub-title>3.10 - 3.35pm</sub-title>
     <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-surveillancecentral-fast" start="20260913053612 +0000" stop="20260913062912 +0000">
+    <title>Caught On Dashcam</title>
+    <icon src="https://api.tvapi.com.au/images/CODC02-005_medium.jpeg"/>
+    <desc>We check out the very worse Mother Nature has to offer, from storms to wind, to snow and ice and our very favourite clips of the series.</desc>
+    <sub-title>3.36 - 4.29pm</sub-title>
+    <category>COMPILATION PROGRAM</category>
   </programme>
   <programme channel="mjh-outbacktruckers-fast" start="20260913043757 +0000" stop="20260913052857 +0000">
     <title>Outback Truckers</title>
@@ -39122,12 +38876,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>3.29 - 4.20pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-anglersparadise-fast" start="20260913034218 +0000" stop="20260913043318 +0000">
-    <title>Mark Berg's Fishing Addiction</title>
-    <icon src="https://api.tvapi.com.au/images/MBFA10-003_medium.jpeg"/>
-    <desc>Fishing expert Mark Berg visits some of the best fishing destinations around. Chasing a wide variety of fish, Mark is always hoping to capture a new species or develop a new technique.</desc>
-    <sub-title>Abrolhos With Ben, Pt. 1</sub-title>
-    <category>SPORTS OTHER</category>
+  <programme channel="mjh-outbacktruckers-fast" start="20260913062126 +0000" stop="20260913071226 +0000">
+    <title>Outback Truckers</title>
+    <icon src="https://api.tvapi.com.au/images/MUTR08-013_medium.jpeg"/>
+    <desc>In the face of a global pandemic Steve Grahame takes on the deserted roads of Northern Territory. Glenn’s giant load gets squeezed by tight bridges, Mike hunts for wrecked gold in Western Australia.</desc>
+    <sub-title>4.21 - 5.12pm</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-anglersparadise-fast" start="20260913043328 +0000" stop="20260913052428 +0000">
     <title>Mark Berg's Fishing Addiction</title>
@@ -39143,12 +38897,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Monster Flathead &amp; Bar Crusher Sea T</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-truckinghell-fast" start="20260913035640 +0000" stop="20260913044640 +0000">
-    <title>Season 5 Episode 13</title>
-    <icon src="https://api.tvapi.com.au/images/TRKH05-013_medium.jpeg"/>
-    <desc>A lorry overturns near Kettering, Sean fixes a 40-ton truck in Enfield, and Rory trades wreckers for a vintage truck to help fell a tree.</desc>
-    <sub-title>Season 5 Episode 13</sub-title>
-    <category>LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-anglersparadise-fast" start="20260913055028 +0000" stop="20260913064128 +0000">
+    <title>Hook Line And Sinker S10 E05</title>
+    <icon src="https://api.tvapi.com.au/images/HOLS21-005_medium.jpeg"/>
+    <desc>Join Nick Duigan and Andrew Hart on a fishing adventure around Australia and the world.</desc>
+    <sub-title>3.50 - 4.41pm</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-truckinghell-fast" start="20260913044726 +0000" stop="20260913053726 +0000">
     <title>Season 5 Episode 14</title>
@@ -39164,19 +38918,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Season 5 Episode 15</sub-title>
     <category>LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-judgejudy-fast" start="20260913035901 +0000" stop="20260913042501 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>1.59 - 2.25pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-judgejudy-fast" start="20260913042504 +0000" stop="20260913045104 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>2.25 - 2.51pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
+  <programme channel="mjh-truckinghell-fast" start="20260913062859 +0000" stop="20260913071859 +0000">
+    <title>Season 5 Episode 16</title>
+    <icon src="https://api.tvapi.com.au/images/TRKH05-016_medium.jpeg"/>
+    <desc>Stephen skids off-road while rescuing a sweeper in icy Warwickshire. Mark and Roman fight to load a 50-ton tank, and Mikey carefully recovers a 1959 Morris Minor without harming the vintage gem.</desc>
+    <sub-title>Season 5 Episode 16</sub-title>
+    <category>LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-judgejudy-fast" start="20260913045106 +0000" stop="20260913051706 +0000">
     <title>Judge Judy</title>
@@ -39185,12 +38932,19 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>2.51 - 3.17pm</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-all-starcinema-fast" start="20260913025351 +0000" stop="20260913043751 +0000">
-    <title>The Old Way</title>
-    <icon src="https://api.tvapi.com.au/images/DSEF01-115_medium.jpeg"/>
-    <desc>An old gunslinger and his daughter must face the consequences of his past, when the son of a man he murdered years ago arrives to take his revenge.</desc>
-    <sub-title>The Old Way</sub-title>
-    <category>WESTERN MOVIE</category>
+  <programme channel="mjh-judgejudy-fast" start="20260913051709 +0000" stop="20260913054309 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>3.17 - 3.43pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-judgejudy-fast" start="20260913054312 +0000" stop="20260913060912 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>3.43 - 4.09pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-all-starcinema-fast" start="20260913043759 +0000" stop="20260913055559 +0000">
     <title>An Imperfect Murder</title>
@@ -39206,19 +38960,11 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>3.56 - 5.36pm</sub-title>
     <category>THRILLER MOVIE</category>
   </programme>
-  <programme channel="mjh-bluelight-fast" start="20260913035406 +0000" stop="20260913041906 +0000">
-    <title>Highway Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/HWYP12-003_medium.jpeg"/>
-    <desc>A self confessed marijuana user crashes his motorbike into the back of a car on a busy Melbourne road. A driver's lack of registration uncovers a car load of soft toys.</desc>
-    <sub-title>Missing Teeth</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-bluelight-fast" start="20260913041947 +0000" stop="20260913044447 +0000">
-    <title>Highway Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/HWYP3-003_medium.jpeg"/>
-    <desc>Officer Anderton pulls over an unlicensed 17-year-old out with his mates in his mother's car. But when the officer calls the boy's mother, she admits to having given him permission to use the car. Meanwhile, two Senior Constables pull over a car to find a small child in the back sharing a seatbelt with another passenger. Then, one of the passengers decides it's the perfect opportunity to try and pick up one of the police officers.</desc>
-    <sub-title>Stole Mum's Car</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
+  <programme channel="mjh-all-starcinema-fast" start="20260913073649 +0000" stop="20260913092449 +0000">
+    <title>Stratton</title>
+    <icon src="https://api.tvapi.com.au/images/DSEF01-043_medium.jpeg"/>
+    <sub-title>5.36 - 7.24pm</sub-title>
+    <category>ACTION MOVIE</category>
   </programme>
   <programme channel="mjh-bluelight-fast" start="20260913044532 +0000" stop="20260913051232 +0000">
     <title>The Force - Behind The Line</title>
@@ -39227,12 +38973,19 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>2.45 - 3.12pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-mel1_event-fast" start="20260913023000 +0000" stop="20260913050000 +0000">
-    <title>Rnd 5: Richmond v St Kilda</title>
-    <icon src="https://api.tvapi.com.au/images/AFLW-SHOW_medium.jpeg"/>
-    <desc>The Tigers face off against the Saints, live and free from Windy Hill. Bounce time: 1:05pm AEST.</desc>
-    <sub-title>Rnd 5: Richmond v St Kilda</sub-title>
-    <category>AUSTRALIAN RULES FOOTBALL</category>
+  <programme channel="mjh-bluelight-fast" start="20260913051257 +0000" stop="20260913060457 +0000">
+    <title>Police Strike Force</title>
+    <icon src="https://api.tvapi.com.au/images/STRF01-001_medium.jpeg"/>
+    <desc>Police Strike Force teams take down Australia’s outlaw motorcycle gangs, crack the code on cocaine sellers ‘Dial-a-Dealer’ service, and put their lives on the line to bring down an ICE drug-runner.</desc>
+    <sub-title>3.12 - 4.04pm</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
+  </programme>
+  <programme channel="mjh-bluelight-fast" start="20260913060543 +0000" stop="20260913062743 +0000">
+    <title>The Force - Behind The Line</title>
+    <icon src="https://api.tvapi.com.au/images/TRUE6-009_medium.png"/>
+    <desc>The Force cameras are with police as the unbelievable happens right in front of them: NSW police stop a driver, and just seconds later there's a multi car smash right in front of them - then two more incidents right before their eyes, this has to be seen to be believed!</desc>
+    <sub-title>4.05 - 4.27pm</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-mel1_event-fast" start="20260913050000 +0000" stop="20260913070000 +0000">
     <title>Rnd 5: North Melbourne v Carlton</title>
@@ -39248,19 +39001,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>12.30 - 3.00pm</sub-title>
     <category>Other</category>
   </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20260913033227 +0000" stop="20260913042427 +0000">
-    <title>Code 1: Minute by Minute</title>
-    <icon src="https://api.tvapi.com.au/images/MINM01-007_medium.jpeg"/>
-    <desc>A group of friends boarded a small boat on Sydney Harbour which would change their lives forever. Six of them were killed when their boat collided with a fishing boat in the early hours of the morning.</desc>
-    <sub-title>Horror On The Harbour</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
-  </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20260913042442 +0000" stop="20260913044942 +0000">
-    <title>Medical Emergency</title>
-    <icon src="https://api.tvapi.com.au/images/MDEM3-007_medium.jpeg"/>
-    <desc>Staff at The Alfred are told to prepare for a full-scale emergency when news of the Kerang train crash is relayed to the hospital. Stable patients are transferred to nearby hospitals to make way for seriously injured victims. Meanwhile, every parent's nightmare comes to reality when an intensive care ambulance treats one- year-old, Ben, who is having trouble breathing. And we revisit 75-year-old Margot who undergoes more tests for her suspected lung cancer. Narrated by Chris Gabardi.</desc>
-    <sub-title>2.24 - 2.49pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-mel1_event-fast" start="20260920050000 +0000" stop="20260920070000 +0000">
+    <title>[episode_title]</title>
+    <icon src="https://api.tvapi.com.au/images/AFLW_medium.jpeg"/>
+    <desc>AFLW: St Kilda vs West Coast Eagles Round 6</desc>
+    <sub-title>3.00 - 5.00pm</sub-title>
+    <category>Other</category>
   </programme>
   <programme channel="mjh-medicalnrescue-fast" start="20260913045038 +0000" stop="20260913051438 +0000">
     <title>Surf Patrol</title>
@@ -39269,12 +39015,19 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>2.50 - 3.14pm</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-blueheelers-fast" start="20260913035220 +0000" stop="20260913044320 +0000">
-    <title>Blue Heelers S7 E6</title>
-    <icon src="https://api.tvapi.com.au/images/BLUH7-006_medium.jpeg"/>
-    <desc>When a highly infectious disease threatens to wipe out Mt Thomas' sheep properties, Ben investigates and finds his friend is responsible.</desc>
-    <sub-title>The Good Life</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-medicalnrescue-fast" start="20260913051443 +0000" stop="20260913054043 +0000">
+    <title>Medical Emergency</title>
+    <icon src="https://api.tvapi.com.au/images/MDEM3-008_medium.jpeg"/>
+    <desc>Kerang train crash patient, Vicki, undergoes surgery to her shattered face while her husband and two daughters wait anxiously. Meanwhile, 42-year-old, Craig arrives with severe chemical burns across his face and body. And across town at Sandringham Hospital, four-year-old Sebastian needs to get a magnifying glass removed from his finger. Narrated by Chris Gabardi.</desc>
+    <sub-title>3.14 - 3.40pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-medicalnrescue-fast" start="20260913054044 +0000" stop="20260913060544 +0000">
+    <title>Medical Emergency</title>
+    <icon src="https://api.tvapi.com.au/images/MDEM3-009_medium.jpeg"/>
+    <desc>The condition of 42-year-old chemical burn victim Craig is deteriorating rapidly, with his airwaves continuing to swell at an alarming pace. Ambulance workers aid an elderly woman trapped in her house after fracturing her hip in a fall. And two year old, Maddie arrives at Sandringham with a high temperature and is tested for meningitis. Narrated by Chris Gabardi.</desc>
+    <sub-title>3.40 - 4.05pm</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-blueheelers-fast" start="20260913044329 +0000" stop="20260913053429 +0000">
     <title>Blue Heelers</title>
@@ -39290,12 +39043,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Oil &amp; Water</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-kitchennightmares-fast" start="20260913033340 +0000" stop="20260913042140 +0000">
-    <title>M'Dears Bakery And Bistro</title>
-    <icon src="https://api.tvapi.com.au/images/GRHB02-009_medium.jpeg"/>
-    <desc>Ramsay and his team transform Los Angeles restaurant M'Dears Bakery &amp; Bistro with renovations, a fresh new menu and hope for the future.</desc>
-    <sub-title>M'Dears Bakery And Bistro</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-blueheelers-fast" start="20260913062637 +0000" stop="20260913071637 +0000">
+    <title>Blue Heelers</title>
+    <icon src="https://api.tvapi.com.au/images/BLUH7-009_medium.jpeg"/>
+    <desc>Maggie's life is threatened when she supports the cause of a dying woman. Audrey has lung cancer and is on a crusade to save her grand-daughter from the ill-effects of smoking.</desc>
+    <sub-title>Smoke Gets In Your Eyes</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-kitchennightmares-fast" start="20260913042205 +0000" stop="20260913051005 +0000">
     <title>Social</title>
@@ -39311,12 +39064,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>La Galleria 33 - Part 1</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-acountrypractice-fast" start="20260913034520 +0000" stop="20260913044020 +0000">
-    <title>S6 E61 - Let The Sun Shine In - Part 3</title>
-    <icon src="https://api.tvapi.com.au/images/CNP-417_medium.png"/>
-    <desc>Terence sees C.K. while in Sydney with Bethany, but the relationship becomes very strained.</desc>
-    <sub-title>S6 E61 - Let The Sun Shine In - Part 3</sub-title>
-    <category>Drama Serial</category>
+  <programme channel="mjh-kitchennightmares-fast" start="20260913060134 +0000" stop="20260913065334 +0000">
+    <title>La Galleria 33 - Part 2</title>
+    <icon src="https://api.tvapi.com.au/images/KNUS06-002_medium.jpeg"/>
+    <desc>Chef Ramsay found that the owners of La Galleria 33 drink and smoke on the job, and the food is no better. Can he save this downtrodden Italian restaurant?</desc>
+    <sub-title>La Galleria 33 - Part 2</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-acountrypractice-fast" start="20260913044050 +0000" stop="20260913053550 +0000">
     <title>S6 E62 - Let The Sun Shine In - Part 4</title>
@@ -39332,12 +39085,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>S6 E63 - Let The Sun Shine In - Part 5</sub-title>
     <category>Drama Serial</category>
   </programme>
-  <programme channel="mjh-truecrimefiles-fast" start="20260913035638 +0000" stop="20260913044538 +0000">
-    <title>World's Most Evil Killers</title>
-    <icon src="https://api.tvapi.com.au/images/WEKI05-010_medium.jpeg"/>
-    <desc>Jerry Brudos was an American serial killer who was convicted of murdering four women in the late 1960s.</desc>
-    <sub-title>JERRY BRUDOS</sub-title>
-    <category>TRUE CRIME</category>
+  <programme channel="mjh-acountrypractice-fast" start="20260913063221 +0000" stop="20260913072821 +0000">
+    <title>S6 E64 - Let The Sun Shine In - Part 6</title>
+    <icon src="https://api.tvapi.com.au/images/CNP-420_medium.png"/>
+    <desc>Terence comes to terms with losing Bethany by turning to liquor.</desc>
+    <sub-title>S6 E64 - Let The Sun Shine In - Part 6</sub-title>
+    <category>Drama Serial</category>
   </programme>
   <programme channel="mjh-truecrimefiles-fast" start="20260913044632 +0000" stop="20260913053532 +0000">
     <title>World's Most Evil Killers</title>
@@ -39353,12 +39106,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>VICTOR FARRANT</sub-title>
     <category>TRUE CRIME</category>
   </programme>
-  <programme channel="mjh-art-fast" start="20260913035811 +0000" stop="20260913044911 +0000">
-    <title>Antiques Road Trip</title>
-    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR522V_medium.jpeg"/>
-    <desc>Thomas Plant and James Lewis pick up some unusual items as they travel across Scotland.</desc>
-    <sub-title>James Lewis and Thomas Plant, Day 2</sub-title>
-    <category>history</category>
+  <programme channel="mjh-truecrimefiles-fast" start="20260913062539 +0000" stop="20260913071539 +0000">
+    <title>World's Most Evil Killers</title>
+    <icon src="https://api.tvapi.com.au/images/WEKI05-013_medium.jpeg"/>
+    <desc>In 2005, Kenneth Regan and William Horncy were convicted of murdering a millionaire and his family in order to take over his business. </desc>
+    <sub-title>KENNETH REGAN AND WILLIAM HORNCY</sub-title>
+    <category>TRUE CRIME</category>
   </programme>
   <programme channel="mjh-art-fast" start="20260913045003 +0000" stop="20260913053903 +0000">
     <title>Antiques Road Trip</title>
@@ -39374,18 +39127,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>James Lewis and Thomas Plant, Day 4</sub-title>
     <category>history</category>
   </programme>
-  <programme start="20260913033017 +0000" stop="20260913043016 +0000" channel="mjh-7bravo-fast">
-    <title>Shark Tank</title>
-    <sub-title>Episode 21</sub-title>
-    <desc>A mechanical engineer hopes to catch a deal with his patented bike lighting LED system that attaches to the wheel rim for safety and utility.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/69218beaeee33b698065/image"/>
-    <episode-num system="SxxExx">S05E21</episode-num>
-    <episode-num system="xmltv_ns">4.20.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="mjh-art-fast" start="20260913062929 +0000" stop="20260913072029 +0000">
+    <title>Antiques Road Trip</title>
+    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR525V_medium.jpeg"/>
+    <desc>Thomas Plant trades four wheels for two. James Lewis gets to the root of Auld Lang Syne.</desc>
+    <sub-title>James Lewis and Thomas Plant, Day 5</sub-title>
+    <category>history</category>
   </programme>
   <programme start="20260913043016 +0000" stop="20260913053036 +0000" channel="mjh-7bravo-fast">
     <title>Shark Tank</title>
@@ -41591,13 +41338,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="mjh-heki-fast" start="20260913034836 +0000" stop="20260913043936 +0000">
-    <title>Hell's Kitchen Series 8 Episode 6</title>
-    <icon src="https://api.tvapi.com.au/images/CD24622_1-5021-0097-005-HellsKitchen-SR08-Ep06-T_medium.jpeg"/>
-    <desc>New groups are challenged to come up with a special salad dish.</desc>
-    <sub-title>Hell's Kitchen Series 8 Episode 6</sub-title>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-heki-fast" start="20260913044006 +0000" stop="20260913053106 +0000">
     <title>Hell's Kitchen Series 8 Episode 7</title>
     <icon src="https://api.tvapi.com.au/images/CD24623_1-5021-0098-004-HellsKitchen-SR08-Ep07-T_medium.jpeg"/>
@@ -41612,12 +41352,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Hell's Kitchen Series 8 Episode 8</sub-title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="mjh-belowdeckvault-fast" start="20260913035115 +0000" stop="20260913043815 +0000">
-    <title>Take It To The Bridge</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU1574-S8T4_medium.jpeg"/>
-    <desc>A stew is torn between their open relationship and a growing onboard flirtation. The deck team's communication is strained during a rough docking. The rivalry amongst stews spills into the workplace and Capt. Sandy is forced to intervene.</desc>
-    <sub-title>Take It To The Bridge</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-heki-fast" start="20260913062304 +0000" stop="20260913071404 +0000">
+    <title>Hell's Kitchen Series 8 Episode 9</title>
+    <icon src="https://api.tvapi.com.au/images/CD24625_1-5021-0100-004-HellsKitchen-SR08-Ep09-T_medium.jpeg"/>
+    <desc>The teams take part in a blind taste test. Will they manage to identify the ingredients?</desc>
+    <sub-title>Hell's Kitchen Series 8 Episode 9</sub-title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="mjh-belowdeckvault-fast" start="20260913043912 +0000" stop="20260913052712 +0000">
     <title>Max Tension</title>
@@ -41633,18 +41373,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Pirate's Booty Call</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme start="20260913033000 +0000" stop="20260913043000 +0000" channel="mjh-tvsn-fast">
-    <title>Hammock and Vine 15th Anniversary!</title>
-    <sub-title>Sunday 13 September 2026</sub-title>
-    <desc>Hammock And Vine offers laid-back elegance ideals for the modern woman seeking stylish yet relaxed dressing. Explore flattering pieces for effortless chic.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/001010da6bf8927fefb4/image"/>
-    <episode-num system="SxxExx">S2026E913</episode-num>
-    <episode-num system="xmltv_ns">2025.912.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+  <programme channel="mjh-belowdeckvault-fast" start="20260913061531 +0000" stop="20260913070131 +0000">
+    <title>Monte Car-loco</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU1574-S4T11_medium.jpeg"/>
+    <desc>The crew enjoys a day off at an exclusive resort in Monte Carlo, but some of them are faced with more than they bargained for. Joao and Hannah have a heart to heart.</desc>
+    <sub-title>Monte Car-loco</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme start="20260913043000 +0000" stop="20260913053000 +0000" channel="mjh-tvsn-fast">
     <title>Gordon Smith Fashion</title>
@@ -43778,13 +43512,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-etc-fast" start="20260913033728 +0000" stop="20260913042928 +0000">
-    <title>Somerset</title>
-    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00073_medium.jpeg"/>
-    <desc>Jules helps Maidenhead pair relocate to Somerset seeking land and rooms at £500k.</desc>
-    <sub-title>Somerset</sub-title>
-    <category>Factual</category>
-  </programme>
   <programme channel="mjh-etc-fast" start="20260913043011 +0000" stop="20260913052411 +0000">
     <title>Norfolk</title>
     <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00074_medium.jpeg"/>
@@ -43799,12 +43526,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Cambridgeshire</sub-title>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-therealhousewivesvault-fast" start="20260913035644 +0000" stop="20260913044444 +0000">
-    <title>The Liberation of Erika Jayne</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU946-S11T6_medium.jpeg"/>
-    <desc>Erika reunites with the ladies for the first time since filing for divorce and explains how she came to such a tough decision. Crystal invites everyone over to make Chinese dumplings.</desc>
-    <sub-title>The Liberation of Erika Jayne</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-etc-fast" start="20260913061723 +0000" stop="20260913070923 +0000">
+    <title>Leicestershire</title>
+    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00076_medium.jpeg"/>
+    <desc>Nicki helps hoteliers seek Leicestershire retirement home balancing space/light at  £350k.</desc>
+    <sub-title>Leicestershire</sub-title>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-therealhousewivesvault-fast" start="20260913044447 +0000" stop="20260913053247 +0000">
     <title>Defining Women</title>
@@ -43818,6 +43545,13 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://api.tvapi.com.au/images/4NBCU946-S11T8_medium.jpeg"/>
     <desc>Harry Hamlin's homemade Bolognese sauce spices up Lisa's gathering, but Crystal's non-apology pushes Sutton to her boiling point.</desc>
     <sub-title>The Good, the Bad and the Ugly Leather Pants</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-therealhousewivesvault-fast" start="20260913062053 +0000" stop="20260913070753 +0000">
+    <title>Judge and Jury</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU947-S16T4_medium.jpeg"/>
+    <desc>The ladies gather to celebrate Shane finally passing the California bar.</desc>
+    <sub-title>Judge and Jury</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-cricketgold-fast" start="20260913034628 +0000" stop="20260913064528 +0000">
@@ -43841,20 +43575,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tr</sub-title>
     <category>Sport</category>
   </programme>
-  <programme channel="mjh-botchedvault-fast" start="20260913032208 +0000" stop="20260913040908 +0000">
-    <title>Big Booty Stress and a Mastectomy Mess</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S7T9_medium.jpeg"/>
-    <desc>A high-risk cancer patient was left with a mastectomy mess and fears her original surgeon didn't remove all her breast tissue, while a childhood accident left a young woman's chin full of scarred indentations and a "snow bunny" influencer whose butt is her moneymaker needs it to look perfectly bootylicious</desc>
-    <sub-title>Big Booty Stress and a Mastectomy Mess</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-botchedvault-fast" start="20260913040922 +0000" stop="20260913045722 +0000">
-    <title>London's Nose Is Falling Down</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S8T7_medium.jpeg"/>
-    <desc>A woman whose nose collapses after years of cocaine abuse seeks Dr. Nassif's help. A man hopes Dr. Dubrow will fix his soup bowl- looking chest. An influencer is eager to become her online personae and get the biggest boobs in the world.</desc>
-    <sub-title>London's Nose Is Falling Down</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
   <programme channel="mjh-botchedvault-fast" start="20260913045751 +0000" stop="20260913054551 +0000">
     <title>Sep-EAR-ation Anxiety</title>
     <icon src="https://api.tvapi.com.au/images/4NBCU105-S8T8_medium.jpeg"/>
@@ -43862,17 +43582,19 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Sep-EAR-ation Anxiety</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-ncis-fast" start="20260913032545 +0000" stop="20260913041545 +0000">
-    <title>The Insider</title>
-    <icon src="https://api.tvapi.com.au/images/NCIN01-019_medium.jpeg"/>
-    <sub-title>The Insider</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-botchedvault-fast" start="20260913054620 +0000" stop="20260913063420 +0000">
+    <title>Baby Got Front Butt</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S8T9_medium.jpeg"/>
+    <desc>A woman is left with a "front butt" on her stomach after a bad mommy-makeover. A familiar face from "Botched By Nature" returns with a collapsed nose. An influencer who believes her body is a surgically sculpted work of art hates the scars on her breasts.</desc>
+    <sub-title>Baby Got Front Butt</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-ncis-fast" start="20260913041557 +0000" stop="20260913050357 +0000">
-    <title>Rock-A-Bye-Baby</title>
-    <icon src="https://api.tvapi.com.au/images/NCIN01-020_medium.jpeg"/>
-    <sub-title>Rock-A-Bye-Baby</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-botchedvault-fast" start="20260913063449 +0000" stop="20260913072249 +0000">
+    <title>Attack Of The 3,000cc Implants</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S2T10_medium.jpeg"/>
+    <desc>Dr Dubrow takes on the biggest breasts of his career, Dr Nassif tackles a soldier's botched nose.</desc>
+    <sub-title>Attack Of The 3,000cc Implants</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-ncis-fast" start="20260913050453 +0000" stop="20260913055353 +0000">
     <title>You'll Do</title>
@@ -43880,12 +43602,18 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>You'll Do</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-cas39-fast" start="20260913033825 +0000" stop="20260913043425 +0000">
-    <title>Season 2 Episode 3</title>
-    <icon src="https://api.tvapi.com.au/images/TFAE02-003_medium.jpeg"/>
-    <desc>A warm-hearted and moving episode exploring the different ways that grown men deal with pain and injury.</desc>
-    <sub-title>Season 2 Episode 3</sub-title>
-    <category>Science</category>
+  <programme channel="mjh-ncis-fast" start="20260913055420 +0000" stop="20260913064420 +0000">
+    <title>The Weak Link</title>
+    <icon src="https://api.tvapi.com.au/images/NCIS01-022_medium.jpeg"/>
+    <sub-title>The Weak Link</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  </programme>
+  <programme channel="mjh-ncis-fast" start="20260913064426 +0000" stop="20260913073426 +0000">
+    <title>Season 1 Episode 23</title>
+    <icon src="https://api.tvapi.com.au/images/NCIS01-023_medium.jpeg"/>
+    <desc>Gibbs obsession with the unknown terrorist who shot him and escaped reaches its breaking point when Kate and Tony go missing.</desc>
+    <sub-title>Season 1 Episode 23</sub-title>
+    <category>Courtroom</category>
   </programme>
   <programme channel="mjh-cas39-fast" start="20260913043453 +0000" stop="20260913053053 +0000">
     <title>Season 3 Episode 1</title>
@@ -43901,19 +43629,12 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Season 3 Episode 2</sub-title>
     <category>Science</category>
   </programme>
-  <programme channel="mjh-cas40-fast" start="20260913033013 +0000" stop="20260913041613 +0000">
-    <title>Two Hotheads and a Hurricane</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU628-S2T10_medium.jpeg"/>
-    <desc>Fredrik is struggling to sell the Marble House and just when he's got a lead, Hurricane Sandy strikes.</desc>
-    <sub-title>Two Hotheads and a Hurricane</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-cas40-fast" start="20260913041638 +0000" stop="20260913050338 +0000">
-    <title>Bow Rooms and Broome Sticks</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU628-S2T11_medium.jpeg"/>
-    <desc>Luis gets the first townhouse of his young career, but is horrified to find that most of the decor is older than he is.</desc>
-    <sub-title>Bow Rooms and Broome Sticks</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-cas39-fast" start="20260913062733 +0000" stop="20260913072233 +0000">
+    <title>Season 3 Episode 3</title>
+    <icon src="https://api.tvapi.com.au/images/TFAE03-003_medium.jpeg"/>
+    <desc>39-year-old Neil was driving a friend's sports car when he was involved in a head-on collision with another vehicle.</desc>
+    <sub-title>Season 3 Episode 3</sub-title>
+    <category>Science</category>
   </programme>
   <programme channel="mjh-cas40-fast" start="20260913050405 +0000" stop="20260913055005 +0000">
     <title>Video Killed the Real Estate Star</title>
@@ -43922,18 +43643,18 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Video Killed the Real Estate Star</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20260913035641 +0000" stop="20260913042241 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR03-006_medium.jpeg"/>
-    <desc>Tourists and travellers flock to Bondi to spend Australia Day on the nation's most famous beach. Kyle, the Hawaiian lifeguard, is not accustomed to a beach with so many tourists.</desc>
-    <sub-title>Season 3 Episode 6</sub-title>
+  <programme channel="mjh-cas40-fast" start="20260913055051 +0000" stop="20260913063751 +0000">
+    <title>Tech-nical Difficulties</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU628-S8T3_medium.jpeg"/>
+    <desc>Ryan pitches his brand new seven-story Chelsea townhouse as a smart-home paradise.</desc>
+    <sub-title>Tech-nical Difficulties</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20260913042323 +0000" stop="20260913044823 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR04-004_medium.jpeg"/>
-    <desc>Thieves are at large on the beach and anything unattended is at risk. With conditions in the water mild, lifeguards take the opportunity to scope out perpetrators.</desc>
-    <sub-title>Season 4 Episode 4</sub-title>
+  <programme channel="mjh-cas40-fast" start="20260913063838 +0000" stop="20260913072538 +0000">
+    <title>Jess We Can!</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU628-S8T4_medium.png"/>
+    <desc>Luis and Ronita orchestrate private showings for their first co-listing together.</desc>
+    <sub-title>Jess We Can!</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-cas41-fast" start="20260913044907 +0000" stop="20260913051507 +0000">
@@ -43943,10 +43664,19 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <sub-title>Season 4 Episode 5</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-10-heartland" start="20260913034700 +0000" stop="20260913043801 +0000">
-    <title>Through the Smoke</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
-    <category>Drama</category>
+  <programme channel="mjh-cas41-fast" start="20260913051512 +0000" stop="20260913054112 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR04-006_medium.jpeg"/>
+    <desc>Second year trainee Maxy is hoping this will be the year he earns his stripes as a fully fledged lifeguard.</desc>
+    <sub-title>Season 4 Episode 6</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-cas41-fast" start="20260913054132 +0000" stop="20260913060832 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR05-004_medium.jpeg"/>
+    <desc>Once every 4-6 years, a swell hits the Sydney coastline that is so incredibly huge it becomes a part of local folk-lore.</desc>
+    <sub-title>Season 5 Episode 4</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-10-heartland" start="20260913043800 +0000" stop="20260913053000 +0000">
     <title>Outsiders</title>
@@ -44583,11 +44313,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-moviesphere" start="20260913025200 +0000" stop="20260913043501 +0000">
-    <title>Pulse</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/09/07/15f5ecad0c62778847e9d2c4040e9898-1458459.jpg"/>
-    <category>Movies</category>
-  </programme>
   <programme channel="mjh-10-moviesphere" start="20260913043500 +0000" stop="20260913062401 +0000">
     <title>The Possession</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/1800008_landscape.jpg"/>
@@ -44867,16 +44592,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Lost River</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/113810_landscape.jpg"/>
     <category>Science Fiction</category>
-  </programme>
-  <programme channel="mjh-10-wildest" start="20260913030700 +0000" stop="20260913041201 +0000">
-    <title>In the Mind of Plants</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/14POAUR11M6VJA0N777VL_16_9.jpg"/>
-    <category>nature</category>
-  </programme>
-  <programme channel="mjh-10-wildest" start="20260913041200 +0000" stop="20260913044201 +0000">
-    <title>Smell</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_animalsenses_Season_1_2x3.jpg"/>
-    <category>nature</category>
   </programme>
   <programme channel="mjh-10-wildest" start="20260913044200 +0000" stop="20260913051201 +0000">
     <title>Touch</title>
@@ -45548,11 +45263,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/MTV_WildlifeER_S1_E02_16x9.jpg"/>
     <category>nature</category>
   </programme>
-  <programme channel="mjh-10-masterchef" start="20260913032500 +0000" stop="20260913042100 +0000">
-    <title>MasterChef Australia AU S1 Ep. 18</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-masterchef" start="20260913042100 +0000" stop="20260913051600 +0000">
     <title>MasterChef Australia AU S1 Ep. 19</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
@@ -45912,11 +45622,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>MasterChef Australia AU S9 Ep. 19</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-medical-emergency" start="20260913033400 +0000" stop="20260913043101 +0000">
-    <title>999: What's Your Emergency? S3 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/10/10/ce4e2c0c5dc91f7ce9e29936b8c471fa-1092614.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-medical-emergency" start="20260913043100 +0000" stop="20260913052801 +0000">
     <title>999: What's Your Emergency? S3 Ep. 3</title>
@@ -46302,16 +46007,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>24 Hours In A&amp;E S4 Ep. 13</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/28/6ccc0b04a2a19ac9fbc66c8dd8f3389f-1252038.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-grahamnorton" start="20260913034400 +0000" stop="20260913042601 +0000">
-    <title>Series 14 Ep 6 with Emma Thompson</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/2-2420_Title_16x9.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-grahamnorton" start="20260913042600 +0000" stop="20260913050601 +0000">
-    <title>Series 14 Ep 13 with Keira Knightley</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/2-2420_Title_16x9.jpg"/>
-    <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-grahamnorton" start="20260913050600 +0000" stop="20260913054500 +0000">
     <title>Series 21 Ep 3 with Brendan O'Carroll</title>
@@ -47051,16 +46746,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-grahamnorton" start="20260917135033 +0000" stop="20260917143133 +0000">
     <title>Series 14 Ep 14 with Matthew McConaughey</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/2-2420_Title_16x9.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20260913035000 +0000" stop="20260913042100 +0000">
-    <title>Show 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20260913042100 +0000" stop="20260913045101 +0000">
-    <title>Show 1</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-eightoutof10cats" start="20260913045100 +0000" stop="20260913053701 +0000">
@@ -47958,16 +47643,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>Entertainment</category>
   </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20260913035100 +0000" stop="20260913041700 +0000">
-    <title>Ridiculousness S10 Ep. 21</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20260913041700 +0000" stop="20260913044300 +0000">
-    <title>Ridiculousness S10 Ep. 8</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-mtvridiculousness" start="20260913044300 +0000" stop="20260913051000 +0000">
     <title>Ridiculousness S7 Ep. 713</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
@@ -48728,16 +48403,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20260913034700 +0000" stop="20260913044000 +0000">
-    <title>Have You Been Paying Attention? S2 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20260913044000 +0000" stop="20260913050801 +0000">
-    <title>Have You Been Paying Attention? S1 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-haveyoubeenpayingattention" start="20260913050800 +0000" stop="20260913060001 +0000">
     <title>Have You Been Paying Attention? S5 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
@@ -49138,11 +48803,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-cheapseats" start="20260913035900 +0000" stop="20260913045201 +0000">
-    <title>The Cheap Seats S3 Ep. 26</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-cheapseats" start="20260913045200 +0000" stop="20260913054401 +0000">
     <title>The Cheap Seats S3 Ep. 27</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
@@ -49528,11 +49188,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-thankgodyourehere" start="20260913032500 +0000" stop="20260913041900 +0000">
-    <title>Thank God You're Here S2 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-thankgodyourehere" start="20260913041900 +0000" stop="20260913051801 +0000">
     <title>Thank God You're Here S6 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
@@ -49886,16 +49541,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-thankgodyourehere" start="20260915223709 +0000" stop="20260915233009 +0000">
     <title>Thank God You're Here S2 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20260913035700 +0000" stop="20260913041901 +0000">
-    <title>The Ren &amp; Stimpy Show S5 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c126eaba8eeb0013589cce/featuredImage_1767941324471.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20260913041900 +0000" stop="20260913044601 +0000">
-    <title>Daria S5 Ep. 511</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/5df1660048dd4e9d2d9f20d0d7c57d39-1061124.jpg"/>
     <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-adultanimation" start="20260913044600 +0000" stop="20260913051301 +0000">
@@ -50668,16 +50313,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/5df1660048dd4e9d2d9f20d0d7c57d39-1061124.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-becker" start="20260913040400 +0000" stop="20260913043201 +0000">
-    <title>Becker S4 Ep. 22</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20260913043200 +0000" stop="20260913045901 +0000">
-    <title>Becker S4 Ep. 23</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-becker" start="20260913045900 +0000" stop="20260913052700 +0000">
     <title>Becker S4 Ep. 24</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
@@ -51398,11 +51033,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-aussiedramapopup" start="20260913033500 +0000" stop="20260913042901 +0000">
-    <title>Rush S3 Ep. 6</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64d093a0a5aa6e001384f2a9/featuredImage_1767916248166.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-aussiedramapopup" start="20260913042900 +0000" stop="20260913052300 +0000">
     <title>Rush S3 Ep. 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64d093a0a5aa6e001384f2a9/featuredImage_1767916248166.jpg"/>
@@ -51776,16 +51406,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-aussiedramapopup" start="20260915223623 +0000" stop="20260915232823 +0000">
     <title>Rush S4 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20260913032300 +0000" stop="20260913041100 +0000">
-    <title>Bullet Proof</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20260913041100 +0000" stop="20260913050000 +0000">
-    <title>Hot &amp; Bothered</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
   <programme channel="mjh-10-rookieblue" start="20260913050000 +0000" stop="20260913054801 +0000">
@@ -52443,11 +52063,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-prisoner-cell-block-h" start="20260913040100 +0000" stop="20260913045101 +0000">
-    <title>Prisoner Cell Block H S3 Ep. 23</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-prisoner-cell-block-h" start="20260913045100 +0000" stop="20260913054301 +0000">
     <title>Prisoner Cell Block H S3 Ep. 24</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
@@ -52843,11 +52458,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-diagnosismurder" start="20260913035400 +0000" stop="20260913044701 +0000">
-    <title>Diagnosis Murder S6 Ep. 22</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-diagnosismurder" start="20260913044700 +0000" stop="20260913054000 +0000">
     <title>Diagnosis Murder S7 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
@@ -53222,11 +52832,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Diagnosis Murder S4 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-nexttopmodel" start="20260913034000 +0000" stop="20260913042900 +0000">
-    <title>America's Next Top Model S11 Ep. 12</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-nexttopmodel" start="20260913042900 +0000" stop="20260913052300 +0000">
     <title>America's Next Top Model S18 Ep. 1</title>
@@ -53617,11 +53222,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>America's Next Top Model S11 Ep. 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20260913034200 +0000" stop="20260913043300 +0000">
-    <title>Project Runway All Stars</title>
-    <icon src="https://preview-amagistv-amg02189-cloudport.now.amagi.tv/Images/S3/ProjectRunway_AllStars_S6_PosterArt_2160x3240.jpg"/>
-    <category>Unscripted Competition</category>
   </programme>
   <programme channel="mjh-10-projectrunway" start="20260913043300 +0000" stop="20260913052500 +0000">
     <title>Project Runway All Stars</title>
@@ -54218,11 +53818,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://preview-amagistv-amg02189-cloudport.now.amagi.tv/Images/S3/PRAS_S1_CoverArt_1920x1080.jpg"/>
     <category>Unscripted Competition</category>
   </programme>
-  <programme channel="mjh-10-world-of-survivor" start="20260913033900 +0000" stop="20260913043300 +0000">
-    <title>Survivor US S1 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-world-of-survivor" start="20260913043300 +0000" stop="20260913052801 +0000">
     <title>Survivor US S1 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
@@ -54521,11 +54116,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-world-of-survivor" start="20260915215630 +0000" stop="20260915231930 +0000">
     <title>Australian Survivor S2 Ep. 8</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/01/21/7ed52087d862734638d8612e5790bbfb-1407229.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-mtv-the-shores" start="20260913035900 +0000" stop="20260913044701 +0000">
-    <title>Jersey Shore S2 Ep. 206</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/03/e793739f541f8b6a6423517b6e9257e3-1439572.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-mtv-the-shores" start="20260913044700 +0000" stop="20260913053601 +0000">
@@ -54932,16 +54522,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Jersey Shore S1 Ep. 108</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/03/e793739f541f8b6a6423517b6e9257e3-1439572.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20260913040300 +0000" stop="20260913043100 +0000">
-    <title>Judge Judy S3 Ep. 136</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20260913043100 +0000" stop="20260913045901 +0000">
-    <title>Judge Judy S3 Ep. 137</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
   </programme>
   <programme channel="mjh-10-judge-judy" start="20260913045900 +0000" stop="20260913052700 +0000">
     <title>Judge Judy S3 Ep. 138</title>
@@ -55658,11 +55238,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
     <category>Light Entertainment</category>
   </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20260913034800 +0000" stop="20260913042801 +0000">
-    <title>The Only Way Is Essex S3 Ep. 10</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-theonlywayisessex" start="20260913042800 +0000" stop="20260913051100 +0000">
     <title>The Only Way Is Essex S3 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
@@ -56173,11 +55748,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-undercoverboss" start="20260913035700 +0000" stop="20260913044600 +0000">
-    <title>Undercover Boss Canada S1 Ep. 10</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67dbdd6189ba442cd9bfcc59/featuredImage.jpg"/>
-    <category>Documentary</category>
-  </programme>
   <programme channel="mjh-10-undercoverboss" start="20260913044600 +0000" stop="20260913053501 +0000">
     <title>Undercover Boss Canada S2 Ep. 1</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67dbdd6189ba442cd9bfcc59/featuredImage.jpg"/>
@@ -56556,21 +56126,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-undercoverboss" start="20260915224002 +0000" stop="20260915233302 +0000">
     <title>Undercover Boss S5 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20260913035100 +0000" stop="20260913041500 +0000">
-    <title>Redeem Girl Rumble</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason09_591948.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20260913041500 +0000" stop="20260913044100 +0000">
-    <title>Homefront Heat</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason09_591935.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20260913044100 +0000" stop="20260913050700 +0000">
-    <title>Crazy Cash</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason02_591846.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-hardcorepawn" start="20260913050700 +0000" stop="20260913053201 +0000">
@@ -57822,11 +57377,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason02_591854.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-wicked-tuna" start="20260913034700 +0000" stop="20260913043900 +0000">
-    <title>Wicked Tuna</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
-    <category>Adventure</category>
-  </programme>
   <programme channel="mjh-10-wicked-tuna" start="20260913043900 +0000" stop="20260913053100 +0000">
     <title>Wicked Tuna</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
@@ -58422,11 +57972,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/30/6e2842d68d5c07e672d32f99577b2758-1151628.jpg"/>
     <category>Adventure</category>
   </programme>
-  <programme channel="mjh-10-embarrassing-bodies" start="20260913033700 +0000" stop="20260913042901 +0000">
-    <title>Embarrassing Bodies S6 Ep. 8</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-embarrassing-bodies" start="20260913042900 +0000" stop="20260913052100 +0000">
     <title>Embarrassing Bodies S2 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
@@ -58816,11 +58361,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Embarrassing Bodies S2 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-highwaythruhell" start="20260913035200 +0000" stop="20260913044600 +0000">
-    <title>Episode 5</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HighwayThruHellSeason10.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-highwaythruhell" start="20260913044600 +0000" stop="20260913054201 +0000">
     <title>Episode 6</title>
@@ -59391,21 +58931,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Up In Smoke</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HighwayThruHellSeason10.jpg"/>
     <category>Factual</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20260913034500 +0000" stop="20260913040801 +0000">
-    <title>Cops S28 Ep. 2824</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20260913040800 +0000" stop="20260913043001 +0000">
-    <title>Cops S28 Ep. 2825</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20260913043000 +0000" stop="20260913045201 +0000">
-    <title>Cops S28 Ep. 2826</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
-    <category>Crime</category>
   </programme>
   <programme channel="mjh-10-cops" start="20260913045200 +0000" stop="20260913051501 +0000">
     <title>Cops S28 Ep. 2827</title>
@@ -60272,16 +59797,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-deadlywomen" start="20260913031700 +0000" stop="20260913040800 +0000">
-    <title>Love You To Pieces</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason06.jpg"/>
-    <category>Factual</category>
-  </programme>
-  <programme channel="mjh-10-deadlywomen" start="20260913040800 +0000" stop="20260913050200 +0000">
-    <title>Hunting Humans</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason06.jpg"/>
-    <category>Factual</category>
-  </programme>
   <programme channel="mjh-10-deadlywomen" start="20260913050200 +0000" stop="20260913055600 +0000">
     <title>Parents Peril</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason06.jpg"/>
@@ -60872,11 +60387,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason05.jpg"/>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-crime-time" start="20260913040300 +0000" stop="20260913050101 +0000">
-    <title>Forensic Investigators S2 Ep. 12</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/04/73330fb14e1b76afdab939383ba8aaea-1029837.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-time" start="20260913050100 +0000" stop="20260913055300 +0000">
     <title>Murdertown S2 Ep. 2</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/02/06/322a842d4c517f003702681fd05c9590-1296562.jpg"/>
@@ -61247,11 +60757,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/18/f3cb209c342ff0069dd87f4648b2b0ad-1033003.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-crime-hunters" start="20260913033600 +0000" stop="20260913043701 +0000">
-    <title>The FBI Files S3 Ep. 49</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/50043a49919fb14e5280aa7db108f117-1328467.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-hunters" start="20260913043700 +0000" stop="20260913053700 +0000">
     <title>The New Detectives: Case Studies in Forensic Science S3 Ep. 19</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
@@ -61586,11 +61091,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>The New Detectives: Case Studies in Forensic Science S9 Ep. 111</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-forty-eight-hours" start="20260913035100 +0000" stop="20260913044100 +0000">
-    <title>48 Hours S22 Ep. 22</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-forty-eight-hours" start="20260913044100 +0000" stop="20260913053100 +0000">
     <title>48 Hours S22 Ep. 60</title>
@@ -61996,11 +61496,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>48 Hours S26 Ep. 25</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20260913035600 +0000" stop="20260913044501 +0000">
-    <title>Vanity Fair Confidential AU S4 Ep. 1</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-true-stories" start="20260913044500 +0000" stop="20260913053300 +0000">
     <title>Vanity Fair Confidential AU S4 Ep. 11</title>
@@ -62450,11 +61945,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-true-stories" start="20260915233312 +0000" stop="20260915235812 +0000">
     <title>Who The Bleep Did I Marry? S2 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/08/23/3f5e8724fcd5d8e07865fae86f4fa3b0-1174410.jpg"/>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-haunt-tv" start="20260913033100 +0000" stop="20260913042700 +0000">
-    <title>Paranormal Survivor</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/14/1761c048e29813e12fc2e8421fafb639-1249401.jpg"/>
     <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-haunt-tv" start="20260913042700 +0000" stop="20260913052100 +0000">
@@ -63197,11 +62687,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_celebrityhelpmyhouseishaunted_Season_4_16x9_bg.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-ghosthunters" start="20260913035900 +0000" stop="20260913045300 +0000">
-    <title>Ghost Hunters S4 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-ghosthunters" start="20260913045300 +0000" stop="20260913054800 +0000">
     <title>Ghost Hunters S5 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
@@ -63571,16 +63056,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Ghost Hunters S4 Ep. 21</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-anthonybourdain" start="20260913032800 +0000" stop="20260913041301 +0000">
-    <title>Anthony Bourdain Parts Unknown S3 Ep. 3</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
-    <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-anthonybourdain" start="20260913041300 +0000" stop="20260913045800 +0000">
-    <title>Anthony Bourdain Parts Unknown S3 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
-    <category>Food &amp; Cooking</category>
   </programme>
   <programme channel="mjh-10-anthonybourdain" start="20260913045800 +0000" stop="20260913054301 +0000">
     <title>Anthony Bourdain Parts Unknown S4 Ep. 4</title>
@@ -64026,11 +63501,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Anthony Bourdain Parts Unknown S2 Ep. 2</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
     <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-shockwave" start="20260913033100 +0000" stop="20260913043800 +0000">
-    <title>Is Earth Striking Back? (2017)</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QF8QRN2P7PIHRQH9LZJ_2_3.jpg"/>
-    <category>documentary</category>
   </programme>
   <programme channel="mjh-10-shockwave" start="20260913043800 +0000" stop="20260913053800 +0000">
     <title>Water</title>
@@ -64561,11 +64031,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Tsunami: Facing the Global Threat</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/59dc68cd2fae20bb158d59108e499854-1425339.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-historyandwarfare" start="20260913032500 +0000" stop="20260913042100 +0000">
-    <title>1968: A Year of War, Turmoil, and Beyond</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171ALDPA2TV7Q_16_9.jpg"/>
-    <category>documentary</category>
   </programme>
   <programme channel="mjh-10-historyandwarfare" start="20260913042100 +0000" stop="20260913053200 +0000">
     <title>Highwaymen</title>
@@ -65186,11 +64651,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <title>Antietam</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171C54ZXOD95F_2_3.jpg"/>
     <category>documentary</category>
-  </programme>
-  <programme channel="mjh-10-documentaryshell" start="20260913032100 +0000" stop="20260913042500 +0000">
-    <title>When Shark Meets Croc</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67dbd955917edb2422b3f494/featuredImage.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-documentaryshell" start="20260913042500 +0000" stop="20260913052301 +0000">
     <title>Human Prey S1 Ep. 3</title>
@@ -65947,26 +65407,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/10/31/17599caea9a9860309c2b78a70fc572d-1276639.jpg"/>
     <category>Movies</category>
   </programme>
-  <programme channel="mjh-10-nick-jr" start="20260913034200 +0000" stop="20260913040701 +0000">
-    <title>Team Umizoomi S2 Ep. 207</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/fdcbc23a5debdb6fe4711b408f9b9346-991749.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20260913040700 +0000" stop="20260913043600 +0000">
-    <title>Bubble Guppies S3 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20260913043600 +0000" stop="20260913043900 +0000">
-    <title>Bumper</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6a9e6af3fad3326545026abe/featuredImage_1788766964344.jpg"/>
-    <category>Anime</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20260913043900 +0000" stop="20260913050801 +0000">
-    <title>Bubble Guppies S1 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nick-jr" start="20260913050800 +0000" stop="20260913053700 +0000">
     <title>Bubble Guppies S2 Ep. 16</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
@@ -66710,16 +66150,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-nick-jr" start="20260915230315 +0000" stop="20260915233215 +0000">
     <title>Bubble Guppies S1 Ep. 14</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20260913035100 +0000" stop="20260913041800 +0000">
-    <title>SpongeBob SquarePants S4 Ep. 74</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20260913041800 +0000" stop="20260913044400 +0000">
-    <title>SpongeBob SquarePants S4 Ep. 75</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-spongebobsquarepants" start="20260913044400 +0000" stop="20260913051100 +0000">
@@ -67517,16 +66947,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons" start="20260913035000 +0000" stop="20260913041601 +0000">
-    <title>Sanjay and Craig S3 Ep. 6</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/d0b3e785bcd631632b19b9829ea7ea1e-992241.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20260913041600 +0000" stop="20260913044000 +0000">
-    <title>Breadwinners S2 Ep. 201</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons" start="20260913044000 +0000" stop="20260913050900 +0000">
     <title>Danny Phantom S2 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
@@ -68297,16 +67717,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20260913035200 +0000" stop="20260913041900 +0000">
-    <title>Hey Arnold! S1 Ep. 13</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20260913041900 +0000" stop="20260913044300 +0000">
-    <title>Rocket Power S1 Ep. 8</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/04/27/0c3bce0648997d8da40e36f862f6aa39-1052016.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons-90s" start="20260913044300 +0000" stop="20260913051001 +0000">
     <title>Hey Arnold! S1 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
@@ -69050,21 +68460,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
   <programme channel="mjh-10-nicktoons-90s" start="20260915230653 +0000" stop="20260915233653 +0000">
     <title>Hey Arnold! S3 Ep. 50</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20260913034700 +0000" stop="20260913041100 +0000">
-    <title>Game Shakers S1 Ep. 119</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/0a1e27fe77c699688217df67e0cfaf16-1061258.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20260913041100 +0000" stop="20260913043900 +0000">
-    <title>Big Time Rush S2 Ep. 10</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20260913043900 +0000" stop="20260913050700 +0000">
-    <title>Big Time Rush S2 Ep. 24</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nickteen" start="20260913050700 +0000" stop="20260913053400 +0000">
@@ -69822,15 +69217,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme start="20260913010000 +0000" stop="20260913050000 +0000" channel="mjh-10-geckotv">
-    <title>To Be Advised Later</title>
-    <desc>Takes a look at trusted brands and exclusive finds for a premium shopping experience at TVSN.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6b4c3cc04f344e712500/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
   <programme start="20260913050000 +0000" stop="20260913090000 +0000" channel="mjh-10-geckotv">
     <title>To Be Advised Later</title>
     <desc>Takes a look at trusted brands and exclusive finds for a premium shopping experience at TVSN.</desc>
@@ -70198,15 +69584,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6b4c3cc04f344e712500/image"/>
     <rating>
       <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="mjh-10-youtv">
-    <title>Home And Garden Special Offers</title>
-    <desc>Home &amp; Garden Innovations - See How Our Range Of "As Seen on TV" Products Will Help To Take The Hassle Out Of Cooking, Cleaning, and Maintaining Your Garden.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/ff6a1129db8e427421c9/image"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20260913050000 +0000" stop="20260913052500 +0000" channel="mjh-10-youtv">
@@ -71920,16 +71297,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20260913030000 +0000" stop="20260913050000 +0000" channel="mjh-sbs-sbst">
-    <title>Speedweek</title>
-    <sub-title>Episode 37</sub-title>
-    <desc>Speedweek is a comprehensive motorsport show that covers many forms of Australian and International motorsport - made specifically for speed enthusiasts.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9cafbc49005e49c3fa30/image"/>
-    <episode-num system="SxxExx">S2026E37</episode-num>
-    <episode-num system="xmltv_ns">2025.36.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
   </programme>
   <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="mjh-sbs-sbst">
     <title>Tour Of Britain Women</title>
@@ -74687,15 +74054,6 @@ Australia's oldest Italian restaurant celebrates a major milestone.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260913030000 +0000" stop="20260913050000 +0000" channel="mjh-sbs-2syd">
-    <title>Memphis Belle</title>
-    <desc>A World War II bomber plane piloted by a young crew is assigned a dangerous bombing mission. The crew discover that the target is a heavily defended town that invariably causes many Allied casualties.</desc>
-    <category>Action &amp; Adventure</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c542bb16148a522f0b84/image"/>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20260913050000 +0000" stop="20260913062500 +0000" channel="mjh-sbs-2syd">
     <title>Watandar, My Countryman</title>
     <desc>When Afghanistan falls to the Taliban, an Afghan refugee finds a new home in the Australian desert.</desc>
@@ -77290,32 +76648,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
     <episode-num system="SxxExx">S2026E920</episode-num>
     <episode-num system="xmltv_ns">2025.919.</episode-num>
     <episode-num system="original-air-date">2026-09-20</episode-num>
-  </programme>
-  <programme start="20260913040000 +0000" stop="20260913043000 +0000" channel="mjh-sbs-3syd">
-    <title>The Cook Up With Adam Liaw</title>
-    <sub-title>Food Crush</sub-title>
-    <desc>It's a revealing night in The Cook Up Kitchen, as Adam and his guests, chef Oscar Solomon and host Brooke Blurton, reveal their food crushes.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4dd929c3b688bf880a1f/image"/>
-    <episode-num system="SxxExx">S09E88</episode-num>
-    <episode-num system="xmltv_ns">8.87.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913043000 +0000" stop="20260913050000 +0000" channel="mjh-sbs-3syd">
-    <title>The Cook Up With Adam Liaw</title>
-    <sub-title>Tribute Sandwich</sub-title>
-    <desc>Forget tribute bands Adam, Myra Karakelle from MLK Deli and Ali Chebbani from Chebbo's Burhers are here to make tribute sandwiches.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4dd929c3b688bf880a1f/image"/>
-    <episode-num system="SxxExx">S09E89</episode-num>
-    <episode-num system="xmltv_ns">8.88.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20260913050000 +0000" stop="20260913053000 +0000" channel="mjh-sbs-3syd">
     <title>The Cook Up With Adam Liaw</title>
@@ -85277,26 +84609,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20260913040000 +0000" stop="20260913043000 +0000" channel="mjh-sbs-6nat">
-    <title>Serbian News</title>
-    <sub-title>Sunday 13 September 2026</sub-title>
-    <desc>The 7:30pm Serbian News from Radio Television of Serbia (RTS), published daily by 7:30am Australian east coast time, in Serbian, no subtitles.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4893a16ecbfbe419562e/image"/>
-    <episode-num system="SxxExx">S2026E913</episode-num>
-    <episode-num system="xmltv_ns">2025.912.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-  </programme>
-  <programme start="20260913043000 +0000" stop="20260913050000 +0000" channel="mjh-sbs-6nat">
-    <title>Bosnian News</title>
-    <sub-title>Sunday 13 September 2026</sub-title>
-    <desc>The 7pm Bosnian news  from BHRT Sarajevo Bosnia and Herzegovina, published daily by 7am Australian east coast time, in Bosnian, no subtitles.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4d50209c9e86578f9a13/image"/>
-    <episode-num system="SxxExx">S2026E913</episode-num>
-    <episode-num system="xmltv_ns">2025.912.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-  </programme>
   <programme start="20260913050000 +0000" stop="20260913053000 +0000" channel="mjh-sbs-6nat">
     <title>Armenian News</title>
     <sub-title>Sunday 13 September 2026</sub-title>
@@ -86952,12 +86264,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
     <episode-num system="xmltv_ns">2025.916.</episode-num>
     <episode-num system="original-air-date">2026-09-17</episode-num>
   </programme>
-  <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="mjh-sbs-sbs-radio-1">
-    <title>Polish (RPT)</title>
-    <desc>Stay connected in Polish to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Polish team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7bab20f7f3337b68cd71/image"/>
-  </programme>
   <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="mjh-sbs-sbs-radio-1">
     <title>Bosnian (RPT)</title>
     <desc>Stay connected in Bosnian to Australian news and conversations that matter to you. Balanced, impartial, and without any agenda from the SBS Bosnian team.</desc>
@@ -87431,12 +86737,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
     <desc>Stay connected in Mandarin to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Mandarin team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/a6b8c1f5d92fa21f9e6e/image"/>
-  </programme>
-  <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="mjh-sbs-sbs-radio-2">
-    <title>Kurdish</title>
-    <desc>Stay connected in Kurdish to Australian news and conversations that matter to you. Balanced, impartial, and without any agenda from the SBS Kurdish team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/243a1d1c966cdac33da5/image"/>
   </programme>
   <programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="mjh-sbs-sbs-radio-2">
     <title>Indonesian</title>
@@ -88025,58 +87325,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
     <desc>Stay connected in Filipino to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Filipino team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/3bfb7ffb857202f0d1fd/image"/>
-  </programme>
-  <programme start="20260913040500 +0000" stop="20260913041500 +0000" channel="mjh-abc-kids">
-    <title>Fireman Sam</title>
-    <sub-title>Grandpa Day</sub-title>
-    <desc>When James and Sarah compete for the title of 'best steam driver,' James accidentally spills a burning coal into a pile of wood, sparking a fire.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/043c9a140484b1f44059/image"/>
-    <episode-num system="SxxExx">S16E17</episode-num>
-    <episode-num system="xmltv_ns">15.16.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913041500 +0000" stop="20260913042500 +0000" channel="mjh-abc-kids">
-    <title>Nikhil &amp; Jay</title>
-    <sub-title>Nikhil and Jay and the Compost Monster</sub-title>
-    <desc>Mr Awan tells Nikhil and Jay that there's a monster living in the compost bin that likes to eat weeds! Are they brave enough to feed it?</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/68e6c2248f820353efce/image"/>
-    <episode-num system="SxxExx">S01E30</episode-num>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913042500 +0000" stop="20260913043500 +0000" channel="mjh-abc-kids">
-    <title>Numberblocks</title>
-    <sub-title>Double Trouble</sub-title>
-    <desc>One explores the Double Dungeon of Doom in search of the golden apples, doubling herself all the way up to Octoblock. Learn how to double and halve numbers up to 8 with the Numberblocks.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/574b120455836dc07977/image"/>
-    <episode-num system="SxxExx">S01E24</episode-num>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260913043500 +0000" stop="20260913050000 +0000" channel="mjh-abc-kids">
-    <title>Fizzy And Suds</title>
-    <sub-title>Chocolate / Dance</sub-title>
-    <desc>Fizzy and Suds follow the journey of cocoa beans into chocolate. / Fizzy and Suds bop through the world of dance.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4af7755ea6bb8c75c54e/image"/>
-    <episode-num system="SxxExx">S03E38</episode-num>
-    <episode-num system="xmltv_ns">2.37.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20260913050000 +0000" stop="20260913052500 +0000" channel="mjh-abc-kids">
     <title>Play School: Make and Create</title>
@@ -97968,19 +97216,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260913040500 +0000" stop="20260913045000 +0000" channel="mjh-abc-me">
-    <title>ER</title>
-    <sub-title>Day One</sub-title>
-    <desc>Carol returns after her eight-week absence. Carter finds himself watching over a mysterious, mentally ill singing woman. Susan clashes with Dr. Kayson over a diagnosis. Dr. Greene treats a domestic violence victim.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/a6bd5e0ceb4fbd1fa83e/image"/>
-    <episode-num system="SxxExx">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20260913045000 +0000" stop="20260913053500 +0000" channel="mjh-abc-me">
     <title>Guy Montgomery's Guy Mont-Spelling Bee</title>
     <sub-title>Guy Montgomery's Mum, I'm Coming For You Now</sub-title>
@@ -102494,26 +101729,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260913040000 +0000" stop="20260913042900 +0000" channel="mjh-abc-news">
-    <title>ABC News</title>
-    <sub-title>Sunday 13 September 2026</sub-title>
-    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c83b5fa4f9d341c1b93c/image"/>
-    <episode-num system="SxxExx">S2026E74</episode-num>
-    <episode-num system="xmltv_ns">2025.73.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-  </programme>
-  <programme start="20260913042900 +0000" stop="20260913050000 +0000" channel="mjh-abc-news">
-    <title>Australian Story</title>
-    <sub-title>Time After Time - Cheng Lei</sub-title>
-    <desc>Journalist Cheng Lei discovered that the trauma of being separated from her children for three years didn't end with her release from a Chinese prison.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4eaed7ff57a97b6a8cf9/image"/>
-    <episode-num system="SxxExx">S2026E28</episode-num>
-    <episode-num system="xmltv_ns">2025.27.</episode-num>
-    <episode-num system="original-air-date">2026-09-13</episode-num>
-  </programme>
   <programme start="20260913050000 +0000" stop="20260913052900 +0000" channel="mjh-abc-news">
     <title>ABC News</title>
     <sub-title>Sunday 13 September 2026</sub-title>
@@ -106234,19 +105449,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
     <desc>Highlights of Thoroughbred racing from Illawarra Grange.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="mjh-bloomberg-tv" start="20260913040000 +0000" stop="20260913043000 +0000">
-    <title>Bloomberg Originals</title>
-    <sub-title>Sunday 13 September 2026</sub-title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <category>News and Documentaries</category>
-  </programme>
-  <programme channel="mjh-bloomberg-tv" start="20260913043000 +0000" stop="20260913050000 +0000">
-    <title>Latitude</title>
-    <sub-title>BIOCON</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>The world's axis is spinning to Asia. Haslinda Amin meets the people shaping the region's rise. In this episode, Kiran Mazumdar-Shaw, Biocon Limited Executive Chairperson.</desc>
-    <category>News and Documentaries</category>
-  </programme>
   <programme channel="mjh-bloomberg-tv" start="20260913050000 +0000" stop="20260913053000 +0000">
     <title>The Circuit</title>
     <sub-title>Artificial Intelligence Pioneer Fei-Fei Li</sub-title>
@@ -106870,11 +106072,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
     <title>Bloomberg Tech</title>
     <sub-title>Friday 18 September 2026</sub-title>
     <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
-    <category>News and Documentaries</category>
-  </programme>
-  <programme channel="mjh-good-dot" start="20260913030000 +0000" stop="20260913042000 +0000">
-    <title>Norm Geisler- Not Qualified</title>
-    <desc>When an illiterate farm boy starts asking why Christianity is true, no one seems to have answers. But after a twenty-year search for the foundations of the faith, he finds more than he ever expected.</desc>
     <category>News and Documentaries</category>
   </programme>
   <programme channel="mjh-good-dot" start="20260913042000 +0000" stop="20260913060000 +0000">
@@ -107867,23 +107064,6 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
     <desc>Led by Donna and Reverend W.C. Martin, 22 families from a rural Black church in the small East Texas town of Possum Trot adopt 77 of the most difficult-to-place kids in the foster system and kickstart a movement in the process.</desc>
     <category>Movie</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20260913040000 +0000" stop="20260913043000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20260913043000 +0000" stop="20260913050000 +0000">
-    <title>Streets of Gold: Mumbai</title>
-    <desc>Indian weddings span several days. Ahead of his wedding, Nikhil is preparing for the haldi ceremony, where turmeric paste is applied by female relatives, symbolizing purity, prosperity and fertility.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3310491200_1_20260810T013906252Z_103_imageprocessorclient-tvplus-linear-9468c5484-ns87l.jpeg"/>
-    <episode-num system="onscreen">S08E07</episode-num>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20260913050000 +0000" stop="20260913053000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -107948,111 +107128,21 @@ An undiscovered World War II espionage base in the Rock of Gibraltar; the remain
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20260913034623 +0000" stop="20260913041052 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Rob Warner’s Wild Rides</title>
-    <sub-title lang="en">Ecuador</sub-title>
-    <desc lang="en">Former World Cup racer Rob Warner travels to Ecuador with rising MTB star Finn Iles to take on the Cotopaxi mountain and its oppressive high altitude.</desc>
-    <category lang="en">Mountain Bike Freeride</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:65f2c1ca-cb80-4454-89a0-a5349ac5b242/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.tv/en_INT/page/rrn:content:episode-videos:bbbc2d1c-3040-483b-899c-ee062028dbf6/rob-warners-wild-rides-s1-e3</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:bbbc2d1c-3040-483b-899c-ee062028dbf6</episode-num>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="original-air-date">2026-08-25 10:06:34</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:65f2c1ca-cb80-4454-89a0-a5349ac5b242</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
+  <programme channel="mjh-bbc-news" start="20260913093000 +0000" stop="20260913100000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
     </rating>
-    <series-desc lang="en">Rob Warner travels to Ecuador with rising mountain biking star Finn Iles to take on the Cotopaxi in the Andes.</series-desc>
   </programme>
-  <programme start="20260913041052 +0000" stop="20260913050110 +0000" channel="mjh-redbull-tv">
-    <title lang="en">A Biker's Ballad</title>
-    <sub-title lang="en">Exploring MTB’s roots: A must-see for every rider</sub-title>
-    <desc lang="en">14 riders. 7 years. This mountain biking epic takes a two-wheeled journey back to where the sport began in Crested Butte, Colorado, to celebrate its deep-rooted culture.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:films:9c4a954f-0fbc-4b19-86f4-471620a9ca71/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.tv/en_INT/page/rrn:content:films:9c4a954f-0fbc-4b19-86f4-471620a9ca71/a-bikers-ballad</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:9c4a954f-0fbc-4b19-86f4-471620a9ca71</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
+  <programme channel="mjh-bbc-news" start="20260913100000 +0000" stop="20260913103000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
     </rating>
-    <series-desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</series-desc>
-  </programme>
-  <programme start="20260913040000 +0000" stop="20260913043000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">1637765275</episode-num>
-    <episode-num system="freeviewnz.tv">episode/108c8146-0456-4f1f-b938-6bfedf123480</episode-num>
-    <episode-num system="original-air-date">2026-09-13 16:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260913043000 +0000" stop="20260913050000 +0000" channel="mjh-al-jazeera">
-    <title>People and Power</title>
-    <sub-title>In Their Own Hands - Ghana's Drug Vigilantes</sub-title>
-    <desc>Citizen vigilantes patrol Ghana's streets, fighting an opioid crisis. We meet those taking the law into their own hands.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/12621D12-EEC9-447C-AF3CC16427389199.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">58541524</episode-num>
-    <episode-num system="freeviewnz.tv">episode/78708aea-a243-4111-afc8-c04322d00ad8</episode-num>
-    <episode-num system="dd_seriesid">15340989</episode-num>
-    <episode-num system="freeviewnz.tv">season/874cb5fa-e5b5-4bc1-a0d7-b96d56791b5c</episode-num>
-    <episode-num system="freeviewnz.tv">show/b9b748c5-1dea-4c40-8af3-2bf3c4b16d9f</episode-num>
-    <episode-num system="original-air-date">2026-09-10 08:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc138586306</episode-num>
-    <episode-num system="themoviedb.com">tv/6705</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>People &amp;amp; Power is a current affairs programme on Al Jazeera English which broadcasts once a week, on Wednesdays, and repeated throughout the week.
-
-Each half-hour programme features one investigative documentaries on an issue related to power from around the world. The programme occasionally has one hour specials.</series-desc>
   </programme>
   <programme start="20260913050000 +0000" stop="20260913053000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
