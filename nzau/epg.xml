@@ -274,10 +274,6 @@
     <display-name>Snowy Mountains Television</display-name>
     <icon src="https://i.mjh.nz/.images/smtv.png"/>
   </channel>
-  <channel id="mjh-wnbl-townsville-tip-off-2026-fast">
-    <display-name>WNBL Townsville Tip-off 2026</display-name>
-    <icon src="https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png"/>
-  </channel>
   <channel id="mjh-seinfeld-fast">
     <display-name>Seinfeld</display-name>
     <icon src="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png"/>
@@ -353,6 +349,10 @@
   <channel id="mjh-qrl-hostplus-cup-2026-fast">
     <display-name>QRL Hostplus Cup 2026</display-name>
     <icon src="https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png"/>
+  </channel>
+  <channel id="mjh-wnbl-townsville-tip-off-2026-fast">
+    <display-name>WNBL Townsville Tip-off 2026</display-name>
+    <icon src="https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png"/>
   </channel>
   <channel id="mjh-10-prisoner-cell-block-h">
     <display-name>Prisoner: Cell Block H</display-name>
@@ -770,88 +770,6 @@
     <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/5E5FE6F9-D7AB-452E-BE9944F47B97C891.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <episode-num system="onscreen">S2026E87</episode-num>
     <category>Sports</category>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="mjh-sky-hgtv">
-    <title>Beachfront Bargain Hunt</title>
-    <sub-title>Paradise in Belize</sub-title>
-    <desc>After years of Caribbean travels, a couple looks to buy a family retreat on Ambergris Caye, Belize, but must first agree on a budget.</desc>
-    <date>2019</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/mhZ4wtRwmGFiNl8jc01OUEiyQll.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11922640</episode-num>
-    <episode-num system="freeviewnz.tv">episode/462e0050-69e4-457f-b02a-bae00ef1f0aa</episode-num>
-    <episode-num system="xmltv_ns">25.4.0</episode-num>
-    <episode-num system="dd_seriesid">1002167</episode-num>
-    <episode-num system="freeviewnz.tv">season/d0cb9a69-d55e-44b2-bdd4-2b97fe882aa9</episode-num>
-    <episode-num system="freeviewnz.tv">show/e32ecf90-ae5d-40d1-b187-1b96a7f92b46</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/76632</episode-num>
-    <episode-num system="thetvdb.com">series/275886</episode-num>
-    <episode-num system="threenow.co.nz">show/S2890-673</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Real-estate agents help potential buyers find affordable beachfront homes.</series-desc>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-sky-hgtv">
-    <title>Beachfront Bargain Hunt</title>
-    <sub-title>Beach House in NC</sub-title>
-    <desc>A family that loves the Outer Banks weighs buying a beachfront home, hoping rental income can help make Mom's longtime dream a reality.</desc>
-    <date>2019</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/mhZ4wtRwmGFiNl8jc01OUEiyQll.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11922641</episode-num>
-    <episode-num system="freeviewnz.tv">episode/12c973c1-43bc-4e74-9606-5d1e6e76e0c5</episode-num>
-    <episode-num system="xmltv_ns">25.5.0</episode-num>
-    <episode-num system="dd_seriesid">1002167</episode-num>
-    <episode-num system="freeviewnz.tv">season/d0cb9a69-d55e-44b2-bdd4-2b97fe882aa9</episode-num>
-    <episode-num system="freeviewnz.tv">show/e32ecf90-ae5d-40d1-b187-1b96a7f92b46</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/76632</episode-num>
-    <episode-num system="thetvdb.com">series/275886</episode-num>
-    <episode-num system="threenow.co.nz">show/S2890-673</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Real-estate agents help potential buyers find affordable beachfront homes.</series-desc>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-sky-hgtv">
     <title>You Live In What?</title>
@@ -7962,12 +7880,10 @@
     <sub-title>Jessabelle</sub-title>
     <category>Movies</category>
   </programme>
-  <programme channel="mjh-sky-fast3" start="20260919153500 +1200" stop="20260919162500 +1200">
-    <title>Below Deck Down Under</title>
-    <sub-title>Nice Girls Finish Last</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/9F01152C-8903-494A-8D977EB01D2D3540.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <category>Reality</category>
+  <programme channel="mjh-sky-ptms" start="20260920204100 +1200" stop="20260920223400 +1200">
+    <title>Sinister 2</title>
+    <sub-title>Sinister 2</sub-title>
+    <category>Movies</category>
   </programme>
   <programme channel="mjh-sky-fast3" start="20260919162500 +1200" stop="20260919171000 +1200">
     <title>Below Deck Down Under</title>
@@ -8222,10 +8138,12 @@
     <episode-num system="onscreen">S02E06</episode-num>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-sky-ptmb" start="20260919155000 +1200" stop="20260919164800 +1200">
-    <title>MythBusters</title>
-    <sub-title>MythBusters</sub-title>
-    <category>Technology</category>
+  <programme channel="mjh-sky-fast3" start="20260920202000 +1200" stop="20260920210500 +1200">
+    <title>Below Deck Down Under</title>
+    <sub-title>The Turnover Day</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/9F01152C-8903-494A-8D977EB01D2D3540.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-ptmb" start="20260919164900 +1200" stop="20260919174700 +1200">
     <title>MythBusters</title>
@@ -8357,19 +8275,10 @@
     <sub-title>MythBusters</sub-title>
     <category>Technology</category>
   </programme>
-  <programme channel="mjh-sky-fast4" start="20260919153500 +1200" stop="20260919162500 +1200">
-    <title>Mean Girl Murders</title>
-    <sub-title>Goth Girl Gone</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C233A85A-1379-41D0-BE1ADFD207A1D765.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-sky-fast4" start="20260919162500 +1200" stop="20260919164500 +1200">
-    <title>Dates From Hell</title>
-    <sub-title>A Date With Hate</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/2308D72E-3F81-40B8-B921010D12CE5DD1.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <category>Investigations</category>
+  <programme channel="mjh-sky-ptmb" start="20260920200600 +1200" stop="20260920210500 +1200">
+    <title>MythBusters</title>
+    <sub-title>MythBusters</sub-title>
+    <category>Technology</category>
   </programme>
   <programme channel="mjh-sky-fast4" start="20260919164500 +1200" stop="20260919171000 +1200">
     <title>Exposed: Naked Crimes</title>
@@ -8680,19 +8589,12 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-sky-fast5" start="20260919153500 +1200" stop="20260919162500 +1200">
-    <title>Ghost Adventures</title>
-    <sub-title>Abandoned in Elko</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/46100068-C556-4141-814B166918CE431A.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S20E04</episode-num>
-    <category>Supernatural</category>
-  </programme>
-  <programme channel="mjh-sky-fast5" start="20260919162500 +1200" stop="20260919165000 +1200">
-    <title>Long Island Medium</title>
-    <sub-title>Prayers for Petey</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/ACF3A972-38B7-4974-B160FEA2C56FEBA0.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S05E12</episode-num>
-    <category>Reality</category>
+  <programme channel="mjh-sky-fast4" start="20260920202000 +1200" stop="20260920211000 +1200">
+    <title>Evil Lives Here</title>
+    <sub-title>It Was Like Watching A Demon</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/AC120684-3FB8-4940-ACF0610751167CCB.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S10E08</episode-num>
+    <category>Crime</category>
   </programme>
   <programme channel="mjh-sky-fast5" start="20260919165000 +1200" stop="20260919171000 +1200">
     <title>Long Island Medium</title>
@@ -8968,12 +8870,12 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <category>Supernatural</category>
   </programme>
-  <programme channel="mjh-sky-fast1" start="20260919153500 +1200" stop="20260919162500 +1200">
-    <title>Street Outlaws: Fastest In America</title>
-    <sub-title>Texas Vs Black Sheep: Part 2</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/0248D8C4-823C-4E7F-8F26949A6A832928.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E26</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast5" start="20260920202000 +1200" stop="20260920211000 +1200">
+    <title>Destination Fear</title>
+    <sub-title>Cambria County Jail</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/8333B1E6-6FC8-418C-95DA3B5433A01AB2.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <category>Supernatural</category>
   </programme>
   <programme channel="mjh-sky-fast1" start="20260919162500 +1200" stop="20260919171000 +1200">
     <title>Wheeler Dealers</title>
@@ -9279,12 +9181,19 @@
     <episode-num system="onscreen">S05E08</episode-num>
     <category>Motoring</category>
   </programme>
-  <programme channel="mjh-sky-fast2" start="20260919154000 +1200" stop="20260919162500 +1200">
-    <title>Deadliest Catch</title>
-    <sub-title>On the Rocks</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S10E05</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast1" start="20260920202000 +1200" stop="20260920204500 +1200">
+    <title>All Girls Garage</title>
+    <sub-title>Faye's Rabbit</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6801F549-0B7E-4832-936640B545A9E965.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S12E01</episode-num>
+    <category>Motoring</category>
+  </programme>
+  <programme channel="mjh-sky-fast1" start="20260920204500 +1200" stop="20260920210500 +1200">
+    <title>All Girls Garage</title>
+    <sub-title>Nonrunning C10</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6801F549-0B7E-4832-936640B545A9E965.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S12E02</episode-num>
+    <category>Motoring</category>
   </programme>
   <programme channel="mjh-sky-fast2" start="20260919162500 +1200" stop="20260919171000 +1200">
     <title>Deadliest Catch</title>
@@ -9539,19 +9448,12 @@
     <episode-num system="onscreen">S10E15</episode-num>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-sky-fast6" start="20260919160000 +1200" stop="20260919162500 +1200">
-    <title>House Hunters</title>
-    <sub-title>Cozy Cabin Vs Spacious Lodge In Lake Tahoe</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S217E10</episode-num>
-    <category>Home/gardening</category>
-  </programme>
-  <programme channel="mjh-sky-fast6" start="20260919162500 +1200" stop="20260919165000 +1200">
-    <title>House Hunters</title>
-    <sub-title>A New Life In Columbus</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S218E10</episode-num>
-    <category>Home/gardening</category>
+  <programme channel="mjh-sky-fast2" start="20260920202000 +1200" stop="20260920215000 +1200">
+    <title>Deadliest Catch</title>
+    <sub-title>Deadliest Catch</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S10E16</episode-num>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast6" start="20260919165000 +1200" stop="20260919171000 +1200">
     <title>House Hunters</title>
@@ -10042,6 +9944,20 @@
     <sub-title>The Long And Short Of Enjoying Barcelona</sub-title>
     <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <episode-num system="onscreen">S148E12</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20260920202000 +1200" stop="20260920204500 +1200">
+    <title>House Hunters International</title>
+    <sub-title>Quiet Time In Quito</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S149E12</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20260920204500 +1200" stop="20260920210500 +1200">
+    <title>House Hunters International</title>
+    <sub-title>French Dreams In Saliesdebearn</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S150E12</episode-num>
     <category>Factual</category>
   </programme>
   <programme start="20260919000000 +0000" stop="20260919080000 +0000" channel="mjh-mood-1290">
@@ -11563,82 +11479,6 @@ The two become a relationship beyond the line while a mixture of emotions are dr
     <rating system="New Zealand">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20260919020000 +0000" stop="20260919043000 +0000" channel="mjh-tvnz-1">
-    <title>NPC Rugby</title>
-    <sub-title>Round 8 - Bay Of Plenty vs Hawkes Bay</sub-title>
-    <desc>Join us for coverage of the Round 8 match between hosts Bay of Plenty and Hawke's Bay from Tauranga Domain.</desc>
-    <date>2026</date>
-    <category>Sport</category>
-    <category>Rugby</category>
-    <category>Sports</category>
-    <category>Rugby Union</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/ED6A124A-F82C-4A7C-981A6DF2705B1DDA.jpg"/>
-    <episode-num system="dd_seriesid">1040578</episode-num>
-    <episode-num system="dd_progid">10774706</episode-num>
-    <episode-num system="freeviewnz.tv">episode/496a9cc0-3a78-4b41-b80d-ea3828dfc4ea</episode-num>
-    <episode-num system="freeviewnz.tv">show/961518cf-903f-422a-a994-66434d70d34b</episode-num>
-    <episode-num system="original-air-date">2026-09-19 14:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_15310</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <sport>Rugby Union</sport>
-    <team>Bay Of Plenty</team>
-    <team>Hawkes Bay</team>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-tvnz-1">
-    <title>Border Patrol</title>
-    <sub-title>Border Patrol</sub-title>
-    <desc>A passenger arrives sporting an unusual tourist wardrobe at Customs, Immigration talks to a tattoo artist trying to work on a tourist visa and there are Biosecurity beasties in luggage from Africa.</desc>
-    <date>2025</date>
-    <category>Documentary</category>
-    <category>Factual</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/4viKujuBL0zZIZ9d54kVCRXD7Uj.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_seriesid">1038582</episode-num>
-    <episode-num system="dd_progid">10740568</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e220028b-9410-4d31-b11c-971829668635</episode-num>
-    <episode-num system="freeviewnz.tv">show/c70aa90c-052a-4090-8daf-116b9e9c1544</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/19910</episode-num>
-    <episode-num system="thetvdb.com">series/126651</episode-num>
-    <episode-num system="xmltv_ns">14.2.0</episode-num>
-    <episode-num system="tvnz.co.nz">show/ibms+show:197</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>dolby</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Follow the dedicated frontline staff who keep our borders safe. You won't believe some of the things they find (or where they find them) as they screen new arrivals to Aotearoa for illegal goods and more.</series-desc>
-    <audio-description lang="en_NZ"/>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-tvnz-1">
     <title>The Chase</title>
@@ -16069,45 +15909,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
     </star-rating>
     <series-desc>A fast-paced serial drama in an urban setting, this show explores the lives and loves of the patients and staff of a modern metropolitan hospital and contains a heady mix of medical crisis, human drama, comedy, romance and suspense. Follow the lives and loves of the residents of Ferndale, in New Zealand's longest-running drama.</series-desc>
     <audio-description lang="en_NZ"/>
-  </programme>
-  <programme start="20260919040500 +0000" stop="20260919050000 +0000" channel="mjh-tvnz-2">
-    <title>Seinfeld</title>
-    <sub-title>The English Patient</sub-title>
-    <desc>Elaine hates “The English Patient.” A beautiful woman mistakes George for her boyfriend. An older man challenges Jerry to a weightlifting contest. S8 E17</desc>
-    <date>1989</date>
-    <category>Comedy</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_seriesid">1038350</episode-num>
-    <episode-num system="dd_progid">10577767</episode-num>
-    <episode-num system="freeviewnz.tv">episode/1bd6add3-dfb6-4153-8fe9-c5c48057f9c0</episode-num>
-    <episode-num system="freeviewnz.tv">show/401a29f4-d126-43ac-9a89-15d851fc0bfb</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:05:00</episode-num>
-    <episode-num system="xmltv_ns">7.16.0</episode-num>
-    <episode-num system="themoviedb.com">tv/1400</episode-num>
-    <episode-num system="thetvdb.com">series/79169</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.</series-desc>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919063000 +0000" channel="mjh-tvnz-2">
     <title>The Amazing Race</title>
@@ -21432,48 +21233,6 @@ The shows presenters are Adrian Richardson and Zoe Bingley-Pullen. Adrian presen
     <series-desc>Prepare for hilarity, despair, mania and triumph as five new comedians compete in confounding tasks - all for the approval of the ruthless taskmaster Greg Davies and his timid but thorough assistant - little Alex Horne!</series-desc>
     <audio-description lang="en_NZ"/>
   </programme>
-  <programme start="20260919035500 +0000" stop="20260919050000 +0000" channel="mjh-three">
-    <title>Game On</title>
-    <sub-title>Season 1 Ep 4</sub-title>
-    <desc>With only three weeks until the final tournament, the team faces mounting pressure, a surprise challenge, and a crucial game to prove they are ready for the toughest test yet.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>Documentary</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/iPrwhNbldLomS0rzr7l35wTc3uk.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">SNZ11928727</episode-num>
-    <episode-num system="freeviewnz.tv">episode/269d02f4-2e94-442d-a75b-e55fe5f15dcc</episode-num>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="dd_seriesid">1001493</episode-num>
-    <episode-num system="freeviewnz.tv">season/819da44b-2430-4eb1-9057-68cc04f5bec4</episode-num>
-    <episode-num system="freeviewnz.tv">show/025057c5-a3bf-4316-833f-9425278e57b7</episode-num>
-    <episode-num system="original-air-date">2026-09-19 15:55:00</episode-num>
-    <episode-num system="themoviedb.com">tv/4155</episode-num>
-    <episode-num system="threenow.co.nz">show/1750118832763</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>Following the lives of three 20-somethings sharing a flat in Battersea. They're young, bright and sexy - so why aren't they having a good time ? Join Matthew (the agoraphobic, self-obsessed, macho man); Martin (the wimpish, sex-starved underdog) and Mandy (the gorgeous blonde, who always ends up with the wrong men), in this outrageously funny flat-share comedy that is anything but politically correct.</series-desc>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-three">
     <title>World's Cheapest Dream Homes</title>
     <sub-title>Sicily, Italy</sub-title>
@@ -24741,117 +24500,6 @@ The shows presenters are Adrian Richardson and Zoe Bingley-Pullen. Adrian presen
     </star-rating>
     <series-desc>Gripping clips of kidnappings, break-ins, car chases, violent road rage incidents and other crimes rack up millions of views. But crimes gone viral goes beyond the jaw-dropping footage to tell the full story. Viral video of good samaritans who intervene to stop crimes, brave victims who fight back against their attackers, clever prison escapes and a shark heist.</series-desc>
   </programme>
-  <programme start="20260919034000 +0000" stop="20260919041000 +0000" channel="mjh-bravo">
-    <title>Highway Patrol</title>
-    <sub-title>Look Whats In The Garden</sub-title>
-    <desc>When you're on bail, it pays to keep a low profile. But Senior Constable Tim Baker catches a driver who's doing absolutely the opposite. And wait till you see what he's caught with.</desc>
-    <date>2017</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/oc0Z6yqZzMdHS35Ran8Zpg2rrBy.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11935585</episode-num>
-    <episode-num system="freeviewnz.tv">episode/c044cdf0-7965-4dc7-8656-d0013e76a0fb</episode-num>
-    <episode-num system="xmltv_ns">7.3.0</episode-num>
-    <episode-num system="dd_seriesid">1001999</episode-num>
-    <episode-num system="freeviewnz.tv">season/da1d9a71-d0c2-4e6a-af5d-7c406bd8d9a6</episode-num>
-    <episode-num system="freeviewnz.tv">show/4378fcc5-1c4a-4afc-bcc5-c59c98241d74</episode-num>
-    <episode-num system="original-air-date">2026-09-15 18:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/11920</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>Highway Patrol was a syndicated, fictional police action series produced from 1955 to 1959, concerning the activities of the highway patrol and their leader, Dan Matthews (who held no rank).  Although filmed in and around the Los Angeles area, the state setting for the stories was never identified, and city and street names were fictionalized.</series-desc>
-  </programme>
-  <programme start="20260919041000 +0000" stop="20260919044000 +0000" channel="mjh-bravo">
-    <title>Highway Patrol</title>
-    <sub-title>Witches Wizards And Pots Of Gold</sub-title>
-    <desc>Police are naturally suspicious when they spot a ute with a number plate cover controlled by a remote.</desc>
-    <date>2017</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/oc0Z6yqZzMdHS35Ran8Zpg2rrBy.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11934309</episode-num>
-    <episode-num system="freeviewnz.tv">episode/89a10f62-df81-4337-8976-6ae19bcd7484</episode-num>
-    <episode-num system="xmltv_ns">7.0.0</episode-num>
-    <episode-num system="dd_seriesid">1001999</episode-num>
-    <episode-num system="freeviewnz.tv">season/da1d9a71-d0c2-4e6a-af5d-7c406bd8d9a6</episode-num>
-    <episode-num system="freeviewnz.tv">show/4378fcc5-1c4a-4afc-bcc5-c59c98241d74</episode-num>
-    <episode-num system="original-air-date">2026-09-14 17:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/11920</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>Highway Patrol was a syndicated, fictional police action series produced from 1955 to 1959, concerning the activities of the highway patrol and their leader, Dan Matthews (who held no rank).  Although filmed in and around the Los Angeles area, the state setting for the stories was never identified, and city and street names were fictionalized.</series-desc>
-  </programme>
-  <programme start="20260919044000 +0000" stop="20260919050500 +0000" channel="mjh-bravo">
-    <title>Highway Patrol</title>
-    <sub-title>You Guys Are The Worst</sub-title>
-    <desc>A police officer is taken aback at the reaction she gets from a bike rider who refuses to wear his helmet.</desc>
-    <date>2017</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/oc0Z6yqZzMdHS35Ran8Zpg2rrBy.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11929602</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a954117b-7699-4048-97fb-cb185ef5e038</episode-num>
-    <episode-num system="xmltv_ns">7.1.0</episode-num>
-    <episode-num system="dd_seriesid">1001999</episode-num>
-    <episode-num system="freeviewnz.tv">season/da1d9a71-d0c2-4e6a-af5d-7c406bd8d9a6</episode-num>
-    <episode-num system="freeviewnz.tv">show/4378fcc5-1c4a-4afc-bcc5-c59c98241d74</episode-num>
-    <episode-num system="original-air-date">2026-09-14 18:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/11920</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>Highway Patrol was a syndicated, fictional police action series produced from 1955 to 1959, concerning the activities of the highway patrol and their leader, Dan Matthews (who held no rank).  Although filmed in and around the Los Angeles area, the state setting for the stories was never identified, and city and street names were fictionalized.</series-desc>
-  </programme>
   <programme start="20260919050500 +0000" stop="20260919053500 +0000" channel="mjh-bravo">
     <title>Highway Patrol</title>
     <sub-title>Smashing Running And Rescuing</sub-title>
@@ -28118,95 +27766,6 @@ The shows presenters are Adrian Richardson and Zoe Bingley-Pullen. Adrian presen
     <rating system="New Zealand">
       <value>M</value>
     </rating>
-  </programme>
-  <programme start="20260919035800 +0000" stop="20260919041300 +0000" channel="mjh-maori-tv">
-    <title>Tukanga</title>
-    <sub-title>Tukanga</sub-title>
-    <desc>Using natural materials collected from Papatūānuku and her offspring, Raukura Turei (Ngāi Tai Ki Tāmaki, Ngā Rauru Kītahi, Ngāti Pāoa) demonstrates indigenous ties to whenua, whakapapa</desc>
-    <keyword>event</keyword>
-    <icon src="https://nzxmltv.com/images/tukanga.png"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">99482100196</episode-num>
-    <episode-num system="freeviewnz.tv">episode/dbfab8ba-bb80-4e73-822f-c5f52a6b9401</episode-num>
-    <episode-num system="original-air-date">2026-09-19 15:58:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919041300 +0000" stop="20260919042800 +0000" channel="mjh-maori-tv">
-    <title>Waiata Anthems</title>
-    <sub-title>Waiata Anthems</sub-title>
-    <desc>Singer/songwriter Paige believes her late grandfather is her guardian angel. Paige makes a beautiful pilgrimage to discover who he really was. (R)</desc>
-    <date>2021</date>
-    <keyword>event</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/c1icgyVgMmf0BEiq4E7bNgm4dig.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">000152477</episode-num>
-    <episode-num system="freeviewnz.tv">episode/3e248dfe-ff80-476d-bc0d-77ba799a44f9</episode-num>
-    <episode-num system="original-air-date">2026-09-06 14:15:00</episode-num>
-    <episode-num system="themoviedb.com">tv/242970</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Acclaimed music artists from Aotearoa share their deeply personal stories of disconnection, reclamation, vulnerability, and courage when they translate and record songs in te reo Māori.</series-desc>
-  </programme>
-  <programme start="20260919042800 +0000" stop="20260919045800 +0000" channel="mjh-maori-tv">
-    <title>Avatar: The Last Airbender</title>
-    <sub-title>Avatar: The Last Airbender</sub-title>
-    <desc>Ko nga putanga reo maori o nga pakiwaituihi e rua, o Avatar. (R)</desc>
-    <date>2005</date>
-    <keyword>event</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/76D98C33-9D25-4ECF-A325185CD02238D8.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">000117568</episode-num>
-    <episode-num system="freeviewnz.tv">episode/bff2843f-5be9-43d4-986f-c3e3987c448c</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:28:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_9744</episode-num>
-    <episode-num system="themoviedb.com">tv/246</episode-num>
-    <episode-num system="thetvdb.com">series/74852</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>9/10</value>
-    </star-rating>
-    <series-desc>In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.</series-desc>
   </programme>
   <programme start="20260919045800 +0000" stop="20260919052800 +0000" channel="mjh-maori-tv">
     <title>Hurō Pēpi II</title>
@@ -33382,44 +32941,6 @@ Citytv and CP24 were owned by CHUM Limited until July 2007, when CP24 and the re
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919045500 +0000" channel="mjh-tvnz-duke">
-    <title>River Hunters</title>
-    <sub-title>Battle Of Culloden</sub-title>
-    <desc>Rick and Beau venture out to learn more about the historic Battle of Culloden. They go along the River Nairn and try to find clues about where Bonnie Prince Charlie might have crossed the river.</desc>
-    <date>2019</date>
-    <category>Documentary</category>
-    <category>Factual</category>
-    <category>Historical</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/C02346EA-FD67-4355-A99F763996E688E9.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_seriesid">1038658</episode-num>
-    <episode-num system="dd_progid">10742050</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2cd66e1c-0a95-4f63-b2c3-94a8487dc2d6</episode-num>
-    <episode-num system="freeviewnz.tv">show/a38c5041-f017-4c98-9ae7-1049a156390b</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_89951</episode-num>
-    <episode-num system="themoviedb.com">tv/88262</episode-num>
-    <episode-num system="thetvdb.com">series/360923</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>US Youtube sensation Beau Ouimette, a river detectorist with over 30 years’ experience, and presenter and keen swimmer Rick Edwards search the UK’s waterways for archaeological finds. Using state-of-the-art technology, archive maps and contemporaneous accounts from the period, Beau and Rick perform the first underwater archaeological digs in some of the most exciting and iconic historical sites in Britain, often in dangerous and fast-flowing water.</series-desc>
-  </programme>
   <programme start="20260919045500 +0000" stop="20260919055000 +0000" channel="mjh-tvnz-duke">
     <title>Swamp People</title>
     <sub-title>Flying Gators</sub-title>
@@ -36294,46 +35815,6 @@ Citytv and CP24 were owned by CHUM Limited until July 2007, when CP24 and the re
     </star-rating>
     <series-desc>The story of legendary safe cracker and career criminal Ted West and his firecracker of a wife, Rita. Combining real events and the rich folklore of the West family and associates, this is rollicking history, and a tempestuous romance, set at a time of great social upheaval.</series-desc>
     <audio-description lang="en_NZ"/>
-  </programme>
-  <programme start="20260919040500 +0000" stop="20260919050500 +0000" channel="mjh-tvnz-2-plus1">
-    <title>Selling Houses Australia</title>
-    <sub-title>Selling Houses Australia</sub-title>
-    <desc>Bec and Jared need to sell a $1.55 million '80s-built 4-bedroom property in Mermaid Waters. Wendy and Dennis have to work miracles with the $80,000 Bec and Jared can spare for renovations.</desc>
-    <date>2008</date>
-    <category>Documentary</category>
-    <category>Factual</category>
-    <category>Home/gardening</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/21E40864-5E7B-4ADD-AC9E38A84D1C8E00.jpg"/>
-    <country>Australia</country>
-    <episode-num system="dd_seriesid">1039219</episode-num>
-    <episode-num system="dd_progid">10749658</episode-num>
-    <episode-num system="freeviewnz.tv">episode/596c81d8-8d13-4f71-9c3e-e353165f9a64</episode-num>
-    <episode-num system="freeviewnz.tv">show/66f42c53-f7b3-44bb-b0d7-d634e10b9d43</episode-num>
-    <episode-num system="original-air-date">2026-09-19 15:05:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_95306</episode-num>
-    <episode-num system="themoviedb.com">tv/56578</episode-num>
-    <episode-num system="thetvdb.com">series/90651</episode-num>
-    <episode-num system="xmltv_ns">15.5.0</episode-num>
-    <episode-num system="tvnz.co.nz">show/ibms+show:6678</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Current practical advice for home owners wanting to enter the property market. The team transform what the owners see as unsellable houses into spectacular homes which will be much easier to sell.</series-desc>
   </programme>
   <programme start="20260919050500 +0000" stop="20260919060000 +0000" channel="mjh-tvnz-2-plus1">
     <title>Seinfeld</title>
@@ -41404,81 +40885,6 @@ The shows presenters are Adrian Richardson and Zoe Bingley-Pullen. Adrian presen
     </star-rating>
     <series-desc>Prepare for hilarity, despair, mania and triumph as five new comedians compete in confounding tasks - all for the approval of the ruthless taskmaster Greg Davies and his timid but thorough assistant - little Alex Horne!</series-desc>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="mjh-prime">
-    <title>Triple Threat</title>
-    <sub-title>What To Do Next</sub-title>
-    <desc>Season 1 finale: Katelyn gets a big surprise when she least expects it. Jorja is targeted in the quarter-final battle with South Africa. Later, the women reflect on the World Cup and...</desc>
-    <date>2025</date>
-    <category>Other</category>
-    <category>Sports Entertainment</category>
-    <category>Documentary</category>
-    <category>New Zealand</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/8782D779-3EA8-4DEB-84CDAD4712458508.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">SNZ11826907</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2d7b5df4-6337-49dc-a108-4ce825d120ec</episode-num>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-    <episode-num system="dd_seriesid">963769</episode-num>
-    <episode-num system="freeviewnz.tv">season/1a839593-4730-41ed-a035-3600bfea3462</episode-num>
-    <episode-num system="freeviewnz.tv">show/19911c64-2331-4f78-ac2c-f45b0df8bbf5</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_173538</episode-num>
-    <episode-num system="themoviedb.com">tv/298275</episode-num>
-    <episode-num system="threenow.co.nz">show/mac_sh_173538</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Follow three New Zealand rugby players - Jorja Miller, Maia Joseph, and Katelyn Vahaakolo - in the
-
-lead-up to their first Women's Rugby World Cup.</series-desc>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-prime">
-    <title>: Hotelplanner Tour 2026: English... Highlights</title>
-    <sub-title>Event : Hotelplanner Tour 2026: English Challenge</sub-title>
-    <desc>Event Hls: Hotelplanner Tour: English Challenge at The Caversham, Reading, England.</desc>
-    <category>Sport</category>
-    <category>Sports</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/70fbc5ca-14b1-4be8-a62f-bac81eb20fb6/325D5ED1-3A7C-4A8B-BD79EF36E374C8AB.jpg" width="1080" height="1920"/>
-    <episode-num system="dd_progid">SNZ11871260</episode-num>
-    <episode-num system="freeviewnz.tv">episode/29b4db0b-e2bb-4921-8d04-ab7b1abd9007</episode-num>
-    <episode-num system="xmltv_ns">2025.23.0</episode-num>
-    <episode-num system="dd_seriesid">995556</episode-num>
-    <episode-num system="freeviewnz.tv">season/a01e8919-323e-4f91-b956-d5528e769e46</episode-num>
-    <episode-num system="freeviewnz.tv">show/2f8fdff0-cd94-4836-bf06-a93bb437eaf3</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-prime">
     <title>World's Funniest Weather, The</title>
     <sub-title>Itâ€™s Been Nice Snowing You</sub-title>
@@ -45590,45 +44996,6 @@ The show uses social networking sites such as Facebook and Twitter to find conte
       <value>0/10</value>
     </star-rating>
     <series-desc>Shines a spotlight on New Zealand's most prominent architects and the country's most spectacular structures.  In each episode, a featured architect takes host Matthew Ridge around New Zealand to visit their favourite houses.</series-desc>
-  </programme>
-  <programme start="20260919033500 +0000" stop="20260919043500 +0000" channel="mjh-rush-nz">
-    <title>Harpoon Hunters</title>
-    <sub-title>Bluefin Bloodline</sub-title>
-    <desc>Captains Joe and Tyler hit bluefin gold. Feeling pressure to live up to his famous father's legacy, strongman Niko changes tactics.</desc>
-    <date>2025</date>
-    <category>Reality</category>
-    <category>Nature</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/D3D7DFB3-1497-4886-966C79C6E7554C86.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11963503</episode-num>
-    <episode-num system="freeviewnz.tv">episode/b6d5f2af-1648-4906-bd86-cb44631eeeac</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="dd_seriesid">1006841</episode-num>
-    <episode-num system="freeviewnz.tv">season/f01df748-00ad-4f2b-b10b-4838233fdf8a</episode-num>
-    <episode-num system="freeviewnz.tv">show/49d6bcbf-fbee-4720-8b49-11f3db932e9e</episode-num>
-    <episode-num system="original-air-date">2026-09-15 19:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_169719</episode-num>
-    <episode-num system="themoviedb.com">tv/282217</episode-num>
-    <episode-num system="threenow.co.nz">show/mac_sh_169719</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>A crew of elite fishermen off the shores of Cape Cod race to catch highly valuable Atlantic bluefin tuna using only 10-foot electrified spears.</series-desc>
   </programme>
   <programme start="20260919043500 +0000" stop="20260919053500 +0000" channel="mjh-rush-nz">
     <title>Last Chance Garage</title>
@@ -49944,53 +49311,6 @@ The show uses social networking sites such as Facebook and Twitter to find conte
       <value>7/10</value>
     </star-rating>
     <series-desc>Swamp Loggers is an American reality television series on the Discovery Channel that follows the crew of Goodson's All Terrain Logging as they log the swamps of North Carolina.</series-desc>
-  </programme>
-  <programme start="20260918105600 +0000" stop="20260919043000 +0000" channel="mjh-te-reo">
-    <title>Te Reo</title>
-    <sub-title>Te Reo</sub-title>
-    <desc>Whakaata Māori specialises in the stories of Aotearoa. Be entertained and informed with news, current affairs, sports, drama, documentaries and much more.</desc>
-    <keyword>event</keyword>
-    <icon src="https://nzxmltv.com/images/te-reo.png"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">61240398</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2267ca44-fb12-4c17-8311-6f6c4acf5169</episode-num>
-    <episode-num system="original-air-date">2026-09-18 22:56:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-te-reo">
-    <title>Hakapedia</title>
-    <sub-title>Hakapedia</sub-title>
-    <desc>The ultimate game show where Haka freaks battle it out. Meet the Tumoana’s. Māmā and Pāpā have 60 years of collective Kapa Haka knowledge but will this be enough for them to take home the win?
- </desc>
-    <keyword>event</keyword>
-    <icon src="https://nzxmltv.com/images/hakapedia.png"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">000152812</episode-num>
-    <episode-num system="freeviewnz.tv">episode/d48bc1d6-e97e-4088-9d7e-e39966b298d3</episode-num>
-    <episode-num system="original-air-date">2026-08-15 21:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-te-reo">
     <title>Hakapedia</title>
@@ -56773,42 +56093,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
     </star-rating>
     <series-desc>A comedic panel show featuring team captains Lee Mack and David Mitchell plus two guests per side, hosted by Rob Brydon (formerly Angus Deayton). Each person must reveal embarrassing facts and outrageous lies during a series of different rounds including "Home Truths", "This Is My..." and "Quickfire Lies". It is up to the opposing team to tell tall tales from fantastic facts.</series-desc>
   </programme>
-  <programme start="20260919035500 +0000" stop="20260919050000 +0000" channel="mjh-tvnz-duke-plus1">
-    <title>South Seas Spearo</title>
-    <sub-title>Pitt Island Expedition</sub-title>
-    <desc>Following a ridiculous sequence of events in Fiordland, the team saddle up for the hapuka haven of the Chatham Islands, where they spend a few days diving the spectacular &amp; remote Pitt Island. S3 E6</desc>
-    <date>2022</date>
-    <category>Documentary</category>
-    <category>Factual</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/south-seas-spearo.png"/>
-    <episode-num system="dd_seriesid">1034428</episode-num>
-    <episode-num system="dd_progid">10656373</episode-num>
-    <episode-num system="freeviewnz.tv">episode/07ce8ef9-ecae-4c73-b5ac-1f57d769e652</episode-num>
-    <episode-num system="freeviewnz.tv">show/d76c366b-e92d-4545-ab73-0038b9d0760d</episode-num>
-    <episode-num system="original-air-date">2026-09-19 14:55:00</episode-num>
-    <episode-num system="xmltv_ns">2.5.0</episode-num>
-    <episode-num system="themoviedb.com">tv/119947</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Follow a group of fanatical fin-addicts on their extreme spear-fishing expeditions. These top athletes dive beyond 100 feet, facing the dangers of the deep in pursuit of underwater adventures. It's action that will take your breath away!  
-</series-desc>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919055500 +0000" channel="mjh-tvnz-duke-plus1">
     <title>River Hunters</title>
     <sub-title>Battle Of Culloden</sub-title>
@@ -59618,45 +58902,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
       <value>6/10</value>
     </star-rating>
     <series-desc>The story of legendary safe cracker and career criminal Ted West and his firecracker of a wife, Rita. Combining real events and the rich folklore of the West family and associates, this is rollicking history, and a tempestuous romance, set at a time of great social upheaval.</series-desc>
-  </programme>
-  <programme start="20260919035500 +0000" stop="20260919045500 +0000" channel="mjh-three-plus1">
-    <title>Celebrity IOU</title>
-    <sub-title>Kristin Davis Dream Home Surprise</sub-title>
-    <desc>Iconic actress Kristin Davis jumps into the world of demo and design to surprise her close friend and fellow single mum with a dream home renovation.</desc>
-    <date>2021</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/oCQTT9bElin6Dkf2wX9frlbuu0Z.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11940279</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0ea63663-034f-4c6a-b689-ef6f76b7a44d</episode-num>
-    <episode-num system="xmltv_ns">2.11.0</episode-num>
-    <episode-num system="dd_seriesid">1002318</episode-num>
-    <episode-num system="freeviewnz.tv">season/0f80dce3-18a3-411a-89b2-812c3f13c5fe</episode-num>
-    <episode-num system="freeviewnz.tv">show/24d35946-9033-404b-9939-9ddbbf6a4f38</episode-num>
-    <episode-num system="original-air-date">2026-09-19 14:55:00</episode-num>
-    <episode-num system="themoviedb.com">tv/100347</episode-num>
-    <episode-num system="thetvdb.com">series/378550</episode-num>
-    <episode-num system="threenow.co.nz">show/S2721-462</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Twin brothers Drew and Jonathan Scott help Hollywood A-listers express their deep gratitude to the individuals who have had a major impact on their lives by surprising them with big, heartwarming home renovations that bring everyone to tears.</series-desc>
   </programme>
   <programme start="20260919045500 +0000" stop="20260919060000 +0000" channel="mjh-three-plus1">
     <title>Game On</title>
@@ -62918,44 +62163,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
     </star-rating>
     <series-desc>The high-stakes ranching and farming world of McBee Farm &amp; Cattle is on the brink of becoming either a billion-dollar business or a financial disaster.</series-desc>
   </programme>
-  <programme start="20260919034000 +0000" stop="20260919044000 +0000" channel="mjh-bravo-plus1">
-    <title>Traffic Cops</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>This fast-paced British reality series follows officers patrolling Englandâ€™s roads, featuring high-speed chases, drug busts, and hardened criminals in intense, heart-racing action.</desc>
-    <date>2016</date>
-    <category>Reality</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/fq2A6r8s8VFdTQlDCfxGRgCqx46.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">SNZ11938832</episode-num>
-    <episode-num system="freeviewnz.tv">episode/05445c8b-dfc0-435e-aa17-0fb403d1dd6e</episode-num>
-    <episode-num system="xmltv_ns">5.4.0</episode-num>
-    <episode-num system="dd_seriesid">1002595</episode-num>
-    <episode-num system="freeviewnz.tv">season/93c0fe3e-e5a3-4dc8-9191-3342686d0f50</episode-num>
-    <episode-num system="freeviewnz.tv">show/dbebfedf-b85d-4697-ab01-ce628c8566b3</episode-num>
-    <episode-num system="original-air-date">2026-09-14 18:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/81440</episode-num>
-    <episode-num system="thetvdb.com">series/84218</episode-num>
-    <episode-num system="threenow.co.nz">show/1779659752361</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>An action-packed documentary series following Yorkshire-based law enforcers. Originally shown by the BBC (2003-2016), this is the new reboot format of the show and was titled "All New Traffic Cops" for two series. It was renamed again in 2018 as "Traffic Cops: On the Edge" and then as "Traffic Cops".</series-desc>
-  </programme>
   <programme start="20260919044000 +0000" stop="20260919051000 +0000" channel="mjh-bravo-plus1">
     <title>Highway Patrol</title>
     <sub-title>Look Whats In The Garden</sub-title>
@@ -66183,45 +65390,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
       <value>8/10</value>
     </star-rating>
     <series-desc>Catastrophic incidents in aviation history are meticulously reenacted, providing insight into what went wrong and if the crashes and near-disasters could have been prevented. Accounts from survivors combine with cockpit recordings and computer images to weave the gripping tales, and expert testimony reveals the hows and whys behind the events, some of which have resulted in important changes to aviation safety and regulations.</series-desc>
-  </programme>
-  <programme start="20260919033500 +0000" stop="20260919043000 +0000" channel="mjh-eden">
-    <title>Chopped</title>
-    <sub-title>Venison Valor</sub-title>
-    <desc>An over-reduced sauce and undercooked venison are two of the potential problems in the appetiser basket, while salmon seems too easy in basket two. The dessert round then reveals Mexican...</desc>
-    <date>2009</date>
-    <category>Entertainment</category>
-    <category>Reality</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/EEA2A1AF-A192-488F-9B968B7E1F5AF443.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11959242</episode-num>
-    <episode-num system="freeviewnz.tv">episode/3414f4f0-a5d3-4b2c-8406-98baa68f2aa3</episode-num>
-    <episode-num system="xmltv_ns">61.5.0</episode-num>
-    <episode-num system="dd_seriesid">1006238</episode-num>
-    <episode-num system="freeviewnz.tv">season/5da36b2b-1a23-48bd-becd-1710851280ba</episode-num>
-    <episode-num system="freeviewnz.tv">show/231f5897-6411-4913-b777-478f9f0b4a39</episode-num>
-    <episode-num system="original-air-date">2026-08-14 15:35:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_97658</episode-num>
-    <episode-num system="themoviedb.com">tv/17404</episode-num>
-    <episode-num system="thetvdb.com">series/85019</episode-num>
-    <episode-num system="threenow.co.nz">show/1741560843174</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets “chopped” by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.</series-desc>
   </programme>
   <programme start="20260919043000 +0000" stop="20260919053000 +0000" channel="mjh-eden">
     <title>Restaurant Impossible</title>
@@ -71847,82 +71015,6 @@ Opening Introduction:</series-desc>
       <value>0/10</value>
     </star-rating>
     <series-desc>With the help of Matt Gibb, Kiwi couples escape the rat race to look for their dream homes in regional New Zealand.</series-desc>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">5586954</episode-num>
-    <episode-num system="freeviewnz.tv">episode/efb0688a-b920-4da5-8619-7bcc122bf27e</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-al-jazeera">
-    <title>Witness</title>
-    <sub-title>Forced to Flee South Lebanon</sub-title>
-    <desc>A Lebanese journalist documenting the conflict with Israel has no choice but to evacuate his own family from the south.</desc>
-    <date>2024</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
-    <country>South Korea</country>
-    <episode-num system="dd_progid">54248698</episode-num>
-    <episode-num system="freeviewnz.tv">episode/d0fe16f0-f920-491f-9cb3-1784b2ae7222</episode-num>
-    <episode-num system="dd_seriesid">15473906</episode-num>
-    <episode-num system="freeviewnz.tv">season/3ddda0f9-250e-4ad1-9139-423c342c5222</episode-num>
-    <episode-num system="freeviewnz.tv">show/80c7a55a-5e3b-4bd9-bb90-59eb1601a8c9</episode-num>
-    <episode-num system="original-air-date">2026-09-15 20:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc2040583745</episode-num>
-    <episode-num system="themoviedb.com">tv/208249</episode-num>
-    <episode-num system="thetvdb.com">series/261794</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Yu Kyung is a successful woman who is proficient enough to become an executive director of Chunha Group when she started as a secretary. She recently found out her daughter is alive, so she plans to get her back and take her revenge. Meanwhile, Hye Soo is a strong girl who faces challenges head-on. She has a daughter with Ji Ho, and she would do anything for her. However, she gets tragically betrayed by Ji Ho, the love of her life, over power and money. How will those two mothers end their fierce revenge?</series-desc>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -77796,30 +76888,6 @@ English</series-desc>
       <value>1/10</value>
     </star-rating>
     <series-desc/>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-trackside-1">
-    <title lang="en_NZ">Big Saturday‎</title>
-    <sub-title lang="en_NZ">Big Saturday</sub-title>
-    <desc lang="en_NZ">LIVE: Expert analysis and insight from our New Zealand thoroughbred venues and a selection of the best Australian Racing. Every Saturday is Big Saturday!</desc>
-    <category lang="en_NZ">Sport</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/34E47841-2397-4EB8-9D96938F8736246B.jpg"/>
-    <episode-num system="dd_progid">mac_ptc1737454140</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="dd_seriesid">mac_sh_ptc1081924651</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1081924651</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-trackside-1">
     <title lang="en_NZ">Big Saturday‎</title>
@@ -93757,30 +92825,6 @@ English</series-desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-trackside-2">
-    <title lang="en_NZ">Trackside 2 - AUS</title>
-    <sub-title lang="en_NZ">Trackside 2  - AUS</sub-title>
-    <desc lang="en_NZ">Live Racing coverage from Australia. Bet online or instore with TAB and Betcha.</desc>
-    <category lang="en_NZ">Sport</category>
-    <category lang="en_NZ">Sports</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/FE4BE1BF-8D06-4AE1-98EE537008318C49.jpg"/>
-    <episode-num system="dd_progid">mac_ptc435724659</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="dd_seriesid">mac_sh_ptc311537192</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-trackside-2">
     <title lang="en_NZ">Trackside 2 - AUS</title>
     <sub-title lang="en_NZ">Trackside 2  - AUS</sub-title>
@@ -104997,80 +104041,6 @@ English</series-desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="mjh-shine-tv">
-    <title>Answers with Bayless Conley</title>
-    <sub-title>Lessons from Philippians: How to Be Made Right with God</sub-title>
-    <desc>The Bible is clear that all fall short of God’s perfect standard, so what are you trusting in to be made right?</desc>
-    <date>2026</date>
-    <category>Lifestyle</category>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/c1b2bf29-0171-4f4a-8446-096a9a286ce8/AnswersBaylessConley2026.jpg" width="2160" height="3840"/>
-    <url>Lifestyle</url>
-    <country>United States</country>
-    <episode-num system="dd_progid">A0038378</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2f50999e-4215-485d-a6fb-264e9ee32301</episode-num>
-    <episode-num system="xmltv_ns">2025.28.0</episode-num>
-    <episode-num system="dd_seriesid">A0038349</episode-num>
-    <episode-num system="freeviewnz.tv">season/bd889736-0efe-41c5-8579-f9d48908206b</episode-num>
-    <episode-num system="freeviewnz.tv">show/783e6cfe-1b28-40e9-a07e-d8918e81c309</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/41478</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Bayless is the founding pastor of Cottonwood Church in California. He is known for his clear presentation of the gospel and the way he applies the life-changing truth of God's Word to everyday life.</series-desc>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-shine-tv">
-    <title>Jerusalem Dateline</title>
-    <sub-title>Jerusalem Dateline</sub-title>
-    <desc>Chris Mitchell brings timely reports on events in the Middle East. Bringing a Biblical and prophetic perspective to these daily news events that shape our world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News, Current Affairs (general)</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/e91338b8-297f-46bf-8dc2-b85f9e4d9902/JerusalemDateline.jpg" width="2160" height="3840"/>
-    <url>News</url>
-    <episode-num system="dd_progid">A0036710</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4dbe0a57-cda8-4e3f-b91c-2f0ab6b3ea08</episode-num>
-    <episode-num system="xmltv_ns">2025.35.0</episode-num>
-    <episode-num system="dd_seriesid">A0036674</episode-num>
-    <episode-num system="freeviewnz.tv">season/da3b9983-bc7e-4c7d-902c-57e6983c94d5</episode-num>
-    <episode-num system="freeviewnz.tv">show/00f5ca79-1283-4ec9-9224-323c9e524a75</episode-num>
-    <episode-num system="original-air-date">2026-09-17 21:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <series-desc>Chris Mitchell brings timely reports on events in the Middle East. Bringing a Biblical and prophetic perspective to these daily news events that shape our world.</series-desc>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-shine-tv">
     <title>The Way of the Master</title>
     <sub-title>Operation London - Part 2</sub-title>
@@ -110564,36 +109534,6 @@ The theme song of Legacy was entitled The Mummers Dance by Loreena McKennitt.</s
     </star-rating>
     <series-desc>Joyce Meyer's humorous and blunt preaching style confronts negative attitudes and brings the joy of knowing Christ into our everyday experience.</series-desc>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-firstlight">
-    <title>Give Me the Bible - Life in the Son</title>
-    <sub-title>Conflict of the Ages</sub-title>
-    <desc>Join Pastor Kenneth Cox in this Bible study about the great conflict between Christ and Satan, and how that impacts your life. S7 E1</desc>
-    <category>Other</category>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/give-me-the-bible-life-in-the-son.png"/>
-    <url>http://www.firstlight.org.nz</url>
-    <episode-num system="dd_progid">GMTB07_01</episode-num>
-    <episode-num system="freeviewnz.tv">episode/d26c9953-9ec1-4b72-bb76-e86c3d521107</episode-num>
-    <episode-num system="dd_seriesid">GMTB02</episode-num>
-    <episode-num system="freeviewnz.tv">season/c3301baf-5d16-405c-a0d5-1883acc26c48</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="xmltv_ns">6.0.0</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-firstlight">
     <title>Palm Harbour SDA</title>
     <sub-title>The High Cost of Sin</sub-title>
@@ -114571,76 +113511,6 @@ It Is Written was the first religious program to air in color, and the first to 
     <rating system="New Zealand">
       <value>G</value>
     </rating>
-  </programme>
-  <programme start="20260919035500 +0000" stop="20260919042500 +0000" channel="mjh-hope-channel">
-    <title>Finding Home</title>
-    <sub-title>Tauranga</sub-title>
-    <desc>Residents talk about learning to grow avocados in Tauranga, loss of a ballet career, and helping others less fortunate when life has not been fair.</desc>
-    <date>2018</date>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>Documentary</category>
-    <keyword>event</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/0860AC73-0538-46D2-BD53FF099F8AE46C.jpg"/>
-    <url>https://www.hopechannel.nz/</url>
-    <country>Denmark</country>
-    <episode-num system="dd_progid">FINDHOME01x10</episode-num>
-    <episode-num system="freeviewnz.tv">episode/358b9ccb-3269-4b4b-ad9d-cce004368328</episode-num>
-    <episode-num system="original-air-date">2026-09-14 22:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1091755251</episode-num>
-    <episode-num system="themoviedb.com">tv/77990</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>The year is 1899. The young girl Marie Jensen lives at an orphanage with her two younger siblings Karl and Sofie. Their father is a sailor and has not been home for years. He was last seen in Norway but everybody is convinced he was lost at sea – except Marie. One morning the beautiful freighter ‘Hope’ comes to town with Skipper Andersen and his wife Mrs. Agnete on board. To Marie’s distress, they adopt Karl and Sofie, and Marie now faces being left alone. But quickly she comes up with a plan. At night, she cuts her long hair and disguises herself as a boy, adopts the name of Martin and signs on as a deck boy on ‘’Hope’. The ship takes Marie and her siblings on an eventful journey from the coast of Denmark to Norway and Iceland. A journey full of secrets, friendship, love and adventure – all in the hope of finding her father and reuniting her family. 'Finding Home' is a story about a young girl’s fight to break free of the path that society has destined for her and instead becoming a strong and independent woman.</series-desc>
-  </programme>
-  <programme start="20260919042500 +0000" stop="20260919045500 +0000" channel="mjh-hope-channel">
-    <title>Line Upon Line</title>
-    <sub-title>The Apocrypha, Young Earth, &amp; Sexual Identity</sub-title>
-    <desc>"Why did God choose death as the punishment for sin?" Pastors John and Wes offer Bible answers to this question and more in episode 1 of season 4.</desc>
-    <date>2022</date>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>event</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/5C141690-711C-4ADB-97E9C919890E7CAF.jpg"/>
-    <url>https://www.hopechannel.nz/</url>
-    <country>United States</country>
-    <episode-num system="dd_progid">IIWJBLUL2302x401</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0950b1c9-1b48-4552-9a56-e631ac68e9f0</episode-num>
-    <episode-num system="original-air-date">2026-09-13 15:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc326451224</episode-num>
-    <episode-num system="themoviedb.com">tv/205972</episode-num>
-    <episode-num system="thetvdb.com">series/405458</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Come Follow Me animated study videoes</series-desc>
   </programme>
   <programme start="20260919045500 +0000" stop="20260919055500 +0000" channel="mjh-hope-channel">
     <title>Amazing Discoveries</title>
@@ -120117,34 +118987,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-wairarapa-tv">
-    <title>Flite Test</title>
-    <sub-title>Join the flite test team as they build race and fly model aircraft</sub-title>
-    <desc>Join the flite test team as they build race and fly model aircraft</desc>
-    <date>2010</date>
-    <category>Leisure, Hobbies</category>
-    <keyword>event</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/291835-1.jpg"/>
-    <episode-num system="dd_progid">61006996</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0dc99751-c149-47ca-85ca-1091a5ea39e1</episode-num>
-    <episode-num system="original-air-date">2026-09-19 16:00:00</episode-num>
-    <episode-num system="thetvdb.com">series/291835</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>YouTube show based in Ohio which focuses on radio-controlled aircrafts, including fixed wing, helicopters, quadcopters, tricopters and general information about RC presented in a humorous and family-friendly way. Episodes are generally reviews and tips which helps you understand the hobby better, or sometimes challenges between the hosts or guests. 
-</series-desc>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-wairarapa-tv">
     <title>Arrow</title>
     <sub-title>Recent shows recorded at Arrow Studios</sub-title>
@@ -125546,19 +124388,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="xmltv_ns">25.260.</episode-num>
     <episode-num system="original-air-date">2026-09-25</episode-num>
   </programme>
-  <programme start="20260919040100 +0000" stop="20260919050100 +0000" channel="mjh-7two-syd">
-    <title>Escape To The Country</title>
-    <sub-title>Caithness</sub-title>
-    <desc>Jules Hudson enjoys the stunning scenery of Caithness, Scotland, while helping a young family with a 270,000 pound budget find their dream of self-sufficiency and learning about crofter life.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/eaf865401a3272ce98b4/image"/>
-    <episode-num system="SxxExx">S31E08</episode-num>
-    <episode-num system="xmltv_ns">30.7.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919050100 +0000" stop="20260919060200 +0000" channel="mjh-7two-syd">
     <title>The Yorkshire Vet</title>
     <sub-title>Episode 1</sub-title>
@@ -128165,16 +126994,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919033000 +0000" stop="20260919043000 +0000" channel="mjh-7mate-syd">
-    <title>NDRC Top Doorslammer</title>
-    <sub-title>Rnd 3 - Winternationals</sub-title>
-    <desc>Willowbank Raceway hosts Round 3 of the Australian Top Doorslammer Championship from the historic Winternationals in QLD. As part of the 2026 NDRC season.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/a46f157a7aa0df6d5535/image"/>
-    <episode-num system="SxxExx">S26E103</episode-num>
-    <episode-num system="xmltv_ns">25.102.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-  </programme>
   <programme start="20260919043000 +0000" stop="20260919062805 +0000" channel="mjh-7mate-syd">
     <title>AFL Women's</title>
     <sub-title>Rnd 6: Port Adelaide v Sydney</sub-title>
@@ -130513,19 +129332,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="SxxExx">S19E28</episode-num>
     <episode-num system="xmltv_ns">18.27.</episode-num>
     <episode-num system="original-air-date">2026-09-25</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919034130 +0000" stop="20260919044505 +0000" channel="mjh-7flix-syd">
-    <title>Behave Yourself</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>Darren McMullen presents a mix of quick-fire buzzer rounds, experiments and hidden camera stunts to celebrity panellists as they compete to reveal fascinating facts behind why we do the things we do.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4cef4b75d0cfe837c222/image"/>
-    <episode-num system="SxxExx">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -132987,19 +131793,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919033000 +0000" stop="20260919050000 +0000" channel="mjh-channel-9-nsw">
-    <title>The Block</title>
-    <sub-title>Guest Suite Reveal</sub-title>
-    <desc>Find out who takes home $10,000 for their stunning guest suite.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9ac304780a6714b51397/image"/>
-    <episode-num system="SxxExx">S22E25</episode-num>
-    <episode-num system="xmltv_ns">21.24.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-channel-9-nsw">
     <title>NRLW Wrap</title>
     <sub-title>Episode 12 of Season 2</sub-title>
@@ -135054,15 +133847,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="original-air-date">2026-09-26</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919025600 +0000" stop="20260919045200 +0000" channel="mjh-gem-nsw">
-    <title>Quiet Weekend</title>
-    <desc>A family’s planned quiet hunting weekend in the country turns into comic romantic chaos when their cottage disappoints and they accidentally end up breaking local hunting laws.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/b201d1175cad0a5ae2ba/image"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20260919045200 +0000" stop="20260919065900 +0000" channel="mjh-gem-nsw">
@@ -140075,19 +138859,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919033000 +0000" stop="20260919043000 +0000" channel="mjh-life-nsw">
-    <title>No Demo Reno</title>
-    <sub-title>Porcelain Punch Up</sub-title>
-    <desc>With their kids off to school, a couple finally has the time to renovate their house. Jenn is ready to lean into their casual and traditional style, but there's trouble in as Jenn and Victor clash over some porcelain countertops.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8f91d26a2bf68a85bf1d/image"/>
-    <episode-num system="SxxExx">S03E02</episode-num>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919043000 +0000" stop="20260919052800 +0000" channel="mjh-life-nsw">
     <title>Renovation Aloha</title>
     <sub-title>Partnered in Pearl Harbor</sub-title>
@@ -142922,19 +141693,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-rush-nsw">
-    <title>Wheeler Dealers</title>
-    <sub-title>Mitsubishi Evo 7</sub-title>
-    <desc>Mike and Elvis get to work on an iconic Japanese rally car: a Mitsubishi Lancer Evo7. It needs a total engine rebuild and a new look if it is to be king of the street racers once again.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d644a14e20362b476f8e/image"/>
-    <episode-num system="SxxExx">S17E09</episode-num>
-    <episode-num system="xmltv_ns">16.8.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-rush-nsw">
     <title>Storage Hunters</title>
     <sub-title>Culver City - Dirty Gold Rush</sub-title>
@@ -145730,19 +144488,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919033000 +0000" stop="20260919050000 +0000" channel="mjh-channel-9-lismore">
-    <title>The Block</title>
-    <sub-title>Guest Suite Reveal</sub-title>
-    <desc>Find out who takes home $10,000 for their stunning guest suite.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9ac304780a6714b51397/image"/>
-    <episode-num system="SxxExx">S22E25</episode-num>
-    <episode-num system="xmltv_ns">21.24.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-channel-9-lismore">
     <title>NRLW Wrap</title>
     <sub-title>Episode 12 of Season 2</sub-title>
@@ -147862,19 +146607,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919033000 +0000" stop="20260919050000 +0000" channel="mjh-channel-9-newcastle">
-    <title>The Block</title>
-    <sub-title>Guest Suite Reveal</sub-title>
-    <desc>Find out who takes home $10,000 for their stunning guest suite.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9ac304780a6714b51397/image"/>
-    <episode-num system="SxxExx">S22E25</episode-num>
-    <episode-num system="xmltv_ns">21.24.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-channel-9-newcastle">
     <title>NRLW Wrap</title>
     <sub-title>Episode 12 of Season 2</sub-title>
@@ -149990,19 +148722,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="SxxExx">S2026E33</episode-num>
     <episode-num system="xmltv_ns">2025.32.</episode-num>
     <episode-num system="original-air-date">2026-09-26</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919045000 +0000" channel="mjh-abc-nsw">
-    <title>Death Valley</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>After a walker is found dead on a mountain trail, John's insight quickly turns into a murder investigation. Janie ropes John into joining a walking group to help solve the case and crack the identity of this mysterious woman.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/780434c991ab874d89eb/image"/>
-    <episode-num system="SxxExx">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -152341,19 +151060,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="SxxExx">S2026E39</episode-num>
     <episode-num system="xmltv_ns">2025.38.</episode-num>
     <episode-num system="original-air-date">2026-09-25</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919035903 +0000" stop="20260919045808 +0000" channel="mjh-10-nsw">
-    <title>Deal Or No Deal: Celebrity Jackpot</title>
-    <sub-title>Anne &amp; Lloyd</sub-title>
-    <desc>Comedic partners Anne Edmonds and Lloyd Langford bring the laughs as they're pitted against the miserly Banker. Helped by Dave Thornton, Nath Valvo, and Ben Russell, can they win big for their charity?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8ef3f4e6bfd17865ad20/image"/>
-    <episode-num system="SxxExx">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -155159,19 +153865,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919033517 +0000" stop="20260919043222 +0000" channel="mjh-10bold-nsw">
-    <title>The Living Room</title>
-    <sub-title>Episode 35 of Season 6</sub-title>
-    <desc>Miguel &amp; Chris cook dinner for the Katherines of Katherine. Renovation for profit guru Cherie Barber lends her expertise to refurbish a house on a budget.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/66affbff650e6f9e72b0/image"/>
-    <episode-num system="SxxExx">S06E35</episode-num>
-    <episode-num system="xmltv_ns">5.34.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260919043222 +0000" stop="20260919053127 +0000" channel="mjh-10bold-nsw">
     <title>JAG</title>
     <sub-title>Overdue And Presumed Lost</sub-title>
@@ -157799,32 +156492,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="original-air-date">2026-09-25</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919040045 +0000" stop="20260919043002 +0000" channel="mjh-10peach-nsw">
-    <title>Frasier</title>
-    <sub-title>Analyzed Kiss</sub-title>
-    <desc>Frasier catches Julia on the rebound. Meanwhile, Roz is offered a new position.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7353f7598b7f6c41bca2/image"/>
-    <episode-num system="SxxExx">S10E23</episode-num>
-    <episode-num system="xmltv_ns">9.22.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919043002 +0000" stop="20260919045950 +0000" channel="mjh-10peach-nsw">
-    <title>Friends</title>
-    <sub-title>The One Where Rachel Smokes</sub-title>
-    <desc>Rachel takes up smoking to feel more included at work. Joey auditions for a soup commercial with Ross's son Ben. Monica and Phoebe plan a surprise birthday party for Rachel.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d3beff34b53d4e4095ff/image"/>
-    <episode-num system="SxxExx">S05E18</episode-num>
-    <episode-num system="xmltv_ns">4.17.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20260919045950 +0000" stop="20260919053032 +0000" channel="mjh-10peach-nsw">
@@ -161659,45 +160326,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="original-air-date">2026-09-26</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919034521 +0000" stop="20260919041003 +0000" channel="mjh-10shake-nsw">
-    <title>The Patrick Star Show</title>
-    <sub-title>Squidina's Little Helper/i Smell A Pat</sub-title>
-    <desc>The Patrick Star Show is interrupted by a most peculiar stench. // Squidina hires an assistant who's a little too good at his job.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f1d4591e327bdc0b266f/image"/>
-    <episode-num system="SxxExx">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919041003 +0000" stop="20260919043622 +0000" channel="mjh-10shake-nsw">
-    <title>Avatar: The Last Airbender</title>
-    <sub-title>Sozin's Comet Part 2: The Old Masters</sub-title>
-    <desc>The gang find Iroh with June's help. Iroh suggests that Zuko challenge Azula for the position of Fire Lord, with Katara to help. The others decide to intercept the airship fleet.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0fbb1a5dce67327faa7e/image"/>
-    <episode-num system="SxxExx">S03E19</episode-num>
-    <episode-num system="xmltv_ns">2.18.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919043622 +0000" stop="20260919050241 +0000" channel="mjh-10shake-nsw">
-    <title>Avatar: The Last Airbender</title>
-    <sub-title>Sozin's Comet Part 3: Into The Inferno</sub-title>
-    <desc>Sokka, Toph and Suki begin destroying the airship fleet. Aang duels Ozai, but is soon overwhelmed because of his reluctance to kill him.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0fbb1a5dce67327faa7e/image"/>
-    <episode-num system="SxxExx">S03E20</episode-num>
-    <episode-num system="xmltv_ns">2.19.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20260919050241 +0000" stop="20260919052833 +0000" channel="mjh-10shake-nsw">
@@ -166124,11 +164752,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-10-prisoner-cell-block-h" start="20260919035800 +0000" stop="20260919044901 +0000">
-    <title>Prisoner Cell Block H S2 Ep. 41</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-prisoner-cell-block-h" start="20260919044900 +0000" stop="20260919054100 +0000">
     <title>Prisoner Cell Block H S2 Ep. 42</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
@@ -166664,11 +165287,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-cheapseats" start="20260919035200 +0000" stop="20260919044600 +0000">
-    <title>The Cheap Seats S2 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-cheapseats" start="20260919044600 +0000" stop="20260919053700 +0000">
     <title>The Cheap Seats S2 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
@@ -167182,16 +165800,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-cheapseats" start="20260922224038 +0000" stop="20260922234038 +0000">
     <title>The Cheap Seats S1 Ep. 19</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6899a030cb15389834735597/featuredImage_1767915724495.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20260919035300 +0000" stop="20260919042100 +0000">
-    <title>Becker S2 Ep. 17</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20260919042100 +0000" stop="20260919044801 +0000">
-    <title>Becker S2 Ep. 18</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
     <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-becker" start="20260919044800 +0000" stop="20260919051600 +0000">
@@ -168179,11 +166787,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-heartland" start="20260919034800 +0000" stop="20260919043800 +0000">
-    <title>Brave New World</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-heartland" start="20260919043800 +0000" stop="20260919052801 +0000">
     <title>Begin Again</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
@@ -168819,16 +167422,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-nexttopmodel" start="20260919031900 +0000" stop="20260919040801 +0000">
-    <title>America's Next Top Model S2 Ep. 3</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-nexttopmodel" start="20260919040800 +0000" stop="20260919045700 +0000">
-    <title>America's Next Top Model S2 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-nexttopmodel" start="20260919045700 +0000" stop="20260919054500 +0000">
     <title>America's Next Top Model S2 Ep. 5</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
@@ -169328,11 +167921,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Australia's Next Top Model S4 Ep. 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/664735e03027c80013bb1ec4/featuredImage_1774411531056.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-grahamnorton" start="20260919035500 +0000" stop="20260919044100 +0000">
-    <title>Series 20 Ep 15 with Danny Boyle</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/2-2420_Title_16x9.jpg"/>
-    <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-grahamnorton" start="20260919044100 +0000" stop="20260919052700 +0000">
     <title>Series 20 Ep 18 with Tom Hiddleston</title>
@@ -170087,16 +168675,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-grahamnorton" start="20260923132430 +0000" stop="20260923140730 +0000">
     <title>Series 15 Ep 10 with Mark Ruffalo</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/2-2420_Title_16x9.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20260919033300 +0000" stop="20260919041300 +0000">
-    <title>Episode 2</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/8OutOf10CatsUKSeason18_1070098.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20260919041300 +0000" stop="20260919045500 +0000">
-    <title>Episode 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/8OutOf10CatsUKSeason18_1070100.jpg"/>
     <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-eightoutof10cats" start="20260919045500 +0000" stop="20260919053901 +0000">
@@ -170943,16 +169521,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Episode 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>N/A</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20260919040400 +0000" stop="20260919043100 +0000">
-    <title>Ridiculousness S7 Ep. 711</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20260919043100 +0000" stop="20260919045700 +0000">
-    <title>Ridiculousness S8 Ep. 822</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-mtvridiculousness" start="20260919045700 +0000" stop="20260919052400 +0000">
     <title>Ridiculousness S7 Ep. 715</title>
@@ -171984,11 +170552,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20260919040400 +0000" stop="20260919045500 +0000">
-    <title>Have You Been Paying Attention? S2 Ep. 10</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-haveyoubeenpayingattention" start="20260919045500 +0000" stop="20260919054800 +0000">
     <title>Have You Been Paying Attention? S4 Ep. 14</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
@@ -172534,11 +171097,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-thankgodyourehere" start="20260919033500 +0000" stop="20260919043201 +0000">
-    <title>Thank God You're Here S6 Ep. 9</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-thankgodyourehere" start="20260919043200 +0000" stop="20260919052800 +0000">
     <title>Thank God You're Here S4 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
@@ -173017,21 +171575,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-thankgodyourehere" start="20260922225536 +0000" stop="20260922234836 +0000">
     <title>Thank God You're Here S2 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20260919034800 +0000" stop="20260919041301 +0000">
-    <title>Ugly Americans S1 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/7596107b3c35eb26f1e7191ab8d7de53-1439022.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20260919041300 +0000" stop="20260919044001 +0000">
-    <title>Daria S2 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/5df1660048dd4e9d2d9f20d0d7c57d39-1061124.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20260919044000 +0000" stop="20260919050601 +0000">
-    <title>Drawn Together S3 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/02d38d982a2f0884058b90356ab09390-1438807.jpg"/>
     <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-adultanimation" start="20260919050600 +0000" stop="20260919053301 +0000">
@@ -174079,11 +172622,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/5df1660048dd4e9d2d9f20d0d7c57d39-1061124.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-aussiedramapopup" start="20260919035900 +0000" stop="20260919045201 +0000">
-    <title>Rush S2 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-aussiedramapopup" start="20260919045200 +0000" stop="20260919054500 +0000">
     <title>Rush S2 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
@@ -174587,16 +173125,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-aussiedramapopup" start="20260922221947 +0000" stop="20260922231147 +0000">
     <title>Rush S4 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20260919033000 +0000" stop="20260919041900 +0000">
-    <title>Cold Comforts</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20260919041900 +0000" stop="20260919050701 +0000">
-    <title>The Rules</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
   <programme channel="mjh-10-rookieblue" start="20260919050700 +0000" stop="20260919055600 +0000">
@@ -175249,11 +173777,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-diagnosismurder" start="20260919035300 +0000" stop="20260919044500 +0000">
-    <title>Diagnosis Murder S7 Ep. 24</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-diagnosismurder" start="20260919044500 +0000" stop="20260919053901 +0000">
     <title>Diagnosis Murder S8 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
@@ -175763,16 +174286,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Diagnosis Murder S6 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20260919031800 +0000" stop="20260919041100 +0000">
-    <title>Project Runway</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20260919041100 +0000" stop="20260919050301 +0000">
-    <title>Project Runway</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-projectrunway" start="20260919050300 +0000" stop="20260919055601 +0000">
     <title>Project Runway</title>
@@ -176389,11 +174902,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://preview-amagistv-amg02189-cloudport.now.amagi.tv/Images/S3/PRAS_S6_ep612.jpg"/>
     <category>Unscripted Competition</category>
   </programme>
-  <programme channel="mjh-10-masterchef" start="20260919033300 +0000" stop="20260919044400 +0000">
-    <title>MasterChef Australia AU S12 Ep. 21</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-masterchef" start="20260919044400 +0000" stop="20260919055701 +0000">
     <title>MasterChef Australia AU S12 Ep. 22</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
@@ -176762,11 +175270,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-masterchef" start="20260922211139 +0000" stop="20260922225939 +0000">
     <title>MasterChef Australia AU S14 Ep. 34</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-world-of-survivor" start="20260919032800 +0000" stop="20260919042101 +0000">
-    <title>Survivor US S20 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-world-of-survivor" start="20260919042100 +0000" stop="20260919051301 +0000">
@@ -177167,16 +175670,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-world-of-survivor" start="20260922230347 +0000" stop="20260922235147 +0000">
     <title>Survivor US S16 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-mtv-the-shores" start="20260919031600 +0000" stop="20260919040600 +0000">
-    <title>Geordie Shore S10 Ep. 1005</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/76cc999c54efdc240e9b3479c5ee26bf-1437861.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-mtv-the-shores" start="20260919040600 +0000" stop="20260919045501 +0000">
-    <title>Geordie Shore S10 Ep. 1006</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/76cc999c54efdc240e9b3479c5ee26bf-1437861.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-mtv-the-shores" start="20260919045500 +0000" stop="20260919054501 +0000">
@@ -177738,21 +176231,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Jersey Shore S1 Ep. 108</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/03/e793739f541f8b6a6423517b6e9257e3-1439572.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20260919034100 +0000" stop="20260919040901 +0000">
-    <title>Judge Judy S3 Ep. 227</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20260919040900 +0000" stop="20260919043700 +0000">
-    <title>Judge Judy S3 Ep. 228</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20260919043700 +0000" stop="20260919050501 +0000">
-    <title>Judge Judy S3 Ep. 229</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
   </programme>
   <programme channel="mjh-10-judge-judy" start="20260919050500 +0000" stop="20260919053300 +0000">
     <title>Judge Judy S3 Ep. 231</title>
@@ -178724,16 +177202,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
     <category>Light Entertainment</category>
   </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20260919033700 +0000" stop="20260919041700 +0000">
-    <title>The Only Way Is Essex S7 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20260919041700 +0000" stop="20260919045701 +0000">
-    <title>The Only Way Is Essex S7 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-theonlywayisessex" start="20260919045700 +0000" stop="20260919053900 +0000">
     <title>The Only Way Is Essex S7 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
@@ -179434,11 +177902,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-undercoverboss" start="20260919032300 +0000" stop="20260919041700 +0000">
-    <title>Undercover Boss S4 Ep. 13</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-undercoverboss" start="20260919041700 +0000" stop="20260919051000 +0000">
     <title>Undercover Boss S4 Ep. 14</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
@@ -179957,21 +178420,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-undercoverboss" start="20260922221902 +0000" stop="20260922231202 +0000">
     <title>Undercover Boss S5 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20260919034600 +0000" stop="20260919041100 +0000">
-    <title>Les Loses It</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason04_591876.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20260919041100 +0000" stop="20260919043700 +0000">
-    <title>Episode 1</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason05_1020653.jpg"/>
-    <category>N/A</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20260919043700 +0000" stop="20260919050101 +0000">
-    <title>You Bet Your Butt</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason09_591952.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-hardcorepawn" start="20260919050100 +0000" stop="20260919052401 +0000">
@@ -181227,11 +179675,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason11_589326.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-wicked-tuna" start="20260919034600 +0000" stop="20260919043800 +0000">
-    <title>Wicked Tuna</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
-    <category>Adventure</category>
-  </programme>
   <programme channel="mjh-10-wicked-tuna" start="20260919043800 +0000" stop="20260919053000 +0000">
     <title>Wicked Tuna</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
@@ -181827,11 +180270,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
     <category>Adventure</category>
   </programme>
-  <programme channel="mjh-10-embarrassing-bodies" start="20260919035800 +0000" stop="20260919045100 +0000">
-    <title>Embarrassing Bodies S2 Ep. 9</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-embarrassing-bodies" start="20260919045100 +0000" stop="20260919054201 +0000">
     <title>Embarrassing Bodies S4 Ep. 13</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
@@ -182356,11 +180794,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Embarrassing Bodies S2 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-highwaythruhell" start="20260919034900 +0000" stop="20260919044500 +0000">
-    <title>Not your regular fender-bender</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HeavyRescue401Season05.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-highwaythruhell" start="20260919044500 +0000" stop="20260919053900 +0000">
     <title>feels like a win</title>
@@ -182936,21 +181369,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Episode 2</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HighwayThruHellSeason10.jpg"/>
     <category>Factual</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20260919035200 +0000" stop="20260919041400 +0000">
-    <title>Cops S29 Ep. 2925</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20260919041400 +0000" stop="20260919043700 +0000">
-    <title>Cops S29 Ep. 2926</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20260919043700 +0000" stop="20260919045900 +0000">
-    <title>Cops S29 Ep. 2927</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
-    <category>Crime</category>
   </programme>
   <programme channel="mjh-10-cops" start="20260919045900 +0000" stop="20260919052201 +0000">
     <title>Cops S29 Ep. 2928</title>
@@ -184122,16 +182540,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1782411124942.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-medical-emergency" start="20260919032000 +0000" stop="20260919041200 +0000">
-    <title>24 Hours In A&amp;E S3 Ep. 8</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/28/6ccc0b04a2a19ac9fbc66c8dd8f3389f-1252038.jpg"/>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-medical-emergency" start="20260919041200 +0000" stop="20260919050401 +0000">
-    <title>24 Hours In A&amp;E S3 Ep. 9</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/28/6ccc0b04a2a19ac9fbc66c8dd8f3389f-1252038.jpg"/>
-    <category>Documentary</category>
-  </programme>
   <programme channel="mjh-10-medical-emergency" start="20260919050400 +0000" stop="20260919055501 +0000">
     <title>24 Hours In A&amp;E S3 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/28/6ccc0b04a2a19ac9fbc66c8dd8f3389f-1252038.jpg"/>
@@ -184641,11 +183049,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>24 Hours In A&amp;E S3 Ep. 6</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/28/6ccc0b04a2a19ac9fbc66c8dd8f3389f-1252038.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-deadlywomen" start="20260919035700 +0000" stop="20260919045200 +0000">
-    <title>Blood Lines</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason03.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-deadlywomen" start="20260919045200 +0000" stop="20260919054500 +0000">
     <title>Green-Eyed Monsters</title>
@@ -185242,11 +183645,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason07.jpg"/>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-crime-time" start="20260919034000 +0000" stop="20260919043001 +0000">
-    <title>Declassified S3 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/01/20/699b51db8a5e4b67947fb5a4fdba89bd-1026558.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-time" start="20260919043000 +0000" stop="20260919052000 +0000">
     <title>Declassified S1 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/01/20/699b51db8a5e4b67947fb5a4fdba89bd-1026558.jpg"/>
@@ -185767,11 +184165,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/01/20/699b51db8a5e4b67947fb5a4fdba89bd-1026558.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-crime-hunters" start="20260919033500 +0000" stop="20260919043601 +0000">
-    <title>The FBI Files S2 Ep. 15</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/50043a49919fb14e5280aa7db108f117-1328467.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-hunters" start="20260919043600 +0000" stop="20260919053600 +0000">
     <title>The FBI Files S4 Ep. 62</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/50043a49919fb14e5280aa7db108f117-1328467.jpg"/>
@@ -186226,11 +184619,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>The FBI Files S3 Ep. 48</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/50043a49919fb14e5280aa7db108f117-1328467.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-forty-eight-hours" start="20260919035000 +0000" stop="20260919044001 +0000">
-    <title>48 Hours S26 Ep. 50</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-forty-eight-hours" start="20260919044000 +0000" stop="20260919052800 +0000">
     <title>48 Hours S26 Ep. 52</title>
@@ -186786,11 +185174,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>48 Hours S21 Ep. 57</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20260919033900 +0000" stop="20260919043100 +0000">
-    <title>Vanity Fair Confidential AU S2 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-true-stories" start="20260919043100 +0000" stop="20260919052200 +0000">
     <title>Vanity Fair Confidential AU S1 Ep. 6</title>
@@ -187391,11 +185774,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Vanity Fair Confidential AU S4 Ep. 3</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-haunt-tv" start="20260919032800 +0000" stop="20260919042200 +0000">
-    <title>Paranormal Survivor</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/14/1761c048e29813e12fc2e8421fafb639-1249401.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-haunt-tv" start="20260919042200 +0000" stop="20260919051700 +0000">
     <title>Paranormal Survivor</title>
@@ -188122,16 +186500,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/14/1761c048e29813e12fc2e8421fafb639-1249401.jpg"/>
     <category>Documentary</category>
   </programme>
-  <programme channel="mjh-10-ghosthunters" start="20260919031300 +0000" stop="20260919040800 +0000">
-    <title>Ghost Hunters S11 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-ghosthunters" start="20260919040800 +0000" stop="20260919050400 +0000">
-    <title>Ghost Hunters S5 Ep. 18</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-ghosthunters" start="20260919050400 +0000" stop="20260919055900 +0000">
     <title>Ghost Hunters S5 Ep. 16</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
@@ -188636,11 +187004,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Ghost Hunters S4 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-anthonybourdain" start="20260919034200 +0000" stop="20260919042800 +0000">
-    <title>Anthony Bourdain Parts Unknown S3 Ep. 8</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
-    <category>Food &amp; Cooking</category>
   </programme>
   <programme channel="mjh-10-anthonybourdain" start="20260919042800 +0000" stop="20260919051301 +0000">
     <title>Anthony Bourdain Parts Unknown S4 Ep. 7</title>
@@ -189251,11 +187614,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Anthony Bourdain Parts Unknown S1 Ep. 4</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
     <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-wildest" start="20260919031800 +0000" stop="20260919041701 +0000">
-    <title>A Buck's Life</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_secretlifeofthekangaroo_Season_1_2x3.jpg"/>
-    <category>nature</category>
   </programme>
   <programme channel="mjh-10-wildest" start="20260919041700 +0000" stop="20260919051400 +0000">
     <title>Meet The Devils</title>
@@ -189892,11 +188250,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_secretsofwildaustralia_Season_1_2x3.jpg"/>
     <category>nature</category>
   </programme>
-  <programme channel="mjh-10-shockwave" start="20260919032700 +0000" stop="20260919043100 +0000">
-    <title>Lake Geneva: The Giant Tsunami</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/30/55772717271b5670298c1ada5a01ae57-1425220.jpg"/>
-    <category>Documentary</category>
-  </programme>
   <programme channel="mjh-10-shockwave" start="20260919043100 +0000" stop="20260919053101 +0000">
     <title>Monster Waves</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/5N1HJZ69IH6XNNOE2N8JRM_16_9.png"/>
@@ -190436,11 +188789,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Earthquake</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/5N1HJZ69IH6XNOKAK3KP8G_16_9.jpeg"/>
     <category>nature</category>
-  </programme>
-  <programme channel="mjh-10-historyandwarfare" start="20260919025200 +0000" stop="20260919041501 +0000">
-    <title>In Nelson's Footsteps</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QF8QRN2P7P1WK3NTHRF_16_9.jpg"/>
-    <category>documentary</category>
   </programme>
   <programme channel="mjh-10-historyandwarfare" start="20260919041500 +0000" stop="20260919052200 +0000">
     <title>Aircraft Carrier: Bastions of the Sea</title>
@@ -191036,11 +189384,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>The Presidents: Clinton</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171CJZOJ66TF2_16_9.png"/>
     <category>documentary</category>
-  </programme>
-  <programme channel="mjh-10-documentaryshell" start="20260919040000 +0000" stop="20260919042900 +0000">
-    <title>Snake Boss S1 Ep. 15</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67daa737e680c6d5f61d6bb9/featuredImage.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-documentaryshell" start="20260919042900 +0000" stop="20260919052701 +0000">
     <title>Human Prey S1 Ep. 4</title>
@@ -192042,11 +190385,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/5556014_landscape.jpg"/>
     <category>Action</category>
   </programme>
-  <programme channel="mjh-10-seasonalmovies" start="20260919032700 +0000" stop="20260919050800 +0000">
-    <title>Sugar Baby Murder</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/11/02/fc35fcc159f6b8a7c36e7bfb60bbc044-1277217.jpg"/>
-    <category>Movies</category>
-  </programme>
   <programme channel="mjh-10-seasonalmovies" start="20260919050800 +0000" stop="20260919064401 +0000">
     <title>The Psycho She Met Online</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/11/03/81943df94589df86dc574818998062bd-1277300.jpg"/>
@@ -192326,16 +190664,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <title>Amish Abduction</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/10/31/17599caea9a9860309c2b78a70fc572d-1276639.jpg"/>
     <category>Movies</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20260919040500 +0000" stop="20260919043401 +0000">
-    <title>Bubble Guppies S2 Ep. 18</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20260919043400 +0000" stop="20260919050301 +0000">
-    <title>Bubble Guppies S4 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nick-jr" start="20260919050300 +0000" stop="20260919053200 +0000">
     <title>Bubble Guppies S3 Ep. 8</title>
@@ -193325,21 +191653,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-nick-jr" start="20260922233053 +0000" stop="20260922235453 +0000">
     <title>Shimmer and Shine S1 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/8855eee97bbaed70a0ccd2be9d5bdbb8-991824.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20260919035100 +0000" stop="20260919041500 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 109</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20260919041500 +0000" stop="20260919044000 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 110</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20260919044000 +0000" stop="20260919050501 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 111</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-spongebobsquarepants" start="20260919050500 +0000" stop="20260919052900 +0000">
@@ -194427,16 +192740,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons" start="20260919040400 +0000" stop="20260919043000 +0000">
-    <title>Danny Phantom S2 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20260919043000 +0000" stop="20260919045500 +0000">
-    <title>Breadwinners S1 Ep. 118</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons" start="20260919045500 +0000" stop="20260919052301 +0000">
     <title>Rise of the Teenage Mutant Ninja Turtles S1 Ep. 26</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de24872c3507bb0a251515/featuredImage_1776166024176.jpg"/>
@@ -195472,16 +193775,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20260919034600 +0000" stop="20260919041301 +0000">
-    <title>Hey Arnold! S2 Ep. 26</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20260919041300 +0000" stop="20260919044301 +0000">
-    <title>Hey Arnold! S3 Ep. 58</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons-90s" start="20260919044300 +0000" stop="20260919051301 +0000">
     <title>Hey Arnold! S4 Ep. 67</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
@@ -196495,16 +194788,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
   <programme channel="mjh-10-nicktoons-90s" start="20260922232431 +0000" stop="20260922235431 +0000">
     <title>Hey Arnold! S3 Ep. 53</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20260919034900 +0000" stop="20260919041600 +0000">
-    <title>Big Time Rush S3 Ep. 8</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20260919041600 +0000" stop="20260919044500 +0000">
-    <title>Big Time Rush S2 Ep. 14</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nickteen" start="20260919044500 +0000" stop="20260919051300 +0000">
@@ -197537,24 +195820,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648af2be5719ba00138eba18/featuredImage.jpg"/>
     <category>Children &amp; Family</category>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="mjh-10-geckotv">
-    <title>Home Shopping</title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-10-geckotv">
-    <title>Home Shopping</title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-10-geckotv">
     <title>Home Shopping</title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -198507,15 +196772,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6b4c3cc04f344e712500/image"/>
     <rating>
       <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-10-youtv">
-    <title>Home And Garden Special Offers</title>
-    <desc>Home &amp; Garden Innovations - See How Our Range Of "As Seen on TV" Products Will Help To Take The Hassle Out Of Cooking, Cleaning, and Maintaining Your Garden.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/ff6a1129db8e427421c9/image"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-10-youtv">
@@ -200321,16 +198577,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <rating>
       <value>G</value>
     </rating>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-sbs-sbst">
-    <title>Tour Of Britain Men</title>
-    <sub-title>Highlights</sub-title>
-    <desc>All the best moments from the 2026 Lloyds Tour of Britain Men, as the peloton takes on five stages of racing starting from Lincoln and finishing in Earlston.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/bb678d1bda51c8580cc6/image"/>
-    <episode-num system="SxxExx">S2026E06</episode-num>
-    <episode-num system="xmltv_ns">2025.5.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919051000 +0000" channel="mjh-sbs-sbst">
     <title>Such Was Life</title>
@@ -203127,28 +201373,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919020500 +0000" stop="20260919042500 +0000" channel="mjh-sbs-2syd">
-    <title>The Fifth Element</title>
-    <desc>In the 23rd century, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep a great extra-terrestrial evil and Zorg at bay. (Bruce Willis, Gary Oldman)</desc>
-    <category>Action &amp; Adventure</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/37626fe49e547c1a94a5/image"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919042500 +0000" stop="20260919044000 +0000" channel="mjh-sbs-2syd">
-    <title>Fear Itself With Alex Lee</title>
-    <sub-title>Heart Of Fear</sub-title>
-    <desc>In this three-part series, comedian Alex Lee (a huge coward) faces her worst nightmares to get to the heart of fear.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5d20420d8fb6667697e4/image"/>
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20260919044000 +0000" stop="20260919054000 +0000" channel="mjh-sbs-2syd">
     <title>If You Are The One</title>
     <sub-title>Episode 9</sub-title>
@@ -205720,32 +203944,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <episode-num system="SxxExx">S2026E926</episode-num>
     <episode-num system="xmltv_ns">2025.925.</episode-num>
     <episode-num system="original-air-date">2026-09-26</episode-num>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="mjh-sbs-3syd">
-    <title>People Of The North</title>
-    <sub-title>The Fjord Valley Of Sogn (Sogn)</sub-title>
-    <desc>Arne and Stig take a train ride to Sognefjord, Norway's longest and deepest fjord.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7ce0e21e59204e526c40/image"/>
-    <episode-num system="SxxExx">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-sbs-3syd">
-    <title>My Market Kitchen</title>
-    <sub-title>Episode 65</sub-title>
-    <desc>Mike begins with a delicious and healthy Cranberry and Ancient Grain Salad.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d757d0d325fa1d6add5d/image"/>
-    <episode-num system="SxxExx">S07E65</episode-num>
-    <episode-num system="xmltv_ns">6.64.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-sbs-3syd">
     <title>Lidia's Kitchen</title>
@@ -209626,29 +207824,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919033500 +0000" stop="20260919043000 +0000" channel="mjh-sbs-5nsw">
-    <title>Undiscovered Vistas</title>
-    <sub-title>Gros Morne, Canada</sub-title>
-    <desc>A magnificent and savage landscape on the rugged western coast of Newfoundland, Gros Morne National Park is a place of awe-inspiring natural beauty.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/172df33b6472f5791143/image"/>
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-sbs-5nsw">
-    <title>Over The Black Dot</title>
-    <sub-title>Episode 29</sub-title>
-    <desc>In 2026, Over the Black Dot becomes a digital-first Rugby League yarn free-flowing conversations on footy, culture and community, with panellists and guests sharing authentic Indigenous stories.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3bf86e908063a28f3489/image"/>
-    <episode-num system="SxxExx">S2026E29</episode-num>
-    <episode-num system="xmltv_ns">2025.28.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060500 +0000" channel="mjh-sbs-5nsw">
     <title>Black Magic</title>
     <desc>An account of the creative use of sport made by the Noongar people of Western Australia's south-west to advance their people's standing featuring top Aboriginal sportsmen.</desc>
@@ -212913,15 +211088,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919033000 +0000" stop="20260919050000 +0000" channel="mjh-sbs-4syd">
-    <title>Fallen Leaves</title>
-    <desc>In modern-day Helsinki, two lonely people meet in a karaoke bar and try to start a relationship. Their path to happiness is filled with obstacles, including lost numbers, wrong addresses, alcoholism, and a stray dog.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f3d803347fe327cd5f2d/image"/>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-sbs-4syd">
     <title>The Movie Show</title>
     <sub-title>Movie Show 2004 18</sub-title>
@@ -213699,12 +211865,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-sbs-sbs-radio-1">
-    <title>Croatian (RPT)</title>
-    <desc>Stay connected in Croatian to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Croatian team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/184449f70fe3691ad36c/image"/>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-sbs-sbs-radio-1">
     <title>Serbian</title>
     <desc>Stay connected in Serbian to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Serbian team.</desc>
@@ -214178,12 +212338,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <desc>Stay connected in Cantonese to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Cantonese team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/2cd37c74b4cb6eb9e2f5/image"/>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="mjh-sbs-sbs-radio-2">
-    <title>Pashto</title>
-    <desc>Stay connected in Pashto to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Pashto team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2fee164abac4f8f144e5/image"/>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="mjh-sbs-sbs-radio-2">
     <title>Persian</title>
@@ -214772,58 +212926,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
     <desc>Stay connected in Filipino to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Filipino team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/3bfb7ffb857202f0d1fd/image"/>
-  </programme>
-  <programme start="20260919040500 +0000" stop="20260919041500 +0000" channel="mjh-abc-kids">
-    <title>Fireman Sam</title>
-    <sub-title>The Future of The Seas</sub-title>
-    <desc>When Hannah turns the Pontypandy Ocean Parade into a race, an ocean rescue is required.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/043c9a140484b1f44059/image"/>
-    <episode-num system="SxxExx">S16E23</episode-num>
-    <episode-num system="xmltv_ns">15.22.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919041500 +0000" stop="20260919042500 +0000" channel="mjh-abc-kids">
-    <title>Nikhil &amp; Jay</title>
-    <sub-title>Nikhil and Jay and the Dream Detectives</sub-title>
-    <desc>When Nikhil wakes up, he misses the end of his amazing dream! Jay tries lots of ways to help him find the ending so they can tell it at their 'share a story' picnic.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/68e6c2248f820353efce/image"/>
-    <episode-num system="SxxExx">S01E37</episode-num>
-    <episode-num system="xmltv_ns">0.36.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919042500 +0000" stop="20260919043500 +0000" channel="mjh-abc-kids">
-    <title>Numberblocks</title>
-    <sub-title>Ten Green Bottles</sub-title>
-    <desc>One of the bottles in Ten's collection accidentally falls off the wall, setting off a spectacular numbery hullabaloo. Learn to count down from ten by taking one away with the Numberblocks.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/574b120455836dc07977/image"/>
-    <episode-num system="SxxExx">S01E30</episode-num>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919043500 +0000" stop="20260919050000 +0000" channel="mjh-abc-kids">
-    <title>Fizzy And Suds</title>
-    <sub-title>Roads / Cheese</sub-title>
-    <desc>Fizzy and Suds explore road construction. /  Fizzy and Suds visit cheese factories.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4af7755ea6bb8c75c54e/image"/>
-    <episode-num system="SxxExx">S03E39</episode-num>
-    <episode-num system="xmltv_ns">2.38.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-abc-kids">
     <title>Play School: Make and Create</title>
@@ -224773,19 +222875,6 @@ approach.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919035500 +0000" stop="20260919044000 +0000" channel="mjh-abc-me">
-    <title>ER</title>
-    <sub-title>9 1/2 Hours</sub-title>
-    <desc>Dr. Ross tries to maintain order at the ER on Greene's day off. Hathaway treats a rape victim who is afraid to cooperate with police. Carter works on a high school wrestler who starved himself to make weight.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/a6bd5e0ceb4fbd1fa83e/image"/>
-    <episode-num system="SxxExx">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20260919044000 +0000" stop="20260919052000 +0000" channel="mjh-abc-me">
     <title>Penn &amp; Teller: Fool Us</title>
     <sub-title>Penn &amp; Teller In 3d...Glasses</sub-title>
@@ -229389,26 +227478,6 @@ approach.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="mjh-abc-news">
-    <title>ABC News</title>
-    <sub-title>Saturday 19 September 2026</sub-title>
-    <desc>Fiona Willan presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c83b5fa4f9d341c1b93c/image"/>
-    <episode-num system="SxxExx">S2026E75</episode-num>
-    <episode-num system="xmltv_ns">2025.74.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-  </programme>
-  <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="mjh-abc-news">
-    <title>The Breakfast Couch</title>
-    <sub-title>Episode 33 of Season 2026</sub-title>
-    <desc>James Glenday, Emma Rebellato, Catherine Murphy and Nate Byrne hear from some of the guests who have appeared on News Breakfast. Plus regulars including our film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/acbe2670cfe3f0361870/image"/>
-    <episode-num system="SxxExx">S2026E33</episode-num>
-    <episode-num system="xmltv_ns">2025.32.</episode-num>
-    <episode-num system="original-air-date">2026-09-19</episode-num>
-  </programme>
   <programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="mjh-abc-news">
     <title>ABC News</title>
     <sub-title>Saturday 19 September 2026</sub-title>
@@ -233342,20 +231411,6 @@ approach.</desc>
     <desc>Highlights of Thoroughbred racing from Eagle Farm.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="mjh-bloomberg-tv" start="20260919040000 +0000" stop="20260919043000 +0000">
-    <title>Bloomberg Investigates</title>
-    <sub-title>The True Cost of USAID Cuts</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
-    <category>News and Documentaries</category>
-  </programme>
-  <programme channel="mjh-bloomberg-tv" start="20260919043000 +0000" stop="20260919050000 +0000">
-    <title>Bloomberg Chief Future Officer</title>
-    <sub-title>Kate Gulliver, Wayfair</sub-title>
-    <episode-num system="onscreen">S06E01</episode-num>
-    <desc>Kate Gulliver, Wayfair. Wayfair CFO Kate Gulliver is leading the home goods retailer's efforts to achieve profitable growth during a challenging period for the housing market.</desc>
-    <category>News and Documentaries</category>
-  </programme>
   <programme channel="mjh-bloomberg-tv" start="20260919050000 +0000" stop="20260919053000 +0000">
     <title>Quantum Marketing</title>
     <sub-title>How AI Could Change the Advertising Business</sub-title>
@@ -235084,22 +233139,6 @@ approach.</desc>
     <desc>Bruce Downes is The Catholic Guy. Bruce and his team will move, inspire and challenge you to live your life to the absolute fullest. No matter your age, situation or background, be prepared to laugh.</desc>
     <category>Special Interest</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20260919040000 +0000" stop="20260919043000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20260919043000 +0000" stop="20260919050000 +0000">
-    <title>The Travel Show</title>
-    <desc>Can the great outdoors still inspire a generation raised on screens? 2026 sees the Duke of Edinburgh Awards marking 70 years of taking young people on adventures in the British countryside.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20260919050000 +0000" stop="20260919053000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -235158,6 +233197,22 @@ approach.</desc>
     </rating>
   </programme>
   <programme channel="mjh-bbc-news" start="20260919090000 +0000" stop="20260919093000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20260919093000 +0000" stop="20260919100000 +0000">
+    <title>Global Eye</title>
+    <desc>Global reporters deliver in-depth, investigative coverage of major world events, uncovering crucial details in international news.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3164633645_0_20260709T005339934Z_100_imageprocessorclient-tvplus-linear-75df688c49-np596.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20260919100000 +0000" stop="20260919103000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
