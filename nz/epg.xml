@@ -208,11 +208,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme channel="mjh-sky-popup1" start="20260920020000 +1200" stop="20260920030000 +1200">
-    <title>MotoGP: Grand Prix of Austria Day 3 Live Today 19.35pm</title>
-    <sub-title>MotoGP: Grand Prix of Austria Day 1 Live Fri 18th 18.55pm</sub-title>
-    <category>Sport</category>
-  </programme>
   <programme channel="mjh-sky-popup1" start="20260920030000 +1200" stop="20260920060000 +1200">
     <title>NASCAR Cup: Bass Pro Shops Night Race Live Today 11am</title>
     <sub-title>NASCAR Cup: Bristol Motor Speedway Live Today 11am</sub-title>
@@ -257,14 +252,19 @@
     <sub-title>NASCAR Cup: Kansas Speedway Live Mon 28th Sep 7.30am</sub-title>
     <category>Sport</category>
   </programme>
-  <programme channel="mjh-sky-popup2" start="20260920013000 +1200" stop="20260920030000 +1200">
+  <programme channel="mjh-sky-popup1" start="20260921060000 +1200" stop="20260921180000 +1200">
+    <title>NASCAR Cup: Hollywood Casino 400 Live Mon 28th Sep 7.30am</title>
+    <sub-title>NASCAR Cup: Kansas Speedway Live Mon 28th Sep 7.30am</sub-title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="mjh-sky-popup2" start="20260920013000 +1200" stop="20260920031500 +1200">
     <title>LIVE: Rolex Switzerland SailGP - Day 1</title>
     <sub-title>SailGP: Geneva Dy 1</sub-title>
     <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/98AD5746-1E82-446E-8D0B74276255B25D.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <episode-num system="onscreen">S2026E21</episode-num>
     <category>Sports</category>
   </programme>
-  <programme channel="mjh-sky-popup2" start="20260920030000 +1200" stop="20260920040000 +1200">
+  <programme channel="mjh-sky-popup2" start="20260920031500 +1200" stop="20260920040000 +1200">
     <title>SailGP: Rolex Switzerland SailGP Day 1 LIVE Mon 21st 01.30am</title>
     <sub-title>SailGP: Rolex Switzerland SailGP Day 1 LIVE Sun 20th 01.30am</sub-title>
     <category>Sport</category>
@@ -306,43 +306,10 @@
     <sub-title>SailGP: Rolex Switzerland SailGP Day 1 LIVE Sun 20th 01.30am</sub-title>
     <category>Sport</category>
   </programme>
-  <programme start="20260919135500 +0000" stop="20260919144500 +0000" channel="mjh-sky-hgtv">
-    <title>Houses With History</title>
-    <sub-title>One With the Double Staircase</sub-title>
-    <desc>Mike, Rich and Jen consider two homes: a 1696 home that's literally leaning, and an 1800 Cape Cod with solid exterior covering an abandoned demolition.</desc>
-    <date>2021</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/exUkf90RLMI7plKHy10KpLuMybl.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11921539</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7afd93a6-cc23-4e8e-8797-8a00187e6e04</episode-num>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="dd_seriesid">1002285</episode-num>
-    <episode-num system="freeviewnz.tv">season/0b9a180c-e360-44f5-9b53-b09b722283bb</episode-num>
-    <episode-num system="freeviewnz.tv">show/b9fd15d5-8256-4d1f-97b4-ba639330e43f</episode-num>
-    <episode-num system="original-air-date">2026-09-19 19:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/135202</episode-num>
-    <episode-num system="threenow.co.nz">show/S3288-101</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Three Massachusetts natives comb Plymouth County and the surrounding wooded areas south of Boston to transform 18th and 19th-century homes into brand-new ones, all while preserving their history.</series-desc>
+  <programme channel="mjh-sky-popup2" start="20260921060000 +1200" stop="20260921180000 +1200">
+    <title>SailGP: Emirates Dubai Sail GP Day 1 Live Sun 21st Nov 11.30pm</title>
+    <sub-title>SailGP: Rolex Switzerland SailGP Day 1 LIVE Sun 20th 01.30am</sub-title>
+    <category>Sport</category>
   </programme>
   <programme start="20260919144500 +0000" stop="20260919153500 +0000" channel="mjh-sky-hgtv">
     <title>Renovation Goldmine</title>
@@ -6800,10 +6767,10 @@
     <sub-title>Top Stories from CNN</sub-title>
     <category>News/Current Affairs</category>
   </programme>
-  <programme channel="mjh-sky-ptms" start="20260920020000 +1200" stop="20260920021900 +1200">
-    <title>Queen &amp; Slim</title>
-    <sub-title>Queen &amp; Slim</sub-title>
-    <category>Movies</category>
+  <programme channel="mjh-sky-ptcn" start="20260921060000 +1200" stop="20260922055900 +1200">
+    <title>Top Stories from CNN</title>
+    <sub-title>Top Stories from CNN</sub-title>
+    <category>News/Current Affairs</category>
   </programme>
   <programme channel="mjh-sky-ptms" start="20260920021900 +1200" stop="20260920042300 +1200">
     <title>Young Guns</title>
@@ -6879,13 +6846,6 @@
     <title>The Philadelphia Experiment II</title>
     <sub-title>The Philadelphia Experiment II</sub-title>
     <category>Movies</category>
-  </programme>
-  <programme channel="mjh-sky-fast3" start="20260920015000 +1200" stop="20260920023500 +1200">
-    <title>Below Deck Down Under</title>
-    <sub-title>Yes, We Cairns</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/9F01152C-8903-494A-8D977EB01D2D3540.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-fast3" start="20260920023500 +1200" stop="20260920032500 +1200">
     <title>Below Deck Down Under</title>
@@ -7137,10 +7097,16 @@
     <title>Below Deck Vault Back Soon</title>
     <sub-title>Below Deck Vault Back Soon</sub-title>
   </programme>
-  <programme channel="mjh-sky-ptmb" start="20260920013700 +1200" stop="20260920023500 +1200">
-    <title>MythBusters</title>
-    <sub-title>MythBusters</sub-title>
-    <category>Technology</category>
+  <programme channel="mjh-sky-fast3" start="20260921060000 +1200" stop="20260921061000 +1200">
+    <title>Below Deck Vault Back Soon</title>
+    <sub-title>Below Deck Vault Back Soon</sub-title>
+  </programme>
+  <programme channel="mjh-sky-fast3" start="20260921061000 +1200" stop="20260921070000 +1200">
+    <title>Below Deck Down Under</title>
+    <sub-title>Love and Downpour</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/9F01152C-8903-494A-8D977EB01D2D3540.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-ptmb" start="20260920023600 +1200" stop="20260920033500 +1200">
     <title>MythBusters</title>
@@ -7277,12 +7243,10 @@
     <sub-title>MythBusters</sub-title>
     <category>Technology</category>
   </programme>
-  <programme channel="mjh-sky-fast4" start="20260920015500 +1200" stop="20260920024500 +1200">
-    <title>Evil Lives Here</title>
-    <sub-title>My Love Put A Gun To My Head</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/AC120684-3FB8-4940-ACF0610751167CCB.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S10E07</episode-num>
-    <category>Crime</category>
+  <programme channel="mjh-sky-ptmb" start="20260921065600 +1200" stop="20260921075500 +1200">
+    <title>MythBusters</title>
+    <sub-title>MythBusters</sub-title>
+    <category>Technology</category>
   </programme>
   <programme channel="mjh-sky-fast4" start="20260920024500 +1200" stop="20260920033000 +1200">
     <title>Mean Girl Murders</title>
@@ -7590,12 +7554,23 @@
     <title>Warner Bros. TV True Crime Back Soon</title>
     <sub-title>Warner Bros. TV True Crime Back Soon</sub-title>
   </programme>
-  <programme channel="mjh-sky-fast5" start="20260920015500 +1200" stop="20260920024000 +1200">
-    <title>Destination Fear</title>
-    <sub-title>Sheboygan County Asylum</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/8333B1E6-6FC8-418C-95DA3B5433A01AB2.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <category>Supernatural</category>
+  <programme channel="mjh-sky-fast4" start="20260921060000 +1200" stop="20260921060400 +1200">
+    <title>Warner Bros. TV True Crime Back Soon</title>
+    <sub-title>Warner Bros. TV True Crime Back Soon</sub-title>
+  </programme>
+  <programme channel="mjh-sky-fast4" start="20260921060400 +1200" stop="20260921065000 +1200">
+    <title>Murder Tapes</title>
+    <sub-title>Something Came Over Me</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6B411E3D-386D-4A48-A2F2372CDEDFA332.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S04E16</episode-num>
+    <category>Investigations</category>
+  </programme>
+  <programme channel="mjh-sky-fast4" start="20260921065000 +1200" stop="20260921073500 +1200">
+    <title>Murder Tapes</title>
+    <sub-title>Body In The Yard</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6B411E3D-386D-4A48-A2F2372CDEDFA332.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S04E17</episode-num>
+    <category>Investigations</category>
   </programme>
   <programme channel="mjh-sky-fast5" start="20260920024000 +1200" stop="20260920033000 +1200">
     <title>Ghost Adventures</title>
@@ -7854,19 +7829,23 @@
     <title>Warner Bros. TV Paranormal Back Soon</title>
     <sub-title>Warner Bros. TV Paranormal Back Soon</sub-title>
   </programme>
-  <programme channel="mjh-sky-fast1" start="20260920015000 +1200" stop="20260920021500 +1200">
-    <title>All Girls Garage</title>
-    <sub-title>Gr86</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6801F549-0B7E-4832-936640B545A9E965.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S11E15</episode-num>
-    <category>Motoring</category>
+  <programme channel="mjh-sky-fast5" start="20260921060000 +1200" stop="20260921061000 +1200">
+    <title>Warner Bros. TV Paranormal Back Soon</title>
+    <sub-title>Warner Bros. TV Paranormal Back Soon</sub-title>
   </programme>
-  <programme channel="mjh-sky-fast1" start="20260920021500 +1200" stop="20260920023500 +1200">
-    <title>All Girls Garage</title>
-    <sub-title>The Lexus That Never Existed</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6801F549-0B7E-4832-936640B545A9E965.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S11E16</episode-num>
-    <category>Motoring</category>
+  <programme channel="mjh-sky-fast5" start="20260921061000 +1200" stop="20260921065500 +1200">
+    <title>Expedition X</title>
+    <sub-title>Devil in the Forest</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E895F9DA-F6BF-4A2D-9300C19999E65F5F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast5" start="20260921065500 +1200" stop="20260921074500 +1200">
+    <title>Expedition X</title>
+    <sub-title>Americas Lake Monster</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E895F9DA-F6BF-4A2D-9300C19999E65F5F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast1" start="20260920023500 +1200" stop="20260920032500 +1200">
     <title>Street Outlaws: Fastest In America</title>
@@ -8156,12 +8135,17 @@
     <sub-title>Warner Bros. TV Motorheads Back Soon</sub-title>
     <category>General Entertainment</category>
   </programme>
-  <programme channel="mjh-sky-fast2" start="20260920014000 +1200" stop="20260920022500 +1200">
-    <title>Deadliest Catch</title>
-    <sub-title>Cornelia Marie Blue</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S10E08</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast1" start="20260921060000 +1200" stop="20260921065500 +1200">
+    <title>Warner Bros. TV Motorheads Back Soon</title>
+    <sub-title>Warner Bros. TV Motorheads Back Soon</sub-title>
+    <category>General Entertainment</category>
+  </programme>
+  <programme channel="mjh-sky-fast1" start="20260921065500 +1200" stop="20260921072000 +1200">
+    <title>Car Fix</title>
+    <sub-title>Superbird</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/2BBFB7F7-605D-4A78-A1441E230D3A3487.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S10E11</episode-num>
+    <category>Motoring</category>
   </programme>
   <programme channel="mjh-sky-fast2" start="20260920022500 +1200" stop="20260920031500 +1200">
     <title>Deadliest Catch</title>
@@ -8392,25 +8376,15 @@
     <title>Warner Bros. TV Deadliest Catch</title>
     <sub-title>Warner Bros. TV Deadliest Catch</sub-title>
   </programme>
-  <programme channel="mjh-sky-fast6" start="20260920015000 +1200" stop="20260920021500 +1200">
-    <title>House Hunters International</title>
-    <sub-title>Designing A Life In Italy</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S148E11</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast2" start="20260921060000 +1200" stop="20260921062000 +1200">
+    <title>Warner Bros. TV Deadliest Catch</title>
+    <sub-title>Warner Bros. TV Deadliest Catch</sub-title>
   </programme>
-  <programme channel="mjh-sky-fast6" start="20260920021500 +1200" stop="20260920023500 +1200">
-    <title>House Hunters International</title>
-    <sub-title>Downshifting In Amsterdam</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S149E11</episode-num>
-    <category>Factual</category>
-  </programme>
-  <programme channel="mjh-sky-fast6" start="20260920023500 +1200" stop="20260920030000 +1200">
-    <title>House Hunters International</title>
-    <sub-title>Waking From Hibernation In Sosua Dominican Republi</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S150E11</episode-num>
+  <programme channel="mjh-sky-fast2" start="20260921062000 +1200" stop="20260921071000 +1200">
+    <title>Deadliest Catch</title>
+    <sub-title>Greatest Game Ever Fished</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S10E13</episode-num>
     <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast6" start="20260920030000 +1200" stop="20260920032500 +1200">
@@ -8893,6 +8867,24 @@
   <programme channel="mjh-sky-fast6" start="20260921054500 +1200" stop="20260921060000 +1200">
     <title>Warner Bros. TV House Hunters</title>
     <sub-title>Warner Bros. TV House Hunters</sub-title>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20260921060000 +1200" stop="20260921061500 +1200">
+    <title>Warner Bros. TV House Hunters</title>
+    <sub-title>Warner Bros. TV House Hunters</sub-title>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20260921061500 +1200" stop="20260921063500 +1200">
+    <title>House Hunters</title>
+    <sub-title>Big Ideas For Big Brood In Louisiana</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S212E12</episode-num>
+    <category>Home/gardening</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20260921063500 +1200" stop="20260921070000 +1200">
+    <title>House Hunters</title>
+    <sub-title>Bachelor Pad In Phoenix</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S213E12</episode-num>
+    <category>Home/gardening</category>
   </programme>
   <programme start="20260919120000 +0000" stop="20260919170000 +0000" channel="mjh-mood-1290">
     <title>After Dark</title>
@@ -14472,45 +14464,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
     </star-rating>
     <series-desc>A fast-paced serial drama in an urban setting, this show explores the lives and loves of the patients and staff of a modern metropolitan hospital and contains a heady mix of medical crisis, human drama, comedy, romance and suspense. Follow the lives and loves of the residents of Ferndale, in New Zealand's longest-running drama.</series-desc>
     <audio-description lang="en_NZ"/>
-  </programme>
-  <programme start="20260919135000 +0000" stop="20260919143500 +0000" channel="mjh-tvnz-2">
-    <title>NCIS: Tony &amp; Ziva</title>
-    <sub-title>Ncis: Tony &amp; Ziva</sub-title>
-    <desc>Tony and Ziva return to Paris on a mission to spy on the double agents who are framing them. S1 E7</desc>
-    <date>2025</date>
-    <category>Drama</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_seriesid">1039244</episode-num>
-    <episode-num system="dd_progid">10750191</episode-num>
-    <episode-num system="freeviewnz.tv">episode/86cda65a-c074-47d1-bfd1-59cf703eb2be</episode-num>
-    <episode-num system="freeviewnz.tv">show/2b9c0cff-2dc6-4b66-90c8-b771553dbbea</episode-num>
-    <episode-num system="original-air-date">2026-09-20 01:50:00</episode-num>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-    <episode-num system="themoviedb.com">tv/247732</episode-num>
-    <episode-num system="tvnz.co.nz">show/ibms+show:10378</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>dolby</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>M</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>When his security company is attacked, Tony and Ziva must go on the run across Europe, try to figure out who is after them and maybe even learn to trust each other again so that they can finally have their unconventional happily ever after.</series-desc>
   </programme>
   <programme start="20260919143500 +0000" stop="20260919151500 +0000" channel="mjh-tvnz-2">
     <title>Teacup</title>
@@ -33135,40 +33088,6 @@ Citytv and CP24 were owned by CHUM Limited until July 2007, when CP24 and the re
     <series-desc>The story of legendary safe cracker and career criminal Ted West and his firecracker of a wife, Rita. Combining real events and the rich folklore of the West family and associates, this is rollicking history, and a tempestuous romance, set at a time of great social upheaval.</series-desc>
     <audio-description lang="en_NZ"/>
   </programme>
-  <programme start="20260919130000 +0000" stop="20260919145000 +0000" channel="mjh-tvnz-2-plus1">
-    <title>Booksmart</title>
-    <sub-title>Booksmart</sub-title>
-    <desc>On the eve of high school graduation, star students Molly and Amy vow to make up for lost time as they embark on one night of teenage rebellion. Stars Kaitlyn Denver and Beanie Feldstein. (2019)</desc>
-    <date>2019</date>
-    <category>Drama</category>
-    <category>Features</category>
-    <category>Feature</category>
-    <category>Comedy</category>
-    <keyword>movie</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/BD2E32AE-9389-465A-8986693AEBD3D16A.jpg"/>
-    <episode-num system="dd_progid">10747843</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f280b7d7-63c8-4ca0-997d-f4c887b9d607</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_11312399</episode-num>
-    <episode-num system="themoviedb.com">movie/505600</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>16</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.</series-desc>
-  </programme>
   <programme start="20260919145000 +0000" stop="20260919153500 +0000" channel="mjh-tvnz-2-plus1">
     <title>NCIS: Tony &amp; Ziva</title>
     <sub-title>Ncis: Tony &amp; Ziva</sub-title>
@@ -48029,41 +47948,6 @@ The show uses social networking sites such as Facebook and Twitter to find conte
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20260919132000 +0000" stop="20260919150500 +0000" channel="mjh-tvnz-1-plus1">
-    <title>The Doll Factory</title>
-    <sub-title>The Doll Factory</sub-title>
-    <desc>Iris discovers a shocking truth about Louis. S1 E5</desc>
-    <date>2023</date>
-    <category>Drama</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/vQAEVcAWRvcn2qyA1G9TkUNM95P.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_seriesid">1035343</episode-num>
-    <episode-num system="dd_progid">10677556</episode-num>
-    <episode-num system="freeviewnz.tv">episode/207a9066-9632-4877-bbfb-2a57ffc51b7b</episode-num>
-    <episode-num system="freeviewnz.tv">show/1daa859b-72e2-44ea-ac0f-5fe6e324c0aa</episode-num>
-    <episode-num system="original-air-date">2026-09-20 00:20:00</episode-num>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="themoviedb.com">tv/214191</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>16</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Iris dreams of being an artist. Silas is a taxidermist who longs to be revered. Louis is a painter searching for his next muse. As their lives collide a love triangle appears to bloom. But this will morph into a story of dark obsession.</series-desc>
-  </programme>
   <programme start="20260919150500 +0000" stop="20260919163000 +0000" channel="mjh-tvnz-1-plus1">
     <title>TVNZ1 Quiz</title>
     <sub-title>TVNZ1 Quiz</sub-title>
@@ -52035,45 +51919,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
       <value>8/10</value>
     </star-rating>
     <series-desc>A comedic panel show featuring team captains Lee Mack and David Mitchell plus two guests per side, hosted by Rob Brydon (formerly Angus Deayton). Each person must reveal embarrassing facts and outrageous lies during a series of different rounds including "Home Truths", "This Is My..." and "Quickfire Lies". It is up to the opposing team to tell tall tales from fantastic facts.</series-desc>
-  </programme>
-  <programme start="20260919113500 +0000" stop="20260919141000 +0000" channel="mjh-tvnz-duke-plus1">
-    <title>CSI: Crime Scene Investigation</title>
-    <sub-title>Long Road Home</sub-title>
-    <desc>The CSIs investigate the murder of a rock and roll groupie and the disappearance of a prostitute who both have ties to a mysterious band. Guest starring Gene Simmons. S14 E17</desc>
-    <date>2000</date>
-    <category>Drama</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/9XecVOLLkbGBNnpF2PvP8vQBmww.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_seriesid">1034073</episode-num>
-    <episode-num system="dd_progid">10648030</episode-num>
-    <episode-num system="freeviewnz.tv">episode/5b141b83-3172-4cee-8bf5-d74b535835f4</episode-num>
-    <episode-num system="freeviewnz.tv">show/d368ab72-b28b-4ae3-b5f9-075992488c18</episode-num>
-    <episode-num system="original-air-date">2026-09-19 22:35:00</episode-num>
-    <episode-num system="xmltv_ns">13.16.0</episode-num>
-    <episode-num system="themoviedb.com">tv/1431</episode-num>
-    <episode-num system="thetvdb.com">series/72546</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>16</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.</series-desc>
   </programme>
   <programme start="20260919141000 +0000" stop="20260919190000 +0000" channel="mjh-tvnz-duke-plus1">
     <title>Duke - Back In The Future</title>
@@ -60400,86 +60245,6 @@ Fill-in presenters include Stacey Morrison, Heather du Plessis-Allan, Te Radar, 
     </star-rating>
     <series-desc>Catastrophic incidents in aviation history are meticulously reenacted, providing insight into what went wrong and if the crashes and near-disasters could have been prevented. Accounts from survivors combine with cockpit recordings and computer images to weave the gripping tales, and expert testimony reveals the hows and whys behind the events, some of which have resulted in important changes to aviation safety and regulations.</series-desc>
   </programme>
-  <programme start="20260919134000 +0000" stop="20260919143000 +0000" channel="mjh-eden">
-    <title>Kindred Spirits</title>
-    <sub-title>Buried Alone</sub-title>
-    <desc>The team conducts a spiritual sweep of Fort Adams, a massive military structure haunted by dead soldiers and victims of various crimes, with one lonely spirit standing apart from all the...</desc>
-    <date>2016</date>
-    <category>Entertainment</category>
-    <category>Supernatural</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/AF03EB86-26A4-476F-8AE0EEBB119C3295.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11959895</episode-num>
-    <episode-num system="freeviewnz.tv">episode/1c180abc-510e-4ffa-bd09-4c58b419d2b0</episode-num>
-    <episode-num system="xmltv_ns">4.7.0</episode-num>
-    <episode-num system="dd_seriesid">1006300</episode-num>
-    <episode-num system="freeviewnz.tv">season/50bb48eb-64c3-4f1a-8030-fb5cb7e094cd</episode-num>
-    <episode-num system="freeviewnz.tv">show/f10561ed-0830-4692-9128-8b4b64bfbf6c</episode-num>
-    <episode-num system="original-air-date">2026-09-19 19:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_89609</episode-num>
-    <episode-num system="themoviedb.com">tv/68432</episode-num>
-    <episode-num system="thetvdb.com">series/317402</episode-num>
-    <episode-num system="threenow.co.nz">show/S4061-380</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>M</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Ghost hunters Adam Berry and Amy Bruni help real families who claim to be bedeviled by paranormal activity in their homes.</series-desc>
-  </programme>
-  <programme start="20260919143000 +0000" stop="20260919150000 +0000" channel="mjh-eden">
-    <title>Baked In Vermont</title>
-    <sub-title>Garden Graduation Party</sub-title>
-    <desc>Gesine Prado is honoured to host a high school graduation party. The menu includes petit fours, chocolate ganache drops, and a macaron cake. S2 E5</desc>
-    <date>2017</date>
-    <category>Lifestyle</category>
-    <category>Food/cooking</category>
-    <category>Factual</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/6C38F54D-715E-4EF2-BD5BEDCE050D17E5.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11940055</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f1ed929f-fd6e-4aca-b86f-df08dd7f58ee</episode-num>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-    <episode-num system="dd_seriesid">1002630</episode-num>
-    <episode-num system="freeviewnz.tv">season/38b55e05-3d98-448f-9f3a-d3cc67ac89ae</episode-num>
-    <episode-num system="freeviewnz.tv">show/e76a1689-d1be-417e-8b2c-6a08bad2079d</episode-num>
-    <episode-num system="original-air-date">2026-09-19 19:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_95255</episode-num>
-    <episode-num system="themoviedb.com">tv/76812</episode-num>
-    <episode-num system="threenow.co.nz">show/mac_sh_95255</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Self-taught baker, teacher and cookbook author Gesine Prado believes anyone can bake; from sweet cakes, cookies and pies to savory meals, she shares tips that show how baking can be easy, accessible and fun.</series-desc>
-  </programme>
   <programme start="20260919150000 +0000" stop="20260919155000 +0000" channel="mjh-eden">
     <title>The Dead Files</title>
     <sub-title>Deadly Intentions</sub-title>
@@ -65582,82 +65347,6 @@ Opening Introduction:</series-desc>
       <value>0/10</value>
     </star-rating>
     <series-desc>With the help of Matt Gibb, Kiwi couples escape the rat race to look for their dream homes in regional New Zealand.</series-desc>
-  </programme>
-  <programme start="20260919140000 +0000" stop="20260919143000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/DBE0A936-38B1-436A-8419146AF048675E.jpg"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">5586970</episode-num>
-    <episode-num system="freeviewnz.tv">episode/fc84fffd-ea49-49e4-9211-3df44cd6ca18</episode-num>
-    <episode-num system="original-air-date">2026-09-20 02:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1037923899</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20260919143000 +0000" stop="20260919150000 +0000" channel="mjh-al-jazeera">
-    <title>101 East</title>
-    <sub-title>Grieving The Dead With AI</sub-title>
-    <desc>101 East meets innovators across East Asia using digital technology to transform how we grieve those we love.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/627032A1-C585-48AC-A44597D1C0CC4F17.jpg"/>
-    <country>Malaysia</country>
-    <episode-num system="dd_progid">59092889</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4104227f-5b3c-4378-b6e5-f3fcba564d45</episode-num>
-    <episode-num system="dd_seriesid">15085136</episode-num>
-    <episode-num system="freeviewnz.tv">season/dcd804af-d48a-49c1-b6d3-9038eb0fddf3</episode-num>
-    <episode-num system="freeviewnz.tv">show/f287db0e-eabf-4932-9b4e-384041361a16</episode-num>
-    <episode-num system="original-air-date">2026-09-18 10:30:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1615403645</episode-num>
-    <episode-num system="themoviedb.com">tv/42203</episode-num>
-    <episode-num system="thetvdb.com">series/251101</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Bold, untold stories from across Asia and the Pacific. Al Jazeera's in-depth, weekly current affairs programme from the world's most populated region.</series-desc>
   </programme>
   <programme start="20260919150000 +0000" stop="20260919160000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
@@ -70943,30 +70632,6 @@ English</series-desc>
       <value>1/10</value>
     </star-rating>
     <series-desc/>
-  </programme>
-  <programme start="20260919140000 +0000" stop="20260919150000 +0000" channel="mjh-trackside-1">
-    <title lang="en_NZ">Trackside 1 - AUS/INTL</title>
-    <sub-title lang="en_NZ">Trackside 1  - AUS/INTL</sub-title>
-    <desc lang="en_NZ">Live Racing from Australia &amp; UK. Bet online or instore with TAB and Betcha.</desc>
-    <category lang="en_NZ">Sport</category>
-    <category lang="en_NZ">Sports</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/A76B6623-CF09-48D1-BF6D4F390BEC625A.jpg"/>
-    <episode-num system="dd_progid">mac_ptc1262657921</episode-num>
-    <episode-num system="original-air-date">2026-09-20 02:00:00</episode-num>
-    <episode-num system="dd_seriesid">mac_sh_ptc242476106</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20260919150000 +0000" stop="20260919154500 +0000" channel="mjh-trackside-1">
     <title lang="en_NZ">Trackside 1 - AUS/INTL</title>
@@ -86664,30 +86329,6 @@ English</series-desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919140000 +0000" stop="20260919144500 +0000" channel="mjh-trackside-2">
-    <title lang="en_NZ">Racing  Winton</title>
-    <sub-title lang="en_NZ">Racing  Winton</sub-title>
-    <desc lang="en_NZ">Replay from Thursday's Winton harness meeting - 17 September</desc>
-    <category lang="en_NZ">Sport</category>
-    <category lang="en_NZ">Sports</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/B4D93E31-570D-46BB-8612285AA02CADD5.jpg"/>
-    <episode-num system="dd_progid">mac_ptc144070391</episode-num>
-    <episode-num system="original-air-date">2026-09-20 02:00:00</episode-num>
-    <episode-num system="dd_seriesid">mac_sh_ptc1752018449</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919144500 +0000" stop="20260919153000 +0000" channel="mjh-trackside-2">
     <title lang="en_NZ">Racing  Cambridge</title>
     <sub-title lang="en_NZ">Racing  Cambridge</sub-title>
@@ -97663,74 +97304,6 @@ English</series-desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919140000 +0000" stop="20260919143000 +0000" channel="mjh-shine-tv">
-    <title>Word For You</title>
-    <sub-title>The Journey</sub-title>
-    <desc>Teaching and testimonies with Pastors Terry and Jayne Calkin from Journey Church in Auckland.</desc>
-    <date>2019</date>
-    <category>Lifestyle</category>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/22e62ee0-0615-44bb-9c60-7c0e061dc44a/WRDFY.jpg" width="450" height="800"/>
-    <url>Lifestyle</url>
-    <episode-num system="dd_progid">A0013206</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e056d514-a09a-421b-8971-c2bad049415b</episode-num>
-    <episode-num system="xmltv_ns">28.11.0</episode-num>
-    <episode-num system="dd_seriesid">A0011913</episode-num>
-    <episode-num system="freeviewnz.tv">season/5d437f7f-1de4-46e8-b753-dff9dbb044ea</episode-num>
-    <episode-num system="freeviewnz.tv">show/41ca0c4b-14c3-43df-a85d-7fb7f455704b</episode-num>
-    <episode-num system="original-air-date">2026-09-13 08:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>Teaching and testimonies with Pastors Terry and Jayne Calkin from Journey Church in Auckland.</series-desc>
-  </programme>
-  <programme start="20260919143000 +0000" stop="20260919150000 +0000" channel="mjh-shine-tv">
-    <title>Sanctuary on Shine</title>
-    <sub-title>Sanctuary on Shine</sub-title>
-    <desc>New Zealand's Worship Station on Shine TV. Enjoy some of the best worship music videos with captioned lyrics to help draw you deeper into the presence of God. Listen to more at yoursanctuary.co.nz</desc>
-    <date>2025</date>
-    <category>Entertainment</category>
-    <category>Music, Ballet, Dance</category>
-    <category>Music, Ballet, Dance (general)</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/140784f8-cb7b-463a-945a-c78ebc9de2cb/SanctuaryOnShine.jpg" width="2160" height="3480"/>
-    <url>Music and Radio</url>
-    <episode-num system="dd_progid">A0035316</episode-num>
-    <episode-num system="freeviewnz.tv">episode/dcf238b6-66a2-42af-a2cb-dc62fd3a99f5</episode-num>
-    <episode-num system="xmltv_ns">1.49.0</episode-num>
-    <episode-num system="dd_seriesid">A0035266</episode-num>
-    <episode-num system="freeviewnz.tv">season/6b7d38c5-5034-4e17-96af-00ca0bc0ec00</episode-num>
-    <episode-num system="freeviewnz.tv">show/774c7e79-3fae-400e-aaa6-841ed4e33103</episode-num>
-    <episode-num system="original-air-date">2026-08-27 13:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>New Zealand's Worship Station on Shine TV. Enjoy some of the best worship music videos with captioned lyrics to help draw you deeper into the presence of God. Listen to more at yoursanctuary.co.nz</series-desc>
-  </programme>
   <programme start="20260919150000 +0000" stop="20260919170000 +0000" channel="mjh-shine-tv">
     <title>Rally Caps</title>
     <sub-title>Rally Caps</sub-title>
@@ -102668,36 +102241,6 @@ The theme song of Legacy was entitled The Mummers Dance by Loreena McKennitt.</s
     </star-rating>
     <series-desc>Joyce Meyer's humorous and blunt preaching style confronts negative attitudes and brings the joy of knowing Christ into our everyday experience.</series-desc>
   </programme>
-  <programme start="20260919140000 +0000" stop="20260919150000 +0000" channel="mjh-firstlight">
-    <title>Autumn Leaves</title>
-    <sub-title>Teeth of Iron</sub-title>
-    <desc>Conrad Vine takes us on a journey through prophecy, history, &amp; spiritual truth. From Daniel's visions of empires to the rise of the papacy. S1E11</desc>
-    <category>Other</category>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/autumn-leaves.png"/>
-    <url>http://www.firstlight.org.nz</url>
-    <episode-num system="dd_progid">ALP_CV_11</episode-num>
-    <episode-num system="freeviewnz.tv">episode/40edc289-a967-49d4-a6d2-3afb1c6a7c2e</episode-num>
-    <episode-num system="dd_seriesid">ALP_CV</episode-num>
-    <episode-num system="freeviewnz.tv">season/5b0fe978-0e3e-4232-95bb-99ecd0fb06d1</episode-num>
-    <episode-num system="original-air-date">2026-09-20 02:00:00</episode-num>
-    <episode-num system="xmltv_ns">0.10.0</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919150000 +0000" stop="20260919160000 +0000" channel="mjh-firstlight">
     <title>The Book of Daniel</title>
     <sub-title>Part 9</sub-title>
@@ -106314,33 +105857,6 @@ It Is Written was the first religious program to air in color, and the first to 
     <episode-num system="freeviewnz.tv">season/1e0d4ecb-2e5e-4f1b-b10f-1f962015a8d4</episode-num>
     <episode-num system="original-air-date">2026-09-19 02:00:00</episode-num>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260919140000 +0000" stop="20260919143000 +0000" channel="mjh-hope-channel">
-    <title>Wahroonga On the Road USA</title>
-    <sub-title>Just Hanging On</sub-title>
-    <desc>Join Lloyd Grolimund as he travels to some of North America's magnificent landmarks and shares insights from the Bible about John the Baptist.</desc>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>event</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/91281892-9155-469F-A2A8C90B14665047.jpg"/>
-    <url>https://www.hopechannel.nz/</url>
-    <episode-num system="dd_progid">WATVOTRx20</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4832e8e1-4b8f-4ea4-bfad-466a94e01474</episode-num>
-    <episode-num system="original-air-date">2026-09-15 15:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc632978011</episode-num>
     <video>
       <present>yes</present>
       <colour>yes</colour>
@@ -111404,30 +110920,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260919140000 +0000" stop="20260919150000 +0000" channel="mjh-wairarapa-tv">
-    <title>Wairarapa Stuff</title>
-    <sub-title>Different Stuff from all around the Wairarapa</sub-title>
-    <desc>Different Stuff from all around the Wairarapa</desc>
-    <category>Arts, Culture</category>
-    <keyword>event</keyword>
-    <icon src="https://dummyimage.com/778x1200/000000/ffffff.png?text=Wairarapa+Stuff"/>
-    <episode-num system="dd_progid">61007006</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7550037a-ab62-480f-8e65-18989e56b238</episode-num>
-    <episode-num system="original-air-date">2026-09-20 02:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260919150000 +0000" stop="20260919160000 +0000" channel="mjh-wairarapa-tv">
     <title>Space Updates</title>
     <sub-title>Latest space shows</sub-title>
@@ -114229,29 +113721,6 @@ Freshman Bai Yu studies Culture Industry Management at Yingli University. He mis
       <value>7/10</value>
     </star-rating>
     <series-desc>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</series-desc>
-  </programme>
-  <programme start="20260919120000 +0000" stop="20260919150000 +0000" channel="mjh-ch200">
-    <title>JUICE TV</title>
-    <sub-title>JUICE TV</sub-title>
-    <desc>Music videos</desc>
-    <keyword>event</keyword>
-    <icon src="https://dummyimage.com/778x1200/000000/ffffff.png?text=JUICE+TV"/>
-    <episode-num system="dd_progid">58613551</episode-num>
-    <episode-num system="freeviewnz.tv">episode/c3d63a98-15f3-49f7-a6cb-85ae9babb9ac</episode-num>
-    <episode-num system="original-air-date">2026-09-20 00:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20260919150000 +0000" stop="20260919210000 +0000" channel="mjh-ch200">
     <title>France 24 News</title>
