@@ -242,6 +242,11 @@
     <episode-num system="onscreen">S2026E34</episode-num>
     <category>Sports</category>
   </programme>
+  <programme channel="mjh-sky-popup1" start="20261005140000 +1300" stop="20261006000000 +1300">
+    <title>NASCAR O'Reilly Series: Charlotte Motor Speedway Live Sun 11th Oct 8.30am</title>
+    <sub-title>NASCAR O'Reilly Series: Charlotte Motor Speedway Roval Live Sun 11th Oct 8.30am</sub-title>
+    <category>Sport</category>
+  </programme>
   <programme channel="mjh-sky-popup2" start="20261004060000 +1300" stop="20261004133500 +1300">
     <title>MotoGP Japanese Grand Prix Day 3 Live Today 1.35pm</title>
     <sub-title>MotoGP Japanese Grand Prix Day 1 Fri Oct 2nd 12.55pm</sub-title>
@@ -263,83 +268,6 @@
     <title>MotoGP Indonesian Grand Prix Day 1 Live Fri Oct 9th 1.55pm</title>
     <sub-title>MotoGP Japanese Grand Prix Day 1 Fri Oct 2nd 12.55pm</sub-title>
     <category>Sport</category>
-  </programme>
-  <programme start="20261003202000 +0000" stop="20261003211000 +0000" channel="mjh-sky-hgtv">
-    <title>Houses With History</title>
-    <sub-title>One With the Blacksmith</sub-title>
-    <desc>When the owner of a 1707 Cape Cod wants to sell, the team jumps on it. Learning it was owned by a blacksmith, they opt for an Americana design.</desc>
-    <date>2021</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/exUkf90RLMI7plKHy10KpLuMybl.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11921109</episode-num>
-    <episode-num system="freeviewnz.tv">episode/bccf49ce-5edc-48a0-ad7a-82a6ebf6ea87</episode-num>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-    <episode-num system="dd_seriesid">1002285</episode-num>
-    <episode-num system="freeviewnz.tv">season/0b9a180c-e360-44f5-9b53-b09b722283bb</episode-num>
-    <episode-num system="freeviewnz.tv">show/b9fd15d5-8256-4d1f-97b4-ba639330e43f</episode-num>
-    <episode-num system="original-air-date">2026-10-03 19:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/135202</episode-num>
-    <episode-num system="threenow.co.nz">show/S3288-101</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Three Massachusetts natives comb Plymouth County and the surrounding wooded areas south of Boston to transform 18th and 19th-century homes into brand-new ones, all while preserving their history.</series-desc>
-  </programme>
-  <programme start="20261003211000 +0000" stop="20261003220000 +0000" channel="mjh-sky-hgtv">
-    <title>Renovation Goldmine</title>
-    <sub-title>Functional For The Fam</sub-title>
-    <desc>Meg and Joe help an overwhelmed couple with their renovation, filling spaces with custom pieces. Then they upgrade inherited furniture for a home office and son's bedroom.</desc>
-    <date>2022</date>
-    <category>Lifestyle</category>
-    <category>Leisure, Hobbies</category>
-    <category>Home/Gardening</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/kdq0HYUNoSIYqhRREQDw08xJkqP.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11944063</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4466b622-c37b-4890-9ef6-6dc7b8cc5980</episode-num>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-    <episode-num system="dd_seriesid">1003835</episode-num>
-    <episode-num system="freeviewnz.tv">season/367bf02b-6f09-405b-b7ab-881af8e12735</episode-num>
-    <episode-num system="freeviewnz.tv">show/5666db96-9e81-4c1c-8c39-3fbb272b59f4</episode-num>
-    <episode-num system="original-air-date">2026-10-03 20:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/201066</episode-num>
-    <episode-num system="threenow.co.nz">show/mac_sh_136805</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Joe and Meg Piercy, are owners of a successful design and renovation business dedicated to repurposing the goldmine of treasures found in clients' homes.</series-desc>
   </programme>
   <programme start="20261003220000 +0000" stop="20261003225000 +0000" channel="mjh-sky-hgtv">
     <title>Renovation 911</title>
@@ -9913,11 +9841,6 @@
     <sub-title>Top Stories from CNN</sub-title>
     <category>News/Current Affairs</category>
   </programme>
-  <programme channel="mjh-sky-ptms" start="20261004075800 +1300" stop="20261004100700 +1300">
-    <title>Finding Your Feet</title>
-    <sub-title>Finding Your Feet</sub-title>
-    <category>Movies</category>
-  </programme>
   <programme channel="mjh-sky-ptms" start="20261004100800 +1300" stop="20261004124200 +1300">
     <title>Twelfth Night</title>
     <sub-title>Twelfth Night</sub-title>
@@ -9993,12 +9916,10 @@
     <sub-title>Secret Past</sub-title>
     <category>Movies</category>
   </programme>
-  <programme channel="mjh-sky-fast3" start="20261004092000 +1300" stop="20261004101000 +1300">
-    <title>Below Deck: Mediterranean</title>
-    <sub-title>Episode 11</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/903A22B5-3870-48B0-9208DB25132212D9.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <category>Reality</category>
+  <programme channel="mjh-sky-ptms" start="20261005140300 +1300" stop="20261005154700 +1300">
+    <title>Europa Report</title>
+    <sub-title>Europa Report</sub-title>
+    <category>Movies</category>
   </programme>
   <programme channel="mjh-sky-fast3" start="20261004101000 +1300" stop="20261004112000 +1300">
     <title>Below Deck: Mediterranean</title>
@@ -10246,10 +10167,19 @@
     <episode-num system="onscreen">S04E18</episode-num>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-sky-ptmb" start="20261004091900 +1300" stop="20261004101800 +1300">
-    <title>MythBusters</title>
-    <sub-title>MythBusters</sub-title>
-    <category>Technology</category>
+  <programme channel="mjh-sky-fast3" start="20261005140500 +1300" stop="20261005145000 +1300">
+    <title>Below Deck: Mediterranean</title>
+    <sub-title>Episode 14</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/903A22B5-3870-48B0-9208DB25132212D9.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S04E14</episode-num>
+    <category>Reality</category>
+  </programme>
+  <programme channel="mjh-sky-fast3" start="20261005145000 +1300" stop="20261005153500 +1300">
+    <title>Below Deck: Mediterranean</title>
+    <sub-title>Episode 15</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/903A22B5-3870-48B0-9208DB25132212D9.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S04E15</episode-num>
+    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-ptmb" start="20261004101800 +1300" stop="20261004111700 +1300">
     <title>MythBusters</title>
@@ -10396,12 +10326,10 @@
     <sub-title>MythBusters</sub-title>
     <category>Technology</category>
   </programme>
-  <programme channel="mjh-sky-fast4" start="20261004100000 +1300" stop="20261004105000 +1300">
-    <title>Mean Girl Murders</title>
-    <sub-title>Little Miss Murder</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C233A85A-1379-41D0-BE1ADFD207A1D765.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <category>Crime</category>
+  <programme channel="mjh-sky-ptmb" start="20261005143200 +1300" stop="20261005153000 +1300">
+    <title>MythBusters</title>
+    <sub-title>MythBusters</sub-title>
+    <category>Technology</category>
   </programme>
   <programme channel="mjh-sky-fast4" start="20261004105000 +1300" stop="20261004111500 +1300">
     <title>Dates From Hell</title>
@@ -10712,19 +10640,19 @@
     <episode-num system="onscreen">S01E05</episode-num>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-sky-fast5" start="20261004093000 +1300" stop="20261004101500 +1300">
-    <title>Destination Fear</title>
-    <sub-title>Ohio State Reformatory</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/8333B1E6-6FC8-418C-95DA3B5433A01AB2.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <category>Supernatural</category>
+  <programme channel="mjh-sky-fast4" start="20261005140000 +1300" stop="20261005145000 +1300">
+    <title>The Tech Bro Murders</title>
+    <sub-title>Halt And Catch Fire</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/CC12F21A-595F-4C93-A392DE1C1175554D.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <category>Documentary</category>
   </programme>
-  <programme channel="mjh-sky-fast5" start="20261004101500 +1300" stop="20261004110500 +1300">
-    <title>Ghost Adventures</title>
-    <sub-title>Nightmare in Northridge</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/46100068-C556-4141-814B166918CE431A.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S20E19</episode-num>
-    <category>Supernatural</category>
+  <programme channel="mjh-sky-fast4" start="20261005145000 +1300" stop="20261005153500 +1300">
+    <title>Evil Lives Here: The Killer Speaks</title>
+    <sub-title>Husband, Father, Killer</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/4E6F12CA-2841-49DE-B596075F23793D61.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <category>Investigations</category>
   </programme>
   <programme channel="mjh-sky-fast5" start="20261004110500 +1300" stop="20261004115000 +1300">
     <title>Long Island Medium</title>
@@ -10944,12 +10872,12 @@
     <episode-num system="onscreen">S02E07</episode-num>
     <category>Supernatural</category>
   </programme>
-  <programme channel="mjh-sky-fast1" start="20261004100000 +1300" stop="20261004105000 +1300">
-    <title>Street Outlaws: Fastest In America</title>
-    <sub-title>Texas Vs Cali: Part 2</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/0248D8C4-823C-4E7F-8F26949A6A832928.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast5" start="20261005140500 +1300" stop="20261005154000 +1300">
+    <title>Ghost Nation</title>
+    <sub-title>Reunion In Hell</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E76538FC-734D-4B85-A22C14D7E80A233C.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <category>Supernatural</category>
   </programme>
   <programme channel="mjh-sky-fast1" start="20261004105000 +1300" stop="20261004113500 +1300">
     <title>Wheeler Dealers</title>
@@ -11248,12 +11176,19 @@
     <episode-num system="onscreen">S04E13</episode-num>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-sky-fast2" start="20261004094000 +1300" stop="20261004102500 +1300">
-    <title>Deadliest Catch</title>
-    <sub-title>Season 13 Ep 17</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S13E18</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast1" start="20261005140000 +1300" stop="20261005144500 +1300">
+    <title>Iron Resurrection</title>
+    <sub-title>X-Frame Overhaul 60 Impala: Part 2</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/9095F7D5-CA78-4DC2-8B65CB7B5B54F972.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <category>Motoring</category>
+  </programme>
+  <programme channel="mjh-sky-fast1" start="20261005144500 +1300" stop="20261005151000 +1300">
+    <title>All Girls Garage</title>
+    <sub-title>Mustang Interior</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6801F549-0B7E-4832-936640B545A9E965.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S09E13</episode-num>
+    <category>Motoring</category>
   </programme>
   <programme channel="mjh-sky-fast2" start="20261004102500 +1300" stop="20261004111000 +1300">
     <title>Deadliest Catch</title>
@@ -11508,19 +11443,19 @@
     <episode-num system="onscreen">S13E20</episode-num>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-sky-fast6" start="20261004100500 +1300" stop="20261004103000 +1300">
-    <title>House Hunters</title>
-    <sub-title>Budding Artists In Baltimore</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S227E12</episode-num>
-    <category>Home/gardening</category>
+  <programme channel="mjh-sky-fast2" start="20261005141000 +1300" stop="20261005145500 +1300">
+    <title>Deadliest Catch</title>
+    <sub-title>Season 13 Ep 15</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S13E16</episode-num>
+    <category>Factual</category>
   </programme>
-  <programme channel="mjh-sky-fast6" start="20261004103000 +1300" stop="20261004105500 +1300">
-    <title>House Hunters</title>
-    <sub-title>First Timers In Fargo</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S228E12</episode-num>
-    <category>Home/gardening</category>
+  <programme channel="mjh-sky-fast2" start="20261005145500 +1300" stop="20261005154500 +1300">
+    <title>Deadliest Catch</title>
+    <sub-title>Season 13 Ep 16</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S13E17</episode-num>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast6" start="20261004105500 +1300" stop="20261004112000 +1300">
     <title>House Hunters</title>
@@ -12005,6 +11940,27 @@
     <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <episode-num system="onscreen">S226E13</episode-num>
     <category>Home/gardening</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261005140500 +1300" stop="20261005142500 +1300">
+    <title>House Hunters International</title>
+    <sub-title>A Big Apple Escape To St John</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S153E13</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261005142500 +1300" stop="20261005145000 +1300">
+    <title>House Hunters International</title>
+    <sub-title>Headfirst In Barcelona</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S154E13</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261005145000 +1300" stop="20261005151500 +1300">
+    <title>House Hunters International</title>
+    <sub-title>Season 155 Ep 13</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S155E13</episode-num>
+    <category>Factual</category>
   </programme>
   <programme start="20261003160000 +0000" stop="20261004060000 +0000" channel="mjh-mood-1290">
     <title>Lazy Sunday</title>
@@ -14255,68 +14211,6 @@ The two become a relationship beyond the line while a mixture of emotions are dr
     <rating system="New Zealand">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261003210500 +0000" stop="20261003213500 +0000" channel="mjh-tvnz-1">
-    <title>Waka Huia</title>
-    <sub-title>He Piko He Ruuruhi</sub-title>
-    <desc>Waka Huia is an iconic archival series recording the unique stories and histories of Māori for all New Zealanders.</desc>
-    <date>2026</date>
-    <category>Maori Language</category>
-    <category>Maori</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/waka-huia.png"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_seriesid">1040618</episode-num>
-    <episode-num system="dd_progid">10775877</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7bf0a953-0f25-4864-984f-20e5b4470aeb</episode-num>
-    <episode-num system="freeviewnz.tv">show/0aa85fce-7119-4051-a7a2-9ff0252bc2b8</episode-num>
-    <episode-num system="original-air-date">2026-10-04 10:05:00</episode-num>
-    <episode-num system="thetvdb.com">series/390772</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>Waka Huia is an iconic archival series recording the unique stories and histories of Māori for all New Zealanders.</series-desc>
-  </programme>
-  <programme start="20261003213500 +0000" stop="20261003220500 +0000" channel="mjh-tvnz-1">
-    <title>Marae</title>
-    <sub-title>Marae</sub-title>
-    <desc>Your way in to the Māori world and the issues that matter. Māiatanga, Whanaungatanga, Manaakitanga - We bring you stories with heart.</desc>
-    <date>2026</date>
-    <category>Maori Language</category>
-    <category>Maori</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/qjxEp8azTOezyEZe0EZ353mzdwH.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_seriesid">1039966</episode-num>
-    <episode-num system="dd_progid">10763569</episode-num>
-    <episode-num system="freeviewnz.tv">episode/409eba96-c9f9-4d26-9e50-3a94059ab35b</episode-num>
-    <episode-num system="freeviewnz.tv">show/9c69a24d-89c7-4d5c-b6b9-3871ea324820</episode-num>
-    <episode-num system="original-air-date">2026-10-04 10:35:00</episode-num>
-    <episode-num system="themoviedb.com">tv/113901</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>The controversial life and history of Argentine football legend Diego Armando Maradona. From his beginnings in Villa Fiorito, one of the poorest barrios of Buenos Aires, to achieving glory on the international football league. Earning himself a well-deserved place in history. Living a life strewn with drugs, sex and public scrutiny, he played by his own rules regardless of the consequences. Watch the man who took the world by storm and made his way into the hearts of millions.</series-desc>
   </programme>
   <programme start="20261003220500 +0000" stop="20261003233000 +0000" channel="mjh-tvnz-1">
     <title>The Secret Genius Of Modern Life</title>
@@ -19886,43 +19780,6 @@ Breakfast's dominance was virtually unchallenged by the other networks until 200
     </star-rating>
     <series-desc>Four celebs, 24 countries, zero VIP treatment. With no phones or flights allowed, famous faces and family pairs must get from Africa to the Arctic - by any means necessary.</series-desc>
     <audio-description lang="en_NZ"/>
-  </programme>
-  <programme start="20261003203000 +0000" stop="20261003220000 +0000" channel="mjh-tvnz-2">
-    <title>The Voice Australia</title>
-    <sub-title>Battles</sub-title>
-    <desc>The Voice Battles conclude tonight! Expect mind-blowing performances, tough coach decisions, and maybe even a rule-break!</desc>
-    <date>2012</date>
-    <category>Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/t79aBTcPC4vEeeDMv8cWE9tnVwe.jpg"/>
-    <country>Australia</country>
-    <episode-num system="dd_seriesid">1038584</episode-num>
-    <episode-num system="dd_progid">10740650</episode-num>
-    <episode-num system="freeviewnz.tv">episode/bee21c05-83d1-4bb8-8df3-87cb11d81789</episode-num>
-    <episode-num system="freeviewnz.tv">show/26bedd30-0ee1-4401-aad8-433f0eff398b</episode-num>
-    <episode-num system="original-air-date">2026-10-04 09:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/39845</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>Who will be the next big thing down under - and could a kiwi take home the title? Aussie's biggest talent show is back, with Spice girl Mel C, Ronan Keating, and Richard Marx joining Kate Miller-Heidke as coaches.</series-desc>
   </programme>
   <programme start="20261003220000 +0000" stop="20261004004000 +0000" channel="mjh-tvnz-2">
     <title>Home And Away</title>
@@ -27207,48 +27064,6 @@ The shows presenters are Adrian Richardson and Zoe Bingley-Pullen. Adrian presen
     </star-rating>
     <series-desc>Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.</series-desc>
   </programme>
-  <programme start="20261003205500 +0000" stop="20261003215500 +0000" channel="mjh-three">
-    <title>Iron Resurrection</title>
-    <sub-title>Resurrectin' A Rusty Unicorn</sub-title>
-    <desc>Three years after a unicorn rolled into the shop, Joe is more determined than ever to honour a 1936 Hudson owner's dying wish.</desc>
-    <date>2016</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <category>Motoring</category>
-    <category>Factual</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/4248FADF-4D96-4F75-8DF6772111022C9F.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11756044</episode-num>
-    <episode-num system="freeviewnz.tv">episode/6c16e35f-b7d4-42ed-bef1-23b6937e0d85</episode-num>
-    <episode-num system="xmltv_ns">4.7.0</episode-num>
-    <episode-num system="dd_seriesid">871513</episode-num>
-    <episode-num system="freeviewnz.tv">season/615a9d2d-0bfb-4552-9dd5-2957e51fc2f9</episode-num>
-    <episode-num system="freeviewnz.tv">show/6e897feb-e745-439f-b486-39691bd547ad</episode-num>
-    <episode-num system="original-air-date">2026-10-04 09:55:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_94238</episode-num>
-    <episode-num system="themoviedb.com">tv/68500</episode-num>
-    <episode-num system="thetvdb.com">series/310070</episode-num>
-    <episode-num system="threenow.co.nz">show/S3493-750</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>Joe Martin brings new life to old iron at his shop Joe Martin Customs. Working with his wife Amanda, and best friend Shag, this custom shop oversees every phase of restoration from design, fabrication and mechanicals, to the final paint job.</series-desc>
-  </programme>
   <programme start="20261003215500 +0000" stop="20261003225000 +0000" channel="mjh-three">
     <title>Truck Dynasty</title>
     <sub-title>Hummer, But Make It Bigger</sub-title>
@@ -31961,44 +31776,6 @@ The shows presenters are Adrian Richardson and Zoe Bingley-Pullen. Adrian presen
     </star-rating>
     <series-desc>Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.</series-desc>
   </programme>
-  <programme start="20261003210000 +0000" stop="20261003215500 +0000" channel="mjh-bravo">
-    <title>Celebrity Family Feud</title>
-    <sub-title>Season 7 Ep 6</sub-title>
-    <desc>Actor Deon Cole's team faces off against a team led by actress Tisha Campbell. Kevin Smith and Jason Mewes lead a team that competes against actor Justin Long's team.</desc>
-    <date>2025</date>
-    <category>Comedy</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/peOOcVU2GxYTAMNGPAr5NkCxBGe.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11928415</episode-num>
-    <episode-num system="freeviewnz.tv">episode/19e26086-2746-4e72-8bf5-51c53b5fa905</episode-num>
-    <episode-num system="xmltv_ns">6.5.0</episode-num>
-    <episode-num system="dd_seriesid">1001740</episode-num>
-    <episode-num system="freeviewnz.tv">season/28af8c67-fbb5-4aab-88ea-e79e2a6677f1</episode-num>
-    <episode-num system="freeviewnz.tv">show/c2d4b3dc-90b3-4e19-aa08-e99596e9a845</episode-num>
-    <episode-num system="original-air-date">2026-10-03 13:45:00</episode-num>
-    <episode-num system="themoviedb.com">tv/82108</episode-num>
-    <episode-num system="threenow.co.nz">show/1761006276253</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>Celebrity Family Feud pits celebrities and their families against each other in a contest to name the most popular responses to survey-type questions posed to 100 people.</series-desc>
-  </programme>
   <programme start="20261003215500 +0000" stop="20261003222000 +0000" channel="mjh-bravo">
     <title>Highway Patrol</title>
     <sub-title>Taking A Dive</sub-title>
@@ -36454,60 +36231,6 @@ The shows presenters are Adrian Richardson and Zoe Bingley-Pullen. Adrian presen
       <value>8/10</value>
     </star-rating>
     <series-desc>The fascinating cases of every day, seemingly average moms, wives and girlfriends accused of murder. Did they really do it? And if so, why?</series-desc>
-  </programme>
-  <programme start="20261003203000 +0000" stop="20261003215300 +0000" channel="mjh-maori-tv">
-    <title>My Fairy Troublemaker</title>
-    <sub-title>My Fairy Troublemaker</sub-title>
-    <desc>Violetta, a mischievous tooth fairy who fails her exam, becomes stranded in the human world. There she befriends Maxie—a girl adjusting to a new family—and together they embark on a quest to help </desc>
-    <date>2022</date>
-    <keyword>event</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/wXsCtzppdU1SUvTtxznJyi9hiXv.jpg"/>
-    <episode-num system="dd_progid">99596555340</episode-num>
-    <episode-num system="freeviewnz.tv">episode/b58459f5-ae58-4a98-a687-f8a046442d5f</episode-num>
-    <episode-num system="original-air-date">2026-10-03 19:31:00</episode-num>
-    <episode-num system="themoviedb.com">tv/681303</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Violetta (337), a curious and cheeky fairy, gets lost in the human world. To find her way back to the fairy world, she teams up with the human girl Maxie (12) and discovers her true destiny.</series-desc>
-  </programme>
-  <programme start="20261003215300 +0000" stop="20261003220000 +0000" channel="mjh-maori-tv">
-    <title>Someday Challenge</title>
-    <sub-title>Someday Challenge</sub-title>
-    <desc>A film making challenge for rangatahi to tell stories about issues they care about. (R)</desc>
-    <keyword>event</keyword>
-    <icon src="https://nzxmltv.com/images/someday-challenge.png"/>
-    <episode-num system="dd_progid">000127642</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a1ff3558-b9a1-4a3f-a2e8-afd4d3abcd36</episode-num>
-    <episode-num system="original-air-date">2026-08-12 18:28:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20261003220000 +0000" stop="20261003223000 +0000" channel="mjh-maori-tv">
     <title>Waka Huia</title>
@@ -43629,87 +43352,6 @@ Mahi Tika Ana! Terenga 2 comes to a close on the stunning southwest coast of Te 
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261003202500 +0000" stop="20261003211500 +0000" channel="mjh-tvnz-duke">
-    <title>Brooklyn Nine Nine</title>
-    <sub-title>The Bureau</sub-title>
-    <desc>Captain Holt calls on an old friend to help with a seemingly impossible heist. S3 E22</desc>
-    <date>2013</date>
-    <category>Comedy</category>
-    <category>American Sitcom</category>
-    <category>Sitcom</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/hgRMSOt7a1b8qyQR68vUixJPang.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_seriesid">1036514</episode-num>
-    <episode-num system="dd_progid">10412669</episode-num>
-    <episode-num system="freeviewnz.tv">episode/108b7684-de73-4ed0-992d-f754dc1e1684</episode-num>
-    <episode-num system="freeviewnz.tv">show/62a97f57-f3a6-4e40-b58c-d86ae3bc4586</episode-num>
-    <episode-num system="original-air-date">2026-10-04 09:25:00</episode-num>
-    <episode-num system="xmltv_ns">2.21.0</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_95725</episode-num>
-    <episode-num system="themoviedb.com">tv/48891</episode-num>
-    <episode-num system="thetvdb.com">series/269586</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>dolby</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.</series-desc>
-  </programme>
-  <programme start="20261003211500 +0000" stop="20261003220000 +0000" channel="mjh-tvnz-duke">
-    <title>The Simpsons</title>
-    <sub-title>Night Of The Living Wage</sub-title>
-    <desc>Marge gets a job in a high-pressure ghost kitchen, but when she tries to start a union, she gets more than she collectively bargained for. S35 E14</desc>
-    <date>1989</date>
-    <category>Comedy</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/zI3E2a3WYma5w8emI35mgq5Iurx.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_seriesid">1039476</episode-num>
-    <episode-num system="dd_progid">10753830</episode-num>
-    <episode-num system="freeviewnz.tv">episode/fbb7ada6-c283-42bc-af8c-d50a6d49c85d</episode-num>
-    <episode-num system="freeviewnz.tv">show/8d573fe4-f062-4292-816a-068487f91aea</episode-num>
-    <episode-num system="original-air-date">2026-10-03 19:30:00</episode-num>
-    <episode-num system="xmltv_ns">34.13.0</episode-num>
-    <episode-num system="themoviedb.com">tv/456</episode-num>
-    <episode-num system="thetvdb.com">series/71663</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>dolby</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitles type="teletext">
-      <language lang="en_NZ">English (NZ)</language>
-    </subtitles>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>Pop culture icons Homer, Marge, Bart, Lisa and Maggie are right at home on TVNZ 2. There's never a dull moment in Springfield!</series-desc>
-  </programme>
   <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="mjh-tvnz-duke">
     <title>UFC Fight Night</title>
     <sub-title>UFC 332 (Prelims)</sub-title>
@@ -47597,42 +47239,6 @@ Mahi Tika Ana! Terenga 2 comes to a close on the stunning southwest coast of Te 
       <value>8/10</value>
     </star-rating>
     <series-desc>A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.</series-desc>
-  </programme>
-  <programme start="20261003203000 +0000" stop="20261003213000 +0000" channel="mjh-tvnz-2-plus1">
-    <title>What Now?</title>
-    <sub-title>What Now?</sub-title>
-    <desc>Come and join the party! Catch Aashma, Imy, Manu and Rahil for gunge, cream pies, challenges, prizes and adventures across Aotearoa! Haere mai ki te whare o te hūwareware!</desc>
-    <date>2026</date>
-    <category>Kids</category>
-    <category>Children</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/71490-1.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_seriesid">1039837</episode-num>
-    <episode-num system="dd_progid">10760859</episode-num>
-    <episode-num system="freeviewnz.tv">episode/8e29b902-ba5e-43ac-88b9-99a3344e3bda</episode-num>
-    <episode-num system="freeviewnz.tv">show/acee986b-c3aa-4219-89fd-21fc5f34277a</episode-num>
-    <episode-num system="original-air-date">2026-10-04 08:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/827</episode-num>
-    <episode-num system="thetvdb.com">series/71490</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>4/10</value>
-    </star-rating>
-    <series-desc>An entertainment show for primary school-aged children. The series is known for its challenges that sometimes result in participants being 'gunged'.</series-desc>
   </programme>
   <programme start="20261003213000 +0000" stop="20261003230000 +0000" channel="mjh-tvnz-2-plus1">
     <title>The Voice Australia</title>
@@ -59977,43 +59583,6 @@ The anthology series features one- and two-part episodes that coincide with key 
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261003210500 +0000" stop="20261003215500 +0000" channel="mjh-rush-nz">
-    <title>Man Vs Bear</title>
-    <sub-title>Basic Instinct</sub-title>
-    <desc>An Army veteran, an ultra-marathoner and a world-record weightlifter face the biggest battles of their lives as they take on Bart, Honey Bump and Tank.</desc>
-    <date>2019</date>
-    <category>Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/uaBlpHmKKc2zDAvwDq1iCHzwZbJ.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11959913</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f28cc357-5644-4b07-9ca2-df39160d47e0</episode-num>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="dd_seriesid">1006302</episode-num>
-    <episode-num system="freeviewnz.tv">season/0fd4d7b3-dad8-43aa-9517-c815cb9ca16a</episode-num>
-    <episode-num system="freeviewnz.tv">show/1f71497c-2840-4209-85f8-a52fe62239c3</episode-num>
-    <episode-num system="original-air-date">2026-09-28 19:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/96141</episode-num>
-    <episode-num system="threenow.co.nz">show/mac_sh_93798</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Three humans do battle with three grizzly bears in a competition of speed, strength, and strategy, and one of the men finds out the hard way what it means to have skin in the game.</series-desc>
-  </programme>
   <programme start="20261003215500 +0000" stop="20261003224000 +0000" channel="mjh-rush-nz">
     <title>Expedition: Back To The Future</title>
     <sub-title>Episode 4</sub-title>
@@ -69753,39 +69322,6 @@ The anthology series features one- and two-part episodes that coincide with key 
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme start="20261003210000 +0000" stop="20261003220500 +0000" channel="mjh-tvnz-1-plus1">
-    <title>Q+A With Jack Tame</title>
-    <sub-title>Q+A With Jack Tame 2026 31</sub-title>
-    <desc>Hosted by Jack Tame, Q+A brings viewers the important political interviews and discussions of the week, taking a close look at politics, economics, and global events.</desc>
-    <date>2026</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/qa-with-jack-tame.png"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_seriesid">1039822</episode-num>
-    <episode-num system="dd_progid">10760399</episode-num>
-    <episode-num system="freeviewnz.tv">episode/82022435-a81b-440a-ae15-5cd1eb627c68</episode-num>
-    <episode-num system="freeviewnz.tv">show/346b1596-dd16-4d25-8cf5-b58bb002fae1</episode-num>
-    <episode-num system="original-air-date">2026-10-04 23:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/209270</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Hosted by Jack Tame, Q + A brings viewers the important political interviews and discussions of the week, taking a closer look at politics, economics and global events.</series-desc>
-  </programme>
   <programme start="20261003220500 +0000" stop="20261003223500 +0000" channel="mjh-tvnz-1-plus1">
     <title>Waka Huia</title>
     <sub-title>He Piko He Ruuruhi</sub-title>
@@ -75267,30 +74803,6 @@ Breakfast's dominance was virtually unchallenged by the other networks until 200
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261003180000 +0000" stop="20261003212500 +0000" channel="mjh-tvnz-duke-plus1">
-    <title>On Duke Today...</title>
-    <sub-title>On DUKE Today...</sub-title>
-    <desc>Here's what's on DUKE today.</desc>
-    <category>Other</category>
-    <category>Information</category>
-    <keyword>event</keyword>
-    <icon src="https://nzxmltv.com/images/on-duke-today.png"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">10432293</episode-num>
-    <episode-num system="freeviewnz.tv">episode/710b8468-5811-4514-aae9-693d929f3555</episode-num>
-    <episode-num system="original-air-date">2026-08-10 06:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-  </programme>
   <programme start="20261003212500 +0000" stop="20261003221500 +0000" channel="mjh-tvnz-duke-plus1">
     <title>Brooklyn Nine Nine</title>
     <sub-title>The Bureau</sub-title>
@@ -79111,84 +78623,6 @@ Breakfast's dominance was virtually unchallenged by the other networks until 200
       <value>8/10</value>
     </star-rating>
     <series-desc>A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.</series-desc>
-  </programme>
-  <programme start="20261003210000 +0000" stop="20261003213000 +0000" channel="mjh-three-plus1">
-    <title>The Hui</title>
-    <sub-title>Episode 22</sub-title>
-    <desc>Julian Wilcox presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
-    <date>2020</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <category>Current Affairs</category>
-    <category>Te reo Māori</category>
-    <category>Local</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/BD29F269-73DC-44EC-BA3700D29A175A81.jpg"/>
-    <episode-num system="dd_progid">SNZ11942606</episode-num>
-    <episode-num system="freeviewnz.tv">episode/35f832d1-3d9a-4c29-8ccd-8e2ebd928496</episode-num>
-    <episode-num system="xmltv_ns">10.21.0</episode-num>
-    <episode-num system="dd_seriesid">1003429</episode-num>
-    <episode-num system="freeviewnz.tv">season/0842de86-07a6-4c58-b18f-f30a7c23625c</episode-num>
-    <episode-num system="freeviewnz.tv">show/3c6f7859-b6a2-4ef7-a37e-e52ee12eccde</episode-num>
-    <episode-num system="original-air-date">2026-10-04 09:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_132523</episode-num>
-    <episode-num system="themoviedb.com">tv/104550</episode-num>
-    <episode-num system="threenow.co.nz">show/125685</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Mihingarangi Forbes presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</series-desc>
-  </programme>
-  <programme start="20261003213000 +0000" stop="20261003215500 +0000" channel="mjh-three-plus1">
-    <title>Diners, Drive-ins, And Dives</title>
-    <sub-title>Fistful of Flavor</sub-title>
-    <desc>Guy Fieri digs into bold Mediterranean flavours at a standout California eatery, then heads to a New Jersey beachfront bistro and an Indianapolis spot serving Argentine favourites.</desc>
-    <date>2024</date>
-    <category>Reality</category>
-    <category>General Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/fPpDR6kw8bA0iZ8a0dUbexVVzn3.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11924963</episode-num>
-    <episode-num system="freeviewnz.tv">episode/b5b7f490-1fda-43d4-a97c-e54f6fe4fbad</episode-num>
-    <episode-num system="xmltv_ns">39.0.0</episode-num>
-    <episode-num system="dd_seriesid">1001879</episode-num>
-    <episode-num system="freeviewnz.tv">season/5866fb57-023b-4f8b-8dca-5eda8080efab</episode-num>
-    <episode-num system="freeviewnz.tv">show/a53a7655-6b9c-409c-bf7c-bc3c5f6eaa8a</episode-num>
-    <episode-num system="original-air-date">2026-10-04 09:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/4086</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Host Guy Fieri takes a cross-country road trip to visit some of America's classic "greasy spoon" restaurants — diners, drive-ins and dives — that have been doing it right for decades.</series-desc>
   </programme>
   <programme start="20261003215500 +0000" stop="20261003225500 +0000" channel="mjh-three-plus1">
     <title>Iron Resurrection</title>
@@ -83834,81 +83268,6 @@ Breakfast's dominance was virtually unchallenged by the other networks until 200
     </star-rating>
     <series-desc>Welcome to the Ocean State. It may be America’s smallest, but don’t be fooled — the drama is wicked wild. In a place where everyone knows everyone and family names carry serious weight, nothing is ever truly forgotten. Friendships are built over decades, loyalties are deeply rooted and secrets are guarded at all costs…until betrayal strikes and the cracks begin to show.</series-desc>
   </programme>
-  <programme start="20261003202500 +0000" stop="20261003211500 +0000" channel="mjh-bravo-plus1">
-    <title>Traffic Cops</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>This fast-paced British reality series follows officers patrolling Englandâ€™s roads, featuring high-speed chases, drug busts, and hardened criminals in intense, heart-racing action.</desc>
-    <date>2016</date>
-    <category>Reality</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/fq2A6r8s8VFdTQlDCfxGRgCqx46.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">SNZ11936280</episode-num>
-    <episode-num system="freeviewnz.tv">episode/285ae3bd-07c3-4d31-8132-342a956b98ef</episode-num>
-    <episode-num system="xmltv_ns">6.4.0</episode-num>
-    <episode-num system="dd_seriesid">1002596</episode-num>
-    <episode-num system="freeviewnz.tv">season/2a1a0653-7736-4b2f-8400-2cac0da26ada</episode-num>
-    <episode-num system="freeviewnz.tv">show/dbebfedf-b85d-4697-ab01-ce628c8566b3</episode-num>
-    <episode-num system="original-air-date">2026-10-02 18:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/81440</episode-num>
-    <episode-num system="thetvdb.com">series/84218</episode-num>
-    <episode-num system="threenow.co.nz">show/1779659752361</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>An action-packed documentary series following Yorkshire-based law enforcers. Originally shown by the BBC (2003-2016), this is the new reboot format of the show and was titled "All New Traffic Cops" for two series. It was renamed again in 2018 as "Traffic Cops: On the Edge" and then as "Traffic Cops".</series-desc>
-  </programme>
-  <programme start="20261003211500 +0000" stop="20261003220000 +0000" channel="mjh-bravo-plus1">
-    <title>Celebrity Family Feud</title>
-    <sub-title>Season 7 Ep 5</sub-title>
-    <desc>Real estate agents from "Million Dollar Listing Los Angeles" take on the real estate agents from "Million Dollar Listing New York" to see who will reign supreme.</desc>
-    <date>2015</date>
-    <category>Comedy</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/peOOcVU2GxYTAMNGPAr5NkCxBGe.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11928414</episode-num>
-    <episode-num system="freeviewnz.tv">episode/3c734ef1-59c8-46f5-8058-6790b3bb1d5f</episode-num>
-    <episode-num system="xmltv_ns">6.4.0</episode-num>
-    <episode-num system="dd_seriesid">1001740</episode-num>
-    <episode-num system="freeviewnz.tv">season/28af8c67-fbb5-4aab-88ea-e79e2a6677f1</episode-num>
-    <episode-num system="freeviewnz.tv">show/c2d4b3dc-90b3-4e19-aa08-e99596e9a845</episode-num>
-    <episode-num system="original-air-date">2026-10-03 12:45:00</episode-num>
-    <episode-num system="themoviedb.com">tv/82108</episode-num>
-    <episode-num system="threenow.co.nz">show/1761006276253</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>Celebrity Family Feud pits celebrities and their families against each other in a contest to name the most popular responses to survey-type questions posed to 100 people.</series-desc>
-  </programme>
   <programme start="20261003220000 +0000" stop="20261003225500 +0000" channel="mjh-bravo-plus1">
     <title>Celebrity Family Feud</title>
     <sub-title>Season 7 Ep 6</sub-title>
@@ -88280,83 +87639,6 @@ Breakfast's dominance was virtually unchallenged by the other networks until 200
       <value>8/10</value>
     </star-rating>
     <series-desc>This extension of the long-running true-crime series 'Snapped' shifts the focus to couples whose passion drives them to commit terrible criminal acts. Using re-creations and gripping firsthand accounts, each episode takes a deep dive into a case, telling the story of the couple's romance, how the relationship evolved from love to manipulation, and what ultimately drove the couple to commit the crime.</series-desc>
-  </programme>
-  <programme start="20261003202000 +0000" stop="20261003213000 +0000" channel="mjh-eden">
-    <title>Sweet Empire</title>
-    <sub-title>Home For The Holidays</sub-title>
-    <desc>Fourteen bakers arrive at Yuletide Lodge to compete for $50,000, building sweet empires through festive baking challenges and teamwork.</desc>
-    <date>2025</date>
-    <category>Entertainment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/xRLU1MKN6tneow0K8ESynXoDE5Z.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11960334</episode-num>
-    <episode-num system="freeviewnz.tv">episode/99bfa693-e85f-489f-a3ee-c1595c5ecbe3</episode-num>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="dd_seriesid">1006464</episode-num>
-    <episode-num system="freeviewnz.tv">season/a9dc47de-40ba-4e74-8ac5-26490cc486b2</episode-num>
-    <episode-num system="freeviewnz.tv">show/de4c0584-8b77-4079-8a71-ac31c07b060e</episode-num>
-    <episode-num system="original-air-date">2026-09-27 18:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/305345</episode-num>
-    <episode-num system="threenow.co.nz">show/mac_sh_183027</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Welcome to Sweet Empire, hosted by Wells Adams where bakers hold the power to build their teams, shape their vision and rise to sweet supremacy … or crumble in defeat. Each episode, competitors craft jaw-dropping desserts and showstopping masterpieces inspired by holiday traditions, pop culture and pure imagination. Judged by Yolanda Gampp and Jacques Torres, only the most daring creations will stand tall. At stake: $50,000 and the title of Sweet Empire.</series-desc>
-  </programme>
-  <programme start="20261003213000 +0000" stop="20261003215500 +0000" channel="mjh-eden">
-    <title>Baked In Vermont</title>
-    <sub-title>Campfire Bake</sub-title>
-    <desc>Gesine and Ray help move their park ranger friend into her station for the season by baking a variety of meals over an open flame. S2 E9</desc>
-    <date>2017</date>
-    <category>Lifestyle</category>
-    <category>Food/cooking</category>
-    <category>Factual</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/6C38F54D-715E-4EF2-BD5BEDCE050D17E5.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">SNZ11933297</episode-num>
-    <episode-num system="freeviewnz.tv">episode/bbeef1d7-70c6-41c5-97ce-584dc3f97502</episode-num>
-    <episode-num system="xmltv_ns">1.8.0</episode-num>
-    <episode-num system="dd_seriesid">1002630</episode-num>
-    <episode-num system="freeviewnz.tv">season/38b55e05-3d98-448f-9f3a-d3cc67ac89ae</episode-num>
-    <episode-num system="freeviewnz.tv">show/e76a1689-d1be-417e-8b2c-6a08bad2079d</episode-num>
-    <episode-num system="original-air-date">2026-10-03 19:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_95255</episode-num>
-    <episode-num system="themoviedb.com">tv/76812</episode-num>
-    <episode-num system="threenow.co.nz">show/mac_sh_95255</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>Self-taught baker, teacher and cookbook author Gesine Prado believes anyone can bake; from sweet cakes, cookies and pies to savory meals, she shares tips that show how baking can be easy, accessible and fun.</series-desc>
   </programme>
   <programme start="20261003215500 +0000" stop="20261003221500 +0000" channel="mjh-eden">
     <title>Girl Meets Farm</title>
@@ -95801,42 +95083,6 @@ Breakfast's dominance was virtually unchallenged by the other networks until 200
       <value>0/10</value>
     </star-rating>
     <series-desc>With the help of Matt Gibb, Kiwi couples escape the rat race to look for their dream homes in regional New Zealand.</series-desc>
-  </programme>
-  <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>News/Current Affairs</category>
-    <keyword>series</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">63497396</episode-num>
-    <episode-num system="freeviewnz.tv">episode/575065c7-4987-40ea-9a7b-d499649a775b</episode-num>
-    <episode-num system="original-air-date">2026-10-04 10:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc990239023</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20261003220000 +0000" stop="20261003223000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -114793,30 +114039,6 @@ Each half-hour programme features one investigative documentaries on an issue re
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261003200000 +0000" stop="20261003220000 +0000" channel="mjh-trackside-2">
-    <title lang="en_NZ">Trackside 2 - USA</title>
-    <sub-title lang="en_NZ">Trackside 2  - USA</sub-title>
-    <desc lang="en_NZ">Live coverage from North America. Bet online or instore with TAB and Betcha.</desc>
-    <category lang="en_NZ">Sport</category>
-    <category lang="en_NZ">Sports</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/29F4C141-3646-4D2E-AFB0166045D753C3.jpg"/>
-    <episode-num system="dd_progid">mac_ptc1367427182</episode-num>
-    <episode-num system="original-air-date">2026-10-04 09:00:00</episode-num>
-    <episode-num system="dd_seriesid">mac_sh_ptc2082585754</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="mjh-trackside-2">
     <title lang="en_NZ">Trackside 2 - USA</title>
     <sub-title lang="en_NZ">Trackside 2  - USA</sub-title>
@@ -123342,39 +122564,6 @@ Each half-hour programme features one investigative documentaries on an issue re
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="mjh-shine-tv">
-    <title>Church Unlimited</title>
-    <sub-title>Sunday Service</sub-title>
-    <desc>Tak Bhana from Church Unlimited Auckland has a desire and passion to see God's people burning with an unquenchable zeal that results in their loving and serving Him with all their heart and strength.</desc>
-    <date>2026</date>
-    <category>Other</category>
-    <category>Show, Game Show</category>
-    <category>Show, Game Show (general)</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/177495a7-c7ac-4cc9-8b42-c2efc48ce18b/ChurchUnlimited2025.jpg" width="2160" height="3840"/>
-    <url>Special Interest</url>
-    <episode-num system="dd_progid">A0037043</episode-num>
-    <episode-num system="freeviewnz.tv">episode/9dd4ea26-5ad7-491d-a0aa-c6752a5559b0</episode-num>
-    <episode-num system="xmltv_ns">2025.39.0</episode-num>
-    <episode-num system="dd_seriesid">A0037003</episode-num>
-    <episode-num system="freeviewnz.tv">season/bdc0f7ff-3b52-47c9-84cc-8a652de41e41</episode-num>
-    <episode-num system="freeviewnz.tv">show/ae335561-a03c-4993-a05e-3046b7924103</episode-num>
-    <episode-num system="original-air-date">2026-10-04 22:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>Tak Bhana from Church Unlimited Auckland has a desire and passion to see God's people burning with an unquenchable zeal that results in their loving and serving Him with all their heart and strength.</series-desc>
-  </programme>
   <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="mjh-shine-tv">
     <title>LIFE Sunday Service</title>
     <sub-title>LIFE Sunday Service</sub-title>
@@ -129594,36 +128783,6 @@ Each half-hour programme features one investigative documentaries on an issue re
     </rating>
     <series-desc>New look, fresh content, live as it happens! Join Andrew Urquhart weekday mornings for on-point conversations &amp; expert guest commentary on local issues, Christian news &amp; international updates.</series-desc>
   </programme>
-  <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="mjh-firstlight">
-    <title>White Horse Media</title>
-    <sub-title>Judge Not - Part 1 &amp; 2</sub-title>
-    <desc>In a world quick to point fingers &amp; cast stones, one simple phrase echoes through time, but its true meaning might surprise you - Part 1 &amp; 2. S1E3</desc>
-    <category>Other</category>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/white-horse-media.png"/>
-    <url>http://www.firstlight.org.nz</url>
-    <episode-num system="dd_progid">WHM</episode-num>
-    <episode-num system="freeviewnz.tv">episode/bad29cb4-7726-44c9-8481-fe036605d755</episode-num>
-    <episode-num system="dd_seriesid">WHM</episode-num>
-    <episode-num system="freeviewnz.tv">season/d1dbd297-7692-47cd-898b-66401e01b0d6</episode-num>
-    <episode-num system="original-air-date">2026-10-03 17:00:00</episode-num>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="mjh-firstlight">
     <title>Amazing Facts</title>
     <sub-title>We are Peter</sub-title>
@@ -135119,33 +134278,6 @@ It Is Written was the first religious program to air in color, and the first to 
       <value>0/10</value>
     </star-rating>
     <series-desc>Our flagship 30-minute program features the very best of Pastor Doug Batchelor and Amazing Facts programs. Explore the Bible like never before and get practical guidance on Christian living, prophecy, and more. You will find the Bible’s answers to all your questions about life.</series-desc>
-  </programme>
-  <programme start="20261003210000 +0000" stop="20261003215500 +0000" channel="mjh-hope-channel">
-    <title>Table Talk - Hard Questions</title>
-    <sub-title>Is the Bible Really the Word of God?</sub-title>
-    <desc>The team at Lightbearers Ministry get together round the table to answer some of the hard questions about God and the Bible, such as "Is the Bible really the word of God?"</desc>
-    <category>Arts, Culture</category>
-    <category>Religion</category>
-    <keyword>event</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/ECF0D37A-85EC-4AC4-B258B76D65474EB7.jpg"/>
-    <url>https://www.hopechannel.nz/</url>
-    <episode-num system="dd_progid">TTALK03x02</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2fb99f9e-ced8-4ff6-a539-e474e3413256</episode-num>
-    <episode-num system="original-air-date">2026-10-04 10:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1647516544</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20261003215500 +0000" stop="20261003223000 +0000" channel="mjh-hope-channel">
     <title>Personal Concern</title>
@@ -141848,43 +140980,6 @@ It Is Written was the first religious program to air in color, and the first to 
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="mjh-wairarapa-tv">
-    <title>Arrow</title>
-    <sub-title>Recent shows recorded at Arrow Studios</sub-title>
-    <desc>Go to www.arrowfm.co.nz to see which shows will be airing today.</desc>
-    <date>2012</date>
-    <category>Arts, Culture</category>
-    <category>Action</category>
-    <category>Fantasy</category>
-    <category>Drama</category>
-    <category>Adventure</category>
-    <keyword>event</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/BD37FEF9-5E74-4925-949953B06E233487.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">62918632</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a5d520c3-9ca5-4d23-9718-64fe1efa7c4e</episode-num>
-    <episode-num system="original-air-date">2026-10-04 10:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_24664</episode-num>
-    <episode-num system="themoviedb.com">tv/1412</episode-num>
-    <episode-num system="thetvdb.com">series/257655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</series-desc>
-  </programme>
   <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="mjh-wairarapa-tv">
     <title>Economics Explained</title>
     <sub-title>Economics explained</sub-title>
@@ -145906,38 +145001,6 @@ It Is Written was the first religious program to air in color, and the first to 
       <value>7/10</value>
     </star-rating>
     <series-desc>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</series-desc>
-  </programme>
-  <programme start="20261003210000 +0000" stop="20261003213000 +0000" channel="mjh-ch200">
-    <title>The Incredible Journey</title>
-    <sub-title>The Incredible Journey</sub-title>
-    <desc>Join Gary Kent in his ceaseless search for people and things that have experienced The Incredible Journey</desc>
-    <date>2005</date>
-    <category>Religion</category>
-    <keyword>event</keyword>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/127A2E74-81DA-4A9E-B25705F56AE05ACC.jpg"/>
-    <country>Australia</country>
-    <episode-num system="dd_progid">63452805</episode-num>
-    <episode-num system="freeviewnz.tv">episode/19016014-f61e-46f6-897c-51ba4c5e4ac3</episode-num>
-    <episode-num system="original-air-date">2026-10-04 10:00:00</episode-num>
-    <episode-num system="skygo.co.nz">show/mac_sh_ptc1116522645</episode-num>
-    <episode-num system="themoviedb.com">tv/16491</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>PG</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Mary Bryant, a Cornish girl who was convicted of petty theft, is being transported to the Australian Penal Colony on the First Fleet with other prisoners bound for Botany Bay.</series-desc>
   </programme>
   <programme start="20261003213000 +0000" stop="20261004110000 +0000" channel="mjh-ch200">
     <title>JUICE TV</title>
