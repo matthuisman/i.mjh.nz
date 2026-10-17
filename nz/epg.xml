@@ -5,6 +5,10 @@
     <display-name>ThreeNow Sport 1</display-name>
     <icon src="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/x5sb9PxNV3X9NmnokapqO/b9541319e37f2803dc7eec73c779d0b0/Logo_Images_-_default.png"/>
   </channel>
+  <channel id="mjh-sky-popup2">
+    <display-name>ThreeNow Sport 2</display-name>
+    <icon src="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/1jZRHmRhF6VFjZET4V2hFM/6d31709f4e877e133c3d16d28e1b58d2/Logo_Images_-_default.png"/>
+  </channel>
   <channel id="mjh-sky-hgtv">
     <display-name>HGTV</display-name>
     <lcn>19</lcn>
@@ -243,39 +247,22 @@
     <sub-title>NASCAR O'Reilly Series: The Progress Group 250 Live Sunday 25th Oct 8am</sub-title>
     <category>Sport</category>
   </programme>
-  <programme start="20261017195500 +0000" stop="20261017202000 +0000" channel="mjh-sky-hgtv">
-    <title>House Hunters</title>
-    <sub-title>Body Slams and Big Houses in Orlando</sub-title>
-    <desc>A former professional wrestler searches for a showcase home in Orlando, Florida. He wants a place for big parties, but his wife prefers a tranquil home to start a family. S242 Ep5</desc>
-    <date>2020</date>
-    <category>Factual</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/DAC4AB16-F540-4D3A-BE995400579780B0.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/house-hunters/S3535-744</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1006844./SNZ11963587</episode-num>
-    <episode-num system="xmltv_ns">241.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/6480</episode-num>
-    <episode-num system="original-air-date">2026-10-09 11:46:31</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>5.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/DAC4AB16-F540-4D3A-BE995400579780B0.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/FB3E8ED3-58B8-47A1-B5255E62C6B0BE57.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+  <programme channel="mjh-sky-popup2" start="20261018060000 +1300" stop="20261018151500 +1300">
+    <title>Women's Rugby League World Cup: Kiwi Ferns v Fiji Live Today 3.15pm</title>
+    <sub-title>Tauihi Basketball: Queens v Whai Live Today 7.30pm</sub-title>
+    <category>Sport</category>
+  </programme>
+  <programme channel="mjh-sky-popup2" start="20261018151500 +1300" stop="20261018180000 +1300">
+    <title>Live Women's RLWC: Kiwi Ferns V Fiji</title>
+    <sub-title>RLWC: Kiwi Ferns v Fiji</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/2C26D7F6-DE7D-49CA-AB1EC656CB766A14.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S2026E64</episode-num>
+    <category>Rugby League</category>
+  </programme>
+  <programme channel="mjh-sky-popup2" start="20261018180000 +1300" stop="20261019000000 +1300">
+    <title>Women's Rugby League World Cup: Kiwi Ferns v France Live Sun Oct 25th 3.20pm</title>
+    <sub-title>Tauihi Basketball: Queens v Whai Live Today 7.30pm</sub-title>
+    <category>Sport</category>
   </programme>
   <programme start="20261017202000 +0000" stop="20261017211000 +0000" channel="mjh-sky-hgtv">
     <title>Castle Impossible</title>
@@ -1564,9 +1551,9 @@
     <sub-title>All That Jazz on St. Croix</sub-title>
     <desc>A Colorado couple fell in love with the clear waters, white sands and island lifestyle on St. Croix. They've enlisted an agent to find their dream home.</desc>
     <date>2019</date>
-    <category>Reality</category>
+    <category>Factual</category>
     <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/C94D0AB2-C006-492F-ACEF64DF54AFD376.jpg"/>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/8CFEB31F-E188-42ED-9630167CE842E91E.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <url>https://www.threenow.co.nz/shows/caribbean-life/S3166-778</url>
     <country>United States of America</country>
     <episode-num system="dd_progid">EP/1006915./SNZ11964328</episode-num>
@@ -1589,8 +1576,8 @@
     <star-rating>
       <value>5.0/10</value>
     </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/C94D0AB2-C006-492F-ACEF64DF54AFD376.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/1A0B50EC-1663-4226-8F8F04CC68D4C735.jpg</image>
+    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/8CFEB31F-E188-42ED-9630167CE842E91E.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/1A0B50EC-1663-4226-8F8F04CC68D4C735.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
     <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/87959B88-3A08-470B-8BA5E3348DBAC955.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261018233500 +0000" stop="20261019002000 +0000" channel="mjh-sky-hgtv">
@@ -1598,9 +1585,9 @@
     <sub-title>Getting Down In Deep Creek</sub-title>
     <desc>A family of six with an architectural background creatively renovates a small home on Maryland's Deep Creek Lake.</desc>
     <date>2012</date>
-    <category>Documentary</category>
+    <category>Factual</category>
     <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/2EBFBBB8-A02C-4211-B7FBC1F625BB5D76.jpg"/>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/22E580F7-6F49-44FD-84023A472BBD6FDD.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <url>https://www.threenow.co.nz/shows/lakefront-bargain-hunt-renovation/mac_sh_132421</url>
     <country>United States of America</country>
     <episode-num system="dd_progid">EP/1003830./SNZ11943997</episode-num>
@@ -1609,7 +1596,7 @@
     <episode-num system="original-air-date">2026-07-12 06:19:36</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -1626,8 +1613,8 @@
     <star-rating>
       <value>7.7/10</value>
     </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/2EBFBBB8-A02C-4211-B7FBC1F625BB5D76.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/74B76927-FDAD-48B5-8793852D48A9BAE3.jpg</image>
+    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/22E580F7-6F49-44FD-84023A472BBD6FDD.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/74B76927-FDAD-48B5-8793852D48A9BAE3.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
     <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C2F61A6C-56AB-437D-9887D0A71DC5811D.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261019002000 +0000" stop="20261019005000 +0000" channel="mjh-sky-hgtv">
@@ -19212,13 +19199,6 @@
     <sub-title>The Spirit</sub-title>
     <category>Movies</category>
   </programme>
-  <programme channel="mjh-sky-fast3" start="20261018084500 +1300" stop="20261018093500 +1300">
-    <title>Below Deck: Mediterranean</title>
-    <sub-title>Max Tension</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/903A22B5-3870-48B0-9208DB25132212D9.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S08E05</episode-num>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-sky-fast3" start="20261018093500 +1300" stop="20261018103000 +1300">
     <title>Below Deck: Mediterranean</title>
     <sub-title>The Italian Job</sub-title>
@@ -19451,10 +19431,19 @@
     <episode-num system="onscreen">S08E09</episode-num>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-sky-ptmb" start="20261018082700 +1300" stop="20261018092700 +1300">
-    <title>MythBusters</title>
-    <sub-title>MythBusters</sub-title>
-    <category>Technology</category>
+  <programme channel="mjh-sky-fast3" start="20261019131000 +1300" stop="20261019135500 +1300">
+    <title>Below Deck: Mediterranean</title>
+    <sub-title>Dirty Laundry</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/903A22B5-3870-48B0-9208DB25132212D9.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S08E10</episode-num>
+    <category>Reality</category>
+  </programme>
+  <programme channel="mjh-sky-fast3" start="20261019135500 +1300" stop="20261019144500 +1300">
+    <title>Below Deck: Mediterranean</title>
+    <sub-title>Pirates Booty Call</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/903A22B5-3870-48B0-9208DB25132212D9.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-ptmb" start="20261018092700 +1300" stop="20261018102600 +1300">
     <title>MythBusters</title>
@@ -19596,19 +19585,10 @@
     <sub-title>MythBusters</sub-title>
     <category>Technology</category>
   </programme>
-  <programme channel="mjh-sky-fast4" start="20261018083500 +1300" stop="20261018092000 +1300">
-    <title>The Real Murders On Elm Street</title>
-    <sub-title>Cruel Intentions</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/34663053-CB98-400A-94A275DA7924537F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-sky-fast4" start="20261018092000 +1300" stop="20261018100500 +1300">
-    <title>People Magazine Investigates</title>
-    <sub-title>Looking for Angela</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/0D780913-2986-4323-B1B58A125D06EE49.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S09E04</episode-num>
-    <category>Crime</category>
+  <programme channel="mjh-sky-ptmb" start="20261019132000 +1300" stop="20261019141900 +1300">
+    <title>MythBusters</title>
+    <sub-title>MythBusters</sub-title>
+    <category>Technology</category>
   </programme>
   <programme channel="mjh-sky-fast4" start="20261018100500 +1300" stop="20261018105500 +1300">
     <title>Mean Girl Murders</title>
@@ -19919,12 +19899,19 @@
     <episode-num system="onscreen">S02E07</episode-num>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-sky-fast5" start="20261018084000 +1300" stop="20261018092500 +1300">
-    <title>Ghost Nation</title>
-    <sub-title>Tortured Soul Asylum</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E76538FC-734D-4B85-A22C14D7E80A233C.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E20</episode-num>
-    <category>Supernatural</category>
+  <programme channel="mjh-sky-fast4" start="20261019131500 +1300" stop="20261019140500 +1300">
+    <title>Killing Time</title>
+    <sub-title>Evil Eye</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/ED4E15B7-1380-41FA-AEFC5C45216F55D0.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <category>Crime</category>
+  </programme>
+  <programme channel="mjh-sky-fast4" start="20261019140500 +1300" stop="20261019145000 +1300">
+    <title>The Real Murders On Elm Street</title>
+    <sub-title>Someone's Watching Her</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/34663053-CB98-400A-94A275DA7924537F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <category>Crime</category>
   </programme>
   <programme channel="mjh-sky-fast5" start="20261018092500 +1300" stop="20261018101500 +1300">
     <title>Cult Of The Real Housewife</title>
@@ -20172,19 +20159,19 @@
     <episode-num system="onscreen">S02E07</episode-num>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-sky-fast1" start="20261018083000 +1300" stop="20261018091500 +1300">
-    <title>Texas Metal</title>
-    <sub-title>Show and Go Dually</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/50B8FE12-9745-4897-BFFAEB0824EE8446.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast5" start="20261019132000 +1300" stop="20261019140500 +1300">
+    <title>The Osbournes Want To Believe</title>
+    <sub-title>Lost in Space</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C6B84819-7ABF-4162-B11159CF37FA0B3C.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <category>Supernatural</category>
   </programme>
-  <programme channel="mjh-sky-fast1" start="20261018091500 +1300" stop="20261018100500 +1300">
-    <title>Custom Carolina</title>
-    <sub-title>The Blue Ridge Buckin' Bronco</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/8CF16595-9236-4120-A9B5E13681B4A910.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <category>Factual</category>
+  <programme channel="mjh-sky-fast5" start="20261019140500 +1300" stop="20261019145500 +1300">
+    <title>Ghost Nation</title>
+    <sub-title>An Unholy Haunting</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E76538FC-734D-4B85-A22C14D7E80A233C.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <category>Supernatural</category>
   </programme>
   <programme channel="mjh-sky-fast1" start="20261018100500 +1300" stop="20261018105000 +1300">
     <title>Street Outlaws: Fastest In America</title>
@@ -20420,11 +20407,18 @@
     <episode-num system="onscreen">S03E10</episode-num>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-sky-fast2" start="20261018085000 +1300" stop="20261018094000 +1300">
-    <title>Deadliest Catch</title>
-    <sub-title>Season 16 Ep 5</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S16E05</episode-num>
+  <programme channel="mjh-sky-fast1" start="20261019131500 +1300" stop="20261019140000 +1300">
+    <title>Fast N' Loud</title>
+    <sub-title>Season 5 Ep 1</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/7F3CAF2D-CD4E-4CD5-B9624AB2D6B2A664.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast1" start="20261019140000 +1300" stop="20261019145000 +1300">
+    <title>Texas Metal</title>
+    <sub-title>Beantown Continental</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/50B8FE12-9745-4897-BFFAEB0824EE8446.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S04E06</episode-num>
     <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast2" start="20261018094000 +1300" stop="20261018102500 +1300">
@@ -20650,20 +20644,6 @@
     <sub-title>Season 16 Ep 8</sub-title>
     <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <episode-num system="onscreen">S16E08</episode-num>
-    <category>Factual</category>
-  </programme>
-  <programme channel="mjh-sky-fast6" start="20261018090000 +1300" stop="20261018092000 +1300">
-    <title>House Hunters International</title>
-    <sub-title>Polar Opposites in Central America</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S127E13</episode-num>
-    <category>Factual</category>
-  </programme>
-  <programme channel="mjh-sky-fast6" start="20261018092000 +1300" stop="20261018094500 +1300">
-    <title>House Hunters International</title>
-    <sub-title>Recreating Home In London</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S143E13</episode-num>
     <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast6" start="20261018094500 +1300" stop="20261018101000 +1300">
@@ -21156,6 +21136,27 @@
     <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <episode-num system="onscreen">S204E01</episode-num>
     <category>Home/gardening</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261019131500 +1300" stop="20261019134000 +1300">
+    <title>House Hunters</title>
+    <sub-title>House Then Wedding In Florida</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S245E01</episode-num>
+    <category>Home/gardening</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261019134000 +1300" stop="20261019140000 +1300">
+    <title>House Hunters</title>
+    <sub-title>Dallas Equals Success</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S246E01</episode-num>
+    <category>Home/gardening</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261019140000 +1300" stop="20261019142500 +1300">
+    <title>House Hunters International</title>
+    <sub-title>A Deep Dive Into the Riviera Maya</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S130E01</episode-num>
+    <category>Factual</category>
   </programme>
   <programme start="20261017160000 +0000" stop="20261018060000 +0000" channel="mjh-mood-1290">
     <title>Lazy Sunday</title>
@@ -24839,32 +24840,6 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/after-dark_juicetv.jpg</image>
-  </programme>
-  <programme start="20261017200000 +0000" stop="20261017210500 +0000" channel="mjh-tvnz-1">
-    <title>Q+A With Jack Tame</title>
-    <sub-title>Q+A With Jack Tame 2026 33</sub-title>
-    <desc>Hosted by Jack Tame, Q+A brings viewers the important political interviews and discussions of the week, taking a close look at politics, economics, and global events.</desc>
-    <date>2026</date>
-    <category>Current Affairs</category>
-    <icon src="https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/94A3734E-214B-4905-BE7D-2D1E0CD4DF1D/0-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web"/>
-    <url>https://www.tvnz.co.nz/tvseries/qa-with-jack-tame</url>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EP/1039822./10760401</episode-num>
-    <episode-num system="xmltv_ns">2025.32.0</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="L">https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/94A3734E-214B-4905-BE7D-2D1E0CD4DF1D/0-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web</image>
-    <image type="backdrop" size="3" orient="L">https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/94A3734E-214B-4905-BE7D-2D1E0CD4DF1D/2-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web</image>
   </programme>
   <programme start="20261017210500 +0000" stop="20261017213500 +0000" channel="mjh-tvnz-1">
     <title>Waka Huia</title>
@@ -30991,7 +30966,6 @@
     <category>Documentary</category>
     <orig-language>English</orig-language>
     <icon src="https://image.tmdb.org/t/p/original/pXWFmX3tjAX3iSsQjnT5wcE03wN.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/james-may-and-the-dull-men</url>
     <country>United Kingdom</country>
     <episode-num system="dd_progid">EP/1038321./10735720</episode-num>
     <episode-num system="themoviedb.org">series/275828</episode-num>
@@ -35023,34 +34997,6 @@
     </subtitle>
     <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/4af8e24a-a272-4196-8d32-d0d1d068a3bc/TE_KARERE_SHOWTILE.png.4cdd6cb3bdf97713a025bd7d300c9ddb.jpg</image>
     <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/7e066709-60e5-49b3-a19f-7b903a647619/TE_KARERE_COVERIMG.png.3844710b12ba334bd9b3b4c521a632f5.jpg%3Fwidth%3D800%26height%3D450</image>
-  </programme>
-  <programme start="20261017193000 +0000" stop="20261017203000 +0000" channel="mjh-tvnz-2">
-    <title>What Now?</title>
-    <desc>Come and join the party! Catch Aashma, Imy, Manu and Rahil for gunge, cream pies, challenges, prizes and adventures across Aotearoa! Haere mai ki te whare o te hūwareware!</desc>
-    <date>2026</date>
-    <category>Youth Programmes</category>
-    <icon src="https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/01A4872B-D58C-4BAF-A48C-B851FC93EE47/0-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web"/>
-    <url>https://www.tvnz.co.nz/tvseries/what-now</url>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EP/1039837./10760861</episode-num>
-    <episode-num system="xmltv_ns">2025.32.0</episode-num>
-    <episode-num system="original-air-date">2026-10-17 19:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="L">https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/01A4872B-D58C-4BAF-A48C-B851FC93EE47/0-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web</image>
-    <image type="backdrop" size="3" orient="L">https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/01A4872B-D58C-4BAF-A48C-B851FC93EE47/2-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web</image>
   </programme>
   <programme start="20261017203000 +0000" stop="20261017220500 +0000" channel="mjh-tvnz-2">
     <title>The Voice Australia</title>
@@ -42389,7 +42335,7 @@
     <desc>Kiwi animated series. Josh and his dog crash back 700 years in time, to a mysterious land where taniwhas roam and ancient warriors rule.</desc>
     <category>Kids</category>
     <icon src="https://img-store-prod.switch.tv/images/ebde6075-68ed-4597-9f05-3d13aa1a07da/IslandofMystery_showtile.png.2da14b9f63e9864e3308ff6196d21b51.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/island-of-mystery</url>
+    <url>https://www.maoriplus.co.nz/show/island-of-mystery</url>
     <country>New Zealand</country>
     <episode-num system="dd_progid">EP/1032285./10605548</episode-num>
     <episode-num system="original-air-date">2026-10-17 11:09:42</episode-num>
@@ -42418,7 +42364,6 @@
     <date>2021</date>
     <category>Kids</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E277DAE4-8914-4E5D-B1856434F9F726DC.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/young-riders</url>
     <country>New Zealand</country>
     <episode-num system="dd_progid">EP/1033586./10637718</episode-num>
     <episode-num system="original-air-date">2026-10-17 11:09:42</episode-num>
@@ -47574,41 +47519,6 @@
     </subtitle>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/tvnz2-quiz_tvnz2.jpg</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017203000 +0000" channel="mjh-three">
-    <title>The Hui</title>
-    <sub-title>Episode 24</sub-title>
-    <desc>Julian Wilcox presents a compelling mix of current affairs investigations, human interest and arts and culture stories.</desc>
-    <date>2020</date>
-    <category>Local</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/62DB615E-6F88-400E-9353D3BC82EFD80B.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/the-hui/125685</url>
-    <episode-num system="dd_progid">EP/1003429./SNZ11942608</episode-num>
-    <episode-num system="xmltv_ns">10.23.0</episode-num>
-    <episode-num system="themoviedb.org">series/104550</episode-num>
-    <episode-num system="original-air-date">2026-10-06 11:45:02</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/62DB615E-6F88-400E-9353D3BC82EFD80B.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/F6094E5B-AE2F-4AC8-A4966EA23CB98FC2.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/3AEE026F-4BDE-4E92-BCF0319025CA3D64.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
   <programme start="20261017203000 +0000" stop="20261017223500 +0000" channel="mjh-three">
     <title>BBQ Brawl</title>
     <sub-title>Cookin' Up Something New</sub-title>
@@ -48263,7 +48173,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <date>2013</date>
     <category>Reality</category>
     <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/F8B83CCF-6E64-4EEB-AD7EA67E1541EE62.jpg"/>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/D872467D-CEAA-4824-B5401C17BEE9F126.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <url>https://www.threenow.co.nz/shows/guy's-grocery-games/mac_sh_94922</url>
     <country>United States of America</country>
     <episode-num system="dd_progid">EP/1009242./SNZ11975358</episode-num>
@@ -48287,9 +48197,9 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <star-rating>
       <value>5.8/10</value>
     </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/F8B83CCF-6E64-4EEB-AD7EA67E1541EE62.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/5DF83CE7-F841-4CAD-9C5366DC6C33CB15.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/D192618F-5204-418B-83640D420688E16E.jpg</image>
+    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/D872467D-CEAA-4824-B5401C17BEE9F126.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/255232EF-7C96-4153-B89BEF1B7DD8FF39.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/D192618F-5204-418B-83640D420688E16E.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261019003000 +0000" stop="20261019010000 +0000" channel="mjh-three">
     <title>Flip Or Flop</title>
@@ -51992,7 +51902,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <title>Leading The Way</title>
     <sub-title>Leading The Way 2026 15</sub-title>
     <desc>Religious</desc>
-    <category>Religion</category>
+    <category>Other</category>
     <icon src="https://images.nzxmltv.com/posters/leading-the-way_three.jpg"/>
     <episode-num system="dd_progid">EP/1006035./SNZ11955344</episode-num>
     <episode-num system="xmltv_ns">-1.14.0</episode-num>
@@ -56360,7 +56270,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="dd_progid">EPmac_sh_161723.mac_11933593</episode-num>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="themoviedb.org">series/33736</episode-num>
-    <episode-num system="original-air-date">2026-08-02 07:30:00</episode-num>
+    <episode-num system="original-air-date">2026-10-31 22:50:00</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
@@ -56375,7 +56285,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/268993CB-5E46-4352-82D02A96D55D975B.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/1A062569-9D1F-4A7B-9A80945A891282BC.jpg</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/7FF91BCD-0656-4C11-B376497F693C5289.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/7FF91BCD-0656-4C11-B376497F693C5289.jpg</image>
   </programme>
   <programme start="20261031235000 +0000" stop="20261101005000 +0000" channel="mjh-three">
     <title>NASCAR O'Reilly Series Highlights</title>
@@ -56686,42 +56596,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_three.jpg</image>
-  </programme>
-  <programme start="20261017193000 +0000" stop="20261017202500 +0000" channel="mjh-bravo">
-    <title>Traffic Cops</title>
-    <sub-title>Episode 6</sub-title>
-    <desc>This fast-paced British reality series follows officers patrolling Englandâ€™s roads, featuring high-speed chases, drug busts, and hardened criminals in intense, heart-racing action.</desc>
-    <date>2010</date>
-    <category>Factual</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/1E5C6A27-F7F8-4D5D-BC27A7A3E8944B20.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/traffic-cops/1779659752361</url>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">EP/1002597./SNZ11932746</episode-num>
-    <episode-num system="xmltv_ns">7.5.0</episode-num>
-    <episode-num system="themoviedb.org">series/6039</episode-num>
-    <episode-num system="original-air-date">2026-10-08 11:45:36</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>PG-VC</value>
-    </rating>
-    <star-rating>
-      <value>7.4/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/1E5C6A27-F7F8-4D5D-BC27A7A3E8944B20.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/A049D4F3-D425-413A-9F7DCBD6C13C5758.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/4C949CD7-643F-4E6F-8C6512F9F7FF5779.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261017202500 +0000" stop="20261017211500 +0000" channel="mjh-bravo">
     <title>Celebrity Family Feud</title>
@@ -57443,9 +57317,9 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <sub-title>Episode 5</sub-title>
     <desc>This fast-paced British reality series follows officers patrolling Englandâ€™s roads, featuring high-speed chases, drug busts, and hardened criminals in intense, heart-racing action.</desc>
     <date>2010</date>
-    <category>Reality</category>
+    <category>Factual</category>
     <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/86EA6D96-A955-4E90-856031D2B81AD5C9.jpg"/>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/1E5C6A27-F7F8-4D5D-BC27A7A3E8944B20.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <url>https://www.threenow.co.nz/shows/traffic-cops/1779659752361</url>
     <country>United Kingdom</country>
     <episode-num system="dd_progid">EP/1002597./SNZ11937603</episode-num>
@@ -57470,8 +57344,8 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <star-rating>
       <value>7.4/10</value>
     </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/86EA6D96-A955-4E90-856031D2B81AD5C9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/090954F4-7E0D-45DF-AF7FE00FCDB43F7F.jpg</image>
+    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/1E5C6A27-F7F8-4D5D-BC27A7A3E8944B20.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/A049D4F3-D425-413A-9F7DCBD6C13C5758.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
     <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/01E59ED8-5B84-4DDF-A29E2E38B30D8B90.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261019010000 +0000" stop="20261019020500 +0000" channel="mjh-bravo">
@@ -65426,28 +65300,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/0DA0300A-47FF-43B3-871F296327CC4E16.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/53972774-6EFF-4AEF-AC7CBA2380F24AE3.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/8722FB34-3C55-49B3-8BEF57D7A14204B7.jpg</image>
-  </programme>
-  <programme start="20261017200100 +0000" stop="20261017203000 +0000" channel="mjh-maori-tv">
-    <title>Ngā Kapa Haka Kura Tuarua 2024</title>
-    <desc>Highlights of the most prestigious Māori kapa haka event on the school calendar.</desc>
-    <icon src="https://www.maoriplus.co.nz/api/thumbnail-media/file/20260922-114620-Ng%C4%81%20Kapa%20Haka%20Kura%20Tuarua%202026%20TN.jpg"/>
-    <url>https://www.maoriplus.co.nz/show/2026-nga-kapa-haka-kura-tuarua</url>
-    <country>New Zealand</country>
-    <episode-num system="original-air-date">2026-08-30 05:32:08</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="L">https://www.maoriplus.co.nz/api/thumbnail-media/file/20260922-114620-Ng%C4%81%20Kapa%20Haka%20Kura%20Tuarua%202026%20TN.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://www.maoriplus.co.nz/api/background-media/file/20260922-115208-Ng%C4%81%20Kapa%20Haka%20Kura%20Tuarua%202026%20BG.jpg</image>
   </programme>
   <programme start="20261017203000 +0000" stop="20261017220000 +0000" channel="mjh-maori-tv">
     <title>Koati</title>
@@ -95553,76 +95405,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <image type="poster" size="3" orient="L">https://www.maoriplus.co.nz/api/thumbnail-media/file/REWIND%20M%2B%20TN%20copy.jpg</image>
     <image type="backdrop" size="3" orient="L">https://www.maoriplus.co.nz/api/background-media/file/2025-09-23-10-25-53-REWIND%20M%2B%20BG%20copy%20v2.jpg</image>
   </programme>
-  <programme start="20261017192500 +0000" stop="20261017201000 +0000" channel="mjh-tvnz-duke">
-    <title>Brooklyn Nine Nine</title>
-    <sub-title>Bad Beat</sub-title>
-    <desc>Jake and Terry propose to join an underground gambling ring to catch a criminal. However, in the process, Captain Holt relapses into his old gambling addiction. S5 E5</desc>
-    <date>2013</date>
-    <category>Drama</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/brooklyn-nine-nine</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1038697./10493655</episode-num>
-    <episode-num system="xmltv_ns">4.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/48891</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>dolby digital</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <star-rating>
-      <value>8.2/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg</image>
-  </programme>
-  <programme start="20261017201000 +0000" stop="20261017210000 +0000" channel="mjh-tvnz-duke">
-    <title>The Simpsons</title>
-    <sub-title>Beyond Blunderdome</sub-title>
-    <desc>Homer becomes a powerful Hollywood consultant and gives Mel Gibson advice on his forthcoming historical drama. S11 E1</desc>
-    <date>1989</date>
-    <category>Drama</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1039479./10753865</episode-num>
-    <episode-num system="xmltv_ns">10.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/456</episode-num>
-    <episode-num system="original-air-date">2026-10-09 11:46:31</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>dolby digital</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>8.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261018030000 +0000" channel="mjh-tvnz-duke">
     <title>UFC Fight Night</title>
     <sub-title>UFC Fight Night: Buckley v Malott</sub-title>
@@ -102443,97 +102225,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
       <language>English (NZ)</language>
     </subtitle>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/duke-back-in-the-future_tvnzduke.jpg</image>
-  </programme>
-  <programme start="20261017194500 +0000" stop="20261017201000 +0000" channel="mjh-tvnz-2-plus1">
-    <title>Animaniacs</title>
-    <desc>Yakko, Wakko and their little sister, Dot, escape the Warner Brothers Water Tower to create havoc and mayhem in their animated world.</desc>
-    <date>1993</date>
-    <category>Kids</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1040354./10769981</episode-num>
-    <episode-num system="themoviedb.org">series/82</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>8.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg</image>
-  </programme>
-  <programme start="20261017201000 +0000" stop="20261017201500 +0000" channel="mjh-tvnz-2-plus1">
-    <title>Island of Mystery</title>
-    <sub-title>The Taniwha Returns</sub-title>
-    <desc>Kiwi animated series. Josh and his dog crash back 700 years in time, to a mysterious land where taniwhas roam and ancient warriors rule.</desc>
-    <category>Kids</category>
-    <icon src="https://img-store-prod.switch.tv/images/ebde6075-68ed-4597-9f05-3d13aa1a07da/IslandofMystery_showtile.png.2da14b9f63e9864e3308ff6196d21b51.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/island-of-mystery</url>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EP/1032285./10605547</episode-num>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/ebde6075-68ed-4597-9f05-3d13aa1a07da/IslandofMystery_showtile.png.2da14b9f63e9864e3308ff6196d21b51.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://www.maoriplus.co.nz/api/background-media/file/2026-02-20-10-13-12-island%20of%20mystery%20new%20bg.jpg</image>
-  </programme>
-  <programme start="20261017201500 +0000" stop="20261017203000 +0000" channel="mjh-tvnz-2-plus1">
-    <title>Young Riders</title>
-    <desc>They're young, passionate and all putting in the hard yards to become NZ's best young riders. Follow the group of friends and their horses throughout the competition season.</desc>
-    <date>2021</date>
-    <category>Kids</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/E277DAE4-8914-4E5D-B1856434F9F726DC.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/young-riders</url>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EP/1033586./10637717</episode-num>
-    <episode-num system="xmltv_ns">2.17.0</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/E277DAE4-8914-4E5D-B1856434F9F726DC.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/D964BC7A-0D4B-4C08-BCD483EF654F95FA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/03E1F27A-8723-40C8-B71CFE5B238FA250.jpg</image>
   </programme>
   <programme start="20261017203000 +0000" stop="20261017213000 +0000" channel="mjh-tvnz-2-plus1">
     <title>What Now?</title>
@@ -109913,7 +109604,7 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <desc>Kiwi animated series. Josh and his dog crash back 700 years in time, to a mysterious land where taniwhas roam and ancient warriors rule.</desc>
     <category>Kids</category>
     <icon src="https://img-store-prod.switch.tv/images/ebde6075-68ed-4597-9f05-3d13aa1a07da/IslandofMystery_showtile.png.2da14b9f63e9864e3308ff6196d21b51.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/island-of-mystery</url>
+    <url>https://www.maoriplus.co.nz/show/island-of-mystery</url>
     <country>New Zealand</country>
     <episode-num system="dd_progid">EP/1032285./10605548</episode-num>
     <episode-num system="original-air-date">2026-10-17 11:09:42</episode-num>
@@ -109941,7 +109632,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <date>2021</date>
     <category>Kids</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/E277DAE4-8914-4E5D-B1856434F9F726DC.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/young-riders</url>
     <country>New Zealand</country>
     <episode-num system="dd_progid">EP/1033586./10637718</episode-num>
     <episode-num system="original-air-date">2026-10-17 11:09:42</episode-num>
@@ -115074,70 +114764,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/7ah1WExcMkzbq7sARCTmcC23tBr.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017203000 +0000" channel="mjh-prime">
-    <title>Tagata Pasifika</title>
-    <sub-title>Tagata Pasifika 25</sub-title>
-    <desc>Tagata Pasifika brings you the latest in Pacific news and current affairs.</desc>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/AF96C327-C62B-4BB0-BAC73917FC160145.jpg"/>
-    <url>https://www.skygo.co.nz/show/mac_sh_98732</url>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EP/995395./SNZ11868914</episode-num>
-    <episode-num system="xmltv_ns">5.24.0</episode-num>
-    <episode-num system="themoviedb.org">series/1787</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/AF96C327-C62B-4BB0-BAC73917FC160145.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/9E1CFD9A-D6BE-4EC6-8E52AF905380DE82.jpg</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/1B116E53-93FC-455F-8095D090542651C3.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
-  <programme start="20261017203000 +0000" stop="20261017210000 +0000" channel="mjh-prime">
-    <title>Home, Land And Sea</title>
-    <sub-title>Kai Rotorua</sub-title>
-    <desc>Kai Rotorua is an organisation that connects people to Papatuanuku, and growing kumara is their primary tool. S2 Ep3</desc>
-    <category>Documentary</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/B0BB0FA1-310F-4BC3-8FBD871306C8A725.jpg"/>
-    <url>https://www.skygo.co.nz/show/mac_sh_176218</url>
-    <episode-num system="dd_progid">EP/985789./SNZ11844385</episode-num>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/B0BB0FA1-310F-4BC3-8FBD871306C8A725.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/BCFA02D5-D9B5-4F72-867E3CBE73DFACF5.jpg</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/F5732718-46C6-4B44-A3FD47DBCA76A482.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261017231500 +0000" channel="mjh-prime">
     <title>Premier League: Arsenal v Everton</title>
     <sub-title>Premier League Goal Rush</sub-title>
@@ -115911,12 +115537,12 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
   <programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="mjh-prime">
     <title>World's Biggest Mako</title>
     <desc>A team of scientists, a cinematographer, and a fisherman search the waters north of New Zealand for giant mako. What they discover may explain why this extraordinary shark is making a...</desc>
-    <category>New Zealand</category>
+    <category>Factual</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/53A5153C-DD30-41FC-900C005B8D559904.jpg"/>
     <url>https://www.skygo.co.nz/show/mac_sh_181626</url>
     <episode-num system="dd_progid">EP/1003949./SNZ11944834</episode-num>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
+    <episode-num system="original-air-date">2026-10-18 06:30:00</episode-num>
     <video>
       <present>yes</present>
       <quality>HDTV</quality>
@@ -126093,75 +125719,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3E1DE56F-1C3A-46BC-8BD4FE174D9B40D5.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/235665EE-603E-4AD8-B4A23B3B2605228F.jpg</image>
   </programme>
-  <programme start="20261017193000 +0000" stop="20261017201500 +0000" channel="mjh-rush-nz">
-    <title>Alaska: The Last Frontier</title>
-    <sub-title>Eivin's New Future</sub-title>
-    <desc>Eivin considers expanding the Kilchers' reach by becoming a bush pilot. Tela takes Alysse dipnetting and Jane's cousin Kate comes to visit from Texas.</desc>
-    <date>2011</date>
-    <category>Reality</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6CEBB3AB-9152-49A0-AF6872851A33A65A.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/alaska-the-last-frontier/S3969-746</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP90005139.90373402</episode-num>
-    <episode-num system="xmltv_ns">10.3.0</episode-num>
-    <episode-num system="themoviedb.org">series/63313</episode-num>
-    <episode-num system="original-air-date">2026-10-14 06:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>PG-L</value>
-    </rating>
-    <star-rating>
-      <value>7.3/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6CEBB3AB-9152-49A0-AF6872851A33A65A.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/B6FA8C8E-2B15-4D46-9EF14BA7A2273C0D.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/69787A5C-3673-4156-B00411BFC0C8E946.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
-  <programme start="20261017201500 +0000" stop="20261017210500 +0000" channel="mjh-rush-nz">
-    <title>Harpoon Hunters</title>
-    <sub-title>Keep Your Enemies Closer</sub-title>
-    <desc>Battling with Tyler for the lead, Joe partners with Niko. But when Niko's zapper fails at the worst possible moment, Tyler steps in to save the day.</desc>
-    <date>2025</date>
-    <category>Factual</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/CF2805FA-CAE4-4F03-9B006464926FFD0C.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/harpoon-hunters/mac_sh_169719</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EPmac_sh_169719.mac_11963507</episode-num>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-    <episode-num system="themoviedb.org">series/282217</episode-num>
-    <episode-num system="original-air-date">2026-10-13 06:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>PG-LC</value>
-    </rating>
-    <star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/CF2805FA-CAE4-4F03-9B006464926FFD0C.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/88814B28-A4A8-4D6C-A8AE6E7265569AA0.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C0D4C285-3C99-4A10-97287342BD3994F8.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
   <programme start="20261017210500 +0000" stop="20261017215500 +0000" channel="mjh-rush-nz">
     <title>Man Vs Bear</title>
     <sub-title>Human Kannonball</sub-title>
@@ -127224,14 +126781,15 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <date>2011</date>
     <category>Reality</category>
     <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/6E6FD53C-95E7-44A3-9D31570FBC72B322.jpg"/>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6CEBB3AB-9152-49A0-AF6872851A33A65A.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <url>https://www.threenow.co.nz/shows/alaska-the-last-frontier/S3969-746</url>
     <country>United States of America</country>
-    <episode-num system="dd_progid">EPmac_sh_91285.mac_11752809</episode-num>
+    <episode-num system="dd_progid">EP90005139.90373402</episode-num>
     <episode-num system="xmltv_ns">10.3.0</episode-num>
     <episode-num system="themoviedb.org">series/63313</episode-num>
     <episode-num system="original-air-date">2026-10-14 06:30:00</episode-num>
     <video>
+      <present>yes</present>
       <quality>HDTV</quality>
     </video>
     <audio>
@@ -127248,8 +126806,8 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <star-rating>
       <value>7.3/10</value>
     </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/6E6FD53C-95E7-44A3-9D31570FBC72B322.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B6FA8C8E-2B15-4D46-9EF14BA7A2273C0D.jpg</image>
+    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/6CEBB3AB-9152-49A0-AF6872851A33A65A.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/B6FA8C8E-2B15-4D46-9EF14BA7A2273C0D.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
     <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/69787A5C-3673-4156-B00411BFC0C8E946.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261019004000 +0000" stop="20261019023500 +0000" channel="mjh-rush-nz">
@@ -144067,41 +143625,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <image type="poster" size="3" orient="L">https://www.maoriplus.co.nz/api/thumbnail-media/file/HakaPedia-thumbnail.jpg</image>
     <image type="backdrop" size="3" orient="L">https://www.maoriplus.co.nz/api/background-media/file/HAKAPEDIA3-BG1-min.jpg</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="mjh-tvnz-1-plus1">
-    <title>James May And The Dull Men</title>
-    <sub-title>Deskercise</sub-title>
-    <desc>James designs a fully integrated desk/workout station. He’s on a mission to use up all the ink in a Bic pen and make spaghetti in a paper shredder.</desc>
-    <date>2024</date>
-    <category>Documentary</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/pXWFmX3tjAX3iSsQjnT5wcE03wN.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/james-may-and-the-dull-men</url>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">EP/1038321./10735719</episode-num>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/275828</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/pXWFmX3tjAX3iSsQjnT5wcE03wN.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1litO64tgkSAMltaBvkLSdKAGV1.jpg</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261017220500 +0000" channel="mjh-tvnz-1-plus1">
     <title>Q+A With Jack Tame</title>
     <sub-title>Q+A With Jack Tame 2026 33</sub-title>
@@ -145381,7 +144904,7 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
   <programme start="20261019102500 +0000" stop="20261019105500 +0000" channel="mjh-tvnz-1-plus1">
     <title>Deal Or No Deal Australia</title>
     <desc>Join host Grant Denyer for a round of this high pressure and high stakes game show, where contestants face up to the Banker and must decide: is it Deal or No Deal?</desc>
-    <category>Lifestyle</category>
+    <category>Game Show/Quiz/Contest</category>
     <icon src="https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/5642DDC7-8090-4B5E-857E-16B97F404F84/0-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web"/>
     <url>https://www.tvnz.co.nz/tvseries/deal-or-no-deal-australia</url>
     <country> AU</country>
@@ -145390,7 +144913,7 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <episode-num system="original-air-date">2026-10-11 11:47:07</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -150302,7 +149825,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <category>Documentary</category>
     <orig-language>English</orig-language>
     <icon src="https://image.tmdb.org/t/p/original/pXWFmX3tjAX3iSsQjnT5wcE03wN.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/james-may-and-the-dull-men</url>
     <country>United Kingdom</country>
     <episode-num system="dd_progid">EP/1038321./10735720</episode-num>
     <episode-num system="themoviedb.org">series/275828</episode-num>
@@ -150561,10 +150083,10 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/gzqOVv4s5IZEK61y2bckbgisJP3.jpg</image>
   </programme>
   <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="mjh-tvnz-1-plus1">
-    <title>1 News At 6 PM</title>
+    <title>1News at Six</title>
     <desc>The nation's leading team of journalists brings viewers the latest news and sport, plus the most comprehensive weather report.</desc>
     <date>1975</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://image.tmdb.org/t/p/original/9D9UidiIXT8qgwxfiScOzw6onh9.jpg"/>
     <url>https://www.tvnz.co.nz/tvseries/1news-at-six</url>
@@ -150574,7 +150096,7 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     <episode-num system="original-air-date">2026-10-17 11:09:42</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -154306,31 +153828,8 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     </subtitle>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_tvnz1plus1.jpg</image>
   </programme>
-  <programme start="20261017180000 +0000" stop="20261017202500 +0000" channel="mjh-tvnz-duke-plus1">
-    <title>On Duke Today...</title>
-    <desc>Here's what's on DUKE today.</desc>
-    <category>Other</category>
-    <icon src="https://images.nzxmltv.com/posters/on-duke-today_tvnzdukeplus1.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc2123687109.mac_ptc573219912</episode-num>
-    <episode-num system="original-air-date">2026-08-30 05:32:08</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/on-duke-today_tvnzdukeplus1.jpg</image>
-  </programme>
   <programme start="20261017202500 +0000" stop="20261017211000 +0000" channel="mjh-tvnz-duke-plus1">
     <title>Brooklyn Nine Nine</title>
-    <sub-title>Bad Beat</sub-title>
     <desc>Jake and Terry propose to join an underground gambling ring to catch a criminal. However, in the process, Captain Holt relapses into his old gambling addiction. S5 E5</desc>
     <date>2013</date>
     <category>Comedy</category>
@@ -161217,68 +160716,6 @@ From the heart of Te Ika a Māui to the heart of Te Waka a Māui, Hinewai and Hi
     </subtitle>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/duke-back-in-the-future_tvnzdukeplus1.jpg</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017203000 +0000" channel="mjh-three-plus1">
-    <title>Amazing Facts</title>
-    <sub-title>Amazing Facts 2</sub-title>
-    <desc>Religious</desc>
-    <date>2018</date>
-    <category>Entertainment</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/57pk4PY2hJZWw6T5AjZFu0oZylo.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1009064./SNZ11974552</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="themoviedb.org">series/88531</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/57pk4PY2hJZWw6T5AjZFu0oZylo.jpg</image>
-  </programme>
-  <programme start="20261017203000 +0000" stop="20261017210000 +0000" channel="mjh-three-plus1">
-    <title>Turning Point</title>
-    <sub-title>Turning Point With Davie Jeremia 2026 14</sub-title>
-    <desc>Religious</desc>
-    <date>2011</date>
-    <category>Entertainment</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/799854C1-7488-4359-BA60B3FC505E4320.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1004814./SNZ11946369</episode-num>
-    <episode-num system="xmltv_ns">-1.13.0</episode-num>
-    <episode-num system="themoviedb.org">series/292259</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/799854C1-7488-4359-BA60B3FC505E4320.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/15195E3D-C5DC-443E-A2AFD15816BC3B0A.jpg</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/15195E3D-C5DC-443E-A2AFD15816BC3B0A.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261017213000 +0000" channel="mjh-three-plus1">
     <title>The Hui</title>
     <sub-title>Episode 24</sub-title>
@@ -161544,7 +160981,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <sub-title>Sunday 18 October 2026</sub-title>
     <desc>ThreeNews presents comprehensive coverage of global and local news.</desc>
     <date>2026</date>
-    <category>News</category>
+    <category>Local</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/52893C12-DC63-44E7-8FF7E794E4F55F8D.jpg"/>
     <url>https://www.threenow.co.nz/shows/threenews/1717556442294</url>
     <episode-num system="dd_progid">EP/1001460./SNZ11939808</episode-num>
@@ -161552,7 +160989,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -162006,7 +161443,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/F8B83CCF-6E64-4EEB-AD7EA67E1541EE62.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/5DF83CE7-F841-4CAD-9C5366DC6C33CB15.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/D192618F-5204-418B-83640D420688E16E.jpg</image>
+    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/D192618F-5204-418B-83640D420688E16E.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261019013000 +0000" stop="20261019020000 +0000" channel="mjh-three-plus1">
     <title>Flip Or Flop</title>
@@ -170139,7 +169576,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="dd_progid">EPmac_sh_161723.mac_11933593</episode-num>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
     <episode-num system="themoviedb.org">series/33736</episode-num>
-    <episode-num system="original-air-date">2026-08-02 07:30:00</episode-num>
+    <episode-num system="original-air-date">2026-10-31 23:50:00</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
@@ -170154,7 +169591,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/268993CB-5E46-4352-82D02A96D55D975B.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/1A062569-9D1F-4A7B-9A80945A891282BC.jpg</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/7FF91BCD-0656-4C11-B376497F693C5289.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/7FF91BCD-0656-4C11-B376497F693C5289.jpg</image>
   </programme>
   <programme start="20261101005000 +0000" stop="20261101015000 +0000" channel="mjh-three-plus1">
     <title>NASCAR O'Reilly Series Highlights</title>
@@ -170446,39 +169883,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <sport>Rugby League</sport>
     <team>Tonga</team>
     <team>Samoa</team>
-  </programme>
-  <programme start="20261017194000 +0000" stop="20261017203000 +0000" channel="mjh-bravo-plus1">
-    <title>Traffic Cops</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>This fast-paced British reality series follows officers patrolling Englandâ€™s roads, featuring high-speed chases, drug busts, and hardened criminals in intense, heart-racing action.</desc>
-    <date>2010</date>
-    <category>Reality</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/86EA6D96-A955-4E90-856031D2B81AD5C9.jpg"/>
-    <url>https://www.threenow.co.nz/shows/traffic-cops/1779659752361</url>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">EP/1002597./SNZ11937603</episode-num>
-    <episode-num system="xmltv_ns">7.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/6039</episode-num>
-    <episode-num system="original-air-date">2026-10-07 11:45:37</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>PG-C</value>
-    </rating>
-    <star-rating>
-      <value>7.4/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/86EA6D96-A955-4E90-856031D2B81AD5C9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/090954F4-7E0D-45DF-AF7FE00FCDB43F7F.jpg</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/01E59ED8-5B84-4DDF-A29E2E38B30D8B90.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261017203000 +0000" stop="20261017212500 +0000" channel="mjh-bravo-plus1">
     <title>Traffic Cops</title>
@@ -178364,72 +177768,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B2709C4A-710F-4FB7-BE98BD4FAF1F5D6B.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/4A36D6AB-94BE-4388-A7E9F76302D0571F.jpg</image>
   </programme>
-  <programme start="20261017193000 +0000" stop="20261017201500 +0000" channel="mjh-eden">
-    <title>Bakers Vs. Fakers</title>
-    <sub-title>Cream Puff Tuff</sub-title>
-    <desc>Both bakers and fakers sprinkle spice rack seasonings into cream puffs. Then the judges are steeped in expectations for tea-infused sweets. S2 Ep7</desc>
-    <date>2016</date>
-    <category>Reality</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/FEF68759-D247-4A33-AE3877B69EBA83E3.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/bakers-vs.-fakers/mac_sh_132752</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EPmac_sh_132752.mac_11881494</episode-num>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-    <episode-num system="themoviedb.org">series/70422</episode-num>
-    <episode-num system="original-air-date">2026-10-17 05:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/FEF68759-D247-4A33-AE3877B69EBA83E3.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/87E01E99-07C6-47D9-B2999C5BD81933C5.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/B91E8F3E-86C0-4B4B-B77CBB257480410B.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
-  <programme start="20261017201500 +0000" stop="20261017210500 +0000" channel="mjh-eden">
-    <title>Sweet Empire</title>
-    <sub-title>A Night at the Movies</sub-title>
-    <desc>SpongeBob takes centre stage as the teams craft 3D edible movie posters with impressive designs and gravity-defying details.</desc>
-    <date>2025</date>
-    <category>Reality</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/79226286-FF64-4025-9950361B3680765A.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/sweet-empire/mac_sh_183027</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EPmac_sh_183027.mac_11960336</episode-num>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-    <episode-num system="themoviedb.org">series/305345</episode-num>
-    <episode-num system="original-air-date">2026-10-11 05:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>PG-L</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/79226286-FF64-4025-9950361B3680765A.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/A74E4E73-9EF6-483A-831340B8387BE9DF.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/12A481F3-6AAC-426C-806303EF5B5406F6.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
   <programme start="20261017210500 +0000" stop="20261017213000 +0000" channel="mjh-eden">
     <title>Say Yes To The Dress: Bridesmaids</title>
     <sub-title>Insults and Insecurities</sub-title>
@@ -179865,9 +179203,9 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <sub-title>Holiday Feast</sub-title>
     <desc>The teams put their illusion skills to the test, creating realistic holiday feast cakes that look savoury but taste deliciously sweet.</desc>
     <date>2025</date>
-    <category>Entertainment</category>
+    <category>Reality</category>
     <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/F6DE6C10-AA02-40DA-9E4F6478C370DAB2.jpg"/>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/79226286-FF64-4025-9950361B3680765A.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
     <url>https://www.threenow.co.nz/shows/sweet-empire/mac_sh_183027</url>
     <country>United States of America</country>
     <episode-num system="dd_progid">EPmac_sh_183027.mac_11960337</episode-num>
@@ -179875,6 +179213,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="themoviedb.org">series/305345</episode-num>
     <episode-num system="original-air-date">2026-10-18 05:00:00</episode-num>
     <video>
+      <present>yes</present>
       <quality>HDTV</quality>
     </video>
     <audio>
@@ -179888,8 +179227,8 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <star-rating>
       <value>0.0/10</value>
     </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/F6DE6C10-AA02-40DA-9E4F6478C370DAB2.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/A74E4E73-9EF6-483A-831340B8387BE9DF.jpg</image>
+    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/79226286-FF64-4025-9950361B3680765A.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
+    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/A74E4E73-9EF6-483A-831340B8387BE9DF.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
     <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E8692B07-3E95-471B-BA6B31BD607D0FC1.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261019004500 +0000" stop="20261019011500 +0000" channel="mjh-eden">
@@ -180094,7 +179433,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <sub-title>Picnic Blowout</sub-title>
     <desc>Molly Yeh assembles a delicious picnic! It includes tasty pickle dip fried bologna sandwiches, falafel farfalle and colourful tie-dye cookies.</desc>
     <date>2018</date>
-    <category>Factual</category>
+    <category>Lifestyle</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/54121FA6-9D84-4650-8A781137BFD70BA6.jpg"/>
     <url>https://www.threenow.co.nz/shows/girl-meets-farm/1769111755216</url>
@@ -180102,7 +179441,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="dd_progid">EPmac_sh_92894.mac_11755117</episode-num>
     <episode-num system="xmltv_ns">6.4.0</episode-num>
     <episode-num system="themoviedb.org">series/80714</episode-num>
-    <episode-num system="original-air-date">2026-10-11 06:47:19</episode-num>
+    <episode-num system="original-air-date">2026-10-19 04:30:00</episode-num>
     <video>
       <quality>HDTV</quality>
     </video>
@@ -193718,29 +193057,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/AEF00337-0CC8-4D3B-9E729A313CC9CE08.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/386C4F20-F420-4C27-83382F40EB81E40A.JPG</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="mjh-al-jazeera">
-    <title>Witness</title>
-    <desc>Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
-    <date>2024</date>
-    <category>Documentary</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg"/>
-    <episode-num system="dd_progid">EP/15473906./52113495</episode-num>
-    <episode-num system="original-air-date">2026-10-07 11:45:37</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/78B0C2F6-2D69-4594-B496FBB64ADB6673.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/6C186010-BEEA-4E0D-950AA2E9D68CB807.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/69D5ADC5-ECFC-4B58-A8679038FD00C5D0.jpg</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
@@ -201111,7 +200427,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/4F2F9A77-2D50-4571-81F10268C32AE2D8.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/21074e6d-7265-4618-808e-6764538d194b/TheListeningPost_6_1616506742942_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/8E51BF8F-8ADA-4C2F-87442F6309F3119A.jpg</image>
   </programme>
   <programme start="20261026050000 +0000" stop="20261026053000 +0000" channel="mjh-al-jazeera">
@@ -202105,7 +201421,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/4F2F9A77-2D50-4571-81F10268C32AE2D8.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/21074e6d-7265-4618-808e-6764538d194b/TheListeningPost_6_1616506742942_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/8E51BF8F-8ADA-4C2F-87442F6309F3119A.jpg</image>
   </programme>
   <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="mjh-al-jazeera">
@@ -202955,7 +202271,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/4F2F9A77-2D50-4571-81F10268C32AE2D8.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/21074e6d-7265-4618-808e-6764538d194b/TheListeningPost_6_1616506742942_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/8E51BF8F-8ADA-4C2F-87442F6309F3119A.jpg</image>
   </programme>
   <programme start="20261028200000 +0000" stop="20261028210000 +0000" channel="mjh-al-jazeera">
@@ -205082,7 +204398,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/4F2F9A77-2D50-4571-81F10268C32AE2D8.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/21074e6d-7265-4618-808e-6764538d194b/TheListeningPost_6_1616506742942_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/8E51BF8F-8ADA-4C2F-87442F6309F3119A.jpg</image>
   </programme>
   <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="mjh-al-jazeera">
@@ -205467,7 +204783,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/4F2F9A77-2D50-4571-81F10268C32AE2D8.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/21074e6d-7265-4618-808e-6764538d194b/TheListeningPost_6_1616506742942_0.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/8E51BF8F-8ADA-4C2F-87442F6309F3119A.jpg</image>
   </programme>
   <programme start="20261101090000 +0000" stop="20261101093000 +0000" channel="mjh-al-jazeera">
@@ -205901,57 +205217,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/49BDDDF0-BF67-4534-928FDD8D60919D77.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/15D0BE9E-8FDA-4E49-AED8C1326891B487.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F7B46FF0-DF22-42E2-8AF95F5DFA3D605D.jpg</image>
-  </programme>
-  <programme start="20261017194500 +0000" stop="20261017203000 +0000" channel="mjh-trackside-1">
-    <title>Racing Replay Addington</title>
-    <desc>Replay from Saturday's Australian gallops meetings - 23 October</desc>
-    <category>Sport</category>
-    <category>Racing</category>
-    <category>Sports</category>
-    <language>English</language>
-    <icon src="https://images.nzxmltv.com/posters/racing-replay-addington_trackside1.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc1976233316.mac_ptc1998445503</episode-num>
-    <episode-num system="original-air-date">2026-08-30 05:32:09</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/racing-replay-addington_trackside1.jpg</image>
-    <sport>Racing</sport>
-  </programme>
-  <programme start="20261017203000 +0000" stop="20261017210000 +0000" channel="mjh-trackside-1">
-    <title>Racing To Win</title>
-    <desc>The Racing To Win Team preview tonight's Hong Kong meeting.</desc>
-    <language>English</language>
-    <icon src="https://images.ctfassets.net/hpbgstslvbip/2NHlgPihMPgl49QcR2GWkQ/a1db0c8db1bafff9493989d70534f659/RACING_TO_WIN_LOGO_1080_x_1920.png"/>
-    <url>https://www.trackside.co.nz/shows/racing-to-win</url>
-    <episode-num system="dd_progid">EP/AUS002./TAU002</episode-num>
-    <episode-num system="original-air-date">2026-10-17 07:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="L">https://images.ctfassets.net/hpbgstslvbip/2NHlgPihMPgl49QcR2GWkQ/a1db0c8db1bafff9493989d70534f659/RACING_TO_WIN_LOGO_1080_x_1920.png</image>
-    <image type="backdrop" size="3" orient="L">https://images.ctfassets.net/hpbgstslvbip/4XzFxTCGZNxXXbtTxIR7Rr/4a28a00498b2eb982d967baba9e67ebf/Racing_To_Win_1920_x_1080.png</image>
   </programme>
   <programme start="20261017210000 +0000" stop="20261017223000 +0000" channel="mjh-trackside-1">
     <title>Racing Replay EXTRA</title>
@@ -226421,31 +225686,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/weigh-in-cont_trackside2.jpg</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="mjh-shine-tv">
-    <title>The Dream Centre</title>
-    <desc>Join us wherever you are for Church At Home here on Shine TV. Enjoy worship and preaching from Chris Sola and the leadership team of The Dream Centre NZ.</desc>
-    <date>2026</date>
-    <category>Other</category>
-    <icon src="https://img-store-prod.switch.tv/images/d609f886-c713-47e4-9836-99750e911ed3/ChrisSola2025.jpg"/>
-    <url>Special Interest</url>
-    <episode-num system="dd_progid">EP/A0037057./A0037098</episode-num>
-    <episode-num system="xmltv_ns">2025.40.0</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/d609f886-c713-47e4-9836-99750e911ed3/ChrisSola2025.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/d609f886-c713-47e4-9836-99750e911ed3/ChrisSola2025.jpg</image>
-    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/9c0f6966-de71-4c5e-b592-3a9fd088d751/ChrisSola2025.jpg</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="mjh-shine-tv">
     <title>Church Unlimited</title>
     <desc>Tak Bhana from Church Unlimited Auckland has a desire and passion to see God's people burning with an unquenchable zeal that results in their loving and serving Him with all their heart and strength.</desc>
@@ -226916,14 +226156,15 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <title>Give Me An Answer</title>
     <desc>Engaging Skeptics, Exploring Faith, Doubts, and Reason. Real Answers to tough questions about Christianity. Cliffe and son Stuart Knechtle handles these and other tough questions everywhere they go.</desc>
     <date>2023</date>
-    <category>News Magazine</category>
+    <category>Documentary</category>
     <icon src="https://img-store-prod.switch.tv/images/8db9f81c-9d18-4a81-9284-8844361d5ca8/GMAAN.jpg"/>
     <url>News</url>
     <episode-num system="dd_progid">EP/A0032298./A0035595</episode-num>
+    <episode-num system="xmltv_ns">2023.509.0</episode-num>
     <episode-num system="original-air-date">2026-07-14 06:12:40</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -226935,6 +226176,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </rating>
     <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/8db9f81c-9d18-4a81-9284-8844361d5ca8/GMAAN.jpg</image>
     <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/8db9f81c-9d18-4a81-9284-8844361d5ca8/GMAAN.jpg</image>
+    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/a682ba26-40ad-409e-ba27-f2a4fd0f8962/GMAAN.jpg</image>
   </programme>
   <programme start="20261018130000 +0000" stop="20261018133000 +0000" channel="mjh-shine-tv">
     <title>Running With Fire</title>
@@ -230547,14 +229789,15 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <title>God's Word Fresh 4 U Today</title>
     <desc>Berni Dymet has an inspiring and on-point message each day - fresh from God's timeless Word for today's busy world.</desc>
     <date>2026</date>
-    <category>Other</category>
+    <category>Lifestyle</category>
     <icon src="https://img-store-prod.switch.tv/images/669955e5-aafb-4ca0-a283-c240a5ad5f7f/FRESHv2.jpg"/>
     <url>Special Interest</url>
     <episode-num system="dd_progid">EP/A0037448./A0037744</episode-num>
+    <episode-num system="xmltv_ns">2025.3525.0</episode-num>
     <episode-num system="original-air-date">2026-10-15 11:08:53</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -230565,6 +229808,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </rating>
     <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/669955e5-aafb-4ca0-a283-c240a5ad5f7f/FRESHv2.jpg</image>
     <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/669955e5-aafb-4ca0-a283-c240a5ad5f7f/FRESHv2.jpg</image>
+    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/ee553670-1ccf-4947-a700-df20003ba025/FRESHv2.jpg</image>
   </programme>
   <programme start="20261022170300 +0000" stop="20261022173000 +0000" channel="mjh-shine-tv">
     <title>Word For You</title>
@@ -232757,7 +232001,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <title>The Wedding Veil Unveiled</title>
     <desc>Emma (Autumn Reeser) travels to Italy to teach and research a wedding veil said to bring its owner love. While there, she meets Paolo (Paolo Bernardini), the son of a local lace-making family.</desc>
     <date>2022</date>
-    <category>Drama/Musical/Historical/Roman</category>
+    <category>Drama</category>
     <category>Movie</category>
     <orig-language>English</orig-language>
     <icon src="https://image.tmdb.org/t/p/original/zEpS5YQeWCEWMBSJvmsschfqLwp.jpg"/>
@@ -232766,7 +232010,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="themoviedb.org">movie/910777</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -232781,6 +232025,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </star-rating>
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/zEpS5YQeWCEWMBSJvmsschfqLwp.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/rH6XB4QCKWjSJ0UpHYB2Y6beEVc.jpg</image>
+    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/d4c9ba5a-3848-469b-b969-3b604db397c1/WeddingVeil_Unveiled.jpg</image>
   </programme>
   <programme start="20261025073000 +0000" stop="20261025083000 +0000" channel="mjh-shine-tv">
     <title>This Changed Everything</title>
@@ -232838,11 +232083,10 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <icon src="https://img-store-prod.switch.tv/images/177495a7-c7ac-4cc9-8b42-c2efc48ce18b/ChurchUnlimited2025.jpg"/>
     <url>Special Interest</url>
     <episode-num system="dd_progid">EP/A0037003./A0037046</episode-num>
-    <episode-num system="xmltv_ns">2025.42.0</episode-num>
     <episode-num system="original-air-date">2026-10-17 11:09:43</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -232854,7 +232098,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </rating>
     <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/177495a7-c7ac-4cc9-8b42-c2efc48ce18b/ChurchUnlimited2025.jpg</image>
     <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/177495a7-c7ac-4cc9-8b42-c2efc48ce18b/ChurchUnlimited2025.jpg</image>
-    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/7075b155-f64a-4639-bdcf-ac561735b245/ChurchUnlimited2025.jpg</image>
   </programme>
   <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="mjh-shine-tv">
     <title>Anglican Diocese, Nelson</title>
@@ -233324,6 +232567,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     </star-rating>
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/zEpS5YQeWCEWMBSJvmsschfqLwp.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/rH6XB4QCKWjSJ0UpHYB2Y6beEVc.jpg</image>
+    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/d4c9ba5a-3848-469b-b969-3b604db397c1/WeddingVeil_Unveiled.jpg</image>
   </programme>
   <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="mjh-shine-tv">
     <title>Sanctuary on Shine</title>
@@ -236823,28 +236067,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/289b1e61-604d-4d5c-9638-2b0c8c689a2e/AnglicanNelson2025.jpg</image>
     <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/289b1e61-604d-4d5c-9638-2b0c8c689a2e/AnglicanNelson2025.jpg</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="mjh-firstlight">
-    <title>On The Road 2025</title>
-    <desc>Ross Patterson uses several biblical stories to illustrate that partial obedience or self-righteous actions are unacceptable to God. S1E1</desc>
-    <category>Other</category>
-    <icon src="https://images.nzxmltv.com/posters/on-the-road-2025_firstlight.jpg"/>
-    <url>http://www.firstlight.org.nz</url>
-    <episode-num system="dd_progid">EP/REVOTR_2025./REVOTR_2025_RP4</episode-num>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-10-09 11:46:32</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/on-the-road-2025_firstlight.jpg</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="mjh-firstlight">
     <title>White Horse Media</title>
     <desc>Steve Wohlberg focuses on the biblical concept of a future point in time when the 'door of salvation' will close. S1E12</desc>
@@ -237641,7 +236863,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
   <programme start="20261019020000 +0000" stop="20261019030000 +0000" channel="mjh-firstlight">
     <title>3ABN Australia</title>
     <desc>Join Gary Webster as he uncovers biblical promises of a restored Eden, where violence, sickness, and sorrow will be no more. S1E34</desc>
-    <category>Other</category>
+    <category>Religion</category>
     <icon src="https://images.nzxmltv.com/posters/3abn-australia_firstlight.jpg"/>
     <url>http://www.firstlight.org.nz</url>
     <country> AU</country>
@@ -237650,7 +236872,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="original-air-date">2026-10-09 11:46:32</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -237759,7 +236981,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
   <programme start="20261019043000 +0000" stop="20261019050000 +0000" channel="mjh-firstlight">
     <title>Secrets Unsealed</title>
     <desc>Dr. Vanessa Greer reveals how a whole food, plant-based diet can dramatically improve your well-being &amp; reduce your risk of chronic disease. S1E3</desc>
-    <category>Religion</category>
+    <category>Other</category>
     <icon src="https://images.nzxmltv.com/posters/secrets-unsealed_firstlight.jpg"/>
     <url>http://www.firstlight.org.nz</url>
     <episode-num system="dd_progid">EP/SUWEP./SUWEP_3</episode-num>
@@ -237767,7 +236989,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -241894,7 +241116,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
   <programme start="20261025060000 +0000" stop="20261025063000 +0000" channel="mjh-firstlight">
     <title>IIW Canada</title>
     <desc>Dr. Chidi shares how his journey shaped his mission. His story is inspiring &amp; practical for anyone seeking hope &amp; health. S1E192</desc>
-    <category>Religion</category>
+    <category>Other</category>
     <icon src="https://images.nzxmltv.com/posters/iiw-canada_firstlight.jpg"/>
     <url>http://www.firstlight.org.nz</url>
     <episode-num system="dd_progid">EP/IIWCANA./IIWCANA_192</episode-num>
@@ -241902,7 +241124,7 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <episode-num system="original-air-date">2026-10-17 11:09:43</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -244312,48 +243534,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/3abn-australia_firstlight.jpg</image>
-  </programme>
-  <programme start="20261017200000 +0000" stop="20261017203000 +0000" channel="mjh-hope-channel">
-    <title>Hope Church</title>
-    <desc>What if moving your body could move your mind forward too? The road to Emmaus reveals how walking, connection, and hope can revive perspective and awaken faith.</desc>
-    <category>Religion</category>
-    <icon src="https://hopechannelnz.wpenginepowered.com/wp-content/uploads/2023/12/Hope-Church-.jpg"/>
-    <url>https://www.hopechannel.nz/show/hope-church-4/</url>
-    <episode-num system="dd_progid">EP/HOPECHURCH./HOPECHxCO5405</episode-num>
-    <episode-num system="original-air-date">2026-10-09 11:46:32</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="L">https://hopechannelnz.wpenginepowered.com/wp-content/uploads/2023/12/Hope-Church-.jpg</image>
-  </programme>
-  <programme start="20261017203000 +0000" stop="20261017210000 +0000" channel="mjh-hope-channel">
-    <title>Lessons for Living</title>
-    <desc>Bill Santos introduces the first program in the creation series. Please join us for an exciting series</desc>
-    <category>Religion</category>
-    <icon src="https://images.nzxmltv.com/posters/lessons-for-living_hopechannel.jpg"/>
-    <url>https://www.hopechannel.nz/</url>
-    <episode-num system="dd_progid">EP/L4L15./L4L15X31</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:43</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/lessons-for-living_hopechannel.jpg</image>
   </programme>
   <programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="mjh-hope-channel">
     <title>Table Talk</title>
@@ -255227,14 +254407,19 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <desc>The next sitting of the House of Representatives will be after the general election, on a date to be advised. For more information, go to www.parliament.nz</desc>
     <icon src="https://images.nzxmltv.com/posters/artvox-urban-art-into-the-light-ki-te-marama_parliamenttv.jpg"/>
     <url>http://www.parliament.nz</url>
+    <country>New Zealand</country>
     <episode-num system="original-air-date">2026-10-15 11:08:54</episode-num>
     <video>
       <present>yes</present>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
       <stereo>stereo</stereo>
     </audio>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/artvox-urban-art-into-the-light-ki-te-marama_parliamenttv.jpg</image>
   </programme>
   <programme start="20261023050000 +0000" stop="20261023170000 +0000" channel="mjh-parliament-tv">
@@ -255714,34 +254899,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/artvox_parliamenttv.jpg</image>
-  </programme>
-  <programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="mjh-wairarapa-tv">
-    <title>History</title>
-    <desc>NZ and Wairarapa History</desc>
-    <date>2017</date>
-    <category>Education, Science</category>
-    <orig-language>Mandarin</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/46eyJ81iqsF8eikoRv9BZdoXobZ.jpg"/>
-    <url>http://www.np.co.nz/epg.asp?p=History</url>
-    <country>Taiwan</country>
-    <episode-num system="themoviedb.org">series/72328</episode-num>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>7.3/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/46eyJ81iqsF8eikoRv9BZdoXobZ.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/seTcGoritqz8gfDRsfJnGFG6Ka1.jpg</image>
   </programme>
   <programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="mjh-wairarapa-tv">
     <title>Arrow</title>
@@ -259946,44 +259103,6 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg</image>
     <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg</image>
   </programme>
-  <programme start="20261017200000 +0000" stop="20261017203000 +0000" channel="mjh-ch200">
-    <title>The Incredible Journey</title>
-    <desc>Join Gary Kent in his ceaseless search for people and things that have experienced The Incredible Journey</desc>
-    <icon src="https://images.nzxmltv.com/posters/the-incredible-journey_ch200.jpg"/>
-    <url>https://ch200.co.nz/watch-live</url>
-    <episode-num system="original-air-date">2026-10-14 03:35:27</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/the-incredible-journey_ch200.jpg</image>
-  </programme>
-  <programme start="20261017203000 +0000" stop="20261017210000 +0000" channel="mjh-ch200">
-    <title>JUICE TV</title>
-    <desc>Music videos</desc>
-    <icon src="https://images.nzxmltv.com/posters/juice-tv_ch200.jpg"/>
-    <url>https://ch200.co.nz/watch-live</url>
-    <episode-num system="original-air-date">2026-10-10 11:46:42</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/juice-tv_ch200.jpg</image>
-  </programme>
   <programme start="20261017210000 +0000" stop="20261017213000 +0000" channel="mjh-ch200">
     <title>Music and the Spoken Word</title>
     <desc>The church of Latter-day Saints presents The Tabernacle Choir</desc>
@@ -260773,1016 +259892,5 @@ Bobby Flay fights to keep his BBQ title as Maneet Chauhan and Antonia Lofaso lea
       <value>PG</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/juice-tv_ch200.jpg</image>
-  </programme>
-  <programme start="20261017184500 +0000" stop="20261017213036 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Hardline 2026</title>
-    <sub-title>Red Bull Hardline British Columbia 2026 livestream</sub-title>
-    <desc>The world’s toughest MTB race pushes riders to their absolute limits on the most extreme, unforgiving terrain.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:live-videos:6933d1de-1fd1-4d7b-9ef9-6507588f1e75/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-17 18:45:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:live-videos:6933d1de-1fd1-4d7b-9ef9-6507588f1e75/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261017213036 +0000" stop="20261017214806 +0000" channel="mjh-redbull-tv">
-    <title>Skate Tales</title>
-    <sub-title>Sergio Yuppie</sub-title>
-    <desc>Madars Apse travels to Brazil to learn from downhill skateboarding legend Sergio Yuppie. Visit Yuppie's factory to see a skateboard get made before it even hits the streets.</desc>
-    <date>2020</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-17 21:30:36</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
-  </programme>
-  <programme start="20261017214806 +0000" stop="20261017220902 +0000" channel="mjh-redbull-tv">
-    <title>Skate Tales</title>
-    <sub-title>Skate Ethiopia</sub-title>
-    <desc>When a 60-man crew of international volunteers built a skatepark in Addis Ababa, Ethiopia in 2016, it kick-started a mushrooming cultural revolution in the birthplace of Rastafarianism.</desc>
-    <date>2020</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-17 21:48:06</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
-  </programme>
-  <programme start="20261017220902 +0000" stop="20261017222903 +0000" channel="mjh-redbull-tv">
-    <title>Skate Tales</title>
-    <sub-title>Osaka Daggers</sub-title>
-    <desc>Madars Apse travels to Osaka, Japan, to meet the Osaka Daggers skate crew. This crew built the underground skate scene in Japan and when you see them skate you'll see the passion they bring.</desc>
-    <date>2020</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-    <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-17 22:09:02</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
-  </programme>
-  <programme start="20261017222903 +0000" stop="20261017225657 +0000" channel="mjh-redbull-tv">
-    <title>Skate Tales</title>
-    <sub-title>Madars and the Fancy Lad crew</sub-title>
-    <desc>The Fancy Lads are the most creative skate crew in the world, manipulating skateboard design to open up new vistas of trick options. Madars Apse stops by to investigate.</desc>
-    <date>2020</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-17 22:29:03</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
-  </programme>
-  <programme start="20261017225657 +0000" stop="20261017232454 +0000" channel="mjh-redbull-tv">
-    <title>Skate Tales</title>
-    <sub-title>Douglas Miles Jr and Apache Skateboards</sub-title>
-    <desc>Legendary Latvian skateboarder Madars Apse heads to Arizona to join Apache Skateboards – a unique community skate company that fuses Native American culture with contemporary skateboard aesthetics.</desc>
-    <date>2020</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-    <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-17 22:56:57</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
-  </programme>
-  <programme start="20261017232454 +0000" stop="20261017235327 +0000" channel="mjh-redbull-tv">
-    <title>Skate Tales</title>
-    <sub-title>Gose Gerald &amp; Uganda Skateboard Society</sub-title>
-    <desc>Imagine building an entire skatepark from internet tutorials – this is the fascinating Uganda Skateboard Society story that kickstarted a scene that made waves around the world.</desc>
-    <date>2020</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-17 23:24:54</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
-  </programme>
-  <programme start="20261017235327 +0000" stop="20261018001717 +0000" channel="mjh-redbull-tv">
-    <title>The world's largest urban MTB downhill race</title>
-    <sub-title>What is Red Bull Cerro Abajo?</sub-title>
-    <desc>Find out all you need to know about the insane urban MTB downhill race, which sees riders race flat out down a steep course set in city streets, navigating stairs, rooftops, twisty alleys and more.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:9c8bc91f-054a-41e4-912b-659e89f10ef6/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-17 23:53:27</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:9c8bc91f-054a-41e4-912b-659e89f10ef6/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018001717 +0000" stop="20261018004407 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Cerro Abajo 2026</title>
-    <sub-title>Red Bull Valparaíso Cerro Abajo highlights</sub-title>
-    <desc>Relive the action as MTB riders from around the world took on the UNESCO World Heritage port city of Valparaíso for an epic, insane MTB race.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:90f4a12c-8044-4f8d-86c0-999fee85d653/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-18 00:17:17</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:90f4a12c-8044-4f8d-86c0-999fee85d653/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018004407 +0000" stop="20261018012513 +0000" channel="mjh-redbull-tv">
-    <title>Matt Jones: The Impossible Gap</title>
-    <sub-title>Extreme mountain biking challenge</sub-title>
-    <desc>Mountain biker Matt Jones attempts to jump his bike between two moving trucks, through an impossible gap that exists for less than a second. Watch Matt prepare for his time-critical feat of precision.</desc>
-    <category>Movie</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:c0bf61ed-03b4-432f-be9f-b57fe65b4528/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:c0bf61ed-03b4-432f-be9f-b57fe65b4528/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018012513 +0000" stop="20261018020743 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Erzbergrodeo</title>
-    <sub-title>Carnage from the hardest race on Earth</sub-title>
-    <desc>Experience huge crashes, impossible recoveries, iconic battles and chaos on the Iron Giant over 30 years of Red Bull Erzbergrodeo history, the toughest Hard Enduro race in the world.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:da1b92ae-91d1-4f37-9dc0-431e94673713/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="original-air-date">2026-10-18 01:25:13</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:videos:da1b92ae-91d1-4f37-9dc0-431e94673713/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018020743 +0000" stop="20261018023321 +0000" channel="mjh-redbull-tv">
-    <title>Asa Vermette's Ascent</title>
-    <sub-title>A rookie’s breakout year in downhill MTB</sub-title>
-    <desc>One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
-    <category>Movie</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:2f27123f-6b9a-46a6-8be1-03cbdb5992e7/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:2f27123f-6b9a-46a6-8be1-03cbdb5992e7/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018023321 +0000" stop="20261018025605 +0000" channel="mjh-redbull-tv">
-    <title>Paradigm</title>
-    <sub-title>Mountain biking taken to new heights</sub-title>
-    <desc>From the precision of slopestyle to the massive airs of freeride and the raw speed of downhill, Thomas Genon, Szymon Godziek, Emil Johansson and Kade Edwards deliver raw MTB talent and nonstop action.</desc>
-    <date>2025</date>
-    <category>Movie</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/xcZonwPFynraospKrWt3gqf6p9r.jpg"/>
-    <episode-num system="themoviedb.org">movie/1583569</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/xcZonwPFynraospKrWt3gqf6p9r.jpg</image>
-  </programme>
-  <programme start="20261018025605 +0000" stop="20261018032320 +0000" channel="mjh-redbull-tv">
-    <title>Progression</title>
-    <sub-title>The female freeriders changing MTB</sub-title>
-    <desc>Red Bull Formation 2021 brought together like-minded riders who want to progress and evolve their sport. These women are now changing the face of freeride mountain biking.</desc>
-    <date>2009</date>
-    <category>Movie</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/reqekrZxbpLBCouv6fxQ53bFN7U.jpg"/>
-    <episode-num system="themoviedb.org">movie/31222</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>6.1/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/reqekrZxbpLBCouv6fxQ53bFN7U.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/azGPoxKU4vFgIYCNttHRT3EryHM.jpg</image>
-  </programme>
-  <programme start="20261018032320 +0000" stop="20261018033334 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2016's fan-favourite teams</sub-title>
-    <desc>Speed wins a Red Bull Soapbox Race, but eccentric design, a big show and bigger crashes win you the crowd. Case in point, 2016's crowd favourites.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-18 03:23:20</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261018033334 +0000" stop="20261018034703 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2017's fan-favourite teams</sub-title>
-    <desc>As 2017's fan favourites teach us, two-wheeled designs never work, and everyone loves a pop culture referencing racer – especially if they self-destruct.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">3.3.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-18 03:33:34</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261018034703 +0000" stop="20261018043046 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>Spa, Belgium</sub-title>
-    <desc>Fearless teams race through obstacles in their engineless machines. The day brings many cheers from the enthusiastic crowds – as well as many crashes! So who will be the 2022 winner in Spa?</desc>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/3hXoGBcSLabu2ViQDOMV1r0ejSN.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="xmltv_ns">9.2.0</episode-num>
-    <episode-num system="themoviedb.org">series/337165</episode-num>
-    <episode-num system="original-air-date">2026-10-18 03:47:03</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3hXoGBcSLabu2ViQDOMV1r0ejSN.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/7V3ZP03tH13zIvxTiRr6PCYpSAi.jpg</image>
-  </programme>
-  <programme start="20261018043046 +0000" stop="20261018044012 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2018's best crashes and smashes</sub-title>
-    <desc>Skinny wheels, a narrow wheelbase and a tall chassis are a recipe for big soapbox racing crashes and 2018's biggest spills are the proof.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">2.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-18 04:30:46</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261018044012 +0000" stop="20261018045250 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2019's best crashes and smashes</sub-title>
-    <desc>To win in Red Bull Soapbox Race, first you've got to finish. This is not easy for these hard-crashing teams from 2019's championship.</desc>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/3hXoGBcSLabu2ViQDOMV1r0ejSN.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="xmltv_ns">2.5.0</episode-num>
-    <episode-num system="themoviedb.org">series/337165</episode-num>
-    <episode-num system="original-air-date">2026-10-18 04:40:12</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3hXoGBcSLabu2ViQDOMV1r0ejSN.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/7V3ZP03tH13zIvxTiRr6PCYpSAi.jpg</image>
-  </programme>
-  <programme start="20261018045250 +0000" stop="20261018050415 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2016's best crashes and smashes</sub-title>
-    <desc>The steepest competition hill ever in Ireland and the aptly named Death Roller made sure 2016 continued to deliver more epic soapbox crashes.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">2.2.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-18 04:52:50</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261018050415 +0000" stop="20261018054729 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>San Marino, Italy</sub-title>
-    <desc>The race with no engine and many obstacles will test the participants throughout the day. Have the teams done enough to let their machines race to the finish line or will the obstacles be too big?</desc>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/3hXoGBcSLabu2ViQDOMV1r0ejSN.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="xmltv_ns">9.1.0</episode-num>
-    <episode-num system="themoviedb.org">series/337165</episode-num>
-    <episode-num system="original-air-date">2026-10-18 05:04:15</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3hXoGBcSLabu2ViQDOMV1r0ejSN.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/7V3ZP03tH13zIvxTiRr6PCYpSAi.jpg</image>
-  </programme>
-  <programme start="20261018054729 +0000" stop="20261018060000 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2015's fan-favourite teams</sub-title>
-    <desc>How do win over a Red Bull Soapbox Race crowd? Destroying your racer and the course itself certainly helps, as 2015's highlights prove.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-18 05:47:29</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261018060000 +0000" stop="20261018063217 +0000" channel="mjh-redbull-tv">
-    <title>Michelle Khare's Great World Race</title>
-    <sub-title>Pt. 2: I ran 7 marathons in 7 days on 7 continents</sub-title>
-    <desc>Michelle battles extreme heat in Australia and Abu Dhabi, forming powerful bonds with fellow racers as injuries and exhaustion threaten the race.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:3633c16e-98e3-4450-80c8-5268d578951c/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2026-10-18 06:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:3633c16e-98e3-4450-80c8-5268d578951c/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018063217 +0000" stop="20261018071339 +0000" channel="mjh-redbull-tv">
-    <title>Michelle Khare's Great World Race</title>
-    <sub-title>Pt. 1: I ran 7 marathons in 7 days on 7 continents</sub-title>
-    <desc>After months of elite training Michelle begins The Great World Race, racing from Cape Town to the blistering cold of Antarctica, where she must finish in 8 hours or be left behind.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:a3931605-32cb-413b-980f-3811cc8a263a/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-10-18 06:32:17</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:a3931605-32cb-413b-980f-3811cc8a263a/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018071339 +0000" stop="20261018084945 +0000" channel="mjh-redbull-tv">
-    <title>Born to Fly</title>
-    <sub-title>Mondo Duplantis's journey to pole vault sensation</sub-title>
-    <desc>From child prodigy to a world great, Mondo Duplantis's journey to pole vault legend wasn't without challenges. His intimate story explores the unrelenting drive that propelled him to new heights.</desc>
-    <date>2022</date>
-    <category>Movie</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/xmTvJJzjnmahVvdBCbrZOsYupqO.jpg"/>
-    <episode-num system="themoviedb.org">movie/1023164</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.3/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/xmTvJJzjnmahVvdBCbrZOsYupqO.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/l7EqyySXmHndzc7Gh1ovwBTAnLc.jpg</image>
-  </programme>
-  <programme start="20261018084945 +0000" stop="20261018091515 +0000" channel="mjh-redbull-tv">
-    <title>ABC of...</title>
-    <sub-title>ABC of... Climbing</sub-title>
-    <desc>Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers. Get to know the language, the equipment, the history, and so much more.</desc>
-    <date>2022</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/vqael6A2gLqMJqCeV1v8QZVeY15.jpg"/>
-    <country>Australia</country>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/205043</episode-num>
-    <episode-num system="original-air-date">2026-10-18 08:49:45</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/vqael6A2gLqMJqCeV1v8QZVeY15.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/nUWNBg3P5Q3qTz5CV9nPhQ0fVZe.jpg</image>
-  </programme>
-  <programme start="20261018091515 +0000" stop="20261018093209 +0000" channel="mjh-redbull-tv">
-    <title>Reel Rock</title>
-    <sub-title>Yeah buddy – part 1</sub-title>
-    <desc>Australian prodigy Angie Scarth-Johnson joins adventure climber Hazel Findlay to tackle Mallorca’s top deep-water soloing routes, blending skill and thrill in breathtaking settings.</desc>
-    <date>2010</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">9.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/55923</episode-num>
-    <episode-num system="original-air-date">2026-10-18 09:15:15</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/mpt7icE58V7dT6AezpzjNxcnZAS.jpg</image>
-  </programme>
-  <programme start="20261018093209 +0000" stop="20261018094916 +0000" channel="mjh-redbull-tv">
-    <title>Reel Rock</title>
-    <sub-title>Yeah buddy – part 2</sub-title>
-    <desc>Angie Scarth-Johnson discovers that mastering climbing competition Psicobloc is as much mental as physical. To tackle tough moves high above the water, she'll have to face her fears.</desc>
-    <date>2010</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">9.1.0</episode-num>
-    <episode-num system="themoviedb.org">series/55923</episode-num>
-    <episode-num system="original-air-date">2026-10-18 09:32:09</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/mpt7icE58V7dT6AezpzjNxcnZAS.jpg</image>
-  </programme>
-  <programme start="20261018094916 +0000" stop="20261018101029 +0000" channel="mjh-redbull-tv">
-    <title>Reel Rock</title>
-    <sub-title>Soundscape</sub-title>
-    <desc>Blind adventure athlete Erik Weihenmayer ascends a huge rock face in the Sierra Nevada. Using camera work and animation, the film brings to life a concept by adaptive climbing pioneer Timmy ONeill.</desc>
-    <date>2010</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">9.2.0</episode-num>
-    <episode-num system="themoviedb.org">series/55923</episode-num>
-    <episode-num system="original-air-date">2026-10-18 09:49:16</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/mpt7icE58V7dT6AezpzjNxcnZAS.jpg</image>
-  </programme>
-  <programme start="20261018101029 +0000" stop="20261018103423 +0000" channel="mjh-redbull-tv">
-    <title>Reel Rock</title>
-    <sub-title>With my heart</sub-title>
-    <desc>Japanese climbing legend Sachi Amma journeys from three-time world champ to purist, culminating in a bold and visionary first ascent on Japan's Mt. Mizugaki.</desc>
-    <date>2010</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">9.3.0</episode-num>
-    <episode-num system="themoviedb.org">series/55923</episode-num>
-    <episode-num system="original-air-date">2026-10-18 10:10:29</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/mpt7icE58V7dT6AezpzjNxcnZAS.jpg</image>
-  </programme>
-  <programme start="20261018103423 +0000" stop="20261018110514 +0000" channel="mjh-redbull-tv">
-    <title>Reel Rock</title>
-    <sub-title>Black Pearl</sub-title>
-    <desc>At 42, climber Chris Sharma takes on his toughest challenge with the first ascent of Black Pearl in Mallorca, pushing the limits of deep water soloing in this test of skill, strength and resilience.</desc>
-    <date>2010</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">9.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/55923</episode-num>
-    <episode-num system="original-air-date">2026-07-04 07:19:08</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/mpt7icE58V7dT6AezpzjNxcnZAS.jpg</image>
-  </programme>
-  <programme start="20261018110514 +0000" stop="20261018112416 +0000" channel="mjh-redbull-tv">
-    <title>Reel Rock</title>
-    <sub-title>The puzzle</sub-title>
-    <desc>Brette Harrington takes on an unfinished route on the remote Chinese Puzzle Wall, completing a climb started by her late partner, Marc-André LeClerc, in a heartfelt tribute to his legacy.</desc>
-    <date>2010</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">9.5.0</episode-num>
-    <episode-num system="themoviedb.org">series/55923</episode-num>
-    <episode-num system="original-air-date">2026-10-18 11:05:14</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/mpt7icE58V7dT6AezpzjNxcnZAS.jpg</image>
-  </programme>
-  <programme start="20261018112416 +0000" stop="20261018115624 +0000" channel="mjh-redbull-tv">
-    <title>Reel Rock</title>
-    <sub-title>Dropping Molly</sub-title>
-    <desc>Join climber Molly Mitchell on her intense, years-long journey to complete a rare all-gear ascent of Crank-it in Boulder Canyon, a route known for its extreme difficulty and high risks.</desc>
-    <date>2010</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">9.7.0</episode-num>
-    <episode-num system="themoviedb.org">series/55923</episode-num>
-    <episode-num system="original-air-date">2026-10-18 11:24:16</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>7.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/o8Ck8KgyyHa6IgvbnKcepqovJvK.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/mpt7icE58V7dT6AezpzjNxcnZAS.jpg</image>
-  </programme>
-  <programme start="20261018115624 +0000" stop="20261018123930 +0000" channel="mjh-redbull-tv">
-    <title>Encouraged: Building the Future</title>
-    <sub-title>BMXer Courage Adams goes home to build a skatepark</sub-title>
-    <desc>Courage Adams returns to Nigeria to build the first-ever skatepark in Lagos, giving local BMX fanatics the opportunity to push the limits of the local sports scene. </desc>
-    <category>Movie</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:ce2581ae-ab9d-4a00-9205-4d21ca07414a/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:ce2581ae-ab9d-4a00-9205-4d21ca07414a/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018123930 +0000" stop="20261018133024 +0000" channel="mjh-redbull-tv">
-    <title>A Biker's Ballad</title>
-    <sub-title>Exploring MTB’s roots: A must-see for every rider</sub-title>
-    <desc>14 riders. 7 years. This mountain biking epic takes a two-wheeled journey back to where the sport began in Crested Butte, Colorado, to celebrate its deep-rooted culture.</desc>
-    <category>Movie</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/caoheEgsaDTlWDdeDn66wjRJUk0.jpg"/>
-    <episode-num system="themoviedb.org">movie/860971</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/caoheEgsaDTlWDdeDn66wjRJUk0.jpg</image>
-  </programme>
-  <programme start="20261018133024 +0000" stop="20261018143917 +0000" channel="mjh-redbull-tv">
-    <title>The Old World</title>
-    <sub-title>A cinematic celebration of European biking culture</sub-title>
-    <desc>Bridging the gap between mountain biking and BMX, The Old World shines a spotlight on the European riders dominating the world stage, from the rough the fjords of Norway to the Scottish Highlands.</desc>
-    <category>Movie</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/vWS7h57IcTrpBUPNWbC5tWjjCy2.jpg"/>
-    <episode-num system="themoviedb.org">movie/1116384</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/vWS7h57IcTrpBUPNWbC5tWjjCy2.jpg</image>
-  </programme>
-  <programme start="20261018143917 +0000" stop="20261018150252 +0000" channel="mjh-redbull-tv">
-    <title>UnBRAKEable</title>
-    <sub-title>Patrick Seabase takes on the Swiss Alps</sub-title>
-    <desc>A documentary about Patrick Seabase’s ultimate Tour de Suisse, riding almost 350km and 9,000m in elevation on a track bike within one day, connecting some of the most beautiful parts of Switzerland.</desc>
-    <date>2021</date>
-    <category>Movie</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/heDoCvd4c3WfTG2WkYQWN8LdmEq.jpg"/>
-    <episode-num system="themoviedb.org">movie/1238784</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/heDoCvd4c3WfTG2WkYQWN8LdmEq.jpg</image>
-  </programme>
-  <programme start="20261018150252 +0000" stop="20261018152928 +0000" channel="mjh-redbull-tv">
-    <title>For Reals</title>
-    <sub-title>From skateboarding out a plane to 180m wall climb</sub-title>
-    <desc>Touring a town in style on a snowmobile. Freerunning through an airport. Skateboarding out of a flying plane. Ice climbing Niagra Falls. It's all in a day's work for Red Bull athletes!</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:da0954da-ca98-4cec-8425-06146469e566/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-    <episode-num system="original-air-date">2026-10-18 15:02:52</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:da0954da-ca98-4cec-8425-06146469e566/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018152928 +0000" stop="20261018155528 +0000" channel="mjh-redbull-tv">
-    <title>For Reals</title>
-    <sub-title>From F1 soapbox racing to breaking world records</sub-title>
-    <desc>Breaking world records – it's all in a day's work for Red Bull athletes! See Felix Baumgartner jump from space, 65 women skydive together and one BMXer conquer the globe's biggest full loop.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:90e91a7d-74bb-42b7-b9b3-078865d7b451/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2026-10-18 15:29:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:90e91a7d-74bb-42b7-b9b3-078865d7b451/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018155528 +0000" stop="20261018162128 +0000" channel="mjh-redbull-tv">
-    <title>For Reals</title>
-    <sub-title>From skydiving with skis to flying into a volcano</sub-title>
-    <desc>Flying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:f2cb2ce7-09e1-4656-a37f-a10c80b56502/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="original-air-date">2026-10-18 15:55:28</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:f2cb2ce7-09e1-4656-a37f-a10c80b56502/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018162128 +0000" stop="20261018164728 +0000" channel="mjh-redbull-tv">
-    <title>For Reals</title>
-    <sub-title>From BASE jumping a cave to a flying mega swing</sub-title>
-    <desc>Wingsuit flying through London’s Tower Bridge at 246kph. Swinging from a hot air balloon. Slacklining the length of two football fields. It's all in a day's work for Red Bull athletes!</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:2664328f-b440-42e2-9241-b99235650fb9/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-    <episode-num system="original-air-date">2026-07-12 15:05:22</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:2664328f-b440-42e2-9241-b99235650fb9/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018164728 +0000" stop="20261018171404 +0000" channel="mjh-redbull-tv">
-    <title>For Reals</title>
-    <sub-title>From F1 desert racing to a skatepark in the sky</sub-title>
-    <desc>Wakeskating off a Dubai skyscraper. F1 drivers racing on Floridan waters and in the Nevada desert. Riding a skatepark attached to a hot air balloon. It's all in a day's work for Red Bull athletes!</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:cff46697-c2b7-46aa-a674-e152be37dbe4/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="original-air-date">2026-07-07 02:20:38</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:cff46697-c2b7-46aa-a674-e152be37dbe4/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018171404 +0000" stop="20261018174004 +0000" channel="mjh-redbull-tv">
-    <title>For Reals</title>
-    <sub-title>From a paper plane contest to diving off ruins</sub-title>
-    <desc>Swamp buggy racing. Sprinting down from the peak of a mountain on a bike. High diving off ancient ruins. Getting the perfect surf shot. It's all in a day's work for Red Bull athletes!</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:6a64ab5e-c10a-4065-9f16-0c91a4bc226d/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="original-air-date">2026-07-07 04:05:14</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:episode-videos:6a64ab5e-c10a-4065-9f16-0c91a4bc226d/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
-  </programme>
-  <programme start="20261018174004 +0000" stop="20261018175800 +0000" channel="mjh-redbull-tv">
-    <title>Skate Tales</title>
-    <sub-title>Bam Margera</sub-title>
-    <desc>Madars Apse begins his journey by traveling to Pennsylvania to meet up with the iconic Bam Margera to check out his skate barn and brand new ramps.</desc>
-    <date>2020</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg"/>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/217740</episode-num>
-    <episode-num system="original-air-date">2026-10-18 17:40:04</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/bW09nvJQX66vIH0OpuJ3IIrue4i.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/zUyYE0OgJDRNGLRq6WyraKZNOUG.jpg</image>
-  </programme>
-  <programme start="20261018175800 +0000" stop="20261018180833 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2015's fan-favourite teams</sub-title>
-    <desc>How do win over a Red Bull Soapbox Race crowd? Destroying your racer and the course itself certainly helps, as 2015's highlights prove.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-18 17:58:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261018180833 +0000" stop="20261018181848 +0000" channel="mjh-redbull-tv">
-    <title>Red Bull Soapbox Race</title>
-    <sub-title>2016's fan-favourite teams</sub-title>
-    <desc>Speed wins a Red Bull Soapbox Race, but eccentric design, a big show and bigger crashes win you the crowd. Case in point, 2016's crowd favourites.</desc>
-    <date>2025</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg"/>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-    <episode-num system="themoviedb.org">series/287622</episode-num>
-    <episode-num system="original-air-date">2026-10-18 18:08:33</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>10.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/4I5K2zfhBu2JJOdei0ZpqbT746c.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/pcmmM2o3xEQcQNlGXi9Bf6O52ts.jpg</image>
-  </programme>
-  <programme start="20261018181848 +0000" stop="20261018184426 +0000" channel="mjh-redbull-tv">
-    <title>Asa Vermette's Ascent</title>
-    <sub-title>A rookie’s breakout year in downhill MTB</sub-title>
-    <desc>One of mountain biking’s most exciting young riders, Asa Vermette, has secured a Junior world title. Follow his journey as he faces downhill’s toughest race in his debut Red Bull Hardline season.</desc>
-    <category>Movie</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:2f27123f-6b9a-46a6-8be1-03cbdb5992e7/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true"/>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://resources.redbull.tv/rrn:content:films:2f27123f-6b9a-46a6-8be1-03cbdb5992e7/rbtv_display_art_portrait/{im}?namespace=rbtv&amp;refresh=true</image>
   </programme>
 </tv>
