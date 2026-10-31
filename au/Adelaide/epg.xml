@@ -230,10 +230,6 @@
     <display-name>Below Deck Vault</display-name>
     <icon src="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png"/>
   </channel>
-  <channel id="mjh-misc503-fast">
-    <display-name>Hockey One</display-name>
-    <icon src="https://i.mjh.nz/.images/auto-misc503-fast-942b42.png"/>
-  </channel>
   <channel id="mjh-tvsn-fast">
     <display-name>TVSN</display-name>
     <lcn>77</lcn>
@@ -270,10 +266,6 @@
   <channel id="mjh-cas41-fast">
     <display-name>Bondi Rescue</display-name>
     <icon src="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png"/>
-  </channel>
-  <channel id="mjh-misc501-fast">
-    <display-name>Rugby League World Cup Triple M Commentary</display-name>
-    <icon src="https://i.mjh.nz/.images/auto-misc501-fast-149a74.png"/>
   </channel>
   <channel id="mjh-wnbl-202627-fast">
     <display-name>WNBL 2026/27</display-name>
@@ -729,26 +721,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20261031080000 +0000" stop="20261031103000 +0000" channel="mjh-seven-ade">
-    <title>Rugby League World Cup 2026</title>
-    <sub-title>Australia v Cook Islands</sub-title>
-    <desc>Australia collides with the Cook Islands, live and free from Queensland Country Bank Stadium. Kickoff: 8:05pm AEDT.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/99e181876fd8f01a47c3/image"/>
-    <episode-num system="SxxExx">S26E13</episode-num>
-    <episode-num system="xmltv_ns">25.12.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-  </programme>
-  <programme start="20261031103000 +0000" stop="20261031110130 +0000" channel="mjh-seven-ade">
-    <title>Rugby League World Cup 2026</title>
-    <sub-title>Post Game: Australia v Cook Islands</sub-title>
-    <desc>A look back at all the action from tonight's match.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/99e181876fd8f01a47c3/image"/>
-    <episode-num system="SxxExx">S26E408</episode-num>
-    <episode-num system="xmltv_ns">25.407.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-  </programme>
   <programme start="20261031110130 +0000" stop="20261031135740 +0000" channel="mjh-seven-ade">
     <title>The Rock</title>
     <desc>A one-time escaped convict leads Navy SEALs onto Alcatraz to thwart a renegade colonel who is threatening the area with warheads.</desc>
@@ -2479,16 +2451,6 @@
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261031080000 +0000" stop="20261031101500 +0000" channel="mjh-7two-ade">
-    <title>AFLW</title>
-    <sub-title>Rnd 12: West Coast v Hawthorn</sub-title>
-    <desc>The Eagles face-off against the Hawks, live and free from Sullivan Logistics Stadium. Bounce time: 7:15pm AEDT.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/483c2bed1cbda4be6406/image"/>
-    <episode-num system="SxxExx">S26E125</episode-num>
-    <episode-num system="xmltv_ns">25.124.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
   </programme>
   <programme start="20261031101500 +0000" stop="20261031111905 +0000" channel="mjh-7two-ade">
     <title>Escape To The Chateau</title>
@@ -9779,7 +9741,7 @@ to auction?</desc>
   <programme start="20261101032800 +0000" stop="20261101042700 +0000" channel="mjh-channel-9-sa">
     <title>Budget Battlers</title>
     <sub-title>Warracknabeal</sub-title>
-    <desc>Budget Battlers shows the power of rallying communities for a good cause. In each episode, Norm and Jess completely renovate a home from top to bottom in under a week, on a $10,000 budget with the help of good people ready to work.</desc>
+    <desc>The Budget Battlers are on a mission to transform Aussie homes with clever renovations that won't break the bank.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/c30e1da618f864ea8ed0/image"/>
     <episode-num system="SxxExx">S03E01</episode-num>
@@ -10738,7 +10700,7 @@ to auction?</desc>
   <programme start="20261104090000 +0000" stop="20261104101000 +0000" channel="mjh-channel-9-sa">
     <title>Budget Battlers</title>
     <sub-title>Newcastle</sub-title>
-    <desc>Budget Battlers shows the power of rallying communities for a good cause. In each episode, Norm and Jess completely renovate a home from top to bottom in under a week, on a $10,000 budget with the help of good people ready to work.</desc>
+    <desc>The Battlers are joined by Grant and Chezzi Denyer as they transform the home of a very special woman.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/c30e1da618f864ea8ed0/image"/>
     <episode-num system="SxxExx">S03E02</episode-num>
@@ -13648,16 +13610,6 @@ to auction?</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261031083000 +0000" stop="20261031103100 +0000" channel="mjh-go-sa">
-    <title>NBL</title>
-    <sub-title>Cairns Taipans v Melbourne United</sub-title>
-    <desc>On tonight's NBL, Cairns Taipans take on Melbourne United live from Cairns Convention Centre. Tip off at 7:36PM AEDT.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/09b1e2c98bfea83b7719/image"/>
-    <episode-num system="SxxExx">S2026E13</episode-num>
-    <episode-num system="xmltv_ns">2025.12.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-  </programme>
   <programme start="20261031103100 +0000" stop="20261031123000 +0000" channel="mjh-go-sa">
     <title>NBL</title>
     <sub-title>Perth Wildcats v Illawarra Hawks</sub-title>
@@ -16345,32 +16297,6 @@ to auction?</desc>
     <episode-num system="SxxExx">S2026E06</episode-num>
     <episode-num system="xmltv_ns">2025.5.</episode-num>
     <episode-num system="original-air-date">2026-11-07</episode-num>
-  </programme>
-  <programme start="20261031100000 +0000" stop="20261031103000 +0000" channel="mjh-life-sa">
-    <title>House Hunters</title>
-    <sub-title>A Family Affair in Williamsburg</sub-title>
-    <desc>Newlyweds search for their first home with space to entertain in Williamsburg, Virginia. His sister is their agent and his mum, a designer. He thinks they should tackle a project, but she wants a turnkey Colonial.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/691fdc606417325e0bb1/image"/>
-    <episode-num system="SxxExx">S260E01</episode-num>
-    <episode-num system="xmltv_ns">259.0.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261031103000 +0000" stop="20261031110100 +0000" channel="mjh-life-sa">
-    <title>House Hunters</title>
-    <sub-title>Engaged in Atlanta</sub-title>
-    <desc>A newly engaged couple is ready to buy their first home and start their life together in Atlanta. She's fine with a starter home, but he wants as much space as possible, so finding a place that suits them both will be a challenge.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/691fdc606417325e0bb1/image"/>
-    <episode-num system="SxxExx">S260E02</episode-num>
-    <episode-num system="xmltv_ns">259.1.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20261031110100 +0000" stop="20261031113000 +0000" channel="mjh-life-sa">
     <title>House Hunters International</title>
@@ -19063,19 +18989,6 @@ to auction?</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261031100200 +0000" stop="20261031110400 +0000" channel="mjh-rush-sa">
-    <title>Outback Opal Hunters</title>
-    <sub-title>Red Tape</sub-title>
-    <desc>Following a government shutdown, The Bushmen risk working in a deadly, crumbling mine. A desperate Cozza works alone in a condemned mine, and an impatient Renee is almost buried alive as she and Dan rush to find opal.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/edbaf6b4414bc3864d8d/image"/>
-    <episode-num system="SxxExx">S07E09</episode-num>
-    <episode-num system="xmltv_ns">6.8.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261031110400 +0000" stop="20261031125900 +0000" channel="mjh-rush-sa">
     <title>Homestead Rescue</title>
     <sub-title>Bus, Sweat and Tears</sub-title>
@@ -21651,8 +21564,8 @@ to auction?</desc>
     <desc>Costa and Sophie help residents of a holiday park with their gardens, Hannah meets volunteers helping gardeners to live independently, Sophie creates affordable containers, and we meet author and polio survivor Fran Henke.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/d942431b5afe611ef613/image"/>
-    <episode-num system="SxxExx">S2026E12</episode-num>
-    <episode-num system="xmltv_ns">2025.11.</episode-num>
+    <episode-num system="SxxExx">S38E12</episode-num>
+    <episode-num system="xmltv_ns">37.11.</episode-num>
     <episode-num system="original-air-date">2026-11-01</episode-num>
     <rating>
       <value>G</value>
@@ -23437,8 +23350,8 @@ to auction?</desc>
     <desc>Costa and Clarence take a trip to the South Coast of NSW. They visit a coastal garden, learn about local bushfood, and explore an alternative to traditional burial. Costa visits a community garden on a disused bowling green.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/d942431b5afe611ef613/image"/>
-    <episode-num system="SxxExx">S2026E13</episode-num>
-    <episode-num system="xmltv_ns">2025.12.</episode-num>
+    <episode-num system="SxxExx">S38E13</episode-num>
+    <episode-num system="xmltv_ns">37.12.</episode-num>
     <episode-num system="original-air-date">2026-11-06</episode-num>
     <rating>
       <value>G</value>
@@ -23590,19 +23503,6 @@ to auction?</desc>
     <episode-num system="SxxExx">S2026E45</episode-num>
     <episode-num system="xmltv_ns">2025.44.</episode-num>
     <episode-num system="original-air-date">2026-11-07</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261031090155 +0000" stop="20261031100902 +0000" channel="mjh-10-sa">
-    <title>Selling Houses Australia</title>
-    <sub-title>Mermaid Waters</sub-title>
-    <desc>Bec &amp; Jared bought an investment property but suddenly everything went wrong. The builders pulled out and Bec lost her job. With only $80,000 for renos, Wendy and Dennis have to work miracles.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f1818df4a662690e1e2c/image"/>
-    <episode-num system="SxxExx">S16E06</episode-num>
-    <episode-num system="xmltv_ns">15.5.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -24015,7 +23915,7 @@ to auction?</desc>
   </programme>
   <programme start="20261101104000 +0000" stop="20261101114000 +0000" channel="mjh-10-sa">
     <title>Sam Pang Tonight</title>
-    <sub-title>Episode 2 of Season 3</sub-title>
+    <sub-title>Sam Pang Tonight Encore</sub-title>
     <desc>Tonight, Sam is joined by special guest announcer Broden Kelly from Aunty Donna. Plus, interviews with Australian actress Pia Miranda, comedian Aaron Chen and the hosts of SNL UK Weekend update.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/5876027aaca2ed6ff6ae/image"/>
@@ -26067,7 +25967,7 @@ to auction?</desc>
   <programme start="20261106101000 +0000" stop="20261106111000 +0000" channel="mjh-10-sa">
     <title>Love It Or List It Australia</title>
     <sub-title>Karrinyup</sub-title>
-    <desc>Nora &amp; Blair are now living in a 2.5 bedroom blonde brick 1960?s home in Karrinyup WA. They have only been in it for 2 yrs, Blair thinks the problems in the home will not be solved with a renovation.</desc>
+    <desc>Nora &amp; Blair are now living in a 2.5 bedroom blonde brick 1960's home in Karrinyup WA. They have only been in it for 2 yrs, Blair thinks the problems in the home will not be solved with a renovation.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/72e6ce6288c168a33620/image"/>
     <episode-num system="SxxExx">S04E10</episode-num>
@@ -26346,16 +26246,6 @@ to auction?</desc>
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261031084000 +0000" stop="20261031110000 +0000" channel="mjh-10bold-sa">
-    <title>A-League</title>
-    <sub-title>Round 3: Macarthur FC V Western Sydney Wanderers</sub-title>
-    <desc>It's the Western Sydney Derby as Macarthur FC clash with Western Sydney Wanderers FC at Campbelltown Stadium in round 3 of the A-League Men.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/ffd13ad699b09d4cc14c/image"/>
-    <episode-num system="SxxExx">S2026E08</episode-num>
-    <episode-num system="xmltv_ns">2025.7.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
   </programme>
   <programme start="20261031110000 +0000" stop="20261031120447 +0000" channel="mjh-10bold-sa">
     <title>NCIS</title>
@@ -28853,32 +28743,6 @@ to auction?</desc>
     <episode-num system="original-air-date">2026-11-07</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261031095136 +0000" stop="20261031101715 +0000" channel="mjh-10peach-sa">
-    <title>Two And A Half Men</title>
-    <sub-title>My Son's Enormous Head</sub-title>
-    <desc>Charlie fights the overwhelming urge to flee when Chelsea gets sick and he is forced to take care of her.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9085c09557702462c2a7/image"/>
-    <episode-num system="SxxExx">S06E18</episode-num>
-    <episode-num system="xmltv_ns">5.17.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261031101715 +0000" stop="20261031104228 +0000" channel="mjh-10peach-sa">
-    <title>Two And A Half Men</title>
-    <sub-title>The Two Finger Rule</sub-title>
-    <desc>Chelsea finds pictures of a naked woman on Charlie's phone.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9085c09557702462c2a7/image"/>
-    <episode-num system="SxxExx">S06E19</episode-num>
-    <episode-num system="xmltv_ns">5.18.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
   <programme start="20261031104228 +0000" stop="20261031110906 +0000" channel="mjh-10peach-sa">
@@ -36910,24 +36774,6 @@ to auction?</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261031100000 +0000" stop="20261031103000 +0000" channel="mjh-c44">
-    <title>Under Wraps</title>
-    <desc>From wild wraps to big personalities, tune in for behind the scenes action on vehicle graphics.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8376ce7de83c8b64a38c/image"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261031103000 +0000" stop="20261031110000 +0000" channel="mjh-c44">
-    <title>Cash 4 Trash</title>
-    <desc>Tracey Cash and Billy Trash put themselves at risk by taking part in Australia's most dangerous sport, hard rubbish diving.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/59961cf44223d69e4ab1/image"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="mjh-c44">
     <title>Five Or Eight</title>
     <desc>Liam explores the wonderful world of board games and chats with experts across the board.</desc>
@@ -39395,20 +39241,6 @@ to auction?</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261031100339 +0000" stop="20261031103139 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD15-002_medium.jpeg"/>
-    <desc>Two young woman from Malaysia have had their plane tickets paid for by someone they don’t know. That’s a red flag for Border Force and the investigation is stepped up.</desc>
-    <sub-title>9.03 - 9.31pm</sub-title>
-    <category>DOCUMENTARY ONE-OFF</category>
-  </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261031103152 +0000" stop="20261031105852 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD15-003_medium.jpeg"/>
-    <desc>Officers suspect a Brazilian man is lying to them and his answers aren’t helping him. A Chinese student returning to Australia seems to be in a hurry and Biosecurity officers think they know why.</desc>
-    <sub-title>9.31 - 9.58pm</sub-title>
-    <category>DOCUMENTARY ONE-OFF</category>
-  </programme>
   <programme channel="mjh-bordersecurityaustralia-fast" start="20261031105935 +0000" stop="20261031112835 +0000">
     <title>Border Security - Australia's Front Line</title>
     <icon src="https://api.tvapi.com.au/images/BORD15-004_medium.jpeg"/>
@@ -39416,14 +39248,19 @@ to auction?</desc>
     <sub-title>9.59 - 10.28pm</sub-title>
     <category>DOCUMENTARY ONE-OFF</category>
   </programme>
-  <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="mjh-racing-fast">
-    <title>The Triple Trio</title>
-    <desc>Jason Richardson, racing analyst Clint Hutchison and former champion jockey Shane Dye bring together leading experts and personalities to discuss the hugely popular sport of horse racing in Hong Kong.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/19820d73d1ee291ee8dd/image"/>
-    <episode-num system="SxxExx">S2026E1031</episode-num>
-    <episode-num system="xmltv_ns">2025.1030.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261031112927 +0000" stop="20261031115727 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD15-005_medium.jpeg"/>
+    <desc>A drug detector dogs sits at a woman’s bags and officers need to investigate further. A nervous passenger attracts the attention of Biosecurity and what he’s hiding may be deadly.</desc>
+    <sub-title>10.29 - 10.57pm</sub-title>
+    <category>DOCUMENTARY ONE-OFF</category>
+  </programme>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261031115800 +0000" stop="20261031122600 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD15-006_medium.jpeg"/>
+    <desc>Two brothers from Thailand claim they’re just tourists but after talking to their sister Border Force discovers something that makes their story likely to be a lie.</desc>
+    <sub-title>10.58 - 11.26pm</sub-title>
+    <category>DOCUMENTARY ONE-OFF</category>
   </programme>
   <programme start="20261031110000 +0000" stop="20261031120000 +0000" channel="mjh-racing-fast">
     <title>Racing Review</title>
@@ -40766,20 +40603,6 @@ to auction?</desc>
     <episode-num system="xmltv_ns">2025.1106.</episode-num>
     <episode-num system="original-air-date">2026-11-07</episode-num>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261031094855 +0000" stop="20261031101455 +0000">
-    <title>S1 E6 - Moving Targets</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN-006_medium.jpeg"/>
-    <desc>The staff deals with an irate customer after a mix-up over a misplaced gold chain, and someone tries to sell Ashley an elaborate lamp, which doubles as a "cursed" relic.</desc>
-    <sub-title>S1 E6 - Moving Targets</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261031101522 +0000" stop="20261031104122 +0000">
-    <title>S1 E7 - Trouble Inside</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN-007_medium.jpeg"/>
-    <desc>Les treats his employees like family, but when an employee turns violent, it shakes up the Gold family. A man sells his paintball set, but the crew had it tested out on its employees first. The employees undergo gun training at a testing range. Also, a customer tries to sell 50-pairs of panties and a puppet- maker creates replicas of the staff.</desc>
-    <sub-title>S1 E7 - Trouble Inside</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
   <programme channel="mjh-hardcorepawn-fast" start="20261031104132 +0000" stop="20261031110732 +0000">
     <title>S2 E5 - Skulls &amp; Scoundrels</title>
     <icon src="https://api.tvapi.com.au/images/HPWN2-005_medium.jpeg"/>
@@ -40787,12 +40610,19 @@ to auction?</desc>
     <sub-title>S2 E5 - Skulls &amp; Scoundrels</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-racingwa-fast" start="20261031100000 +0000" stop="20261031110000 +0000">
-    <title>Racing WA</title>
-    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
-    <desc>Racing WA</desc>
-    <sub-title>Racing WA</sub-title>
-    <category>GENERAL</category>
+  <programme channel="mjh-hardcorepawn-fast" start="20261031110758 +0000" stop="20261031113258 +0000">
+    <title>S2 E6 - The Gambler</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN2-006_medium.jpeg"/>
+    <desc>A customer pawns his gold and diamond pinky rings for gambling money. And a situation escalates when a customer accuses the shop of paying him $100 less for a pawn of his camera and Playstation 3.</desc>
+    <sub-title>S2 E6 - The Gambler</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-hardcorepawn-fast" start="20261031113356 +0000" stop="20261031115956 +0000">
+    <title>S2 E7 - Fool's Gold</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN2-007_medium.jpeg"/>
+    <desc>A man tries to get back the items his ex -wife pawned behind his back, but they need her ID in order to redeem the tickets. A couple sell a trumpet for money for a promise ring. A tanning salon sells a spray tanning booth, but they need someone pale to test it out. And finally, a taxidermist sells a cache  of stuffed animals.</desc>
+    <sub-title>S2 E7 - Fool's Gold</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-racingwa-fast" start="20261031110000 +0000" stop="20261031120000 +0000">
     <title>Racing WA</title>
@@ -40808,12 +40638,12 @@ to auction?</desc>
     <sub-title>Racing WA</sub-title>
     <category>GENERAL</category>
   </programme>
-  <programme channel="mjh-allsaints-fast" start="20261031093438 +0000" stop="20261031102438 +0000">
-    <title>All Saints S5 Episode 25</title>
-    <icon src="https://api.tvapi.com.au/images/AST-193_medium.jpeg"/>
-    <desc>It's crunch time for Bron as she finally plans to tell her fiance, Ben, that she has had an affair with another man. A dark shadow emerges over their planned marriage.</desc>
-    <sub-title>Judgement Day</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-racingwa-fast" start="20261031130000 +0000" stop="20261031140000 +0000">
+    <title>Racing WA</title>
+    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
+    <desc>Racing WA</desc>
+    <sub-title>Racing WA</sub-title>
+    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-allsaints-fast" start="20261031102457 +0000" stop="20261031111457 +0000">
     <title>All Saints S5 Episode 26</title>
@@ -40829,12 +40659,12 @@ to auction?</desc>
     <sub-title>In The Family Way</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-mythbusters-fast" start="20261031091633 +0000" stop="20261031101133 +0000">
-    <title>Greenscreen Special 3: Destinations Sciences</title>
-    <icon src="https://api.tvapi.com.au/images/MYTH07-033_medium.jpeg"/>
-    <desc>Any real estate agentwill explain that the three most important things are location, location and location! Talk to any Mythbuster about what really makes myth come true, and they'll say the same!</desc>
-    <sub-title>Greenscreen Special 3: Destinations Sciences</sub-title>
-    <category>SCIENCE &amp; TECHNOLOGY</category>
+  <programme channel="mjh-allsaints-fast" start="20261031120617 +0000" stop="20261031125717 +0000">
+    <title>All Saints S5 Episode 28</title>
+    <icon src="https://api.tvapi.com.au/images/AST-196_medium.jpeg"/>
+    <desc>Paula is forced to consider medicating her son Max to ease his behavioural problems. Terri and Mitch decide to move in together. Bron's unhappy personal life interferes with her work.</desc>
+    <sub-title>An Itch To Scratch</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-mythbusters-fast" start="20261031101137 +0000" stop="20261031110637 +0000">
     <title>Repack Special 1: Mailbag Special</title>
@@ -40850,37 +40680,26 @@ to auction?</desc>
     <sub-title>Repack Special 2: Hollywood Gunslingers</sub-title>
     <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261031094641 +0000" stop="20261031101141 +0000">
-    <title>Sydney Weekender</title>
-    <icon src="https://api.tvapi.com.au/images/7SWE-SHOW_medium.jpeg"/>
-    <desc>Luke Carroll has a cinematic experience at The Ritz in Randwick.&#13;
-&#13;
-Mel takes a road trip for an adventure in the Snowy Mountains.&#13;
-&#13;
-Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
-    <sub-title>8.46 - 9.11pm</sub-title>
+  <programme channel="mjh-mythbusters-fast" start="20261031120149 +0000" stop="20261031125749 +0000">
+    <title>Mini Myth Mayhem</title>
+    <icon src="https://api.tvapi.com.au/images/MYTH6-001_medium.jpeg"/>
+    <desc>On this episode it's mayhem as the team fire off 6 quick fire fan requested fables. First up Adam and Jamie post a coconut. Yep, viewers have heard it's possible to send a coconut through the mail!</desc>
+    <sub-title>Mini Myth Mayhem</sub-title>
+    <category>SCIENCE &amp; TECHNOLOGY</category>
+  </programme>
+  <programme channel="mjh-travelaustralia-fast" start="20261031110550 +0000" stop="20261031113250 +0000">
+    <title>Your 4x4 S7 E2</title>
+    <icon src="https://api.tvapi.com.au/images/YFBF07-002_medium.jpeg"/>
+    <desc>Watch Simon Christie and mates venture into flooded outback NSW for the true story on the devastation of the flooded Darling Barka River. There’s no shortage of challenges as the team support farmers and explore our beautiful country.</desc>
+    <sub-title>10.05 - 10.32pm</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261031101227 +0000" stop="20261031103827 +0000">
+  <programme channel="mjh-travelaustralia-fast" start="20261031113313 +0000" stop="20261031115913 +0000">
     <title>Weekender</title>
-    <icon src="https://api.tvapi.com.au/images/WEKN-SHOW_medium.jpeg"/>
-    <desc>Alana is whipping up a hearty sausage cassoulet. Mel gets an exclusive look at the Tour Down Under. Kim saddles up for the thrills at the Quamby Rodeo, and Teigan is basking in the beauty of Lady Elliot Island.</desc>
-    <sub-title>9.12 - 9.38pm</sub-title>
+    <icon src="https://api.tvapi.com.au/images/WEKN25-037_medium.jpeg"/>
+    <desc>Lee is in luxury at Hope Island for Mater's latest prize! Nathan is in Logan checking out the Distillery Road Market. Alana is in foodie heaven in Moreton Bay! Lee experiences Uluru on a budget!</desc>
+    <sub-title>10.33 - 10.59pm</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261031103832 +0000" stop="20261031110532 +0000">
-    <title>Your 4x4 S6 E8</title>
-    <icon src="https://api.tvapi.com.au/images/YFBF06-008_medium.jpeg"/>
-    <desc>Watch Simon Christie and mates explore the Eyre Peninsula, South East Queensland beaches and tropical ranges in their search for the best 4x4 tracks, destinations and adventures.</desc>
-    <sub-title>9.38 - 10.05pm</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-aircrashinvestigations-fast" start="20261031100602 +0000" stop="20261031105602 +0000">
-    <title>Air Crash Investigations</title>
-    <icon src="https://api.tvapi.com.au/images/MDAY9-008_medium.jpeg"/>
-    <desc>December 19th, 2005 - Flight 101 is preparing for take-off in the waters off Miami Beach, Florida. Part plane, part speedboat, the twin turbo-prop taxis through one of the world's busiest ports, and after a smooth take-off, is suddenly rocked by an explosion. From the beach, a tourist films its catastrophic plunge into the ocean. Lifeguards immediately race to the crash site and within hours, salvage crews begin recovering the wreckage. But what caused such a horrendous mid-air explosion?</desc>
-    <sub-title>Cracks In The System</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-aircrashinvestigations-fast" start="20261031105649 +0000" stop="20261031114749 +0000">
     <title>Air Crash Investigations</title>
@@ -40889,12 +40708,19 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Bad Attitude</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-betterhomesandgardens-fast" start="20261031092109 +0000" stop="20261031104109 +0000">
-    <title>Better Homes And Gardens</title>
-    <icon src="https://api.tvapi.com.au/images/BHAG29-007_medium.jpeg"/>
-    <desc>Joh goes on a tour of Summerland farm. Karen makes a Banh Mi burger. Dr. Harry tries to figure out why a miniature schnauzer gets anxiety around a pedestrian crossing.</desc>
-    <sub-title>8.21 - 9.41pm</sub-title>
-    <category>HOUSE &amp; GARDEN</category>
+  <programme channel="mjh-aircrashinvestigations-fast" start="20261031114749 +0000" stop="20261031123849 +0000">
+    <title>Air Crash Investigations</title>
+    <icon src="https://api.tvapi.com.au/images/MDAY11-008_medium.jpeg"/>
+    <desc>On 25 September 1978, PSA Flight 182's Boeing 727 collided into a private Cessna 172 jet while approaching Lindbergh Field and crashed into a residential area in San Diego. It was was the biggest airline disaster at the time in American history, killing all 135 people on board both aircrafts, as well as another 7 people on the ground. Were there technical faults which led to this disaster, or was pilot error to blame? Investigators worked furiously to determine the cause of this catastrophic mid-air collision.</desc>
+    <sub-title>Blind Spot</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
+  </programme>
+  <programme channel="mjh-aircrashinvestigations-fast" start="20261031123850 +0000" stop="20261031132950 +0000">
+    <title>Air Crash Investigations</title>
+    <icon src="https://api.tvapi.com.au/images/MDAY11-009_medium.jpeg"/>
+    <desc>On 11 July 1991, shortly after taking-off from Jeddah's King Abdulaziz International Airport, Nigeria Airways Flight 2120 suffered an in-flight fire. The crew unsuccessfully tried to return to the airport, the plane breaking up within sight of the runway. The plane was carrying 247 Nigerian pilgrims and 14 crew who all perished in the accident. Aviation experts work to determine what caused the fire that led to such a grave outcome.</desc>
+    <sub-title>Under Pressure</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-betterhomesandgardens-fast" start="20261031104117 +0000" stop="20261031120317 +0000">
     <title>Better Homes And Gardens</title>
@@ -40910,12 +40736,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>11.03pm - 12.23am</sub-title>
     <category>HOUSE &amp; GARDEN</category>
   </programme>
-  <programme channel="mjh-cas33-fast" start="20261031093218 +0000" stop="20261031102218 +0000">
-    <title>Season 10 Ep 1</title>
-    <icon src="https://api.tvapi.com.au/images/YORK10-001_medium.jpeg"/>
-    <desc>Vet Julian comes to the rescue of a cow who is struggling to calf. Peter operates on boxer dog Boot.</desc>
-    <sub-title>Season 10 Ep 1</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-betterhomesandgardens-fast" start="20261031132431 +0000" stop="20261031144531 +0000">
+    <title>Better Homes And Gardens</title>
+    <icon src="https://api.tvapi.com.au/images/BHAG30-019_medium.jpeg"/>
+    <desc>Joh, Dr Harry and Charlie explore the Hawkesbury Show. Melissa creates a frog hotel. Adam builds a free-standing shelving system.</desc>
+    <sub-title>12.24 - 1.45am</sub-title>
+    <category>HOUSE &amp; GARDEN</category>
   </programme>
   <programme channel="mjh-cas33-fast" start="20261031102253 +0000" stop="20261031111253 +0000">
     <title>Season 10 Ep 2</title>
@@ -40931,12 +40757,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Season 10 Ep 3</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261031095118 +0000" stop="20261031104018 +0000">
-    <title>CSI: New York - The Untouchable</title>
-    <icon src="https://api.tvapi.com.au/images/CSIY07-016_medium.jpeg"/>
-    <desc>When a conspiracy-obsessed woman is found dead, the CSIs investigate and discover that some of her theories may have had some truth to them.</desc>
-    <sub-title>The Untouchable</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-cas33-fast" start="20261031120327 +0000" stop="20261031125427 +0000">
+    <title>Season 7 Ep 7</title>
+    <icon src="https://api.tvapi.com.au/images/YORK07-007_medium.jpeg"/>
+    <desc>Joining Julian Norton is his partner, fellow vet and former Herriot trainee, Peter Wright together with their dedicated team of staff at his practice, Skeldale Veterinary Centre.</desc>
+    <sub-title>Season 7 Ep 7</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261031104110 +0000" stop="20261031113210 +0000">
     <title>CSI: New York - Do Or Die</title>
@@ -40952,12 +40778,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Do Or Die</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-mightymachines-fast" start="20261031093855 +0000" stop="20261031103255 +0000">
-    <title>Mighty Trains</title>
-    <icon src="https://api.tvapi.com.au/images/MTRA03-001_medium.jpeg"/>
-    <desc>Mighty Trains rolls through Norway along the Bergen Line – described as one of the most amazing railway journeys in Europe.</desc>
-    <sub-title>Bergen Railway &amp; Nordland Line</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261031122333 +0000" stop="20261031131233 +0000">
+    <title>CSI: New York - Identity Crisis</title>
+    <icon src="https://api.tvapi.com.au/images/CSIY07-019_medium.jpeg"/>
+    <desc>Jo balances personal and professional challenges when her adopted daughter.</desc>
+    <sub-title>Identity Crisis</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-mightymachines-fast" start="20261031103327 +0000" stop="20261031112527 +0000">
     <title>Mighty Ships S2 E1</title>
@@ -40973,12 +40799,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Jumbo Fairplayer</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas21-fast" start="20261031094538 +0000" stop="20261031103638 +0000">
-    <title>S05 E04 Club Dead</title>
-    <icon src="https://api.tvapi.com.au/images/GSHU05-004_medium.png"/>
-    <desc>The team visit Florida to investigate stories of a female spirit haunting Ybor City's Cuban Club.</desc>
-    <sub-title>S05 E04 Club Dead</sub-title>
-    <category>ENTERTAINMENT</category>
+  <programme channel="mjh-mightymachines-fast" start="20261031121731 +0000" stop="20261031130931 +0000">
+    <title>Mighty Ships S2 E3</title>
+    <icon src="https://api.tvapi.com.au/images/MTYS02-003_medium.jpeg"/>
+    <desc>Climb aboard for an exclusive look at some of the coolest working vessels in the world.</desc>
+    <sub-title>USS Nimitz</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas21-fast" start="20261031103702 +0000" stop="20261031112602 +0000">
     <title>S05 E05 - Soul Searching</title>
@@ -40994,21 +40820,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>S05 E06 - Titanic Terror</sub-title>
     <category>ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-onthecase-fast" start="20261031092322 +0000" stop="20261031101222 +0000">
-    <title>On The Case S6 E17</title>
-    <icon src="https://api.tvapi.com.au/images/ONTC06-017_medium.jpeg"/>
-    <desc>A 19-year-old clerk is abducted from a Del Ray Beach convenience store while eyewitnesses watch in horror.
-</desc>
-    <sub-title>S6 E17 - Eyes Of A Killer</sub-title>
-    <category>DOCUMENTARY SERIES</category>
-  </programme>
-  <programme channel="mjh-onthecase-fast" start="20261031101313 +0000" stop="20261031110213 +0000">
-    <title>On The Case S6 E18</title>
-    <icon src="https://api.tvapi.com.au/images/ONTC06-018_medium.jpeg"/>
-    <desc>A 14-year-old girl's shortcut home from school puts her on the path of a savage killer.
-</desc>
-    <sub-title>S6 E18 - Shortcut To Murder</sub-title>
-    <category>DOCUMENTARY SERIES</category>
+  <programme channel="mjh-cas21-fast" start="20261031121804 +0000" stop="20261031130904 +0000">
+    <title>S06 E04 - Phantoms of Jersey</title>
+    <icon src="https://api.tvapi.com.au/images/GSHU06-004_medium.png"/>
+    <desc>The team travels to Atlantic City, where it visits the Absecon lighthouse.</desc>
+    <sub-title>S06 E04 - Phantoms of Jersey</sub-title>
+    <category>ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-onthecase-fast" start="20261031110306 +0000" stop="20261031115206 +0000">
     <title>On The Case S6 E19</title>
@@ -41018,12 +40835,21 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>S6 E19 - A Wave Goodbye</sub-title>
     <category>DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas24-fast" start="20261031100606 +0000" stop="20261031105006 +0000">
-    <title>Bondi Vet</title>
-    <icon src="https://api.tvapi.com.au/images/BONV06-030_medium.jpeg"/>
-    <desc>An extraordinary story of love and dedication at SASH. One year old orphan Olivia has a deadly heart murmur which will kill her within months. She needs an expensive operation and Paws volunteer Denise is determined she will get it. The first operation fails but the team at Sash will not give up. Will a second surgery finally give this little girl a chance at a new life and a new home?</desc>
-    <sub-title>9.06 - 9.50pm</sub-title>
-    <category>ANIMALS</category>
+  <programme channel="mjh-onthecase-fast" start="20261031115257 +0000" stop="20261031124157 +0000">
+    <title>On The Case S6 E20</title>
+    <icon src="https://api.tvapi.com.au/images/ONTC06-020_medium.jpeg"/>
+    <desc>A college student is found stabbed to death in her off campus apartment. Will it take a second tragic murder to solve her case?
+</desc>
+    <sub-title>S6 E20 - Hidden By Lies</sub-title>
+    <category>DOCUMENTARY SERIES</category>
+  </programme>
+  <programme channel="mjh-onthecase-fast" start="20261031124249 +0000" stop="20261031133149 +0000">
+    <title>On The Case S6 E21</title>
+    <icon src="https://api.tvapi.com.au/images/ONTC06-021_medium.jpeg"/>
+    <desc>Police must track down a vicious killer on his deadly cross-country journey.
+</desc>
+    <sub-title>S6 E21 A Killer In Town</sub-title>
+    <category>DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas24-fast" start="20261031105036 +0000" stop="20261031114136 +0000">
     <title>Bondi Vet</title>
@@ -41032,25 +40858,39 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>9.50 - 10.41pm</sub-title>
     <category>ANIMALS</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261031095358 +0000" stop="20261031101958 +0000">
-    <title>Death - Alisa Stewart's Ghost Visits</title>
-    <icon src="https://api.tvapi.com.au/images/HAW4-545_medium.jpeg"/>
-    <desc>Tragedy strikes on VJ's birthday. Shelley leaves Summer Bay. Alf's life takes an incredible twist.</desc>
-    <sub-title>8.53 - 9.19pm</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-cas24-fast" start="20261031114216 +0000" stop="20261031123216 +0000">
+    <title>Bondi Vet</title>
+    <icon src="https://api.tvapi.com.au/images/BONV07-002_medium.jpeg"/>
+    <desc>Chris meets a labradoodle with a chronic sneezing problem. 2-year-old Lulu suffers massive sneezing fits up to 4 times a day, and her devoted owner Kim is desperate for help. Chris fears Lulu may have a tumour.</desc>
+    <sub-title>10.42 - 11.32pm</sub-title>
+    <category>ANIMALS</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261031102032 +0000" stop="20261031104532 +0000">
-    <title>(2003) Birth - David Simpson</title>
-    <icon src="https://api.tvapi.com.au/images/HAW4-661_medium.jpeg"/>
-    <desc>Flynn puts his life on the line to deliver Sophie's baby. Pippa returns to Summer Bay. Who is the surprise wedding guest?</desc>
-    <sub-title>9.20 - 9.45pm</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-cas24-fast" start="20261031123225 +0000" stop="20261031132225 +0000">
+    <title>Bondi Vet</title>
+    <icon src="https://api.tvapi.com.au/images/BONV07-003_medium.jpeg"/>
+    <desc>Chris has been invited to Abu Dhabi after a special invitation to visit an extraordinary veterinary hospital. The hospital is for sick and injured falcons, and they are treated like royalty. Chris has to preform delicate surgery on a falcon wing.</desc>
+    <sub-title>Invitation To Abu Dhabi</sub-title>
+    <category>ANIMALS</category>
   </programme>
   <programme channel="mjh-cas26-fast" start="20261031104532 +0000" stop="20261031111132 +0000">
     <title>(2004) Tragedy - Mine Shaft</title>
     <icon src="https://api.tvapi.com.au/images/HAW4-776_medium.jpeg"/>
     <desc>Tragedy rocks the Sutherland family. </desc>
     <sub-title>9.45 - 10.11pm</sub-title>
+    <category>DRAMA</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20261031111152 +0000" stop="20261031113752 +0000">
+    <title>(2003) Wedding - Sally &amp; Flynn</title>
+    <icon src="https://api.tvapi.com.au/images/HAW4-663_medium.jpeg"/>
+    <desc>Tears, drama and more than a few surprises - its Summer Bay's wedding of the year!</desc>
+    <sub-title>10.11 - 10.37pm</sub-title>
+    <category>DRAMA</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20261031113833 +0000" stop="20261031120433 +0000">
+    <title>(2004) Wedding - Kane &amp; Kirsty</title>
+    <icon src="https://api.tvapi.com.au/images/HAW4-795_medium.jpeg"/>
+    <desc>Beth and Rhys' nuptials are mirrored by another secret wedding. A shocking accident leaves two lives hanging in the balance. Celebrations are marred by disturbing news about Kirsty.</desc>
+    <sub-title>10.38 - 11.04pm</sub-title>
     <category>DRAMA</category>
   </programme>
   <programme channel="mjh-livgolfreplays-fast" start="20261031090347 +0000" stop="20261031133847 +0000">
@@ -41074,13 +40914,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Adelaide | Round 1</sub-title>
     <category>GOLF</category>
   </programme>
-  <programme channel="mjh-waterrats-fast" start="20261031094105 +0000" stop="20261031103005 +0000">
-    <title>Water Rats - S5 E7 - End Game</title>
-    <icon src="https://api.tvapi.com.au/images/WARA05-007_medium.jpeg"/>
-    <desc>Frank and Rachel are assigned to work with Detective Michael Reilly of VIP Security while a prominent Islamic preacher is in Sydney.</desc>
-    <sub-title>S5 E7 - End Game</sub-title>
-    <category>DRAMA SERIAL</category>
-  </programme>
   <programme channel="mjh-waterrats-fast" start="20261031103026 +0000" stop="20261031112026 +0000">
     <title>Water Rats - S5 E8 - Tomorrow Never Comes</title>
     <icon src="https://api.tvapi.com.au/images/WARA05-008_medium.jpeg"/>
@@ -41095,12 +40928,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>S5 E9 - Goes With The Territory</sub-title>
     <category>DRAMA SERIAL</category>
   </programme>
-  <programme channel="mjh-7afl-fast" start="20261031081539 +0000" stop="20261031110139 +0000">
-    <title>Richmond v Melbourne | Round 7</title>
-    <icon src="https://api.tvapi.com.au/images/AFLG26-072_medium.jpeg"/>
-    <desc>Richmond and Melbourne clash at the MCG in the traditional ANZAC Eve match</desc>
-    <sub-title>Richmond v Melbourne | Round 7</sub-title>
-    <category>AUSTRALIAN RULES FOOTBALL</category>
+  <programme channel="mjh-waterrats-fast" start="20261031121139 +0000" stop="20261031130039 +0000">
+    <title>Water Rats - S5 E10 - Fish Out Of Water</title>
+    <icon src="https://api.tvapi.com.au/images/WARA05-010_medium.jpeg"/>
+    <desc>Tayler becomes romantically involved with another police officer while on a diving course. However, while out together on a recreational dive, her lover goes missing.</desc>
+    <sub-title>S5 E10 - Fish Out Of Water</sub-title>
+    <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-7afl-fast" start="20261031110155 +0000" stop="20261031135355 +0000">
     <title>Essendon v Collingwood | Round 7</title>
@@ -41116,12 +40949,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>The Front Bar - 29th April</sub-title>
     <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
-  <programme channel="mjh-cas32-fast" start="20261031093245 +0000" stop="20261031102545 +0000">
-    <title>What Happened To Rory Sykes?</title>
-    <icon src="https://api.tvapi.com.au/images/7SPL26-002_medium.jpeg"/>
-    <desc>Australian man Rory Sykes died in the LA fires in January 2025. But when his grieving mother Shelley shared her pain publicly, online conspiracists turned on her. So, what happened to Rory?</desc>
-    <sub-title>What Happened To Rory Sykes?</sub-title>
-    <category>NEWS</category>
+  <programme channel="mjh-7afl-fast" start="20261031150414 +0000" stop="20261031152914 +0000">
+    <title>Harris Andrews</title>
+    <icon src="https://api.tvapi.com.au/images/UNFI26-007_medium.jpeg"/>
+    <desc>Hamish McLachlan sits down with some of the AFL's most prominent personalities for in depth conversations revealing, challenges, triumphs, and vulnerabilities, beyond their sporting achievements.</desc>
+    <sub-title>Harris Andrews</sub-title>
+    <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
   <programme channel="mjh-cas32-fast" start="20261031102546 +0000" stop="20261031111546 +0000">
     <title>A Law Unto Themselves</title>
@@ -41137,12 +40970,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Viral On Trial</sub-title>
     <category>NEWS</category>
   </programme>
-  <programme channel="mjh-wtn-fast" start="20261031093158 +0000" stop="20261031102658 +0000">
-    <title>Tuna and The Beast</title>
-    <icon src="https://api.tvapi.com.au/images/WTOB036_medium.jpeg"/>
-    <desc>With less than two weeks left in the season, every boat in the fleet is feeling the pressure to produce.</desc>
-    <sub-title>Tuna and The Beast</sub-title>
-    <category>reality</category>
+  <programme channel="mjh-cas32-fast" start="20261031120720 +0000" stop="20261031130220 +0000">
+    <title>Elon's Dad &amp; The Fall And Fall Of Fergie</title>
+    <icon src="https://api.tvapi.com.au/images/7SPL26-005_medium.jpeg"/>
+    <desc>Errol Musk: the astonishing interview with the man who raised the world's richest person. Plus, the Princess and P.Diddy. Spotlight charts the fall and fall of Sarah Ferguson.</desc>
+    <sub-title>Elon's Dad &amp; The Fall And Fall Of Fergie</sub-title>
+    <category>NEWS</category>
   </programme>
   <programme channel="mjh-wtn-fast" start="20261031102706 +0000" stop="20261031112206 +0000">
     <title>Catch Me If You Can</title>
@@ -41158,12 +40991,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Title Fight</sub-title>
     <category>reality</category>
   </programme>
-  <programme channel="mjh-winnersnlosers-fast" start="20261031095906 +0000" stop="20261031104306 +0000">
-    <title>Winners &amp; Losers S4 Ep13</title>
-    <icon src="https://api.tvapi.com.au/images/WILO4-013_medium.jpeg"/>
-    <desc>Jenny finds Gabe half-naked on her doorstep. While Frances goes into labour, Doug and Carla's adoption isn't going so well. Sophie tries to resist Luke and Sam's life is put in danger.</desc>
-    <sub-title>When You Least Expect It</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-wtn-fast" start="20261031121725 +0000" stop="20261031131225 +0000">
+    <title>Battle Lines</title>
+    <icon src="https://api.tvapi.com.au/images/WTOB039_medium.jpeg"/>
+    <desc>It's opening day of the bluefin season, and a reduced quote puts pressure on the captains.</desc>
+    <sub-title>Battle Lines</sub-title>
+    <category>reality</category>
   </programme>
   <programme channel="mjh-winnersnlosers-fast" start="20261031104341 +0000" stop="20261031113141 +0000">
     <title>Winners &amp; Losers</title>
@@ -41179,12 +41012,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>This Is Your Life?</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20261031092706 +0000" stop="20261031102006 +0000">
-    <title>Caught On Dashcam</title>
-    <icon src="https://api.tvapi.com.au/images/CODC03-006_medium.jpeg"/>
-    <desc>The show that delivers the spills &amp; thrills of the road directly to your living room. From parking fails to holiday disasters, even a dog riding a horse – we've guaranteed every form of entertainment!</desc>
-    <sub-title>8.27 - 9.20pm</sub-title>
-    <category>COMPILATION PROGRAM</category>
+  <programme channel="mjh-winnersnlosers-fast" start="20261031121603 +0000" stop="20261031130403 +0000">
+    <title>Winners &amp; Losers S4 Ep16</title>
+    <icon src="https://api.tvapi.com.au/images/WILO4-016_medium.jpeg"/>
+    <desc>Sophie's concerns about Luke's partying ease, until she discovers he binge drank alone. Izzy ignores Frances' warning and refuses to tell Carla she wants to slow the surrogacy process.</desc>
+    <sub-title>The Cold Light Of Day</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-surveillancecentral-fast" start="20261031102032 +0000" stop="20261031111432 +0000">
     <title>Caught On Dashcam</title>
@@ -41200,12 +41033,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>10.14 - 11.08pm</sub-title>
     <category>COMPILATION PROGRAM</category>
   </programme>
-  <programme channel="mjh-outbacktruckers-fast" start="20261031094914 +0000" stop="20261031104014 +0000">
-    <title>Outback Truckers</title>
-    <icon src="https://api.tvapi.com.au/images/MUTR05-007_medium.jpeg"/>
-    <desc>Country boy Anthony and city wife Danyelle, battle bogs and blocked bores to bring water to desperate cattle stations.</desc>
-    <sub-title>8.49 - 9.40pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-surveillancecentral-fast" start="20261031120925 +0000" stop="20261031130325 +0000">
+    <title>Caught On Dashcam Holiday Specials</title>
+    <icon src="https://api.tvapi.com.au/images/CDCH02-001_medium.png"/>
+    <desc>A festive compilation of the most unforgettable, chaotic, and most shocking dashcam moments from around the world.</desc>
+    <sub-title>Caught On Dashcam Holiday Specials S2 Ep: 1</sub-title>
+    <category>COMPILATION PROGRAM</category>
   </programme>
   <programme channel="mjh-outbacktruckers-fast" start="20261031104054 +0000" stop="20261031113154 +0000">
     <title>Outback Truckers</title>
@@ -41221,19 +41054,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>10.32 - 11.23pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-anglersparadise-fast" start="20261031091851 +0000" stop="20261031100851 +0000">
-    <title>Hook Line And Sinker</title>
-    <icon src="https://api.tvapi.com.au/images/HOLS20-009_medium.jpeg"/>
-    <desc>Join Nick Duigan and Andrew Hart on a fishing adventure around Australia and the world.</desc>
-    <sub-title>8.18 - 9.08pm</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-anglersparadise-fast" start="20261031100936 +0000" stop="20261031105936 +0000">
-    <title>Hook Line And Sinker</title>
-    <icon src="https://api.tvapi.com.au/images/HOLS20-010_medium.jpeg"/>
-    <desc>Join Nick Duigan and Andrew Hart on a fishing adventure around Australia and the world.</desc>
-    <sub-title>9.09 - 9.59pm</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-outbacktruckers-fast" start="20261031122414 +0000" stop="20261031131514 +0000">
+    <title>Outback Truckers</title>
+    <icon src="https://api.tvapi.com.au/images/MUTR06-008_medium.jpeg"/>
+    <desc>Trainee trucker Danyelle Haigh gets a brutal driving lesson as her family's water drilling rig heads for cattle country.</desc>
+    <sub-title>11.24pm - 12.15am</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-anglersparadise-fast" start="20261031110036 +0000" stop="20261031115136 +0000">
     <title>Hook Line And Sinker</title>
@@ -41242,12 +41068,19 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>10.00 - 10.51pm</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-truckinghell-fast" start="20261031095605 +0000" stop="20261031104505 +0000">
-    <title>Season 9 Episode 10</title>
-    <icon src="https://api.tvapi.com.au/images/TRKH09-010_medium.jpeg"/>
-    <desc>A burnt horse box, a lorry stuck on the A66, and a trailer of oranges at risk—three high-pressure recoveries test skill and nerve.</desc>
-    <sub-title>Season 9 Episode 10</sub-title>
-    <category>LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-anglersparadise-fast" start="20261031115145 +0000" stop="20261031124245 +0000">
+    <title>Hook Line And Sinker</title>
+    <icon src="https://api.tvapi.com.au/images/HOLS20-012_medium.jpeg"/>
+    <desc>Join Nick Duigan and Andrew Hart on a fishing adventure around Australia and the world.</desc>
+    <sub-title>10.51 - 11.42pm</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
+  </programme>
+  <programme channel="mjh-anglersparadise-fast" start="20261031124255 +0000" stop="20261031131055 +0000">
+    <title>Merv Hughes Fishing</title>
+    <icon src="https://api.tvapi.com.au/images/MHFI10-010_medium.jpeg"/>
+    <desc>Wrapping up his Darwin adventures, Merv goes after trophy catches with a final flourish, bringing viewers a thrilling conclusion to his Top End journey.</desc>
+    <sub-title>Darwin, NT, Pt. 2</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-truckinghell-fast" start="20261031104526 +0000" stop="20261031113326 +0000">
     <title>Season 9 Episode 11 - Mega Rollovers</title>
@@ -41263,25 +41096,32 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Season 9 Episode 12 - Water Rescues</sub-title>
     <category>LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261031095156 +0000" stop="20261031101756 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>8.51 - 9.17pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261031101759 +0000" stop="20261031104359 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>9.17 - 9.43pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
+  <programme channel="mjh-truckinghell-fast" start="20261031122307 +0000" stop="20261031131407 +0000">
+    <title>Season 2 Episode 13</title>
+    <icon src="https://api.tvapi.com.au/images/TRKH02-013_medium.jpeg"/>
+    <desc>In this episode, on a busy rural road in Essex, recovery op Steve Knight battles rush hour traffic to get his recovery vehicle around the narrow roads to get to a 7.5 tonne lorry down a ditch.</desc>
+    <sub-title>Season 2 Episode 13</sub-title>
+    <category>LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-judgejudy-fast" start="20261031104402 +0000" stop="20261031111002 +0000">
     <title>Judge Judy</title>
     <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
     <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
     <sub-title>9.44 - 10.10pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-judgejudy-fast" start="20261031111005 +0000" stop="20261031113605 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>10.10 - 10.36pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-judgejudy-fast" start="20261031113607 +0000" stop="20261031120207 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>10.36 - 11.02pm</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-all-starcinema-fast" start="20261031092415 +0000" stop="20261031110915 +0000">
@@ -41305,40 +41145,26 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Under The Stadium Lights</sub-title>
     <category>DRAMA MOVIE</category>
   </programme>
-  <programme channel="mjh-bluelight-fast" start="20261031094531 +0000" stop="20261031101231 +0000">
-    <title>Highway Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/HWYP11-004_medium.jpeg"/>
-    <desc>A man's desperate dash for the dunny because of diarrhea nearly ends in disaster when he's caught by officers Andy Oakley and Rob Jones.</desc>
-    <sub-title>Diarrhoea Disaster</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-bluelight-fast" start="20261031101234 +0000" stop="20261031103834 +0000">
-    <title>The Force - Behind The Line</title>
-    <icon src="https://api.tvapi.com.au/images/TRUE9-016_medium.jpeg"/>
-    <desc>Officers execute a warrant on a mortgage broker suspected of supplying fraudulent home loans. Police suspect homeowners are engaged in the illegal manufacture of methamphetamine.</desc>
-    <sub-title>9.12 - 9.38pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-bluelight-fast" start="20261031103911 +0000" stop="20261031110411 +0000">
-    <title>Highway Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/HWYP11-005_medium.jpeg"/>
-    <desc>A man with a warrant for his arrest is on the run from police when he's suddenly spotted by the Highway Patrol. What follows next is a high speed chase, as the cops try and nail him on foot.</desc>
-    <sub-title>Get On The Ground</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261031093156 +0000" stop="20261031102256 +0000">
-    <title>Mt. Hutt Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/HUTT01-005_medium.jpeg"/>
-    <desc>An avalanche alert sends plans for the season’s biggest party into disarray. A family is left stranded facing a huge bill for cancelled flights. And an accident-prone snowboarder pushes it too far.</desc>
-    <sub-title>8.31 - 9.22pm</sub-title>
+  <programme channel="mjh-bluelight-fast" start="20261031110432 +0000" stop="20261031113232 +0000">
+    <title>Motorbike Cops</title>
+    <icon src="https://api.tvapi.com.au/images/MTCP02-010_medium.jpeg"/>
+    <desc>A guy going 40 kilometres over the speed limit tells cops...it's the bike's fault! A young man is lane filtering with his mirrors folded in - not a good idea on a rainy day.</desc>
+    <sub-title>10.04 - 10.32pm</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261031102335 +0000" stop="20261031104835 +0000">
-    <title>Medical Emergency</title>
-    <icon src="https://api.tvapi.com.au/images/MDEM3-004_medium.jpeg"/>
-    <desc>Air Ambulance paramedics respond to a code one emergency when a motorbike rider is found unconscious after a bad fall. Across town, one-year-old Corey has arrived at the Sandringham Hospital after a household accident. And we revisit race car driver Shaun, as surgeons work on his spine to prevent him from being paralysed. Narrated by Chris Gabardi.</desc>
-    <sub-title>9.23 - 9.48pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-bluelight-fast" start="20261031113314 +0000" stop="20261031115514 +0000">
+    <title>Highway Patrol</title>
+    <icon src="https://api.tvapi.com.au/images/HWYP11-006_medium.jpeg"/>
+    <desc>When a car runs a red and hits another vehicle, the driver takes off from the scene. A woman and her son turn up, claiming she was behind the wheel. But every eyewitness says otherwise.</desc>
+    <sub-title>Liar Liar</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-bluelight-fast" start="20261031115557 +0000" stop="20261031122257 +0000">
+    <title>Highway Patrol</title>
+    <icon src="https://api.tvapi.com.au/images/HWYP11-008_medium.jpeg"/>
+    <desc>Officers Brian West and Peter Shrimpton are in for the most frustrating night of their life when they meet a drunk woman who reckons she doesn't know the difference between blow and suck.</desc>
+    <sub-title>Don't Suck, Blow!</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-medicalnrescue-fast" start="20261031104926 +0000" stop="20261031111426 +0000">
     <title>Medical Emergency</title>
@@ -41347,12 +41173,19 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>9.49 - 10.14pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-blueheelers-fast" start="20261031093102 +0000" stop="20261031102302 +0000">
-    <title>Blue Heelers S2 Ep13</title>
-    <icon src="https://api.tvapi.com.au/images/BLUH-030_medium.jpeg"/>
-    <desc>When Roz hears a shooting over the telephone, her life is changed radically.</desc>
-    <sub-title>S2 E13 - Necessary Force</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-medicalnrescue-fast" start="20261031111457 +0000" stop="20261031113857 +0000">
+    <title>Surf Patrol</title>
+    <icon src="https://api.tvapi.com.au/images/SPTL2-008_medium.jpeg"/>
+    <desc>At King's Beach on Queensland's Sunshine Coast, shark sightings up and down the east coast create havoc in the water. At Avoca, north of Sydney, teenage daredevils cause headaches for lifesavers. Then, Gold Coast lifesavers race to save a stricken tourist.</desc>
+    <sub-title>10.14 - 10.38pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-medicalnrescue-fast" start="20261031113922 +0000" stop="20261031120422 +0000">
+    <title>Medical Emergency</title>
+    <icon src="https://api.tvapi.com.au/images/MDEM3-006_medium.jpeg"/>
+    <desc>A 17-year-old learner driver has suffered serious injuries following a high-speed collision and time is critical in getting a young epileptic boy to doctors before he suffers brain damage. We revisit Charlotte, who last week underwent surgery from a surprisingly common condition that affects one in five Australians. Narrated by Chris Gabardi.</desc>
+    <sub-title>10.39 - 11.04pm</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-blueheelers-fast" start="20261031102353 +0000" stop="20261031111553 +0000">
     <title>Blue Heelers S2 Ep14</title>
@@ -41368,12 +41201,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>S2 E15 - Crazy Like A Fox</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-kitchennightmares-fast" start="20261031093247 +0000" stop="20261031102247 +0000">
-    <title>Juniper Hill - Part 1</title>
-    <icon src="https://api.tvapi.com.au/images/HELL01-004_medium.jpeg"/>
-    <desc>Gordon Ramsay checks in to some of America's worst hotels.</desc>
-    <sub-title>Juniper Hill - Part 1</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-blueheelers-fast" start="20261031120859 +0000" stop="20261031125959 +0000">
+    <title>Blue Heelers S2 Ep16</title>
+    <icon src="https://api.tvapi.com.au/images/BLUH-033_medium.jpeg"/>
+    <desc>Some strange goings on at an old people's home leads to an unexpected culprit.</desc>
+    <sub-title>S2 E16 - Old Dogs, New Tricks</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-kitchennightmares-fast" start="20261031102315 +0000" stop="20261031111415 +0000">
     <title>Ms Jean's Souther Cuisine</title>
@@ -41389,12 +41222,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Barefoot Bob's Beach Grill</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-acountrypractice-fast" start="20261031095650 +0000" stop="20261031105150 +0000">
-    <title>S6 E42 - Black Sheep - Part 2</title>
-    <icon src="https://api.tvapi.com.au/images/CNP-398_medium.png"/>
-    <desc>Frank gets a visit from the police psychologist when he admits he needs help.</desc>
-    <sub-title>S6 E42 - Black Sheep - Part 2</sub-title>
-    <category>Drama Serial</category>
+  <programme channel="mjh-kitchennightmares-fast" start="20261031120535 +0000" stop="20261031125735 +0000">
+    <title>Revisited #1</title>
+    <icon src="https://api.tvapi.com.au/images/KNUS06-006_medium.jpeg"/>
+    <desc>Chef Ramsay catches up with some of his worst nightmares.</desc>
+    <sub-title>Revisited #1</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-acountrypractice-fast" start="20261031105216 +0000" stop="20261031114716 +0000">
     <title>S6 E43 - Fire - Part 1</title>
@@ -41410,19 +41243,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>S6 E44 - Fire - Part 2</sub-title>
     <category>Drama Serial</category>
   </programme>
-  <programme channel="mjh-truecrimefiles-fast" start="20261031091613 +0000" stop="20261031100613 +0000">
-    <title>World's Most Evil Killers</title>
-    <icon src="https://api.tvapi.com.au/images/WEKI06-007_medium.jpeg"/>
-    <desc>Daniel Gonzalez - Freddy Krueger Killer: The story of the killer who took four lives during a chilling two-day killing spree in 2004 after being inspired by horror films. </desc>
-    <sub-title>DANIEL GONZALEZ</sub-title>
-    <category>TRUE CRIME</category>
-  </programme>
-  <programme channel="mjh-truecrimefiles-fast" start="20261031100625 +0000" stop="20261031105825 +0000">
-    <title>World's Most Evil Killers</title>
-    <icon src="https://api.tvapi.com.au/images/WEKI06-008_medium.jpeg"/>
-    <desc>The story of serial killer Geoffrey Evans and his accomplice John Shaw, who hit headlines in 1976 after the murders of two women in Ireland. </desc>
-    <sub-title>GEOFFREY EVANS AND JOHN SHAW</sub-title>
-    <category>TRUE CRIME</category>
+  <programme channel="mjh-acountrypractice-fast" start="20261031124236 +0000" stop="20261031133736 +0000">
+    <title>S6 E45 - From The Ashes - Part 1</title>
+    <icon src="https://api.tvapi.com.au/images/CNP-401_medium.png"/>
+    <desc>Ben and Jo care for the animals that were injured in the fire.</desc>
+    <sub-title>S6 E45 - From The Ashes - Part 1</sub-title>
+    <category>Drama Serial</category>
   </programme>
   <programme channel="mjh-truecrimefiles-fast" start="20261031105906 +0000" stop="20261031115006 +0000">
     <title>World's Most Evil Killers</title>
@@ -41431,12 +41257,19 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>MARK MARTIN</sub-title>
     <category>TRUE CRIME</category>
   </programme>
-  <programme channel="mjh-art-fast" start="20261031093048 +0000" stop="20261031101948 +0000">
-    <title>Antiques Road Trip</title>
-    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR1311V_medium.jpeg"/>
-    <desc>Philip Serrell spends big on a butter churn. Catherine Southon finds two 1940s compacts.</desc>
-    <sub-title>Philip Serrell and Catherine Southon, Day 1</sub-title>
-    <category>history</category>
+  <programme channel="mjh-truecrimefiles-fast" start="20261031115015 +0000" stop="20261031124115 +0000">
+    <title>World's Most Evil Killers</title>
+    <icon src="https://api.tvapi.com.au/images/WEKI06-010_medium.jpeg"/>
+    <desc>The story of Malcolm Green, who was jailed for life for the brutal murder of a Cardiff prostitute, only to kill again when he was released after 18 years. </desc>
+    <sub-title>MALCOLM GREEN</sub-title>
+    <category>TRUE CRIME</category>
+  </programme>
+  <programme channel="mjh-truecrimefiles-fast" start="20261031124132 +0000" stop="20261031133432 +0000">
+    <title>World's Most Evil Killers</title>
+    <icon src="https://api.tvapi.com.au/images/WEKI06-011_medium.jpeg"/>
+    <desc>The story of the Beltway sniper attacks. John Allen and his teenage accomplice carried out the brutal series of shootings that killed 10. </desc>
+    <sub-title>JOHN ALLEN AND LEE MALVO</sub-title>
+    <category>TRUE CRIME</category>
   </programme>
   <programme channel="mjh-art-fast" start="20261031102017 +0000" stop="20261031111117 +0000">
     <title>Antiques Road Trip</title>
@@ -41450,6 +41283,13 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR1313V_medium.jpeg"/>
     <desc>Catherine Southon decides to change her strategy. Phil Serrell talks to a local fisherman.</desc>
     <sub-title>Philip Serrell and Catherine Southon, Day 3</sub-title>
+    <category>history</category>
+  </programme>
+  <programme channel="mjh-art-fast" start="20261031120119 +0000" stop="20261031125219 +0000">
+    <title>Antiques Road Trip</title>
+    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR1314V_medium.jpeg"/>
+    <desc>Catherine Southon sees cables that stretch across the ocean. Phil Serrell goes for a ride.</desc>
+    <sub-title>Philip Serrell and Catherine Southon, Day 4</sub-title>
     <category>history</category>
   </programme>
   <programme start="20261031093044 +0000" stop="20261031115241 +0000" channel="mjh-7bravo-fast">
@@ -43506,13 +43346,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="mjh-heki-fast" start="20261031093141 +0000" stop="20261031102241 +0000">
-    <title>12 Chefs Compete</title>
-    <icon src="https://api.tvapi.com.au/images/1-5021-0222-003_HellsKitchen_SR15_EP06-ENG_TD_HD_medium.jpeg"/>
-    <desc>US cooking contest. Dinner sees the 12 remaining chefs serving octopus, steak and lobster.</desc>
-    <sub-title>12 Chefs Compete</sub-title>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-heki-fast" start="20261031102309 +0000" stop="20261031111409 +0000">
     <title>11 Chefs Compete</title>
     <icon src="https://api.tvapi.com.au/images/1-5021-0223-003_HellsKitchen_SR15_EP07-ENG_TD_HD_medium.jpeg"/>
@@ -43527,12 +43360,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>10 Chefs Compete</sub-title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="mjh-belowdeckvault-fast" start="20261031094159 +0000" stop="20261031102959 +0000">
-    <title>WWHL: Below Deck Sailing Yacht S2 Reunion (Part 2)</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU196721-T1_medium.jpeg"/>
-    <desc>The Parsifal III crews sits down with Host Andy Cohen for Below Deck Sailing Yacht Reunion Part Two.</desc>
-    <sub-title>WWHL: Below Deck Sailing Yacht S2 Reunion (Part 2)</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-heki-fast" start="20261031120606 +0000" stop="20261031125706 +0000">
+    <title>10 Chefs Again</title>
+    <icon src="https://api.tvapi.com.au/images/1-5021-0225-003_HellsKitchen_SR15_EP09-ENG_TD_HD_medium.jpeg"/>
+    <desc>Undercooked rib eyes result in one team losing the team challenge.</desc>
+    <sub-title>10 Chefs Again</sub-title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="mjh-belowdeckvault-fast" start="20261031103048 +0000" stop="20261031111548 +0000">
     <title>The Magic Seamen</title>
@@ -43548,39 +43381,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>An Eruption of Volcanic Proportions</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-misc503-fast" start="20261031083000 +0000" stop="20261031101500 +0000">
-    <title>Hockey One: Adelaide Fire vs NSW Pride Men's Round 4</title>
-    <icon src="https://api.tvapi.com.au/images/HOON26-030_medium.jpeg"/>
-    <desc>Hockey One: Adelaide Fire vs NSW Pride Men's Round 4</desc>
-    <sub-title>7.30 - 9.15pm</sub-title>
-    <category>HOCKEY</category>
-  </programme>
-  <programme channel="mjh-misc503-fast" start="20261101045000 +0000" stop="20261101065000 +0000">
-    <title>Hockey One: Perth Thundersticks vs Melbourne Cobras Women's Round 4</title>
-    <icon src="https://api.tvapi.com.au/images/HOON26-031_medium.jpeg"/>
-    <desc>Hockey One: Perth Thundersticks vs Melbourne Cobras Women's Round 4</desc>
-    <sub-title>3.50 - 5.50pm</sub-title>
-    <category>HOCKEY</category>
-  </programme>
-  <programme channel="mjh-misc503-fast" start="20261101063000 +0000" stop="20261101081500 +0000">
-    <title>Hockey One: Perth Thundersticks vs Melbourne Cobras Men's Round 4</title>
-    <icon src="https://api.tvapi.com.au/images/HOON26-032_medium.jpeg"/>
-    <desc>Hockey One: Perth Thundersticks vs Melbourne Cobras Men's Round 4</desc>
-    <sub-title>5.30 - 7.15pm</sub-title>
-    <category>HOCKEY</category>
-  </programme>
-  <programme start="20261031093000 +0000" stop="20261031103000 +0000" channel="mjh-tvsn-fast">
-    <title>Fashion FRENZY</title>
-    <sub-title>Saturday 31 October 2026,</sub-title>
-    <desc>TVSN showcases the best of our fashion ranges. Expect lots of great cuts and colours and enough wow factor to whip you into a frenzy of excitement!</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/51cab2edf404deb2a4a1/image"/>
-    <episode-num system="SxxExx">S2026E20</episode-num>
-    <episode-num system="xmltv_ns">2025.19.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+  <programme channel="mjh-belowdeckvault-fast" start="20261031120324 +0000" stop="20261031125024 +0000">
+    <title>She's Just Not That Into You</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU2330-S2T18_medium.jpeg"/>
+    <desc>Captain Jason gets involved when Chef Tzarina refuses to fulfill a guest request. Luka feels like a stew might be interested in him. The final night of the charter season leads to arguing, crying and relationships in shambles.</desc>
+    <sub-title>She's Just Not That Into You</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme start="20261031103000 +0000" stop="20261031113000 +0000" channel="mjh-tvsn-fast">
     <title>World of Gems</title>
@@ -45636,13 +45442,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-etc-fast" start="20261031085947 +0000" stop="20261031101047 +0000">
-    <title>Dartford to North Devon</title>
-    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00014_medium.jpeg"/>
-    <desc>Michael and Diana want a complete change of lifestyle with a move to Devon. Driving instructor Michael wants to turn his back on Dartford’s congestion. He and Diana have £375k to find a home that will attract friends and family for the weekend.</desc>
-    <sub-title>Dartford to North Devon</sub-title>
-    <category>Home</category>
-  </programme>
   <programme channel="mjh-etc-fast" start="20261031101059 +0000" stop="20261031112159 +0000">
     <title>North London to Peak Distrct</title>
     <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00015_medium.jpeg"/>
@@ -45657,12 +45456,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Glasgow to the Borders</sub-title>
     <category>Home</category>
   </programme>
-  <programme channel="mjh-therealhousewivesvault-fast" start="20261031093910 +0000" stop="20261031102610 +0000">
-    <title>Hot Mess Express</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU947-S14T11_medium.jpeg"/>
-    <desc>For Shannon's birthday, the ladies celebrate with a trip on a train to Del Mar and where Shannon's goal is to find a man to kiss. Vicki and former housewife Meghan King Edmonds come along for the ride. Still upset over the canceled double date, Gina avoids Emily, angered that the date may have been a bad set up from the start. Gina feels betrayed, but Emily insists she only had good intentions.</desc>
-    <sub-title>Hot Mess Express</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-etc-fast" start="20261031123316 +0000" stop="20261031134416 +0000">
+    <title>Clapham to the High Weald</title>
+    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00017_medium.jpeg"/>
+    <desc>Chris and Tina grew up in the countryside and want the same for their children. With a budget of £900k they’re looking for the perfect home on the Kent-East Sussex border. Melissa Porter turns up a few surprises, including a home with a famous past.</desc>
+    <sub-title>Clapham to the High Weald</sub-title>
+    <category>Home</category>
   </programme>
   <programme channel="mjh-therealhousewivesvault-fast" start="20261031102708 +0000" stop="20261031111408 +0000">
     <title>Fashion Show Faux Pas</title>
@@ -45678,12 +45477,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Coming Clean</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cricketgold-fast" start="20261031092923 +0000" stop="20261031102823 +0000">
-    <title>2007/08 ODI Tri-Series - 1st Final - Australia v</title>
-    <icon src="https://api.tvapi.com.au/images/CRG00-132891_medium.jpeg"/>
-    <desc>2007/08 ODI Tri-Series - 1st Final - Australia v India</desc>
-    <sub-title>2007/08 ODI Tri-Series - 1st Final - Australia v</sub-title>
-    <category>Sport</category>
+  <programme channel="mjh-therealhousewivesvault-fast" start="20261031120143 +0000" stop="20261031124643 +0000">
+    <title>A Strictly Ballroom Affair</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU741-S15T10_medium.png"/>
+    <desc>The ladies celebrate Racquel and Mel's engagement at their ballroom-themed party. Jenna holds a stoop sale to sell iconic clothing she's acquired throughout her illustrious career. Brynn meets with a ghostwriter. As Erin works on her friendship with Racquel, she finds herself at odds with Ubah.</desc>
+    <sub-title>A Strictly Ballroom Affair</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-cricketgold-fast" start="20261031102923 +0000" stop="20261031112823 +0000">
     <title>2007/08 ODI Tri-Series - 2nd Final - Australia v</title>
@@ -45699,12 +45498,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>2002/03 ODI Tri-Series - Match 11 - Australia v</sub-title>
     <category>Sport</category>
   </programme>
-  <programme channel="mjh-botchedvault-fast" start="20261031100448 +0000" stop="20261031105148 +0000">
-    <title>Junk in the Trunk</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S4T18_medium.png"/>
-    <desc>After a dog ripped off half her lip, a 25-year-old seeks help from the doctors while a woman who pumps up her own 4600cc breasts at home gets some much needed advice.</desc>
-    <sub-title>Junk in the Trunk</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-cricketgold-fast" start="20261031140816 +0000" stop="20261031165816 +0000">
+    <title>2002/03 ODI Tri-Series - Match 12 - Australia v </title>
+    <icon src="https://api.tvapi.com.au/images/CRG00-142621_medium.jpeg"/>
+    <desc>2002/03 ODI Tri-Series - Match 12 - Australia v Sri Lanka</desc>
+    <sub-title>2002/03 ODI Tri-Series - Match 12 - Australia v</sub-title>
+    <category>Sport</category>
   </programme>
   <programme channel="mjh-botchedvault-fast" start="20261031105150 +0000" stop="20261031113850 +0000">
     <title>A Revision Runs Through It</title>
@@ -45720,12 +45519,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Cougars and Cobras and Boobs… Oh My!</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-ncis-fast" start="20261031094127 +0000" stop="20261031103027 +0000">
-    <title>Deadline</title>
-    <icon src="https://api.tvapi.com.au/images/NCIL03-004_medium.jpeg"/>
-    <desc>The NCIS team delves into the underground world of the Libyan resistance movement following the murder of a news reporter, and Hetty reveals details about Callen’s past.</desc>
-    <sub-title>Deadline</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-botchedvault-fast" start="20261031122700 +0000" stop="20261031131400 +0000">
+    <title>Cross-Eyed Nips and Cartel Hips</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S6T16_medium.jpeg"/>
+    <desc>A Cartel Crew bombshell who can't keep fat in her booty seeks advice from Dr. Dubrow.</desc>
+    <sub-title>Cross-Eyed Nips and Cartel Hips</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-ncis-fast" start="20261031103119 +0000" stop="20261031112019 +0000">
     <title>Sacrifice</title>
@@ -45741,12 +45540,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Lone Wolf</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-cas39-fast" start="20261031095209 +0000" stop="20261031104409 +0000">
-    <title>Season 8 Episode 2</title>
-    <icon src="https://api.tvapi.com.au/images/TFAE08-002_medium.jpeg"/>
-    <desc>Following the hard and dedicated work of the NHS doctors and nurses battling to keep Britain alive and well.</desc>
-    <sub-title>Season 8 Episode 2</sub-title>
-    <category>Science</category>
+  <programme channel="mjh-ncis-fast" start="20261031121132 +0000" stop="20261031125932 +0000">
+    <title>Escape Plan</title>
+    <icon src="https://api.tvapi.com.au/images/NCIN03-004_medium.jpeg"/>
+    <desc>The NCIS team must rescue one of their own after Sebastian is kidnapped while at a restaurant with his mother, Sylvia Lund (Wendie Malick), and forced to use his gaming skills in a prison break.</desc>
+    <sub-title>Escape Plan</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-cas39-fast" start="20261031104433 +0000" stop="20261031113733 +0000">
     <title>Season 8 Episode 3</title>
@@ -45762,12 +45561,12 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Season 9 Episode 1</sub-title>
     <category>Science</category>
   </programme>
-  <programme channel="mjh-cas40-fast" start="20261031095133 +0000" stop="20261031103933 +0000">
-    <title>The Shark, The Smooth-Talker and the New Kid</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU628-S1T1_medium.jpeg"/>
-    <desc>Fredrik lands a listing in the "greenest building in the world".</desc>
-    <sub-title>The Shark, The Smooth-Talker and the New Kid</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-cas39-fast" start="20261031122843 +0000" stop="20261031131943 +0000">
+    <title>Season 9 Episode 2</title>
+    <icon src="https://api.tvapi.com.au/images/TFAE09-002_medium.jpeg"/>
+    <desc>37-year-old IT project manager Robert was travelling to work on his motorbike when he collided with a car.</desc>
+    <sub-title>Season 9 Episode 2</sub-title>
+    <category>Science</category>
   </programme>
   <programme channel="mjh-cas40-fast" start="20261031104001 +0000" stop="20261031112801 +0000">
     <title>Parlez-Vous, Francais?</title>
@@ -45783,47 +45582,33 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <sub-title>Hard Hats and Hard Heads</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261031094621 +0000" stop="20261031101021 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR12-003_medium.jpeg"/>
-    <desc>When a call comes in about a suspected heart attack in Bondis busy streets, lifeguards have no choice but to leave the beach to try and save a life.</desc>
-    <sub-title>Season 12 Episode 3</sub-title>
+  <programme channel="mjh-cas40-fast" start="20261031121558 +0000" stop="20261031130358 +0000">
+    <title>Frankel-y Speaking</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU628-S6T3_medium.jpeg"/>
+    <desc>When one of his buyers decides to forego pursuing his SoHo property, Fredrik needs to find a back-up quickly...luckily for him, Bethenny Frankel is at the top of his contact list.</desc>
+    <sub-title>Frankel-y Speaking</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261031101059 +0000" stop="20261031103559 +0000">
+  <programme channel="mjh-cas41-fast" start="20261031110133 +0000" stop="20261031112633 +0000">
     <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR13-001_medium.jpeg"/>
-    <desc>Jackson gets a once in a lifetime opportunity when he meets the Prime Minister... for the second time</desc>
-    <sub-title>Season 13 Episode 1</sub-title>
+    <icon src="https://api.tvapi.com.au/images/BONR13-003_medium.jpeg"/>
+    <desc>When sunny weather and huge surf combine, lifeguards struggle to control the beach and swimmers in deadly trouble.</desc>
+    <sub-title>Season 13 Episode 3</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261031103618 +0000" stop="20261031110118 +0000">
+  <programme channel="mjh-cas41-fast" start="20261031112652 +0000" stop="20261031115152 +0000">
     <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR13-002_medium.jpeg"/>
-    <desc>North Bondi - the family end of the beach - gets a shake up when a man is spotted with a knife.</desc>
-    <sub-title>Season 13 Episode 2</sub-title>
+    <icon src="https://api.tvapi.com.au/images/BONR14-001_medium.jpeg"/>
+    <desc>A new season brings 6 new faces to the lifeguard service.</desc>
+    <sub-title>Season 14 Episode 1</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-misc501-fast" start="20261031085000 +0000" stop="20261031111800 +0000">
-    <title>RLWC: Australia v Cook Islands Triple M Commentary</title>
-    <icon src="https://api.tvapi.com.au/images/RLWC26_medium.jpeg"/>
-    <desc>Triple M's alternate call of Australia v Cook Islands</desc>
-    <sub-title>7.50 - 10.18pm</sub-title>
-    <category>Other</category>
-  </programme>
-  <programme channel="mjh-misc501-fast" start="20261101062500 +0000" stop="20261101084900 +0000">
-    <title>RLWC: Lebanon v France Triple M Commentary</title>
-    <icon src="https://api.tvapi.com.au/images/RLWC26_medium.jpeg"/>
-    <desc>Triple M's alternate call of Lebanon v France</desc>
-    <sub-title>5.25 - 7.49pm</sub-title>
-    <category>Other</category>
-  </programme>
-  <programme channel="mjh-misc501-fast" start="20261101085000 +0000" stop="20261101111900 +0000">
-    <title>RLWC: Tonga v Samoa Triple M Commentary</title>
-    <icon src="https://api.tvapi.com.au/images/RLWC26_medium.jpeg"/>
-    <desc>Triple M's alternate call of Tonga v Samoa </desc>
-    <sub-title>7.50 - 10.19pm</sub-title>
-    <category>Other</category>
+  <programme channel="mjh-cas41-fast" start="20261031115230 +0000" stop="20261031121630 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR14-002_medium.jpeg"/>
+    <desc>Lifeguards are rattled by an after-hours tragedy. Despite warnings they are powerless to stop people swimming in the sweltering heat on the unpatrolled beach.</desc>
+    <sub-title>Season 14 Episode 2</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-10-bigbrother" start="20261031080000 +0000" stop="20261031165900 +0000">
     <title>Big Brother Live Stream</title>
@@ -45869,11 +45654,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Big Brother Live Stream</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/10/12/9bfc6038b68e57b9c5883013f045b383-1466590.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-crime-hunters" start="20261031094900 +0000" stop="20261031104901 +0000">
-    <title>The New Detectives: Case Studies in Forensic Science S7 Ep. 77</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
-    <category>Crime</category>
   </programme>
   <programme channel="mjh-10-crime-hunters" start="20261031104900 +0000" stop="20261031114901 +0000">
     <title>The New Detectives: Case Studies in Forensic Science S7 Ep. 76</title>
@@ -46299,11 +46079,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>The New Detectives: Case Studies in Forensic Science S6 Ep. 63</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-highwaythruhell" start="20261031095000 +0000" stop="20261031104601 +0000">
-    <title>Everything that can go wrong</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HeavyRescue401Season05.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-highwaythruhell" start="20261031104600 +0000" stop="20261031114100 +0000">
     <title>A Hell of a Pull</title>
@@ -46840,11 +46615,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HeavyRescue401Season05.jpg"/>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-dallascheerleaders" start="20261031092900 +0000" stop="20261031101900 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team S7 Ep. 704</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-dallascheerleaders" start="20261031101900 +0000" stop="20261031110900 +0000">
     <title>Dallas Cowboys Cheerleaders: Making the Team S7 Ep. 705</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
@@ -47049,11 +46819,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Dallas Cowboys Cheerleaders: Making the Team S7 Ep. 702</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-cheapseats" start="20261031100500 +0000" stop="20261031110000 +0000">
-    <title>The Cheap Seats S3 Ep. 6</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-cheapseats" start="20261031110000 +0000" stop="20261031115401 +0000">
     <title>The Cheap Seats S3 Ep. 7</title>
@@ -47534,11 +47299,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>The Cheap Seats S3 Ep. 19</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
     <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-prisoner-cell-block-h" start="20261031092600 +0000" stop="20261031101900 +0000">
-    <title>Prisoner Cell Block H S2 Ep. 49</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
-    <category>Drama</category>
   </programme>
   <programme channel="mjh-10-prisoner-cell-block-h" start="20261031101900 +0000" stop="20261031111001 +0000">
     <title>Prisoner Cell Block H S2 Ep. 50</title>
@@ -48044,11 +47804,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Prisoner Cell Block H S1 Ep. 70</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
     <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-grahamnorton" start="20261031095600 +0000" stop="20261031103801 +0000">
-    <title>Series 19 Ep 7 with Tom Hiddleston</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-grahamnorton" start="20261031103800 +0000" stop="20261031112300 +0000">
     <title>Series 21 Ep 5 with Diane Keaton</title>
@@ -48723,16 +48478,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-grahamnorton" start="20261104122000 +0000" stop="20261104130100 +0000">
     <title>Series 18 Ep 2 with Robert De Niro</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261031094700 +0000" stop="20261031101601 +0000">
-    <title>Episode 3</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/8OutOf10CatsUKSeason15_678236.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261031101600 +0000" stop="20261031104300 +0000">
-    <title>Episode 9</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/8OutOf10CatsUKSeason15_678246.jpg"/>
     <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-eightoutof10cats" start="20261031104300 +0000" stop="20261031111100 +0000">
@@ -49539,16 +49284,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Best Bits 1</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261031100200 +0000" stop="20261031102800 +0000">
-    <title>Ridiculousness S10 Ep. 17</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261031102800 +0000" stop="20261031105500 +0000">
-    <title>Ridiculousness S7 Ep. 717</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-mtvridiculousness" start="20261031105500 +0000" stop="20261031112100 +0000">
     <title>Ridiculousness S8 Ep. 812</title>
@@ -50515,11 +50250,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20261031092600 +0000" stop="20261031101901 +0000">
-    <title>Have You Been Paying Attention? S5 Ep. 18</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-haveyoubeenpayingattention" start="20261031101900 +0000" stop="20261031111201 +0000">
     <title>Have You Been Paying Attention? S4 Ep. 17</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
@@ -51035,16 +50765,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-thankgodyourehere" start="20261031091100 +0000" stop="20261031100801 +0000">
-    <title>Thank God You're Here S5 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-thankgodyourehere" start="20261031100800 +0000" stop="20261031110501 +0000">
-    <title>Thank God You're Here S4 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-thankgodyourehere" start="20261031110500 +0000" stop="20261031120501 +0000">
     <title>Thank God You're Here S1 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
@@ -51489,21 +51209,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Thank God You're Here S5 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
     <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261031094400 +0000" stop="20261031100700 +0000">
-    <title>The Ren &amp; Stimpy Show S4 Ep. 11</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c126eaba8eeb0013589cce/featuredImage_1767941324471.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261031100700 +0000" stop="20261031103300 +0000">
-    <title>Ugly Americans S2 Ep. 13</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/7596107b3c35eb26f1e7191ab8d7de53-1439022.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261031103300 +0000" stop="20261031105501 +0000">
-    <title>The Ren &amp; Stimpy Show S5 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c126eaba8eeb0013589cce/featuredImage_1767941324471.jpg"/>
-    <category>Children &amp; Family</category>
   </programme>
   <programme channel="mjh-10-adultanimation" start="20261031105500 +0000" stop="20261031111800 +0000">
     <title>The Ren &amp; Stimpy Show S5 Ep. 2</title>
@@ -52480,16 +52185,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/02d38d982a2f0884058b90356ab09390-1438807.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-becker" start="20261031100400 +0000" stop="20261031103101 +0000">
-    <title>Becker S3 Ep. 9</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20261031103100 +0000" stop="20261031105901 +0000">
-    <title>Becker S3 Ep. 10</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-becker" start="20261031105900 +0000" stop="20261031112700 +0000">
     <title>Becker S3 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
@@ -53405,11 +53100,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-aussiedramapopup" start="20261031092400 +0000" stop="20261031101900 +0000">
-    <title>Rush S2 Ep. 9</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-aussiedramapopup" start="20261031101900 +0000" stop="20261031111301 +0000">
     <title>Rush S2 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
@@ -53883,11 +53573,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-aussiedramapopup" start="20261103222212 +0000" stop="20261103231512 +0000">
     <title>Rush S4 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20261031093800 +0000" stop="20261031102600 +0000">
-    <title>Girls' Night Out</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
   <programme channel="mjh-10-rookieblue" start="20261031102600 +0000" stop="20261031111501 +0000">
@@ -54505,11 +54190,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-heartland" start="20261031100000 +0000" stop="20261031104801 +0000">
-    <title>Lurking in the Shadows</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-heartland" start="20261031104800 +0000" stop="20261031114000 +0000">
     <title>Head Over Heels</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
@@ -55105,11 +54785,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-diagnosismurder" start="20261031091200 +0000" stop="20261031100600 +0000">
-    <title>Diagnosis Murder S4 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-diagnosismurder" start="20261031100600 +0000" stop="20261031111600 +0000">
     <title>Diagnosis Murder S4 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
@@ -55590,11 +55265,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-nexttopmodel" start="20261031093100 +0000" stop="20261031102001 +0000">
-    <title>America's Next Top Model S4 Ep. 1</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-nexttopmodel" start="20261031102000 +0000" stop="20261031110900 +0000">
     <title>America's Next Top Model S4 Ep. 2</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
@@ -56038,11 +55708,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-nexttopmodel" start="20261103223403 +0000" stop="20261103233103 +0000">
     <title>Australia's Next Top Model S6 Ep. 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/664735e03027c80013bb1ec4/featuredImage_1774411531056.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20261031095000 +0000" stop="20261031104100 +0000">
-    <title>Project Runway</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-projectrunway" start="20261031104100 +0000" stop="20261031113301 +0000">
@@ -56610,11 +56275,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-masterchef" start="20261031092300 +0000" stop="20261031102901 +0000">
-    <title>MasterChef Australia AU S12 Ep. 8</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-masterchef" start="20261031102900 +0000" stop="20261031122501 +0000">
     <title>MasterChef Australia AU S12 Ep. 9</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
@@ -56995,11 +56655,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-world-of-survivor" start="20261031092700 +0000" stop="20261031102100 +0000">
-    <title>Survivor US S1 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-world-of-survivor" start="20261031102100 +0000" stop="20261031111600 +0000">
     <title>Survivor US S1 Ep. 2</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
@@ -57328,11 +56983,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-world-of-survivor" start="20261103222554 +0000" stop="20261103234754 +0000">
     <title>Australian Survivor S7 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/01/21/7ed52087d862734638d8612e5790bbfb-1407229.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-mtv-the-shores" start="20261031095700 +0000" stop="20261031104701 +0000">
-    <title>Geordie Shore S11 Ep. 1106</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/76cc999c54efdc240e9b3479c5ee26bf-1437861.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-mtv-the-shores" start="20261031104700 +0000" stop="20261031113701 +0000">
@@ -57854,16 +57504,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Jersey Shore S1 Ep. 109</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/03/e793739f541f8b6a6423517b6e9257e3-1439572.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261031100400 +0000" stop="20261031103200 +0000">
-    <title>Judge Judy S3 Ep. 98</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261031103200 +0000" stop="20261031110001 +0000">
-    <title>Judge Judy S3 Ep. 99</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
   </programme>
   <programme channel="mjh-10-judge-judy" start="20261031110000 +0000" stop="20261031112800 +0000">
     <title>Judge Judy S3 Ep. 100</title>
@@ -58775,16 +58415,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
     <category>Light Entertainment</category>
   </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261031093100 +0000" stop="20261031101101 +0000">
-    <title>The Only Way Is Essex S4 Ep. 6</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261031101100 +0000" stop="20261031105601 +0000">
-    <title>The Only Way Is Essex S4 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-theonlywayisessex" start="20261031105600 +0000" stop="20261031113700 +0000">
     <title>The Only Way Is Essex S4 Ep. 8</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
@@ -59415,16 +59045,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-undercoverboss" start="20261031091600 +0000" stop="20261031100900 +0000">
-    <title>Undercover Boss S5 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-undercoverboss" start="20261031100900 +0000" stop="20261031110200 +0000">
-    <title>Undercover Boss S5 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-undercoverboss" start="20261031110200 +0000" stop="20261031115600 +0000">
     <title>Undercover Boss S5 Ep. 6</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
@@ -59908,21 +59528,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-undercoverboss" start="20261103225219 +0000" stop="20261103234519 +0000">
     <title>Undercover Boss S5 Ep. 6</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261031094700 +0000" stop="20261031101200 +0000">
-    <title>Monster Deals</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason09_591933.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261031101200 +0000" stop="20261031103701 +0000">
-    <title>Tipped Off</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason09_591940.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261031103700 +0000" stop="20261031110100 +0000">
-    <title>Redeem Girl Rumble</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason09_591948.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-hardcorepawn" start="20261031110100 +0000" stop="20261031112600 +0000">
@@ -60989,11 +60594,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Rematch: Ashley vs. Tressa</title>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-wicked-tuna" start="20261031093100 +0000" stop="20261031102700 +0000">
-    <title>Wicked Tuna: Outer Banks</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/30/6e2842d68d5c07e672d32f99577b2758-1151628.jpg"/>
-    <category>Adventure</category>
-  </programme>
   <programme channel="mjh-10-wicked-tuna" start="20261031102700 +0000" stop="20261031112201 +0000">
     <title>Wicked Tuna: Outer Banks</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/30/6e2842d68d5c07e672d32f99577b2758-1151628.jpg"/>
@@ -61544,11 +61144,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
     <category>Adventure</category>
   </programme>
-  <programme channel="mjh-10-embarrassing-bodies" start="20261031095800 +0000" stop="20261031105000 +0000">
-    <title>Embarrassing Bodies S4 Ep. 18</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-embarrassing-bodies" start="20261031105000 +0000" stop="20261031114300 +0000">
     <title>Embarrassing Bodies S7 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
@@ -62038,16 +61633,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Embarrassing Bodies S4 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261031100100 +0000" stop="20261031102601 +0000">
-    <title>Cops S23 Ep. 13</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793386089965.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261031102600 +0000" stop="20261031105201 +0000">
-    <title>Cops S23 Ep. 14</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793386089965.jpg"/>
-    <category>Crime</category>
   </programme>
   <programme channel="mjh-10-cops" start="20261031105200 +0000" stop="20261031111701 +0000">
     <title>Cops S23 Ep. 15</title>
@@ -63149,11 +62734,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793386089965.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-medical-emergency" start="20261031100300 +0000" stop="20261031105800 +0000">
-    <title>999: What's Your Emergency AU S4 Ep. 19</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64a2b408f56d820013754408/featuredImage_1767991743018.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-medical-emergency" start="20261031105800 +0000" stop="20261031115100 +0000">
     <title>ONE Born Every Minute UK S8 Ep. 11</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64ede4c82daa2c00131b9c72/featuredImage_1767913929308.jpg"/>
@@ -63633,11 +63213,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Mystery Diagnosis S10 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/31/6415323f886854ec55ef28fe26e26fe5-1252445.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-deadlywomen" start="20261031092200 +0000" stop="20261031101601 +0000">
-    <title>Episode 11</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason04.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-deadlywomen" start="20261031101600 +0000" stop="20261031110701 +0000">
     <title>Episode 12</title>
@@ -64194,11 +63769,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason05.jpg"/>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-crime-time" start="20261031095000 +0000" stop="20261031104800 +0000">
-    <title>Forensic Investigators S3 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/04/73330fb14e1b76afdab939383ba8aaea-1029837.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-time" start="20261031104800 +0000" stop="20261031114501 +0000">
     <title>Real Prison Breaks S1 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/18/f3cb209c342ff0069dd87f4648b2b0ad-1033003.jpg"/>
@@ -64678,11 +64248,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Murder Made Me Famous S3 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/12/53b7abfa7ac000c0c089d98355080989-1349717.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-forty-eight-hours" start="20261031095700 +0000" stop="20261031104600 +0000">
-    <title>48 Hours S24 Ep. 57</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-forty-eight-hours" start="20261031104600 +0000" stop="20261031113500 +0000">
     <title>48 Hours S24 Ep. 38</title>
@@ -65197,16 +64762,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-forty-eight-hours" start="20261103223212 +0000" stop="20261103232212 +0000">
     <title>48 Hours S21 Ep. 12</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20261031100400 +0000" stop="20261031102901 +0000">
-    <title>Who The Bleep Did I Marry? S1 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/08/23/3f5e8724fcd5d8e07865fae86f4fa3b0-1174410.jpg"/>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20261031102900 +0000" stop="20261031105500 +0000">
-    <title>Who The Bleep Did I Marry? S1 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/08/23/3f5e8724fcd5d8e07865fae86f4fa3b0-1174410.jpg"/>
     <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-true-stories" start="20261031105500 +0000" stop="20261031112000 +0000">
@@ -65783,11 +65338,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>I Shouldn't Be Alive S3 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/17/4114193bfb8d0cde2caeec7ffc800182-1032563.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-haunt-tv" start="20261031093300 +0000" stop="20261031102601 +0000">
-    <title>My Haunted Hometown</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Haunt_Roku_1920x1080.jpg"/>
-    <category>Horror</category>
   </programme>
   <programme channel="mjh-10-haunt-tv" start="20261031102600 +0000" stop="20261031112001 +0000">
     <title>My Haunted Hometown</title>
@@ -66504,11 +66054,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_paranormal911_Season_2_16x9.jpg"/>
     <category>Documentary</category>
   </programme>
-  <programme channel="mjh-10-ghosthunters" start="20261031094000 +0000" stop="20261031103300 +0000">
-    <title>Ghost Hunters S3 Ep. 16</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-ghosthunters" start="20261031103300 +0000" stop="20261031112600 +0000">
     <title>Ghost Hunters S7 Ep. 19</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
@@ -66978,11 +66523,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Ghost Hunters S11 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-jamieoliver" start="20261031100000 +0000" stop="20261031105400 +0000">
-    <title>Jamie &amp; Jimmy’s Food Fight Club S2 Ep. 3</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ab4d2e33830afefd570877f/featuredImage_1790235364341.jpg"/>
-    <category>Food &amp; Cooking</category>
   </programme>
   <programme channel="mjh-10-jamieoliver" start="20261031105400 +0000" stop="20261031112301 +0000">
     <title>Jamie at Home S2 Ep. 6</title>
@@ -67502,11 +67042,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-jamieoliver" start="20261103221730 +0000" stop="20261103231030 +0000">
     <title>Jamie &amp; Jimmy’s Food Fight Club S7 Ep. 2</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ab4d2e33830afefd570877f/featuredImage_1790235364341.jpg"/>
-    <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-anthonybourdain" start="20261031100300 +0000" stop="20261031104701 +0000">
-    <title>Anthony Bourdain Parts Unknown S5 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
     <category>Food &amp; Cooking</category>
   </programme>
   <programme channel="mjh-10-anthonybourdain" start="20261031104700 +0000" stop="20261031113200 +0000">
@@ -68073,11 +67608,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Anthony Bourdain Parts Unknown S5 Ep. 4</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
     <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-wildest" start="20261031093900 +0000" stop="20261031103501 +0000">
-    <title>The Big 5</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_wildlifeicons_Season_1_2x3.jpg"/>
-    <category>nature</category>
   </programme>
   <programme channel="mjh-10-wildest" start="20261031103500 +0000" stop="20261031113201 +0000">
     <title>Dung Beetles: Nature's Recycler</title>
@@ -68689,11 +68219,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_landofgremlins_Season_1_2x3.jpg"/>
     <category>nature</category>
   </programme>
-  <programme channel="mjh-10-shockwave" start="20261031094300 +0000" stop="20261031104201 +0000">
-    <title>Boeing 737 Max: What Went Wrong?</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171B1NFGF1IRA_16_9.jpg"/>
-    <category>documentary</category>
-  </programme>
   <programme channel="mjh-10-shockwave" start="20261031104200 +0000" stop="20261031114500 +0000">
     <title>Earthquake Rapid Response</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QF8QRMHLGJXR6DVQBW2_2_3.jpg"/>
@@ -69233,11 +68758,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>Tsunami: Facing the Global Threat</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/59dc68cd2fae20bb158d59108e499854-1425339.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-historyandwarfare" start="20261031092000 +0000" stop="20261031102801 +0000">
-    <title>Journey Home to the USS Arizona</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171ABHO709EAU_16_9.jpg"/>
-    <category>documentary</category>
   </programme>
   <programme channel="mjh-10-historyandwarfare" start="20261031102800 +0000" stop="20261031113501 +0000">
     <title>D-Day: Pointe-du-Hoc</title>
@@ -69794,11 +69314,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QF8QRN2P7OI1Y1LJEPQ_16_9.jpg"/>
     <category>documentary</category>
   </programme>
-  <programme channel="mjh-10-seasonalmovies" start="20261031085000 +0000" stop="20261031102601 +0000">
-    <title>The Perfect Stalker</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/11/02/93660ba416d3645b6bb9bea2ec42b0bf-1277144.jpg"/>
-    <category>Movies</category>
-  </programme>
   <programme channel="mjh-10-seasonalmovies" start="20261031102600 +0000" stop="20261031120200 +0000">
     <title>The Psycho She Met Online</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/11/03/81943df94589df86dc574818998062bd-1277300.jpg"/>
@@ -70283,16 +69798,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>To Be Announced</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/db6iftd8li11q/default_Msphere_Thumbnail_1920x1080.jpg"/>
     <category>N/A</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261031095600 +0000" stop="20261031102100 +0000">
-    <title>Dora The Explorer S7 Ep. 18</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/07/02/b589babf4cdee056e055c023c54e1aff-972373.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261031102100 +0000" stop="20261031105100 +0000">
-    <title>Dora The Explorer S6 Ep. 616</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/07/02/b589babf4cdee056e055c023c54e1aff-972373.jpg"/>
-    <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nick-jr" start="20261031105100 +0000" stop="20261031112100 +0000">
     <title>Back at the Barnyard S1 Ep. 24</title>
@@ -71232,16 +70737,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme channel="mjh-10-nick-jr" start="20261103232609 +0000" stop="20261103235509 +0000">
     <title>Bubble Guppies S3 Ep. 17</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261031095600 +0000" stop="20261031104100 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 997</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261031104100 +0000" stop="20261031110500 +0000">
-    <title>SpongeBob SquarePants S7 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-spongebobsquarepants" start="20261031110500 +0000" stop="20261031112901 +0000">
@@ -72254,16 +71749,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons" start="20261031100400 +0000" stop="20261031102901 +0000">
-    <title>Sanjay and Craig S3 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/d0b3e785bcd631632b19b9829ea7ea1e-992241.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20261031102900 +0000" stop="20261031105801 +0000">
-    <title>Rise of the Teenage Mutant Ninja Turtles S1 Ep. 14</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de24872c3507bb0a251515/featuredImage_1776166024176.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
   <programme channel="mjh-10-nicktoons" start="20261031105800 +0000" stop="20261031112301 +0000">
     <title>Sanjay and Craig S3 Ep. 12</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/d0b3e785bcd631632b19b9829ea7ea1e-992241.jpg"/>
@@ -73234,16 +72719,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261031094600 +0000" stop="20261031101401 +0000">
-    <title>Hey Arnold! S1 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261031101400 +0000" stop="20261031104401 +0000">
-    <title>Hey Arnold! S3 Ep. 47</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons-90s" start="20261031104400 +0000" stop="20261031110800 +0000">
     <title>The Angry Beavers S1 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/25/a7ac2e69d72d342d67de221cb5f65024-1251440.jpg"/>
@@ -74179,16 +73654,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/06/04/5b8b5c9561272be1e1979d5f88a3462a-1318354.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nickteen" start="20261031095500 +0000" stop="20261031102400 +0000">
-    <title>Nicky, Ricky, Dicky &amp; Dawn S2 Ep. 3</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de2433f22f20f768af6238/featuredImage_1776165940486.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20261031102400 +0000" stop="20261031105200 +0000">
-    <title>Drake and Josh S4 Ep. 8</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648af2be5719ba00138eba18/featuredImage.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
   <programme channel="mjh-10-nickteen" start="20261031105200 +0000" stop="20261031111601 +0000">
     <title>Game Shakers S1 Ep. 112</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/0a1e27fe77c699688217df67e0cfaf16-1061258.jpg"/>
@@ -75109,24 +74574,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/0a1e27fe77c699688217df67e0cfaf16-1061258.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme start="20261031100000 +0000" stop="20261031103000 +0000" channel="mjh-10-geckotv">
-    <title>Home Shopping</title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20261031103000 +0000" stop="20261031110000 +0000" channel="mjh-10-geckotv">
-    <title>Home Shopping</title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
   <programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="mjh-10-geckotv">
     <title>Home Shopping</title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -75512,15 +74959,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6b4c3cc04f344e712500/image"/>
     <rating>
       <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="mjh-10-youtv">
-    <title>Manuka Honey Spring Renewal</title>
-    <desc>We partner with local growers &amp; Indigenous communities to produce the world's most potent &amp; sustainable Manuka honey. Our Honey Forests™ support biodiversity, livelihoods, &amp; provide a safe habitat for bees, ensuring premium honey quality.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/70f1876169b3c2f5b0fa/image"/>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261031110000 +0000" stop="20261102061500 +0000" channel="mjh-10-youtv">
@@ -76678,19 +76116,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <desc>Home &amp; Garden Innovations - See How Our Range Of "As Seen on TV" Products Will Help To Take The Hassle Out Of Cooking, Cleaning, and Maintaining Your Garden.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/ff6a1129db8e427421c9/image"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261031093000 +0000" stop="20261031102500 +0000" channel="mjh-sbs-sbst">
-    <title>Great British Train Journeys From Above</title>
-    <sub-title>The Ffestiniog Railway</sub-title>
-    <desc>Carving a path up the towering peaks of Snowdonia, one of Britain's most enchanting mountain ranges, is a railway that changed the course of Welsh history.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/18e30231c78833ab7fec/image"/>
-    <episode-num system="SxxExx">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -77872,11 +77297,11 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261103083000 +0000" stop="20261103094000 +0000" channel="mjh-sbs-sbst">
     <title>Who Do You Think You Are?</title>
     <sub-title>Aisling Bea</sub-title>
-    <desc>Aisling Bea traces her Irish family history, uncovering stories of resilience, independence and cultural identity that reveal the experiences and values passed through generations.</desc>
+    <desc>Comedian Aisling Bea finds moments of genuine connection in her family tree, with stories of female resilience and a relative who fought for Irish independence and culture.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/215052eedb4a3f52795b/image"/>
-    <episode-num system="SxxExx">S21E05</episode-num>
-    <episode-num system="xmltv_ns">20.4.</episode-num>
+    <episode-num system="SxxExx">S22E05</episode-num>
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <episode-num system="original-air-date">2026-11-03</episode-num>
     <rating>
       <value>PG</value>
@@ -81914,19 +81339,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="original-air-date">2026-11-07</episode-num>
     <rating>
       <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261031093000 +0000" stop="20261031104000 +0000" channel="mjh-sbs-3syd">
-    <title>Rick Stein's Far Eastern Odyssey</title>
-    <sub-title>Vietnam And Thailand</sub-title>
-    <desc>Rick Stein's culinary journey continues as he travels down the Mekong River to Vietnam where the food is light and fresh, and prepared using lots of herbs.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f434689893078f8a26db/image"/>
-    <episode-num system="SxxExx">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261031104000 +0000" stop="20261031113000 +0000" channel="mjh-sbs-3syd">
@@ -89977,12 +89389,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="mjh-sbs-sbs-radio-1">
-    <title>Korean (RPT)</title>
-    <desc>Stay connected in Korean to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Korean team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/90b357c3ae1287e8b03b/image"/>
-  </programme>
   <programme start="20261031110000 +0000" stop="20261031120000 +0000" channel="mjh-sbs-sbs-radio-1">
     <title>Japanese (RPT)</title>
     <desc>Stay connected in Japanese to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Japanese team.</desc>
@@ -90438,12 +89844,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <desc>Stay connected in Macedonian to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Macedonian team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/72aea848d5ba6faad2ed/image"/>
-  </programme>
-  <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="mjh-sbs-sbs-radio-2">
-    <title>Lao</title>
-    <desc>Stay connected in Lao to Australian news and conversations that matter to you. Balanced, impartial, and without any agenda from the SBS Lao team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9f9a5805447c3b80761f/image"/>
   </programme>
   <programme start="20261031110000 +0000" stop="20261031120000 +0000" channel="mjh-sbs-sbs-radio-2">
     <title>Burmese (RPT)</title>
@@ -97951,19 +97351,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261031094000 +0000" stop="20261031104000 +0000" channel="mjh-abc-tv-plus">
-    <title>Gladiators</title>
-    <sub-title>Heat 4</sub-title>
-    <desc>In this show, there's more drama than you can shake a pugil stick at when Comet flies in Hang Tough and Diamond races up the Wall.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/75e805480cb5fb548f62/image"/>
-    <episode-num system="SxxExx">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261031104000 +0000" stop="20261031112500 +0000" channel="mjh-abc-tv-plus">
     <title>Are You Afraid of the Dark?</title>
     <sub-title>Opening Night</sub-title>
@@ -100721,19 +100108,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="original-air-date">2026-11-06</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261031093000 +0000" stop="20261031101500 +0000" channel="mjh-abc-me">
-    <title>Guy Montgomery's Guy Mont Spelling Bee (NZ)</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>Jesse Mulligan, Annie Guo, James Roque and the Episode Four champ take on Guy Mont-Spelling Bee, Hard Words for a 16-Year-Old and Spell the Difference.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c88145a49fb6fee3863a/image"/>
-    <episode-num system="SxxExx">S03E05</episode-num>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20261031101500 +0000" stop="20261031112500 +0000" channel="mjh-abc-me">
@@ -105509,30 +104883,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261031100000 +0000" stop="20261031103000 +0000" channel="mjh-abc-news">
-    <title>ABC Nightly News</title>
-    <sub-title>Saturday 31 October 2026</sub-title>
-    <desc>For the latest news as it happens ABC News is the home of breaking news, compelling stories and original reporting. Fiona Willan presents the day's top stories and updated news from across Australia and around the globe.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/730378d2ba2be77d3cf8/image"/>
-    <episode-num system="SxxExx">S2026E87</episode-num>
-    <episode-num system="xmltv_ns">2025.86.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-  </programme>
-  <programme start="20261031103000 +0000" stop="20261031110000 +0000" channel="mjh-abc-news">
-    <title>Compass</title>
-    <sub-title>Sandwiched with Sarah Macdonald</sub-title>
-    <desc>Broadcaster and author Sarah Macdonald is caught in the middle of the Sandwich Generation - navigating work, caring for elderly parents, and older kids still living at home.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2c74ea4b6e4c97fee89b/image"/>
-    <episode-num system="SxxExx">S40E23</episode-num>
-    <episode-num system="xmltv_ns">39.22.</episode-num>
-    <episode-num system="original-air-date">2026-10-31</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261031110000 +0000" stop="20261031113200 +0000" channel="mjh-abc-news">
+  <programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="mjh-abc-news">
     <title>ABC Late News Weekend</title>
     <sub-title>Saturday 31 October 2026</sub-title>
     <desc>When you need to know what's happening turn to ABC News for coverage you can trust. Fiona Willan brings you the day's news by reporters in more locations across Australia, connecting communities and telling your stories.</desc>
@@ -105542,7 +104893,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="xmltv_ns">2025.86.</episode-num>
     <episode-num system="original-air-date">2026-10-31</episode-num>
   </programme>
-  <programme start="20261031113200 +0000" stop="20261031120000 +0000" channel="mjh-abc-news">
+  <programme start="20261031113000 +0000" stop="20261031120000 +0000" channel="mjh-abc-news">
     <title>If You're Listening</title>
     <sub-title>Israel's October 7 inquiry hinges on this election</sub-title>
     <desc>Israeli intelligence had detailed Hamas attack plans years before October 7, plus warnings from Egypt and the UAE days before. There's still been no inquiry and whether Israel ever gets one may come down to the 2026 election.</desc>
@@ -105564,8 +104915,8 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   </programme>
   <programme start="20261031123000 +0000" stop="20261031130000 +0000" channel="mjh-abc-news">
     <title>The Breakfast Couch</title>
-    <sub-title>Episode 39</sub-title>
-    <desc>James Glenday, Emma Rebellato, Catherine Murphy and Nate Byrne hear from some of the guests who have appeared on News Breakfast. Plus regulars including our film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
+    <sub-title>Episode 39 of Season 2026</sub-title>
+    <desc>Powderfinger's Bernard Fanning and Darren Middleton chat about the band's upcoming reunion tour, Adolescence star Stephen Graham on chilling new drama Nocturne, movies with Zak Hepburn, plus country music star Fanny Lumsden.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/acbe2670cfe3f0361870/image"/>
     <episode-num system="SxxExx">S2026E39</episode-num>
@@ -105598,7 +104949,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261031133200 +0000" stop="20261031140000 +0000" channel="mjh-abc-news">
     <title>The World This Week</title>
     <sub-title>Friday 30 October 2026</sub-title>
-    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <desc>Girish Sawlani presents a roundup of big stories from across the globe. This week: a deadly train crash in Spain, Israel holds a critical election, and a presidential candidate leaves Brazil after losing at the ballot box.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/133b0ce1c4f9b629d4ec/image"/>
     <episode-num system="SxxExx">S2026E41</episode-num>
@@ -105618,7 +104969,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261031140200 +0000" stop="20261031143100 +0000" channel="mjh-abc-news">
     <title>The Regions</title>
     <sub-title>Saturday 31 October 2026</sub-title>
-    <desc>A weekly snapshot of what's going on beyond the big cities and suburbs. From the outback, remote, rural and country towns into the major regional and provincial cities, Amy Culpitt brings you the ABC's best regional stories.</desc>
+    <desc>People look outside the major cities as house prices and rates rise, a new irrigation scheme offers relief for parched paddocks in Tasmania, and Australians love their big things - but can we get behind a giant sultana?</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/ea80c894f5c3d4f86886/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
@@ -105729,8 +105080,8 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   </programme>
   <programme start="20261031183000 +0000" stop="20261031190000 +0000" channel="mjh-abc-news">
     <title>The Breakfast Couch</title>
-    <sub-title>Episode 39</sub-title>
-    <desc>James Glenday, Emma Rebellato, Catherine Murphy and Nate Byrne hear from some of the guests who have appeared on News Breakfast. Plus regulars including our film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
+    <sub-title>Episode 39 of Season 2026</sub-title>
+    <desc>Powderfinger's Bernard Fanning and Darren Middleton chat about the band's upcoming reunion tour, Adolescence star Stephen Graham on chilling new drama Nocturne, movies with Zak Hepburn, plus country music star Fanny Lumsden.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/acbe2670cfe3f0361870/image"/>
     <episode-num system="SxxExx">S2026E39</episode-num>
@@ -105760,7 +105111,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="mjh-abc-news">
     <title>The Regions</title>
     <sub-title>Saturday 31 October 2026</sub-title>
-    <desc>A weekly snapshot of what's going on beyond the big cities and suburbs. From the outback, remote, rural and country towns into the major regional and provincial cities, Amy Culpitt brings you the ABC's best regional stories.</desc>
+    <desc>People look outside the major cities as house prices and rates rise, a new irrigation scheme offers relief for parched paddocks in Tasmania, and Australians love their big things - but can we get behind a giant sultana?</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/ea80c894f5c3d4f86886/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
@@ -105780,7 +105131,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261031220100 +0000" stop="20261031230000 +0000" channel="mjh-abc-news">
     <title>Insiders</title>
     <sub-title>Katy Gallagher - Finance Minister</sub-title>
-    <desc>David Speers covers the week in politics with Phil Coorey, Jacqueline Maley and Tom Crowley including the sitting week in the House, Senate Estimates, security for politicians, higher than forecast inflation and the economy.</desc>
+    <desc>David Speers covers the week in politics with Phil Coorey, Jacqueline Maley and Tom Crowley including the sitting week in the House, Senate Estimates, security for politicians, inflation, interest rates and the US Midterms.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/d6b9d26ac59b40ced47b/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
@@ -105850,7 +105201,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="mjh-abc-news">
     <title>The World This Week</title>
     <sub-title>Friday 30 October 2026</sub-title>
-    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <desc>Girish Sawlani presents a roundup of big stories from across the globe. This week: a deadly train crash in Spain, Israel holds a critical election, and a presidential candidate leaves Brazil after losing at the ballot box.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/133b0ce1c4f9b629d4ec/image"/>
     <episode-num system="SxxExx">S2026E41</episode-num>
@@ -105930,7 +105281,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261101063000 +0000" stop="20261101070000 +0000" channel="mjh-abc-news">
     <title>The Regions</title>
     <sub-title>Saturday 31 October 2026</sub-title>
-    <desc>A weekly snapshot of what's going on beyond the big cities and suburbs. From the outback, remote, rural and country towns into the major regional and provincial cities, Amy Culpitt brings you the ABC's best regional stories.</desc>
+    <desc>People look outside the major cities as house prices and rates rise, a new irrigation scheme offers relief for parched paddocks in Tasmania, and Australians love their big things - but can we get behind a giant sultana?</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/ea80c894f5c3d4f86886/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
@@ -105973,14 +105324,14 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261101083000 +0000" stop="20261101093000 +0000" channel="mjh-abc-news">
     <title>Insiders</title>
     <sub-title>Katy Gallagher - Finance Minister</sub-title>
-    <desc>David Speers covers the week in politics with Phil Coorey, Jacqueline Maley and Tom Crowley including the sitting week in the House, Senate Estimates, security for politicians, higher than forecast inflation and the economy.</desc>
+    <desc>David Speers covers the week in politics with Phil Coorey, Jacqueline Maley and Tom Crowley including the sitting week in the House, Senate Estimates, security for politicians, inflation, interest rates and the US Midterms.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/d6b9d26ac59b40ced47b/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
     <episode-num system="xmltv_ns">2025.39.</episode-num>
     <episode-num system="original-air-date">2026-11-01</episode-num>
   </programme>
-  <programme start="20261101093000 +0000" stop="20261101093400 +0000" channel="mjh-abc-news">
+  <programme start="20261101093000 +0000" stop="20261101093200 +0000" channel="mjh-abc-news">
     <title>ABC News Update</title>
     <sub-title>Sunday 1 November 2026</sub-title>
     <desc>The latest headlines and the day's top stories from ABC News. Presented by Meredith Sheehan.</desc>
@@ -105990,7 +105341,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="xmltv_ns">2025.87.</episode-num>
     <episode-num system="original-air-date">2026-11-01</episode-num>
   </programme>
-  <programme start="20261101093400 +0000" stop="20261101100000 +0000" channel="mjh-abc-news">
+  <programme start="20261101093200 +0000" stop="20261101100000 +0000" channel="mjh-abc-news">
     <title>If You're Listening</title>
     <sub-title>Israel's October 7 inquiry hinges on this election</sub-title>
     <desc>Israeli intelligence had detailed Hamas attack plans years before October 7, plus warnings from Egypt and the UAE days before. There's still been no inquiry and whether Israel ever gets one may come down to the 2026 election.</desc>
@@ -106056,7 +105407,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261101123000 +0000" stop="20261101130000 +0000" channel="mjh-abc-news">
     <title>The Regions</title>
     <sub-title>Saturday 31 October 2026</sub-title>
-    <desc>A weekly snapshot of what's going on beyond the big cities and suburbs. From the outback, remote, rural and country towns into the major regional and provincial cities, Amy Culpitt brings you the ABC's best regional stories.</desc>
+    <desc>People look outside the major cities as house prices and rates rise, a new irrigation scheme offers relief for parched paddocks in Tasmania, and Australians love their big things - but can we get behind a giant sultana?</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/ea80c894f5c3d4f86886/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
@@ -106096,7 +105447,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261101143000 +0000" stop="20261101152900 +0000" channel="mjh-abc-news">
     <title>Insiders</title>
     <sub-title>Katy Gallagher - Finance Minister</sub-title>
-    <desc>David Speers covers the week in politics with Phil Coorey, Jacqueline Maley and Tom Crowley including the sitting week in the House, Senate Estimates, security for politicians, higher than forecast inflation and the economy.</desc>
+    <desc>David Speers covers the week in politics with Phil Coorey, Jacqueline Maley and Tom Crowley including the sitting week in the House, Senate Estimates, security for politicians, inflation, interest rates and the US Midterms.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/d6b9d26ac59b40ced47b/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
@@ -106166,7 +105517,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="mjh-abc-news">
     <title>The Regions</title>
     <sub-title>Saturday 31 October 2026</sub-title>
-    <desc>A weekly snapshot of what's going on beyond the big cities and suburbs. From the outback, remote, rural and country towns into the major regional and provincial cities, Amy Culpitt brings you the ABC's best regional stories.</desc>
+    <desc>People look outside the major cities as house prices and rates rise, a new irrigation scheme offers relief for parched paddocks in Tasmania, and Australians love their big things - but can we get behind a giant sultana?</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/ea80c894f5c3d4f86886/image"/>
     <episode-num system="SxxExx">S2026E40</episode-num>
@@ -106326,7 +105677,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261102112800 +0000" stop="20261102120000 +0000" channel="mjh-abc-news">
     <title>Planet America</title>
     <sub-title>Midterms Preview</sub-title>
-    <desc>The final word on the eve of the Midterm Elections. Chas and John bring you the latest on the polls, the policies, the campaigns and efforts to 'turn out the vote'. Who will control Congress for the next two years?</desc>
+    <desc>The final word on the eve of the Midterm Elections. John Barron and Chas Licciardello bring you the latest on the campaign, the polls, a break down of the key battleground states and maybe even a prediction or two.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/2e0146a775a410e2f105/image"/>
     <episode-num system="SxxExx">S2026E34</episode-num>
@@ -106466,7 +105817,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261102182700 +0000" stop="20261102190000 +0000" channel="mjh-abc-news">
     <title>Planet America</title>
     <sub-title>Midterms Preview</sub-title>
-    <desc>The final word on the eve of the Midterm Elections. Chas and John bring you the latest on the polls, the policies, the campaigns and efforts to 'turn out the vote'. Who will control Congress for the next two years?</desc>
+    <desc>The final word on the eve of the Midterm Elections. John Barron and Chas Licciardello bring you the latest on the campaign, the polls, a break down of the key battleground states and maybe even a prediction or two.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/2e0146a775a410e2f105/image"/>
     <episode-num system="SxxExx">S2026E34</episode-num>
@@ -106606,7 +105957,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261103100000 +0000" stop="20261103110000 +0000" channel="mjh-abc-news">
     <title>The World</title>
     <sub-title>Tuesday 3 November 2026</sub-title>
-    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc>Americans prepare to vote in the US midterm elections, with polls about to open in early states. The result could have global ramifications depending on whether it's a Republican victory or Democrats comeback.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/eb61f33df843108dd914/image"/>
     <episode-num system="SxxExx">S2026E174</episode-num>
@@ -106666,7 +106017,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261103132800 +0000" stop="20261103140000 +0000" channel="mjh-abc-news">
     <title>Planet America</title>
     <sub-title>Midterms Preview</sub-title>
-    <desc>The final word on the eve of the Midterm Elections. Chas and John bring you the latest on the polls, the policies, the campaigns and efforts to 'turn out the vote'. Who will control Congress for the next two years?</desc>
+    <desc>The final word on the eve of the Midterm Elections. John Barron and Chas Licciardello bring you the latest on the campaign, the polls, a break down of the key battleground states and maybe even a prediction or two.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/2e0146a775a410e2f105/image"/>
     <episode-num system="SxxExx">S2026E34</episode-num>
@@ -106683,7 +106034,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="xmltv_ns">2025.218.</episode-num>
     <episode-num system="original-air-date">2026-11-03</episode-num>
   </programme>
-  <programme start="20261103141500 +0000" stop="20261103143200 +0000" channel="mjh-abc-news">
+  <programme start="20261103141500 +0000" stop="20261103143100 +0000" channel="mjh-abc-news">
     <title>The Business</title>
     <sub-title>Episode 158 of Season 2026</sub-title>
     <desc>It's the rates that stops the nation. The Reserve Bank deliver their November decision on interest rates on Melbourne Cup Day. After four rate hikes already in 2026, the cash rate is at a 15-year high.</desc>
@@ -106693,7 +106044,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="xmltv_ns">2025.157.</episode-num>
     <episode-num system="original-air-date">2026-11-03</episode-num>
   </programme>
-  <programme start="20261103143200 +0000" stop="20261103150000 +0000" channel="mjh-abc-news">
+  <programme start="20261103143100 +0000" stop="20261103150000 +0000" channel="mjh-abc-news">
     <title>If You're Listening</title>
     <sub-title>Israel's October 7 inquiry hinges on this election</sub-title>
     <desc>Israeli intelligence had detailed Hamas attack plans years before October 7, plus warnings from Egypt and the UAE days before. There's still been no inquiry and whether Israel ever gets one may come down to the 2026 election.</desc>
@@ -106736,7 +106087,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261103163000 +0000" stop="20261103172900 +0000" channel="mjh-abc-news">
     <title>The World</title>
     <sub-title>Tuesday 3 November 2026</sub-title>
-    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc>Americans prepare to vote in the US midterm elections, with polls about to open in early states. The result could have global ramifications depending on whether it's a Republican victory or Democrats comeback.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/eb61f33df843108dd914/image"/>
     <episode-num system="SxxExx">S2026E174</episode-num>
@@ -106975,8 +106326,8 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   </programme>
   <programme start="20261104143100 +0000" stop="20261104150000 +0000" channel="mjh-abc-news">
     <title>The Breakfast Couch</title>
-    <sub-title>Episode 39</sub-title>
-    <desc>James Glenday, Emma Rebellato, Catherine Murphy and Nate Byrne hear from some of the guests who have appeared on News Breakfast. Plus regulars including our film critic Zak Hepburn and resident foodie Alice Zaslavsky.</desc>
+    <sub-title>Episode 39 of Season 2026</sub-title>
+    <desc>Powderfinger's Bernard Fanning and Darren Middleton chat about the band's upcoming reunion tour, Adolescence star Stephen Graham on chilling new drama Nocturne, movies with Zak Hepburn, plus country music star Fanny Lumsden.</desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/acbe2670cfe3f0361870/image"/>
     <episode-num system="SxxExx">S2026E39</episode-num>
@@ -107033,7 +106384,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="xmltv_ns">2025.174.</episode-num>
     <episode-num system="original-air-date">2026-11-04</episode-num>
   </programme>
-  <programme start="20261104180000 +0000" stop="20261104182900 +0000" channel="mjh-abc-news">
+  <programme start="20261104180000 +0000" stop="20261104183000 +0000" channel="mjh-abc-news">
     <title>DW News</title>
     <sub-title>Thursday 5 November 2026</sub-title>
     <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
@@ -107043,17 +106394,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="xmltv_ns">2025.219.</episode-num>
     <episode-num system="original-air-date">2026-11-04</episode-num>
   </programme>
-  <programme start="20261104182900 +0000" stop="20261104183200 +0000" channel="mjh-abc-news">
-    <title>Heywire</title>
-    <sub-title>Hugo from Mooreville, TAS</sub-title>
-    <desc>Hugo is too young to have a driver's licence, but that hasn't stopped him competing in the local Tassie hill climb and motorkhana racing comp.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3e56e08d19c926bd078b/image"/>
-    <episode-num system="SxxExx">S2026E04</episode-num>
-    <episode-num system="xmltv_ns">2025.3.</episode-num>
-    <episode-num system="original-air-date">2026-11-04</episode-num>
-  </programme>
-  <programme start="20261104183200 +0000" stop="20261104190000 +0000" channel="mjh-abc-news">
+  <programme start="20261104183000 +0000" stop="20261104190000 +0000" channel="mjh-abc-news">
     <title>If You're Listening</title>
     <sub-title>Israel's October 7 inquiry hinges on this election</sub-title>
     <desc>Israeli intelligence had detailed Hamas attack plans years before October 7, plus warnings from Egypt and the UAE days before. There's still been no inquiry and whether Israel ever gets one may come down to the 2026 election.</desc>
@@ -107715,22 +107056,6 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="xmltv_ns">2025.88.</episode-num>
     <episode-num system="original-air-date">2026-11-07</episode-num>
   </programme>
-  <programme channel="mjh-bbc-news" start="20261031100000 +0000" stop="20261031103000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20261031103000 +0000" stop="20261031110000 +0000">
-    <title>Talking Business</title>
-    <desc>The host sits down with experts to shed light on various issues from the business world and interviews them on the latest innovations in technology.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338642_2_20240215T220844317Z_85.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20261031110000 +0000" stop="20261031113000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -107804,28 +107129,21 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261031094645 +0000" stop="20261031102657 +0000" channel="mjh-redbull-tv">
-    <title>MOTORSPORT: More Than Machine – All-access WRC Show</title>
-    <desc>The WRC lands in Paraguay for the very first time, bringing fresh challenges and high stakes for co-drivers.</desc>
-    <date>2024</date>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="themoviedb.org">series/304114</episode-num>
-    <episode-num system="original-air-date">2026-07-09 18:34:19</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
+  <programme channel="mjh-bbc-news" start="20261031153000 +0000" stop="20261031160000 +0000">
+    <title>Racing On the Edge</title>
+    <desc>Go behind-the-scenes as the F50 fleet tackles global destinations in this high-stakes human drama  feel the speed, witness the rivalry.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1793802706_0_20250804T005954023Z_77_imageprocessorclient-tvplus-linear-d7c8c765b-ncgtd.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20261031160000 +0000" stop="20261031163000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme start="20261031102657 +0000" stop="20261031111141 +0000" channel="mjh-redbull-tv">
     <title>MOTORSPORT: More Than Machine – All-access WRC Show</title>
@@ -108496,33 +107814,112 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     </audio>
     <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOVBNTY9RPG2JWNEQE7I.jpeg/a:p/im/MI202509260102_Artwork_2_3_SI202410130054.jpeg</image>
   </programme>
-  <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News</category>
+  <programme start="20261101061831 +0000" stop="20261101065842 +0000" channel="mjh-redbull-tv">
+    <title>MOTORSPORT: More Than Machine – All-access WRC Show</title>
+    <desc>The WRC lands in Paraguay for the very first time, bringing fresh challenges and high stakes for co-drivers.</desc>
+    <date>2024</date>
     <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc1068456480</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-10-23 11:54:38</episode-num>
+    <icon src="https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="themoviedb.org">series/304114</episode-num>
+    <episode-num system="original-air-date">2026-07-09 18:34:19</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
       <stereo>stereo</stereo>
     </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
     <star-rating>
       <value>0.0/10</value>
     </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
+    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
+  </programme>
+  <programme start="20261101065842 +0000" stop="20261101074326 +0000" channel="mjh-redbull-tv">
+    <title>MOTORSPORT: More Than Machine – All-access WRC Show</title>
+    <desc>The WRC season enters the 'summer of speed' and a new contender emerges: Oliver Solberg.</desc>
+    <date>2024</date>
+    <orig-language>English</orig-language>
+    <icon src="https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="themoviedb.org">series/304114</episode-num>
+    <episode-num system="original-air-date">2026-07-06 05:02:12</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <star-rating>
+      <value>0.0/10</value>
+    </star-rating>
+    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
+  </programme>
+  <programme start="20261101074326 +0000" stop="20261101082849 +0000" channel="mjh-redbull-tv">
+    <title>MOTORSPORT: More Than Machine – All-access WRC Show</title>
+    <desc>The 2025 season concludes with a dramatic double-header in Japan and Saudi Arabia. Who will come out on top?</desc>
+    <date>2024</date>
+    <orig-language>English</orig-language>
+    <icon src="https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="themoviedb.org">series/304114</episode-num>
+    <episode-num system="original-air-date">2026-07-09 19:54:12</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <star-rating>
+      <value>0.0/10</value>
+    </star-rating>
+    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
+  </programme>
+  <programme start="20261101082849 +0000" stop="20261101090755 +0000" channel="mjh-redbull-tv">
+    <title>MOTORSPORT: More Than Machine – All-access WRC Show</title>
+    <desc>Mārtiņš Sesks fights to prove his speed and claim his permanent spot in the World Rally Championship.</desc>
+    <date>2024</date>
+    <orig-language>English</orig-language>
+    <icon src="https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="themoviedb.org">series/304114</episode-num>
+    <episode-num system="original-air-date">2026-07-09 19:14:30</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <star-rating>
+      <value>0.0/10</value>
+    </star-rating>
+    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/3a21THcb014mLbHz4GNUgX9T2Cq.jpg</image>
+    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/1lV0DRhEraRcsjV3iI0ibtsfn0X.jpg</image>
+  </programme>
+  <programme start="20261101090755 +0000" stop="20261101092934 +0000" channel="mjh-redbull-tv">
+    <title>ATHLETICS: Michelle Khare's Great World Race – Marathon</title>
+    <desc>Michelle faces the final stretch. With everything on the line, will she make it to the final finish?</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FOJ9NH7XL4LLYHGY51D8.jpeg/a:p/im/MI202604161006_Artwork_2_3_%20SI202605070985.jpeg"/>
+    <episode-num system="original-air-date">2026-07-25 21:54:28</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOJ9NH7XL4LLYHGY51D8.jpeg/a:p/im/MI202604161006_Artwork_2_3_%20SI202605070985.jpeg</image>
   </programme>
   <programme start="20261031110000 +0000" stop="20261031113000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -111974,7 +111371,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
   <programme start="20261104100000 +0000" stop="20261104110000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
     <desc>Latest news and in-depth analysis from around the world.</desc>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <orig-language>English</orig-language>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
     <country>Canada</country>
@@ -111983,7 +111380,7 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <episode-num system="original-air-date">2026-10-27 11:52:09</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -112101,13 +111498,13 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1525707648</episode-num>
     <episode-num system="original-air-date">2026-10-28 12:02:42</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
@@ -112747,13 +112144,13 @@ Candice catches up with Larry Emdur for lunch on the Hawkesbury.</desc>
     <title>News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
     <date>2026</date>
-    <category>News/Current Affairs</category>
+    <category>News</category>
     <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
     <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc68479939</episode-num>
     <episode-num system="original-air-date">2026-10-28 12:02:42</episode-num>
     <video>
       <present>yes</present>
-      <quality>HDTV</quality>
+      <quality>SDTV</quality>
     </video>
     <audio>
       <present>yes</present>
