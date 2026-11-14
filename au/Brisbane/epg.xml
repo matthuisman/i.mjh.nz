@@ -579,6 +579,11 @@
     <lcn>17</lcn>
     <icon src="https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo"/>
   </channel>
+  <channel id="mjh-10-youtv">
+    <display-name>YouTV</display-name>
+    <lcn>16</lcn>
+    <icon src="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo"/>
+  </channel>
   <channel id="mjh-sbs-sbst">
     <display-name>SBS</display-name>
     <lcn>30</lcn>
@@ -751,32 +756,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-seven-bri">
-    <title>Home Shopping</title>
-    <sub-title>Pocket Hose Copper Head (PHCH2830A17904)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E130</episode-num>
-    <episode-num system="xmltv_ns">0.129.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-seven-bri">
-    <title>Home Shopping</title>
-    <sub-title>Starlyf Foldable Pool (A2830FP03QRA)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E261</episode-num>
-    <episode-num system="xmltv_ns">0.260.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-seven-bri">
     <title>Home Shopping</title>
     <sub-title>EZwell Remedy Massage System (A2830EZ06QRA)</sub-title>
@@ -2453,32 +2432,6 @@
     <episode-num system="SxxExx">S26E44</episode-num>
     <episode-num system="xmltv_ns">25.43.</episode-num>
     <episode-num system="original-air-date">2026-11-21</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114153735 +0000" stop="20261114160605 +0000" channel="mjh-7two-bri">
-    <title>Fresh TV</title>
-    <sub-title>Episode 13</sub-title>
-    <desc>Cooking and lifestyle show uncovering some of the best places to eat in WA. Presented by Myles Pollard and Jasmine Homer.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c66b2e8678850b54e168/image"/>
-    <episode-num system="SxxExx">S01E13</episode-num>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114160605 +0000" stop="20261114163420 +0000" channel="mjh-7two-bri">
-    <title>Medical Emergency</title>
-    <sub-title>Episode 13 of Season 4</sub-title>
-    <desc>A young girl has been crushed by her 600-kilogram horse and a man loses consciousness and runs into a parked car.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/89fa88281f84f90658cc/image"/>
-    <episode-num system="SxxExx">S04E13</episode-num>
-    <episode-num system="xmltv_ns">3.12.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -4851,19 +4804,6 @@
     <episode-num system="xmltv_ns">25.7.</episode-num>
     <episode-num system="original-air-date">2026-11-20</episode-num>
   </programme>
-  <programme start="20261114154845 +0000" stop="20261114161800 +0000" channel="mjh-7mate-bri">
-    <title>Cool Cars With Dermott And Elise</title>
-    <sub-title>Episode 1 of Season 1</sub-title>
-    <desc>Cool Cars with Dermott &amp; Elise will capture the love affair that Australians have with their cars like never before. From classics to custom-built and muscle cars, Cool Cars will drive them all.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9cdd17c17268f240a84d/image"/>
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261114161800 +0000" stop="20261114173345 +0000" channel="mjh-7mate-bri">
     <title>Night Thunder</title>
     <sub-title>USA Speedweek Final</sub-title>
@@ -6931,32 +6871,6 @@
     <episode-num system="original-air-date">2026-11-20</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114160130 +0000" stop="20261114163030 +0000" channel="mjh-7flix-bri">
-    <title>Home Shopping</title>
-    <sub-title>Dr Hos MotionCiser (DRMC2830B24888)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E120</episode-num>
-    <episode-num system="xmltv_ns">0.119.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163030 +0000" stop="20261114165930 +0000" channel="mjh-7flix-bri">
-    <title>Home Shopping</title>
-    <sub-title>Copper Chef Titan Pan (CCTP2830C14888)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E135</episode-num>
-    <episode-num system="xmltv_ns">0.134.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261114165930 +0000" stop="20261114180640 +0000" channel="mjh-7flix-bri">
@@ -9442,32 +9356,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-seven-cns">
-    <title>Home Shopping</title>
-    <sub-title>KLEVA FX5 FLOOR WASHER (FX5FW2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-seven-cns">
-    <title>Home Shopping</title>
-    <sub-title>Marshmellow Topper (MMT2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E79</episode-num>
-    <episode-num system="xmltv_ns">0.78.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-seven-cns">
     <title>Home Shopping</title>
     <sub-title>Royal Imperial Dream Sheets (RIDS2830A)</sub-title>
@@ -11191,32 +11079,6 @@
     <episode-num system="SxxExx">S26E44</episode-num>
     <episode-num system="xmltv_ns">25.43.</episode-num>
     <episode-num system="original-air-date">2026-11-21</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114153735 +0000" stop="20261114160605 +0000" channel="mjh-7two-regional">
-    <title>Fresh TV</title>
-    <sub-title>Episode 13</sub-title>
-    <desc>Cooking and lifestyle show uncovering some of the best places to eat in WA. Presented by Myles Pollard and Jasmine Homer.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c66b2e8678850b54e168/image"/>
-    <episode-num system="SxxExx">S01E13</episode-num>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114160605 +0000" stop="20261114163420 +0000" channel="mjh-7two-regional">
-    <title>Medical Emergency</title>
-    <sub-title>Episode 13 of Season 4</sub-title>
-    <desc>A young girl has been crushed by her 600-kilogram horse and a man loses consciousness and runs into a parked car.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/89fa88281f84f90658cc/image"/>
-    <episode-num system="SxxExx">S04E13</episode-num>
-    <episode-num system="xmltv_ns">3.12.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -13589,19 +13451,6 @@
     <episode-num system="xmltv_ns">25.7.</episode-num>
     <episode-num system="original-air-date">2026-11-20</episode-num>
   </programme>
-  <programme start="20261114154845 +0000" stop="20261114161800 +0000" channel="mjh-7mate-regional">
-    <title>Cool Cars With Dermott And Elise</title>
-    <sub-title>Episode 1 of Season 1</sub-title>
-    <desc>Cool Cars with Dermott &amp; Elise will capture the love affair that Australians have with their cars like never before. From classics to custom-built and muscle cars, Cool Cars will drive them all.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9cdd17c17268f240a84d/image"/>
-    <episode-num system="SxxExx">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261114161800 +0000" stop="20261114173345 +0000" channel="mjh-7mate-regional">
     <title>Night Thunder</title>
     <sub-title>USA Speedweek Final</sub-title>
@@ -15671,32 +15520,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-seven-mky">
-    <title>Home Shopping</title>
-    <sub-title>KLEVA FX5 FLOOR WASHER (FX5FW2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-seven-mky">
-    <title>Home Shopping</title>
-    <sub-title>Marshmellow Topper (MMT2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E79</episode-num>
-    <episode-num system="xmltv_ns">0.78.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-seven-mky">
     <title>Home Shopping</title>
     <sub-title>Royal Imperial Dream Sheets (RIDS2830A)</sub-title>
@@ -17415,32 +17238,6 @@
     <episode-num system="original-air-date">2026-11-21</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-seven-ssc">
-    <title>Home Shopping</title>
-    <sub-title>KLEVA FX5 FLOOR WASHER (FX5FW2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-seven-ssc">
-    <title>Home Shopping</title>
-    <sub-title>Marshmellow Topper (MMT2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E79</episode-num>
-    <episode-num system="xmltv_ns">0.78.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-seven-ssc">
@@ -19163,32 +18960,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-seven-rky">
-    <title>Home Shopping</title>
-    <sub-title>KLEVA FX5 FLOOR WASHER (FX5FW2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-seven-rky">
-    <title>Home Shopping</title>
-    <sub-title>Marshmellow Topper (MMT2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E79</episode-num>
-    <episode-num system="xmltv_ns">0.78.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-seven-rky">
     <title>Home Shopping</title>
     <sub-title>Royal Imperial Dream Sheets (RIDS2830A)</sub-title>
@@ -20907,32 +20678,6 @@
     <episode-num system="original-air-date">2026-11-21</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-seven-tsv">
-    <title>Home Shopping</title>
-    <sub-title>KLEVA FX5 FLOOR WASHER (FX5FW2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-seven-tsv">
-    <title>Home Shopping</title>
-    <sub-title>Marshmellow Topper (MMT2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E79</episode-num>
-    <episode-num system="xmltv_ns">0.78.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-seven-tsv">
@@ -22655,32 +22400,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-seven-wby">
-    <title>Home Shopping</title>
-    <sub-title>KLEVA FX5 FLOOR WASHER (FX5FW2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-seven-wby">
-    <title>Home Shopping</title>
-    <sub-title>Marshmellow Topper (MMT2830A)</sub-title>
-    <desc>Shopping program.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S01E79</episode-num>
-    <episode-num system="xmltv_ns">0.78.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-seven-wby">
     <title>Home Shopping</title>
     <sub-title>Royal Imperial Dream Sheets (RIDS2830A)</sub-title>
@@ -24397,31 +24116,6 @@
     <episode-num system="SxxExx">S26E44</episode-num>
     <episode-num system="xmltv_ns">25.43.</episode-num>
     <episode-num system="original-air-date">2026-11-21</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114154000 +0000" stop="20261114161100 +0000" channel="mjh-channel-9-qld">
-    <title>The Garden Gurus</title>
-    <sub-title>Episode 13</sub-title>
-    <desc>This week on The Garden Gurus, Nigel shares some tips to improve the health of your plants, while Trevor discovers why a visit to the "Garden City" is a must for any green thumb.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/87125b97edeb61f0b37a/image"/>
-    <episode-num system="SxxExx">S41E13</episode-num>
-    <episode-num system="xmltv_ns">40.12.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114161100 +0000" stop="20261114163900 +0000" channel="mjh-channel-9-qld">
-    <title>The Incredible Journey</title>
-    <sub-title>Fukushima Nuclear Meltdown</sub-title>
-    <desc>Religious program.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/372449a18879fd0129c6/image"/>
-    <episode-num system="SxxExx">S2026E46</episode-num>
-    <episode-num system="xmltv_ns">2025.45.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -26475,15 +26169,6 @@
     <episode-num system="original-air-date">2026-11-21</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114140900 +0000" stop="20261114161600 +0000" channel="mjh-gem-qld">
-    <title>Percy</title>
-    <desc>A surgeon gives a man an organ transplant after an accident. He then becomes vitally concerned as to who was the previous owner of this grafted organ and sets out to track down the identity of his benefactor. Starring Hywel Bennett.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/aadf2bee02c3627906cf/image"/>
-    <rating>
-      <value>M</value>
     </rating>
   </programme>
   <programme start="20261114161600 +0000" stop="20261114181500 +0000" channel="mjh-gem-qld">
@@ -31256,32 +30941,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-life-qld">
-    <title>House Hunters International</title>
-    <sub-title>Teaching Abroad is No Vacation in Heilbronn</sub-title>
-    <desc>Having traveled Europe as a child, a husband wants to show his wife a new life in Heilbronn, Germany. He wants great views regardless of cost, but as the sole breadwinner, she stays focused on practical financial concerns.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0ca1296a67875cd5cd0d/image"/>
-    <episode-num system="SxxExx">S200E10</episode-num>
-    <episode-num system="xmltv_ns">199.9.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-life-qld">
-    <title>House Hunters International</title>
-    <sub-title>Surf's Up in the Bellarine Peninsula, Australia</sub-title>
-    <desc>Seeking a cultural reset, a Madrid woman trades city life for Australia's calm Bellarine Peninsula. She wants a home near work and the beach, but a tight budget means she may need flatmates to make it work.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0ca1296a67875cd5cd0d/image"/>
-    <episode-num system="SxxExx">S200E11</episode-num>
-    <episode-num system="xmltv_ns">199.10.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-life-qld">
     <title>Mexico Life</title>
     <sub-title>Enjoying Life in the Slow Lane on Holbox</sub-title>
@@ -33817,19 +33476,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261114153300 +0000" stop="20261114163300 +0000" channel="mjh-rush-qld">
-    <title>Outback Opal Hunters</title>
-    <sub-title>Glitch in the Matrix</sub-title>
-    <desc>To meet a massive opal order, The Misfits use untested contraptions and work all night. Dan and Renee's new claim is a bust, and The Cheals' operation is in a tailspin after a bombshell departure.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/edbaf6b4414bc3864d8d/image"/>
-    <episode-num system="SxxExx">S07E11</episode-num>
-    <episode-num system="xmltv_ns">6.10.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261114163300 +0000" stop="20261114173200 +0000" channel="mjh-rush-qld">
     <title>Flying Wild Alaska</title>
     <sub-title>Prop, Drop and Ball</sub-title>
@@ -36181,31 +35827,6 @@
     <episode-num system="original-air-date">2026-11-21</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-channel-9-gold-coast">
-    <title>The Incredible Journey</title>
-    <sub-title>Fukushima Nuclear Meltdown</sub-title>
-    <desc>Religious program.</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/372449a18879fd0129c6/image"/>
-    <episode-num system="SxxExx">S2026E46</episode-num>
-    <episode-num system="xmltv_ns">2025.45.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-channel-9-gold-coast">
-    <title>TV Shop - Home Shopping</title>
-    <sub-title>Kelton Cookware</sub-title>
-    <desc>Home shopping programme.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c31d850c0d1008a48572/image"/>
-    <episode-num system="SxxExx">S2016E273</episode-num>
-    <episode-num system="xmltv_ns">2015.272.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-channel-9-gold-coast">
@@ -40361,26 +39982,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-10-qld">
-    <title>Home Shopping</title>
-    <sub-title>Episode 194 of Season 2019</sub-title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S2019E194</episode-num>
-    <episode-num system="xmltv_ns">2018.193.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-10-qld">
-    <title>Home Shopping</title>
-    <sub-title>Episode 195 of Season 2019</sub-title>
-    <desc>Synopsis</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S2019E195</episode-num>
-    <episode-num system="xmltv_ns">2018.194.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-10-qld">
     <title>Home Shopping</title>
     <sub-title>Episode 196 of Season 2019</sub-title>
@@ -42972,26 +42573,6 @@
     <episode-num system="xmltv_ns">16.21.</episode-num>
     <episode-num system="original-air-date">2026-11-20</episode-num>
   </programme>
-  <programme start="20261114154500 +0000" stop="20261114161500 +0000" channel="mjh-10bold-qld">
-    <title>Home Shopping</title>
-    <sub-title>Episode 69 of Season 2019</sub-title>
-    <desc>Paid programming.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S2019E69</episode-num>
-    <episode-num system="xmltv_ns">2018.68.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
-  <programme start="20261114161500 +0000" stop="20261114164500 +0000" channel="mjh-10bold-qld">
-    <title>Home Shopping</title>
-    <sub-title>Episode 70 of Season 2019</sub-title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S2019E70</episode-num>
-    <episode-num system="xmltv_ns">2018.69.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
   <programme start="20261114164500 +0000" stop="20261114171500 +0000" channel="mjh-10bold-qld">
     <title>Home Shopping</title>
     <sub-title>Episode 71 of Season 2019</sub-title>
@@ -45395,26 +44976,6 @@
     <rating>
       <value>G</value>
     </rating>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-10peach-qld">
-    <title>Home Shopping</title>
-    <sub-title>Episode 87 of Season 2019</sub-title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S2019E87</episode-num>
-    <episode-num system="xmltv_ns">2018.86.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-10peach-qld">
-    <title>Home Shopping</title>
-    <sub-title>Episode 88 of Season 2019</sub-title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <episode-num system="SxxExx">S2019E88</episode-num>
-    <episode-num system="xmltv_ns">2018.87.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-10peach-qld">
     <title>Home Shopping</title>
@@ -48974,45 +48535,6 @@
     <episode-num system="SxxExx">S2026E9906</episode-num>
     <episode-num system="xmltv_ns">2025.9905.</episode-num>
     <episode-num system="original-air-date">2026-11-21</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114151000 +0000" stop="20261114161000 +0000" channel="mjh-10shake-qld">
-    <title>Big Brother</title>
-    <sub-title>Episode 16</sub-title>
-    <desc>Intruder, Evie, rocks the house and captures the boys' attention.  Ebony can't decide if she's friend or foe. Kyrah feels the pressure of the weekly shop. Has Marshie already got the ick?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/bde5161f33386fcd1f43/image"/>
-    <episode-num system="SxxExx">S17E16</episode-num>
-    <episode-num system="xmltv_ns">16.15.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114161000 +0000" stop="20261114163500 +0000" channel="mjh-10shake-qld">
-    <title>Hey Arnold!</title>
-    <sub-title>Save The Tree / New Teacher</sub-title>
-    <desc>Arnold organises a campaign to save the oldest tree in the neighbourhood. // Mr. Simmons, a kind, innovative, and inspiring man, is accepted by Arnold and the rest of the class.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/51f9299366ef7f50ab73/image"/>
-    <episode-num system="SxxExx">S02E18</episode-num>
-    <episode-num system="xmltv_ns">1.17.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163500 +0000" stop="20261114170000 +0000" channel="mjh-10shake-qld">
-    <title>T.U.F.F Puppy</title>
-    <sub-title>Match Me If You Can / Organized Crime</sub-title>
-    <desc>An efficiency test reveals that Dudley and Kitty are not well suited as partners, thus they are reassigned. // T.U.F.F. secretary Tammy is kidnapped by F.L.O.P.P., so Dudley must rescue her.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9cc88f89610b65d0f828/image"/>
-    <episode-num system="SxxExx">S02E25</episode-num>
-    <episode-num system="xmltv_ns">1.24.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -53180,20 +52702,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261114155134 +0000" stop="20261114161834 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD14-013_medium.jpeg"/>
-    <desc>Biosecurity stop a woman entering the country with some extremely dangerous and prohibited goods. A Chinese teacher says he is here for an 11 day holiday but his suitcase is void of clothing.</desc>
-    <sub-title>2.51 - 3.18am</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
-  </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261114161841 +0000" stop="20261114164841 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD14-014_medium.jpeg"/>
-    <desc>Biosecurity dog Cody makes a fishy discovery in the bags of a mother daughter couple returning from Vietnam. An x-ray image on a package from Tanzania shows something that looks like a head.</desc>
-    <sub-title>3.18 - 3.48am</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
-  </programme>
   <programme channel="mjh-bordersecurityaustralia-fast" start="20261114164909 +0000" stop="20261114171709 +0000">
     <title>Border Security - Australia's Front Line</title>
     <icon src="https://api.tvapi.com.au/images/BORD14-015_medium.jpeg"/>
@@ -53201,15 +52709,19 @@
     <sub-title>3.49 - 4.17am</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-racing-fast">
-    <title>Racing Review</title>
-    <sub-title>Morphettville</sub-title>
-    <desc>A full recap of racing from Morphettville - Saturday, 12 September 2026</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f9b6cd06808008126047/image"/>
-    <episode-num system="SxxExx">S2026E1114</episode-num>
-    <episode-num system="xmltv_ns">2025.1113.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261114171802 +0000" stop="20261114174502 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD14-016_medium.jpeg"/>
+    <desc>When officers stop two newly-weds at the border they notice an unusually large amount of luggage. What they uncover could turn out to be one of the biggest busts ever seen at the Border.</desc>
+    <sub-title>4.18 - 4.45am</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
+  </programme>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261114174559 +0000" stop="20261114181259 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD14-017_medium.jpeg"/>
+    <desc>The stunning conclusion to one of the most dramatic and bizarre busts ever seen at the border.  Biosecurity officers make a very unusual and potentially devastating discovery in a package from China.</desc>
+    <sub-title>4.45 - 5.12am</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme start="20261114163000 +0000" stop="20261114171500 +0000" channel="mjh-racing-fast">
     <title>Racing Review</title>
@@ -54762,33 +54274,19 @@
     <episode-num system="xmltv_ns">2025.1120.</episode-num>
     <episode-num system="original-air-date">2026-11-21</episode-num>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261114155032 +0000" stop="20261114161432 +0000">
-    <title>Redeem Girl Rumble</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN9-005_medium.jpeg"/>
-    <desc>With employee relations not his strong suit, Seth tries to make amends by moving staff around. Yet his plan backfires when his swap leads to a staff throw down.</desc>
-    <sub-title>Redeem Girl Rumble</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20261114170622 +0000" stop="20261114173022 +0000">
+    <title>S10 E6 - Seth Snaps</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN10-006_medium.jpeg"/>
+    <desc>As acting manager, Ashley makes sure Seth feels the heat and gets major payback. Will he grin and bear it so Les will finally take him off probation?</desc>
+    <sub-title>S10 E6 - Seth Snaps</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261114161515 +0000" stop="20261114164015 +0000">
-    <title>Busted</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN9-006_medium.jpeg"/>
-    <desc>With their father/son relationship already on the rocks, a major miscommunication between Les and Seth could land a key employee on the chopping block.</desc>
-    <sub-title>Busted</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20261114173108 +0000" stop="20261114175608 +0000">
+    <title>S11 E5 - Drama Online - Part 1</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN11-005_medium.jpeg"/>
+    <desc>When Seth needs help in the online department, Les volunteers Ashley, who immediately oversteps by putting a rare Olympic torch from Seth's personal collection up for sale.</desc>
+    <sub-title>S11 E5 - Drama Online - Part 1</sub-title>
     <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261114164046 +0000" stop="20261114170546 +0000">
-    <title>S10 E5 - Back To The Hustle</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN10-005_medium.jpeg"/>
-    <desc>Two teens claim that they got scammed by a mystery woman with an inside connection to the shop, Seth brushes them off, but Ashley makes it her job to find out if they are telling the truth.</desc>
-    <sub-title>S10 E5 - Back To The Hustle</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-racingwa-fast" start="20261114160000 +0000" stop="20261114170000 +0000">
-    <title>Racing WA</title>
-    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
-    <desc>Racing WA</desc>
-    <sub-title>Racing WA</sub-title>
-    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-racingwa-fast" start="20261114170000 +0000" stop="20261114180000 +0000">
     <title>Racing WA</title>
@@ -54804,12 +54302,12 @@
     <sub-title>Racing WA</sub-title>
     <category>GENERAL</category>
   </programme>
-  <programme channel="mjh-allsaints-fast" start="20261114153325 +0000" stop="20261114162325 +0000">
-    <title>All Saints S5 Episode 10</title>
-    <icon src="https://api.tvapi.com.au/images/AST-178_medium.jpeg"/>
-    <desc>Paula is subjected to sexual harassment Luke's first day back nearly ends in disaster. Mitch moves out of home. The new CEO makes his presence felt.</desc>
-    <sub-title>Only Human</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-racingwa-fast" start="20261114190000 +0000" stop="20261114200000 +0000">
+    <title>Racing WA</title>
+    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
+    <desc>Racing WA</desc>
+    <sub-title>Racing WA</sub-title>
+    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-allsaints-fast" start="20261114162351 +0000" stop="20261114171351 +0000">
     <title>All Saints S5 Episode 11</title>
@@ -54825,12 +54323,12 @@
     <sub-title>No Respite</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-mythbusters-fast" start="20261114155707 +0000" stop="20261114165207 +0000">
-    <title>Battle of the Sexes</title>
-    <icon src="https://api.tvapi.com.au/images/MYTH07-019_medium.jpeg"/>
-    <desc>On this controversial episode the Mythbusters pit Men against Women in the ultimate Battle of the Sexes. Get set for all out war as the team tests five age-old gender-based clichés.</desc>
-    <sub-title>Battle of the Sexes</sub-title>
-    <category>SCIENCE &amp; TECHNOLOGY</category>
+  <programme channel="mjh-allsaints-fast" start="20261114180456 +0000" stop="20261114185456 +0000">
+    <title>All Saints S5 Episode 13</title>
+    <icon src="https://api.tvapi.com.au/images/AST-181_medium.jpeg"/>
+    <desc>When an amnesia patient awakes, he tells Paula he has just had a shocking recollection of what he did to his children and a very jealous Jared suspects Kylie and Luke are an item.</desc>
+    <sub-title>Thicker Than Water</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-mythbusters-fast" start="20261114165210 +0000" stop="20261114174710 +0000">
     <title>Square Wheels, Date Night Car</title>
@@ -54846,19 +54344,12 @@
     <sub-title>Herding Cats, Full of Crap, Greased Pig</sub-title>
     <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261114153724 +0000" stop="20261114162524 +0000">
-    <title>The 4WD Adventure Show S3 E27</title>
-    <icon src="https://api.tvapi.com.au/images/FWDA03-027_medium.jpeg"/>
-    <desc>Join Ronny Dahl, Mark LeCras and the team for an action-packed outdoor adventure with expert knowledge and tips along the way.</desc>
-    <sub-title>2.37 - 3.25am</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261114162539 +0000" stop="20261114165239 +0000">
-    <title>Creek To Coast</title>
-    <icon src="https://api.tvapi.com.au/images/7CTC24-027_medium.jpeg"/>
-    <desc>In this very special episode, we celebrate 25 years of Creek to Coast. Join us in beautiful Port Douglas, as we tell a few stories, share a few memories and of course, catch a few fish.</desc>
-    <sub-title>Celebrating 25 Years</sub-title>
-    <category>OTHER LIFESTYLE</category>
+  <programme channel="mjh-mythbusters-fast" start="20261114184218 +0000" stop="20261114193718 +0000">
+    <title>Bullet Baloney</title>
+    <icon src="https://api.tvapi.com.au/images/MYTH08-022_medium.jpeg"/>
+    <desc>In this ballistics bonanza the team pulls out their sums and ammo to test a classic collection of gun clichés!</desc>
+    <sub-title>Bullet Baloney</sub-title>
+    <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
   <programme channel="mjh-travelaustralia-fast" start="20261114165245 +0000" stop="20261114171845 +0000">
     <title>Weekender</title>
@@ -54867,12 +54358,19 @@
     <sub-title>3.52 - 4.18am</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-aircrashinvestigations-fast" start="20261114155222 +0000" stop="20261114164522 +0000">
-    <title>Air Crash Investigations</title>
-    <icon src="https://api.tvapi.com.au/images/MDAY3-004_medium.jpeg"/>
-    <desc>On April 7, 1994 the crew of the Federal Express DC-10 freighter faced a horrifying and violent mid-air attack from an off duty Fed-Ex employee who had planned to kill them and crash the plane. In their struggle to control both the plane and the attacker, the pilots perform incredible feats, in order to save their lives.</desc>
-    <sub-title>Fight For Your Life</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-travelaustralia-fast" start="20261114171850 +0000" stop="20261114174550 +0000">
+    <title>Sydney Weekender</title>
+    <icon src="https://api.tvapi.com.au/images/7SWE31-014_medium.jpeg"/>
+    <desc>Lizzy gets a peek behind the curtain at the Sydney Lyric Theatre. Jono explores The Pentridge percinct in Melbourne. Teigan finds unique accomodation at Norah Head Lighthouse.</desc>
+    <sub-title>4.18 - 4.45am</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
+  </programme>
+  <programme channel="mjh-travelaustralia-fast" start="20261114174556 +0000" stop="20261114181156 +0000">
+    <title>Creek To Coast</title>
+    <icon src="https://api.tvapi.com.au/images/7CTC23-027_medium.jpeg"/>
+    <desc>Scott experiences the oasis of the Outback, from dinosaurs to golfing, we scratch the surface of what the Outback has to offer.</desc>
+    <sub-title>4.45 - 5.11am</sub-title>
+    <category>OTHER LIFESTYLE</category>
   </programme>
   <programme channel="mjh-aircrashinvestigations-fast" start="20261114164545 +0000" stop="20261114173745 +0000">
     <title>Air Crash Investigations</title>
@@ -54888,12 +54386,12 @@
     <sub-title>Mistaken Identity</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-betterhomesandgardens-fast" start="20261114154750 +0000" stop="20261114170350 +0000">
-    <title>Better Homes And Gardens</title>
-    <icon src="https://api.tvapi.com.au/images/BHAG30-015_medium.jpeg"/>
-    <desc>Joh meets a mother/daughter who turned their love of food into a thriving business. Dr Harry gives you a sneak peek of Taronga Zoo's new baby animals. Clarissa cooks potstickers.</desc>
-    <sub-title>2.47 - 4.03am</sub-title>
-    <category>HOUSE &amp; GARDEN</category>
+  <programme channel="mjh-aircrashinvestigations-fast" start="20261114183651 +0000" stop="20261114193551 +0000">
+    <title>Air Crash Investigations</title>
+    <icon src="https://api.tvapi.com.au/images/MDAY4-004_medium.jpeg"/>
+    <desc>On August 6, 1997, Korean Air Flight 801 was flying to Guam International Airport from Seoul when it ran into bad weather. Fighting heavy rain and faulty navigational equipment, the plane crashed five kilometres short of the runway. More than 200 people on board were killed. The crash was the beginning of a crusade for one passenger determined to make air travel safer.</desc>
+    <sub-title>Missed Approach</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-betterhomesandgardens-fast" start="20261114170407 +0000" stop="20261114182507 +0000">
     <title>Better Homes And Gardens</title>
@@ -54909,12 +54407,12 @@
     <sub-title>5.26 - 6.45am</sub-title>
     <category>HOUSE &amp; GARDEN</category>
   </programme>
-  <programme channel="mjh-cas33-fast" start="20261114160359 +0000" stop="20261114165459 +0000">
-    <title>Season 4 Ep 6</title>
-    <icon src="https://api.tvapi.com.au/images/YORK04-006_medium.jpeg"/>
-    <desc>Vets Julian Norton and Peter Wright continue to lead the programme as they introduce us to a whole range of clients and their animals of all shapes and sizes.</desc>
-    <sub-title>Season 4 Ep 6</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-betterhomesandgardens-fast" start="20261114194552 +0000" stop="20261114210352 +0000">
+    <title>Better Homes And Gardens</title>
+    <icon src="https://api.tvapi.com.au/images/BHAG30-018_medium.jpeg"/>
+    <desc>Joh catches up with Mark Olive, Australia's most acclaimed indigenous chef. Graham teaches you everything you need to know about Liliums. Juliet shows you how to avoid tangling your strings.</desc>
+    <sub-title>6.45 - 8.03am</sub-title>
+    <category>HOUSE &amp; GARDEN</category>
   </programme>
   <programme channel="mjh-cas33-fast" start="20261114165500 +0000" stop="20261114174700 +0000">
     <title>Season 3 Ep 4</title>
@@ -54930,12 +54428,12 @@
     <sub-title>Season 3 Ep 5</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261114152949 +0000" stop="20261114161949 +0000">
-    <title>CSI: Miami - And How Does That Make You Kill?</title>
-    <icon src="https://api.tvapi.com.au/images/CSIM07-003_medium.jpeg"/>
-    <desc>The CSIs investigate the brutal murder of a therapist's daughter. Suspicion soon falls on the woman's patients - but which of her clients is responsible for the shocking crime?</desc>
-    <sub-title>And How Does That Make You Kill?</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-cas33-fast" start="20261114183918 +0000" stop="20261114193018 +0000">
+    <title>Season 3 Ep 6</title>
+    <icon src="https://api.tvapi.com.au/images/YORK03-006_medium.jpeg"/>
+    <desc>Set in Autumn, watch as everything from hedgehogs to squirrels come into the vets, and follow the animals getting ready for a healthy winter hibernation.</desc>
+    <sub-title>Season 3 Ep 6</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261114161955 +0000" stop="20261114170755 +0000">
     <title>CSI: Crime Scene Investigation - Time Of Your Death</title>
@@ -54951,12 +54449,12 @@
     <sub-title>Bang, Bang</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-mightymachines-fast" start="20261114153927 +0000" stop="20261114163227 +0000">
-    <title>Mighty Trains</title>
-    <icon src="https://api.tvapi.com.au/images/MTRA03-006_medium.jpeg"/>
-    <desc>It's one of the most beautiful journeys on earth – especially in the winter. Traveling along the highest rail line in Europe, this passenger train navigates 55 tunnels, nearly 200 viaducts and bridges.</desc>
-    <sub-title>Bernina Express</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261114175658 +0000" stop="20261114184658 +0000">
+    <title>CSI: Crime Scene Investigation - Way To Go</title>
+    <icon src="https://api.tvapi.com.au/images/CSIN06-024_medium.jpeg"/>
+    <desc>While Brass struggles for his life after being shot in the chest, the team investigates the murders of a decapitated victim with a Civil War obsession and a man who killed himself by partying too hard.</desc>
+    <sub-title>Way To Go</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-mightymachines-fast" start="20261114163252 +0000" stop="20261114172352 +0000">
     <title>Mighty Ships S1 E1</title>
@@ -54972,12 +54470,12 @@
     <sub-title>Emma Maersk</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas21-fast" start="20261114154356 +0000" stop="20261114163456 +0000">
-    <title>S07 E07 - Residual Haunts</title>
-    <icon src="https://api.tvapi.com.au/images/GSHU07-007_medium.png"/>
-    <desc>The team investigates a fortress in Fort Knox and the Ferrell house in North Carolina.</desc>
-    <sub-title>S07 E07 - Residual Haunts</sub-title>
-    <category>ENTERTAINMENT</category>
+  <programme channel="mjh-mightymachines-fast" start="20261114181606 +0000" stop="20261114190806 +0000">
+    <title>Mighty Ships S1 E3</title>
+    <icon src="https://api.tvapi.com.au/images/MTYS01-003_medium.jpeg"/>
+    <desc>Climb aboard for an exclusive look at some of the coolest working vessels in the world.</desc>
+    <sub-title>Wallenius Faust</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas21-fast" start="20261114163516 +0000" stop="20261114172616 +0000">
     <title>S07 E08 - Knights of the Living Dead</title>
@@ -54993,12 +54491,12 @@
     <sub-title>S07 E09 - A Soldier's Story</sub-title>
     <category>ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-onthecase-fast" start="20261114152601 +0000" stop="20261114162001 +0000">
-    <title>On The Case - S3 E12</title>
-    <icon src="https://api.tvapi.com.au/images/ONTC03-012_medium.jpeg"/>
-    <desc>A beautiful grad student is found murdered inside a yoga apparel store. On the surface it appeared she was the victim of a botched robbery, but remarkable police work revealed a far more sinister plot</desc>
-    <sub-title>S3 E12 - Unmasking a Killer</sub-title>
-    <category>DOCUMENTARY SERIES</category>
+  <programme channel="mjh-cas21-fast" start="20261114181758 +0000" stop="20261114190858 +0000">
+    <title>S02 E07 - Hitler's Ghost</title>
+    <icon src="https://api.tvapi.com.au/images/GSHI02-007_medium.jpeg"/>
+    <desc>The team investigates the rumours of hauntings at the Gran Hotel Viena in Miramar, Argentina, which was once the secret residence of many Nazi war criminals.</desc>
+    <sub-title>S02 E07 - Hitler's Ghost</sub-title>
+    <category>ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-onthecase-fast" start="20261114162011 +0000" stop="20261114171411 +0000">
     <title>On The Case - S3 E13</title>
@@ -55014,12 +54512,12 @@
     <sub-title>S3 E14 - Innocent Witness</sub-title>
     <category>DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas24-fast" start="20261114160622 +0000" stop="20261114165522 +0000">
-    <title>Bondi Vet</title>
-    <icon src="https://api.tvapi.com.au/images/BONV07-025_medium.jpeg"/>
-    <desc>Chris heads to Coffs Harbor to Dolphin Marine Magic where one of the greatest friendships between man and animal exists. Bucky the dolphin was rescued by best buddy and trainer Greg when he was just a baby. 42 years on, and the friendship is facing its toughest challenge. Some suspicious looking lumps have appeared in Bucky's mouth, and Greg is concerned it may be cancer. Can Chris find a way to save this enduring friendship?</desc>
-    <sub-title>Bucky The 42-Year-Old Dolphin</sub-title>
-    <category>ANIMALS</category>
+  <programme channel="mjh-onthecase-fast" start="20261114180833 +0000" stop="20261114190233 +0000">
+    <title>On The Case - S3 E15</title>
+    <icon src="https://api.tvapi.com.au/images/ONTC03-015_medium.png"/>
+    <desc>Joanna Rogers’ disappearance had baffled the investigators in Lubbock, Texas for years. The mystery may have never been solved without the evidence found during another brutal murder…</desc>
+    <sub-title>S3 E15 - Dirty Secrets</sub-title>
+    <category>DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas24-fast" start="20261114165621 +0000" stop="20261114174521 +0000">
     <title>Bondi Vet</title>
@@ -55028,19 +54526,19 @@
     <sub-title>3.56 - 4.45am</sub-title>
     <category>ANIMALS</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261114154903 +0000" stop="20261114161503 +0000">
-    <title>(2017) Birth - Luc Patterson</title>
-    <icon src="https://api.tvapi.com.au/images/HAAW09-125_medium.jpeg"/>
-    <desc>Tori is rocked by a blast from the past – a mysterious new surgeon. Mick is back in town. Is Irene in danger?</desc>
-    <sub-title>2.49 - 3.15am</sub-title>
-    <category>DRAMA SERIAL</category>
+  <programme channel="mjh-cas24-fast" start="20261114174526 +0000" stop="20261114183526 +0000">
+    <title>Bondi Vet</title>
+    <icon src="https://api.tvapi.com.au/images/BONV07-027_medium.jpeg"/>
+    <desc>A homeless cat is waiting for adoption at the Bondi Clinic. After Chris’ sad loss of his beloved cat George, Vet nurses, Liesl and Louise think it’s time to move on, and this little bundle, named 'Sydney Brown', is the perfect match.  Will there be a new furry family member in the Brown household?</desc>
+    <sub-title>Bucky The 42-Year-Old Dolphin</sub-title>
+    <category>ANIMALS</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261114161505 +0000" stop="20261114164205 +0000">
-    <title>(2017) Death - Billie Ashford</title>
-    <icon src="https://api.tvapi.com.au/images/HAAW09-140_medium.jpeg"/>
-    <desc>Summer Bay is rocked by the worst possible news. A surprise wedding in the midst of tragedy.</desc>
-    <sub-title>3.15 - 3.42am</sub-title>
-    <category>DRAMA SERIAL</category>
+  <programme channel="mjh-cas24-fast" start="20261114183535 +0000" stop="20261114192435 +0000">
+    <title>Bondi Vet</title>
+    <icon src="https://api.tvapi.com.au/images/BONV07-028_medium.jpeg"/>
+    <desc>Miniature Dachshund Sam has been struck down by a mystery illness that is slowly paralysing his body. Sam’s condition is deteriorating fast, but diagnosing the problem is proving extremely difficult. Can Lisa find an answer to Sam's mysterious illness?</desc>
+    <sub-title>5.35 - 6.24am</sub-title>
+    <category>ANIMALS</category>
   </programme>
   <programme channel="mjh-cas26-fast" start="20261114164244 +0000" stop="20261114170844 +0000">
     <title>(2017) Tragedy - Cabin Explosion</title>
@@ -55048,6 +54546,20 @@
     <desc>Will Scarlett make it out alive? Are any of the others seriously injured?</desc>
     <sub-title>3.42 - 4.08am</sub-title>
     <category>DRAMA</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20261114170853 +0000" stop="20261114173253 +0000">
+    <title>(2017) Death - Beth Hunter</title>
+    <icon src="https://api.tvapi.com.au/images/HAAW10-071_medium.jpeg"/>
+    <desc>How will Mason handle the news about Beth?</desc>
+    <sub-title>4.08 - 4.32am</sub-title>
+    <category>DRAMA SERIAL</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20261114173323 +0000" stop="20261114175723 +0000">
+    <title>(2017) Tragedy - Wrecking Yard Attack</title>
+    <icon src="https://api.tvapi.com.au/images/HAAW10-094_medium.jpeg"/>
+    <desc>Can Robbo save Kat from Novak? </desc>
+    <sub-title>4.33 - 4.57am</sub-title>
+    <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-livgolfreplays-fast" start="20261114144338 +0000" stop="20261114194538 +0000">
     <title>Round 2 | Korea</title>
@@ -55070,13 +54582,6 @@
     <sub-title>Final Round | Korea</sub-title>
     <category>GOLF</category>
   </programme>
-  <programme channel="mjh-waterrats-fast" start="20261114160528 +0000" stop="20261114165428 +0000">
-    <title>Water Rats - S6 E34 - Bye Bye Charlie</title>
-    <icon src="https://api.tvapi.com.au/images/WARA06-034_medium.jpeg"/>
-    <desc>Jack Christey is determined to stop the wheelchair-bound Charlie Driscoll from making her final dash for freedom.</desc>
-    <sub-title>S6 E34 - Bye Bye Charlie</sub-title>
-    <category>DRAMA SERIAL</category>
-  </programme>
   <programme channel="mjh-waterrats-fast" start="20261114165500 +0000" stop="20261114174400 +0000">
     <title>Water Rats - S6 E35 - Family Values</title>
     <icon src="https://api.tvapi.com.au/images/WARA06-035_medium.jpeg"/>
@@ -55089,6 +54594,13 @@
     <icon src="https://api.tvapi.com.au/images/WARA06-036_medium.jpeg"/>
     <desc>Having gotten an admittance of innocence from convicted killer Duane Smith, Alex is haunted by the brutal murder of a young girl.</desc>
     <sub-title>S6 E36 - True Believer</sub-title>
+    <category>DRAMA SERIAL</category>
+  </programme>
+  <programme channel="mjh-waterrats-fast" start="20261114183500 +0000" stop="20261114192400 +0000">
+    <title>Water Rats - S7 E1 - Domino</title>
+    <icon src="https://api.tvapi.com.au/images/WARA07-001_medium.jpeg"/>
+    <desc>What was supposed to be a simple surveillance of suspected drug importers, turned into a high-stakes, high-energy shoot out with gun runners.</desc>
+    <sub-title>S7 E1 - Domino</sub-title>
     <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-7afl-fast" start="20261114144116 +0000" stop="20261114174516 +0000">
@@ -55112,13 +54624,6 @@
     <sub-title>The Front Bar - 18th March</sub-title>
     <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
-  <programme channel="mjh-cas32-fast" start="20261114154839 +0000" stop="20261114164939 +0000">
-    <title>Outback Mystery Survivor</title>
-    <icon src="https://api.tvapi.com.au/images/7SPL25-011_medium.jpeg"/>
-    <desc>Reporter Liam Bartlett uncovers shocking new evidence in the 2015 disappearance of Ray and Jennie Kehlet in the WA outback, as fresh voices speak out on the mystery.</desc>
-    <sub-title>Outback Mystery Survivor</sub-title>
-    <category>NEWS</category>
-  </programme>
   <programme channel="mjh-cas32-fast" start="20261114165015 +0000" stop="20261114174215 +0000">
     <title>Lucy Letby - The New Evidence</title>
     <icon src="https://api.tvapi.com.au/images/7SPL25-012_medium.jpeg"/>
@@ -55133,19 +54638,12 @@
     <sub-title>Mushroom Murders</sub-title>
     <category>NEWS</category>
   </programme>
-  <programme channel="mjh-wtn-fast" start="20261114151933 +0000" stop="20261114161133 +0000">
-    <title>Goldrush</title>
-    <icon src="https://api.tvapi.com.au/images/WTOB097_medium.jpeg"/>
-    <desc>Good weather brings a crowd to the fishing grounds, causing chaos while the bite is hot.</desc>
-    <sub-title>Goldrush</sub-title>
-    <category>reality</category>
-  </programme>
-  <programme channel="mjh-wtn-fast" start="20261114161144 +0000" stop="20261114170344 +0000">
-    <title>Down to the Dollar</title>
-    <icon src="https://api.tvapi.com.au/images/WTOB098_medium.jpeg"/>
-    <desc>With the competition tighter than ever, it’s all about quality over quantity.</desc>
-    <sub-title>Down to the Dollar</sub-title>
-    <category>reality</category>
+  <programme channel="mjh-cas32-fast" start="20261114183432 +0000" stop="20261114192632 +0000">
+    <title>Pilot's Miracle &amp; The Dark Side Of D</title>
+    <icon src="https://api.tvapi.com.au/images/7SPL25-014_medium.jpeg"/>
+    <desc>The inside story of a stunt pilot's miraculous survival after crashing into the ground at 300km/h during the Avalon Airshow. Plus, the dark side of dating apps exposed in a global investigation.</desc>
+    <sub-title>Pilot's Miracle &amp; The Dark Side Of D</sub-title>
+    <category>NEWS</category>
   </programme>
   <programme channel="mjh-wtn-fast" start="20261114170355 +0000" stop="20261114175555 +0000">
     <title>The Big One</title>
@@ -55154,19 +54652,19 @@
     <sub-title>The Big One</sub-title>
     <category>reality</category>
   </programme>
-  <programme channel="mjh-winnersnlosers-fast" start="20261114152305 +0000" stop="20261114161105 +0000">
-    <title>Winners &amp; Losers S4 Ep4</title>
-    <icon src="https://api.tvapi.com.au/images/WILO4-004_medium.jpeg"/>
-    <desc>Bec learns that her ex is facing jail time. Frances has a case of baby brain. Sam and Cory move in with Mr Gross. Sophie is sure things with Luke are evolving, despite the warnings.</desc>
-    <sub-title>An Ass of You and Me</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-wtn-fast" start="20261114175606 +0000" stop="20261114184806 +0000">
+    <title>Red Seas</title>
+    <icon src="https://api.tvapi.com.au/images/WTOB100_medium.jpeg"/>
+    <desc>The fleet looks to prevent the Fishin’ Frenzy from securing their fifth title.</desc>
+    <sub-title>Red Seas</sub-title>
+    <category>reality</category>
   </programme>
-  <programme channel="mjh-winnersnlosers-fast" start="20261114161140 +0000" stop="20261114165940 +0000">
-    <title>Winners &amp; Losers S4 Ep5</title>
-    <icon src="https://api.tvapi.com.au/images/WILO4-005_medium.jpeg"/>
-    <desc>Frances ignores the signs that something is wrong with her pregnancy. Bec can't bring herself to confess to her friends about Jason. Sophie gets an idea on how to keep her dignity with Luke.</desc>
-    <sub-title>The Easy Way Out</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-wtn-fast" start="20261114184817 +0000" stop="20261114194017 +0000">
+    <title>Break Point</title>
+    <icon src="https://api.tvapi.com.au/images/WTOB101_medium.jpeg"/>
+    <desc>The fishing season could end at any moment and tensions are at an all-time high.</desc>
+    <sub-title>Break Point</sub-title>
+    <category>reality</category>
   </programme>
   <programme channel="mjh-winnersnlosers-fast" start="20261114165958 +0000" stop="20261114174858 +0000">
     <title>Winners &amp; Losers S4 Ep6</title>
@@ -55175,13 +54673,19 @@
     <sub-title>Ctrl-Alt-Delete</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20261114152431 +0000" stop="20261114161931 +0000">
-    <title>Caught On Dashcam</title>
-    <icon src="https://api.tvapi.com.au/images/CODC03-009_medium.jpeg"/>
-    <desc>Buckle up for the most jaw-dropping roadside encounters in the show that fast-tracks you from the comfort of your sofa to the chaotic world of driving. This is Caught On Dashcam. &#13;
-</desc>
-    <sub-title>2.24 - 3.19am</sub-title>
-    <category>COMPILATION PROGRAM</category>
+  <programme channel="mjh-winnersnlosers-fast" start="20261114174926 +0000" stop="20261114183326 +0000">
+    <title>Winners &amp; Losers S4 Ep7</title>
+    <icon src="https://api.tvapi.com.au/images/WILO4-007_medium.jpeg"/>
+    <desc>Sophie goes about planning the perfect but rigid date with Jack resulting in an awkward evening. Sam's struggling to juggle work, family and Cory. Jenny meets Gabe's family.</desc>
+    <sub-title>The New Me</sub-title>
+    <category>DRAMA</category>
+  </programme>
+  <programme channel="mjh-winnersnlosers-fast" start="20261114183345 +0000" stop="20261114192145 +0000">
+    <title>Winners &amp; Losers S4 Ep8</title>
+    <icon src="https://api.tvapi.com.au/images/WILO4-008_medium.jpeg"/>
+    <desc>The Gross family is thrown into shock with Deidre's news. Sam tries casual dating. Jack invites Sophie to Vietnam but her feelings for Luke may hinder her decision. Frances tries to "de-Dog" Pete.</desc>
+    <sub-title>Rock And A Hard Place</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-surveillancecentral-fast" start="20261114161953 +0000" stop="20261114171253 +0000">
     <title>Caught On Dashcam</title>
@@ -55197,12 +54701,12 @@
     <sub-title>Caught On Dashcam Holiday Specials S2 Ep: 2</sub-title>
     <category>COMPILATION PROGRAM</category>
   </programme>
-  <programme channel="mjh-outbacktruckers-fast" start="20261114154455 +0000" stop="20261114163555 +0000">
-    <title>Outback Truckers - Best Of</title>
-    <icon src="https://api.tvapi.com.au/images/OTBO01-003_medium.png"/>
-    <desc>When the going gets tough, sometimes the tough stuff up! The breakdowns, nightmares, and bad decisions in the longest, heaviest trucks in the world.</desc>
-    <sub-title>Mega Mishaps</sub-title>
-    <category>COMPILATION PROGRAM</category>
+  <programme channel="mjh-surveillancecentral-fast" start="20261114180626 +0000" stop="20261114183426 +0000">
+    <title>Surveillance Oz</title>
+    <icon src="https://api.tvapi.com.au/images/SURV05-001_medium.jpeg"/>
+    <desc>A truck jack knifes dangerously close to pedestrians, a devastating ram raid trashes a man's business, and something is making people ill in a train station tunnel.</desc>
+    <sub-title>5.06 - 5.34am</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-outbacktruckers-fast" start="20261114163635 +0000" stop="20261114172735 +0000">
     <title>Outback Truckers</title>
@@ -55218,12 +54722,12 @@
     <sub-title>4.28 - 5.19am</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-anglersparadise-fast" start="20261114154245 +0000" stop="20261114163645 +0000">
-    <title>Mark Berg's Fishing Addiction</title>
-    <icon src="https://api.tvapi.com.au/images/MBFA5-007_medium.jpeg"/>
-    <desc>Fishing expert Mark Berg visits some of the best fishing destinations around. Chasing a wide variety of fish, Mark is always hoping to capture a new species or develop a new technique.</desc>
-    <sub-title>Staaten River Barramundi Part 2</sub-title>
-    <category>SPORTS OTHER</category>
+  <programme channel="mjh-outbacktruckers-fast" start="20261114181954 +0000" stop="20261114191054 +0000">
+    <title>Outback Truckers</title>
+    <icon src="https://api.tvapi.com.au/images/MUTR06-005_medium.jpeg"/>
+    <desc>Long distance legend Steve Grahame battles to get to a remote mining outpost.</desc>
+    <sub-title>5.19 - 6.10am</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-anglersparadise-fast" start="20261114163725 +0000" stop="20261114173025 +0000">
     <title>Mark Berg's Fishing Addiction</title>
@@ -55239,12 +54743,12 @@
     <sub-title>Tiwi Islands - Michael Kasprowicz /</sub-title>
     <category>OTHER SPORT</category>
   </programme>
-  <programme channel="mjh-truckinghell-fast" start="20261114154805 +0000" stop="20261114163905 +0000">
-    <title>Season 3 Episode 5</title>
-    <icon src="https://api.tvapi.com.au/images/TRKH03-005_medium.jpeg"/>
-    <desc>Recovery op Tez has to fly to a job. After a birdstrike, a 44 ton artic needs rescuing from the side of the busy A1 dual carriageway, one of the UK’s deadliest roads.</desc>
-    <sub-title>Season 3 Episode 5</sub-title>
-    <category>LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-anglersparadise-fast" start="20261114175707 +0000" stop="20261114182507 +0000">
+    <title>Merv Hughes Fishing</title>
+    <icon src="https://api.tvapi.com.au/images/MHFI07-001_medium.png"/>
+    <desc>Merv Hughes Fishing is a light hearted fishing show with some ripping catches, a few yarns (mostly true), mateship and of course a splash of comedy thrown in.</desc>
+    <sub-title>Dundee Beach</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-truckinghell-fast" start="20261114163923 +0000" stop="20261114172923 +0000">
     <title>Season 3 Episode 7</title>
@@ -55260,19 +54764,13 @@
     <sub-title>Season 3 Episode 8</sub-title>
     <category>LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261114160507 +0000" stop="20261114163107 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>3.05 - 3.31am</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261114163110 +0000" stop="20261114165710 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>3.31 - 3.57am</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
+  <programme channel="mjh-truckinghell-fast" start="20261114182130 +0000" stop="20261114191130 +0000">
+    <title>Season 4 Episode 5</title>
+    <icon src="https://api.tvapi.com.au/images/TRKH04-005_medium.jpeg"/>
+    <desc> 
+Ant and Matt face up to a catastrophic lorry crash on a narrow road. Dan is called to an off-road nightmare, and Michael’s mood is tested by a muddy rescue.</desc>
+    <sub-title>Season 4 Episode 5</sub-title>
+    <category>LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-judgejudy-fast" start="20261114165712 +0000" stop="20261114172312 +0000">
     <title>Judge Judy</title>
@@ -55281,12 +54779,19 @@
     <sub-title>3.57 - 4.23am</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-all-starcinema-fast" start="20261114143944 +0000" stop="20261114162044 +0000">
-    <title>Johnny Mnnemonic</title>
-    <icon src="https://api.tvapi.com.au/images/DSEF01-113_medium.jpeg"/>
-    <desc>A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza.</desc>
-    <sub-title>Johnny Mnnemonic</sub-title>
-    <category>THRILLER MOVIE</category>
+  <programme channel="mjh-judgejudy-fast" start="20261114172315 +0000" stop="20261114174915 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>4.23 - 4.49am</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-judgejudy-fast" start="20261114174918 +0000" stop="20261114181518 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>4.49 - 5.15am</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-all-starcinema-fast" start="20261114162130 +0000" stop="20261114175830 +0000">
     <title>Trading Paint</title>
@@ -55302,19 +54807,12 @@
     <sub-title>Conspiracy</sub-title>
     <category>THRILLER MOVIE</category>
   </programme>
-  <programme channel="mjh-bluelight-fast" start="20261114160423 +0000" stop="20261114163323 +0000">
-    <title>Beach Cops</title>
-    <icon src="https://api.tvapi.com.au/images/BHCP02-001_medium.jpeg"/>
-    <desc>A teenager is trapped in the Blowhole and his friends run for help. Drunks on the Corso know the law better than the police! Cops chase 2 young men who are making homemade bombs.</desc>
-    <sub-title>3.04 - 3.33am</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
-  </programme>
-  <programme channel="mjh-bluelight-fast" start="20261114163336 +0000" stop="20261114170036 +0000">
-    <title>The Force - Behind The Line</title>
-    <icon src="https://api.tvapi.com.au/images/TRUE8-017_medium.png"/>
-    <desc>Detectives are after Roland Riley who's been on the run for more than four weeks. Riley runs, jumping fences and on to roofs and when he finds himself a nice car to steal, he gets behind the wheel and doesn't stop. Next, police are confronted with a road rage incident where a man has been deliberately smashed into and his car spat on. Then Goulburn police team up with Corrective Services to help stop visitors bringing in contraband into the maximum security prison. Hosted by SIMON REEVE.</desc>
-    <sub-title>3.33 - 4.00am</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-all-starcinema-fast" start="20261114193347 +0000" stop="20261114214647 +0000">
+    <title>The Iron Mask</title>
+    <icon src="https://api.tvapi.com.au/images/DSEF01-058_medium.jpeg"/>
+    <desc>English traveller Jonathan Green journeys from Russia to China encountering dragons, black magic wizardry and a dragon king during an incredible but deadly adventure.</desc>
+    <sub-title>6.33 - 8.46am</sub-title>
+    <category>FANTASY MOVIE</category>
   </programme>
   <programme channel="mjh-bluelight-fast" start="20261114170042 +0000" stop="20261114172542 +0000">
     <title>Highway Patrol</title>
@@ -55323,19 +54821,19 @@
     <sub-title>Argy Bargy</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261114160349 +0000" stop="20261114162849 +0000">
-    <title>Medical Emergency</title>
-    <icon src="https://api.tvapi.com.au/images/MDEM4-006_medium.jpeg"/>
-    <desc>A swimmer is pulled from a pool without a heartbeat and a young child is in need of urgent medical help. Narrated by Chris Gabardi.</desc>
-    <sub-title>3.03 - 3.28am</sub-title>
+  <programme channel="mjh-bluelight-fast" start="20261114172553 +0000" stop="20261114175153 +0000">
+    <title>The Force - Behind The Line</title>
+    <icon src="https://api.tvapi.com.au/images/TRUE11-002_medium.jpeg"/>
+    <desc>Police search for two men wanted over a robbery at a busy roadhouse. Also, Green Valley police move in on a suspected drug dealer's house, where they hope to find ice and other drugs.</desc>
+    <sub-title>4.25 - 4.51am</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261114162914 +0000" stop="20261114165514 +0000">
-    <title>Medical Emergency</title>
-    <icon src="https://api.tvapi.com.au/images/MDEM4-007_medium.jpeg"/>
-    <desc>Doctors have to stop a man's heart that is found pumping at nearly four times the normal rate. Four-year-old Aden has been brought in by ambulance after dropping an axe on his toe. And a 25-year-old jockey has been flown to the Alfred Hospital after a fall during a trial race in Balnarring. Narrated by Chris Gabardi.</desc>
-    <sub-title>3.29 - 3.55am</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-bluelight-fast" start="20261114175240 +0000" stop="20261114181740 +0000">
+    <title>Highway Patrol</title>
+    <icon src="https://api.tvapi.com.au/images/HWYP6-002_medium.jpeg"/>
+    <desc>If a happy wife means a happy life then one man's in big trouble when he's suspected of driving under the influence of drugs. At stake is his job and big fines - but that is the least of his worries. Then, a standard ticket causes an aggressive reaction and a man speeding at double the limit claims he has a good reason but must convince the police first.</desc>
+    <sub-title>Happy Wife, Happy Life</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-medicalnrescue-fast" start="20261114165545 +0000" stop="20261114172045 +0000">
     <title>Surf Patrol</title>
@@ -55344,19 +54842,19 @@
     <sub-title>3.55 - 4.20am</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-blueheelers-fast" start="20261114152129 +0000" stop="20261114161229 +0000">
-    <title>Blue Heelers S2 Ep24</title>
-    <icon src="https://api.tvapi.com.au/images/BLUH-041_medium.jpeg"/>
-    <desc>An overzealous young security guard's accusations lead to a much more interesting suspect than first thought.</desc>
-    <sub-title>S2 E24 - Family Matters</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-medicalnrescue-fast" start="20261114172128 +0000" stop="20261114174828 +0000">
+    <title>Medical Emergency</title>
+    <icon src="https://api.tvapi.com.au/images/MDEM4-008_medium.jpeg"/>
+    <desc>A single mum's life hangs in the balance after a high speed head-on accident. A little boy's day at his grandmother's ends in hospital. And a skateboarder is confused and disorientated after a fall. Narrated by Chris Gabardi.</desc>
+    <sub-title>4.21 - 4.48am</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-blueheelers-fast" start="20261114161328 +0000" stop="20261114170528 +0000">
-    <title>Blue Heelers S2 Ep25</title>
-    <icon src="https://api.tvapi.com.au/images/BLUH-042_medium.jpeg"/>
-    <desc>Nick is unwittingly involved in a murder investigation that could spell the end of his career.</desc>
-    <sub-title>S2 E25 - The First Stone</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-medicalnrescue-fast" start="20261114174839 +0000" stop="20261114181339 +0000">
+    <title>Medical Emergency</title>
+    <icon src="https://api.tvapi.com.au/images/MDEM4-009_medium.jpeg"/>
+    <desc>A champion water skier's career could be over after she crashes during a competition, fixing Mum's fence was never meant to be dangerous and paramedics respond to a child in desperate need after a shocking car accident.</desc>
+    <sub-title>4.48 - 5.13am</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-blueheelers-fast" start="20261114170617 +0000" stop="20261114175717 +0000">
     <title>Blue Heelers S2 Ep26</title>
@@ -55365,12 +54863,12 @@
     <sub-title>S2 E26 - Skin Deep</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-kitchennightmares-fast" start="20261114153341 +0000" stop="20261114162541 +0000">
-    <title>Prohibition Grille</title>
-    <icon src="https://api.tvapi.com.au/images/KNUS06-014_medium.jpeg"/>
-    <desc>Chef Ramsay extends a helping hand to Rishi Brown, a professional belly dancer turned restaurant owner who is unaware that her head chef is ruining her restaurant.</desc>
-    <sub-title>Prohibition Grille</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-blueheelers-fast" start="20261114175809 +0000" stop="20261114185009 +0000">
+    <title>Blue Heelers S2 Ep27</title>
+    <icon src="https://api.tvapi.com.au/images/BLUH-044_medium.jpeg"/>
+    <desc>A two car collision on the edge of town appears to be routine, until it is discovered that Tom's wife, Nell, is one of the fatalities.</desc>
+    <sub-title>S2 E27 - Luck Of The Draw</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-kitchennightmares-fast" start="20261114162552 +0000" stop="20261114171652 +0000">
     <title>Chappy's</title>
@@ -55386,12 +54884,12 @@
     <sub-title>Amy's Baking Co</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-acountrypractice-fast" start="20261114155758 +0000" stop="20261114165258 +0000">
-    <title>S5 E64 - Work Experience - Part 2</title>
-    <icon src="https://api.tvapi.com.au/images/CNP-344_medium.png"/>
-    <desc>Vicky gets a once in a life-time offer to work in the United States.</desc>
-    <sub-title>S5 E64 - Work Experience - Part 2</sub-title>
-    <category>Drama Serial</category>
+  <programme channel="mjh-kitchennightmares-fast" start="20261114180913 +0000" stop="20261114185913 +0000">
+    <title>SOBO</title>
+    <icon src="https://api.tvapi.com.au/images/GRHB03-009_medium.jpeg"/>
+    <desc>Gordon travels to Little Rock, Arkansas, where he attempts to help restaurant owner Jermaine, who opened South Boulevard restaurant as a tribute to his mother.</desc>
+    <sub-title>SOBO</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-acountrypractice-fast" start="20261114165354 +0000" stop="20261114174854 +0000">
     <title>S5 E65 - Cops &amp; Robbers - Part 1</title>
@@ -55407,12 +54905,12 @@
     <sub-title>S5 E66 - Cops &amp; Robbers - Part 2</sub-title>
     <category>Drama Serial</category>
   </programme>
-  <programme channel="mjh-truecrimefiles-fast" start="20261114154840 +0000" stop="20261114164140 +0000">
-    <title>Jo Frost On Britain's Killer Kids</title>
-    <icon src="https://api.tvapi.com.au/images/JFBK01-003_medium.jpeg"/>
-    <desc>What turns a 12 year old girl into a bloodthirsty killer?</desc>
-    <sub-title>Jo Frost On Britain's Killer Kids Season 1 Episode 3</sub-title>
-    <category>SOCIETY DOCUMENTARY</category>
+  <programme channel="mjh-acountrypractice-fast" start="20261114184513 +0000" stop="20261114194013 +0000">
+    <title>S5 E67 - A Little Knowledge - Part 1</title>
+    <icon src="https://api.tvapi.com.au/images/CNP-347_medium.png"/>
+    <desc>Esme practices her taxi driving around the Valley and gets lost in the process.</desc>
+    <sub-title>S5 E67 - A Little Knowledge - Part 1</sub-title>
+    <category>Drama Serial</category>
   </programme>
   <programme channel="mjh-truecrimefiles-fast" start="20261114164219 +0000" stop="20261114173519 +0000">
     <title>World's Most Evil Killers</title>
@@ -55428,12 +54926,12 @@
     <sub-title>World's Most Evil Killers Season 8 Episode 14</sub-title>
     <category>SOCIETY DOCUMENTARY</category>
   </programme>
-  <programme channel="mjh-art-fast" start="20261114160205 +0000" stop="20261114165305 +0000">
-    <title>Antiques Road Trip</title>
-    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR2302V_medium.jpeg"/>
-    <desc>Izzie Balmer and Tim Medhurst scour Wales in search of treasures to sell at auction.</desc>
-    <sub-title>Tim Medhurst and Izzie Balmer, Day 2</sub-title>
-    <category>documentary</category>
+  <programme channel="mjh-truecrimefiles-fast" start="20261114182912 +0000" stop="20261114191512 +0000">
+    <title>World's Most Evil Killers</title>
+    <icon src="https://api.tvapi.com.au/images/WEKI08-015_medium.jpeg"/>
+    <desc>For Richard Kuklinski, crime was his way of life. As a mafia hit men, his unusual methods led to a disturbing nickname: The Iceman.</desc>
+    <sub-title>World's Most Evil Killers Season 8 Episode 15</sub-title>
+    <category>SOCIETY DOCUMENTARY</category>
   </programme>
   <programme channel="mjh-art-fast" start="20261114165320 +0000" stop="20261114174220 +0000">
     <title>Antiques Road Trip</title>
@@ -55449,18 +54947,12 @@
     <sub-title>Tim Medhurst and Izzie Balmer, Day 4</sub-title>
     <category>documentary</category>
   </programme>
-  <programme start="20261114160014 +0000" stop="20261114170010 +0000" channel="mjh-7bravo-fast">
-    <title>Oc: Real Housewives Of...</title>
-    <sub-title>A Source Of Discontent</sub-title>
-    <desc>In the season finale, the ladies partake in several local activities in Amsterdam. Emily receives a distressing call from Shane. Heather finds comfort in visiting her parents' former home before sprea</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e7190b7015cb4a98791f/image"/>
-    <episode-num system="SxxExx">S19E17</episode-num>
-    <episode-num system="xmltv_ns">18.16.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>M</value>
-    </rating>
+  <programme channel="mjh-art-fast" start="20261114183141 +0000" stop="20261114192241 +0000">
+    <title>Antiques Road Trip</title>
+    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR2305V_medium.jpeg"/>
+    <desc>It's crunch time in Wales for antiques experts Izzie Balmer and Tim Medhurst.</desc>
+    <sub-title>Tim Medhurst and Izzie Balmer, Day 5</sub-title>
+    <category>documentary</category>
   </programme>
   <programme start="20261114170010 +0000" stop="20261114175925 +0000" channel="mjh-7bravo-fast">
     <title>Snapped</title>
@@ -57464,13 +56956,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="mjh-heki-fast" start="20261114153338 +0000" stop="20261114162438 +0000">
-    <title>10 Chefs Compete</title>
-    <icon src="https://api.tvapi.com.au/images/CD19163_1-5021-0037-005_Hells-Kitchen-SR04-EP06-_medium.jpeg"/>
-    <desc>Gordon Ramsay's culinary boot camp in the USA challenges more aspiring chefs.</desc>
-    <sub-title>10 Chefs Compete</sub-title>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-heki-fast" start="20261114162507 +0000" stop="20261114171607 +0000">
     <title>9 Chefs Compete</title>
     <icon src="https://api.tvapi.com.au/images/CD19164_1-5021-0038-005_Hells-Kitchen-SR04-EP07-_medium.jpeg"/>
@@ -57485,12 +56970,12 @@
     <sub-title>8 Chefs Compete</sub-title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="mjh-belowdeckvault-fast" start="20261114153344 +0000" stop="20261114163044 +0000">
-    <title>99 Problems and Thalassa Ain’t One</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU2330-S1T13_medium.jpeg"/>
-    <desc>Jamie gets upset with his fellow crew members for name-calling &amp; Captain Jason wants the boat to keep improving.</desc>
-    <sub-title>99 Problems and Thalassa Ain’t One</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-heki-fast" start="20261114180804 +0000" stop="20261114185904 +0000">
+    <title>7 Chefs Compete</title>
+    <icon src="https://api.tvapi.com.au/images/CD19166_1-5021-0040-005_Hells-Kitchen-SR04-EP09-_medium.jpeg"/>
+    <desc>Gordon Ramsay's culinary boot camp in the USA challenges more aspiring chefs.</desc>
+    <sub-title>7 Chefs Compete</sub-title>
+    <category>Entertainment</category>
   </programme>
   <programme channel="mjh-belowdeckvault-fast" start="20261114163058 +0000" stop="20261114171658 +0000">
     <title>New Kids on the Block</title>
@@ -57506,18 +56991,12 @@
     <sub-title>Nice Girls Finish Last</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme start="20261114153000 +0000" stop="20261114163000 +0000" channel="mjh-tvsn-fast">
-    <title>Bella Bodies 20th Anniversary!</title>
-    <sub-title>Sunday 15 November 2026</sub-title>
-    <desc>Live the fashion dream and accessories with chic bags and shoes! The TVSN fashionistas have got you styled for every season with exciting, on trend pieces that make you look good because you FEEL good</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7ef9f21368edcc02da5d/image"/>
-    <episode-num system="SxxExx">S2026E1114</episode-num>
-    <episode-num system="xmltv_ns">2025.1113.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
+  <programme channel="mjh-belowdeckvault-fast" start="20261114180455 +0000" stop="20261114185155 +0000">
+    <title>The One Where Jen Loses Her Mind</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU1140-S5T13_medium.heif"/>
+    <desc>Previous guest and finance wizard Timothy Sykes is back and once again can't live without his WiFi.</desc>
+    <sub-title>The One Where Jen Loses Her Mind</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme start="20261114163000 +0000" stop="20261114173000 +0000" channel="mjh-tvsn-fast">
     <title>Etto Australian Natural Aid</title>
@@ -57990,13 +57469,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-etc-fast" start="20261114153917 +0000" stop="20261114163117 +0000">
-    <title>Argyll &amp; Bute</title>
-    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00162_medium.jpeg"/>
-    <desc>Aled helps a Scottish couple find an artists’ retreat in Argyll and Bute for £500k.</desc>
-    <sub-title>Argyll &amp; Bute</sub-title>
-    <category>Factual</category>
-  </programme>
   <programme channel="mjh-etc-fast" start="20261114163147 +0000" stop="20261114172347 +0000">
     <title>Shropshire</title>
     <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00163_medium.jpeg"/>
@@ -58011,12 +57483,12 @@
     <sub-title>Cornwall</sub-title>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-therealhousewivesvault-fast" start="20261114155632 +0000" stop="20261114164332 +0000">
-    <title>Denise And Desist</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU946-S10T16_medium.jpeg"/>
-    <desc>Denise is a no-show at Dorit's housewarming party and fails to keep plans with Garcelle twice in one week. The group hops on a private jet to celebrate Erika's Broadway debut.</desc>
-    <sub-title>Denise And Desist</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-etc-fast" start="20261114181850 +0000" stop="20261114191050 +0000">
+    <title>Northumberland</title>
+    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00165_medium.jpeg"/>
+    <desc>Alistair helps a couple from Edinburgh move to Northumberland</desc>
+    <sub-title>Northumberland</sub-title>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-therealhousewivesvault-fast" start="20261114164430 +0000" stop="20261114173130 +0000">
     <title>Reunion Part 1</title>
@@ -58032,18 +57504,11 @@
     <sub-title>Reunion Part 2</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-botchedvault-fast" start="20261114152449 +0000" stop="20261114161249 +0000">
-    <title>Sep-EAR-ation Anxiety</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S8T8_medium.jpeg"/>
-    <desc>A woman tired of hiding her recurring keloid needs Dr. Nassif to rid her ear of the enormous growth. A superfan wants to emulate a famous celebrity's trademark figure but can't seem to get his booty big enough. A victim of domestic abuse needs Dr. Dubrow to finally fix her deformed breasts.</desc>
-    <sub-title>Sep-EAR-ation Anxiety</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-botchedvault-fast" start="20261114161318 +0000" stop="20261114170118 +0000">
-    <title>Baby Got Front Butt</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S8T9_medium.jpeg"/>
-    <desc>A woman is left with a "front butt" on her stomach after a bad mommy-makeover. A familiar face from "Botched By Nature" returns with a collapsed nose. An influencer who believes her body is a surgically sculpted work of art hates the scars on her breasts.</desc>
-    <sub-title>Baby Got Front Butt</sub-title>
+  <programme channel="mjh-therealhousewivesvault-fast" start="20261114182016 +0000" stop="20261114190716 +0000">
+    <title>Reunion Part 3</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU946-S10T19_medium.jpeg"/>
+    <desc>The reunion concludes as Denise finally tells the women the truth about her friendship with Brandi. A defensive Garcelle is questioned for not supporting Erika's Broadway debut.</desc>
+    <sub-title>Reunion Part 3</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-botchedvault-fast" start="20261114170147 +0000" stop="20261114174947 +0000">
@@ -58053,12 +57518,19 @@
     <sub-title>Attack Of The 3,000cc Implants</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-ncis-fast" start="20261114153825 +0000" stop="20261114162825 +0000">
-    <title>Probie</title>
-    <icon src="https://api.tvapi.com.au/images/NCIS03-010_medium.jpeg"/>
-    <desc>When McGee kills a man while on assignment, the NCIS team steps in to back him when they discover the man was an undercover police officer.</desc>
-    <sub-title>Probie</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-botchedvault-fast" start="20261114175014 +0000" stop="20261114184114 +0000">
+    <title>Say Yes To The Breasts</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S2T11_medium.jpeg"/>
+    <desc>Former actress fought a flesh eating disease that left her with no breasts.</desc>
+    <sub-title>Say Yes To The Breasts</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-botchedvault-fast" start="20261114184147 +0000" stop="20261114193047 +0000">
+    <title>The Serial Filler</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S2T12_medium.jpeg"/>
+    <desc>A woman visits about her blown up lips and a friend seeks help for his botched stomach.</desc>
+    <sub-title>The Serial Filler</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-ncis-fast" start="20261114162921 +0000" stop="20261114172021 +0000">
     <title>Model Behavior</title>
@@ -58074,12 +57546,12 @@
     <sub-title>Boxed In</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-cas39-fast" start="20261114155414 +0000" stop="20261114164714 +0000">
-    <title>Season 8 Episode 1</title>
-    <icon src="https://api.tvapi.com.au/images/TFAE08-001_medium.jpeg"/>
-    <desc>Following the hard and dedicated work of the NHS doctors and nurses battling to keep Britain alive and well.</desc>
-    <sub-title>Season 8 Episode 1</sub-title>
-    <category>Science</category>
+  <programme channel="mjh-ncis-fast" start="20261114181104 +0000" stop="20261114190004 +0000">
+    <title>Deep Fake</title>
+    <icon src="https://api.tvapi.com.au/images/NCIH02-010_medium.jpeg"/>
+    <desc>Tennant, Jimmy Palmer (Brian Dietzen) and Sam Hanna (LL COOL J) find themselves captured with a woman who claims to be a CIA agent demanding intel from the team.</desc>
+    <sub-title>Deep Fake</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-cas39-fast" start="20261114164738 +0000" stop="20261114173938 +0000">
     <title>Season 8 Episode 2</title>
@@ -58095,12 +57567,12 @@
     <sub-title>Season 8 Episode 3</sub-title>
     <category>Science</category>
   </programme>
-  <programme channel="mjh-cas40-fast" start="20261114155308 +0000" stop="20261114163908 +0000">
-    <title>Do You, Fredrik, Take This Building?</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU628-S2T8_medium.jpeg"/>
-    <desc>Luis lands one of his biggest listings of the season when he's asked to team up on a Richard Meier designed unit.</desc>
-    <sub-title>Do You, Fredrik, Take This Building?</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-cas39-fast" start="20261114183317 +0000" stop="20261114192317 +0000">
+    <title>Season 9 Episode 1</title>
+    <icon src="https://api.tvapi.com.au/images/TFAE09-001_medium.jpeg"/>
+    <desc>10-year-old Ashleigh is rushed to St George's by ambulance after an accident playing football where she twisted her leg awkwardly.</desc>
+    <sub-title>Season 9 Episode 1</sub-title>
+    <category>Science</category>
   </programme>
   <programme channel="mjh-cas40-fast" start="20261114163938 +0000" stop="20261114172538 +0000">
     <title>A Shark is Born</title>
@@ -58116,18 +57588,11 @@
     <sub-title>Yippee Ki Yay!</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261114155254 +0000" stop="20261114161754 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR10-006_medium.jpeg"/>
-    <desc>A man is dragged unconscious from the water, no pulse and not breathing. Reidy and Beardy attach the defibrillator and oxygen mask and begin resuscitation.</desc>
-    <sub-title>Season 10 Episode 6</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-cas41-fast" start="20261114161824 +0000" stop="20261114164324 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR11-004_medium.jpeg"/>
-    <desc>A local Bondi surf photographer helps lifeguards save a Nepalese tourist, but the battle to keep him alive continues on the sand.</desc>
-    <sub-title>Season 11 Episode 4</sub-title>
+  <programme channel="mjh-cas40-fast" start="20261114181318 +0000" stop="20261114185818 +0000">
+    <title>Whale of a Sale</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU628-S7T12_medium.png"/>
+    <desc>Steve tries to sell an impeccably designed apartment with a major location flaw.</desc>
+    <sub-title>Whale of a Sale</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-cas41-fast" start="20261114164336 +0000" stop="20261114170836 +0000">
@@ -58135,6 +57600,20 @@
     <icon src="https://api.tvapi.com.au/images/BONR11-005_medium.jpeg"/>
     <desc>Bondi's chiselled lifeguards get a run for their money when all-male-revue, Manpower Australia, make a surprise visit.</desc>
     <sub-title>Season 11 Episode 5</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-cas41-fast" start="20261114170849 +0000" stop="20261114173349 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR11-006_medium.jpeg"/>
+    <desc>2016 dawns on Bondi with drug and alcohol affected masses taking lifeguards to another level.</desc>
+    <sub-title>Season 11 Episode 6</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-cas41-fast" start="20261114173432 +0000" stop="20261114175932 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR12-004_medium.jpeg"/>
+    <desc>Unlucky in love Singlets is one member of the service hoping to find that special someone.</desc>
+    <sub-title>Season 12 Episode 4</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-10-bigbrother" start="20261115100000 +0000" stop="20261115185900 +0000">
@@ -58145,11 +57624,6 @@
   <programme channel="mjh-10-bigbrother" start="20261115190000 +0000" stop="20261116035900 +0000">
     <title>Big Brother Live Stream</title>
     <icon src="https://10.com.au/ip/s3/2026/10/25/fd2dc7861449bbda1c6c02011f551a7e-1468778.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-nexttopmodel" start="20261114154500 +0000" stop="20261114164400 +0000">
-    <title>Australia's Next Top Model S6 Ep. 11</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/664735e03027c80013bb1ec4/featuredImage_1774411531056.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-nexttopmodel" start="20261114164400 +0000" stop="20261114174201 +0000">
@@ -58607,11 +58081,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-seasonalmovies" start="20261114150600 +0000" stop="20261114164401 +0000">
-    <title>Watching Over You</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/11/02/0e20b354b883b426a914440ee9380b97-1277225.jpg"/>
-    <category>Movies</category>
-  </programme>
   <programme channel="mjh-10-seasonalmovies" start="20261114164400 +0000" stop="20261114181700 +0000">
     <title>What The Nanny Saw</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/11/06/789d912bed2f93347926f91e3716e0d6-1278080.jpg"/>
@@ -58856,16 +58325,6 @@
     <title>Cheer For Your Life</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/10/31/cd84b71f69158ed6cb9dde525f0239c5-1276421.jpg"/>
     <category>Movies</category>
-  </programme>
-  <programme channel="mjh-10-jamieoliver" start="20261114153900 +0000" stop="20261114163301 +0000">
-    <title>Jamie &amp; Jimmy’s Food Fight Club S8 Ep. 5</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ab4d2e33830afefd570877f/featuredImage_1790235364341.jpg"/>
-    <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-jamieoliver" start="20261114163300 +0000" stop="20261114170300 +0000">
-    <title>Jamie at Home S1 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/08/04/8a673f42c5d9babbf442721795a53295-1448354.jpg"/>
-    <category>Light Entertainment</category>
   </programme>
   <programme channel="mjh-10-jamieoliver" start="20261114170300 +0000" stop="20261114175601 +0000">
     <title>Jamie &amp; Jimmy’s Food Fight Club S7 Ep. 11</title>
@@ -59346,21 +58805,6 @@
     <title>Jamie &amp; Jimmy’s Food Fight Club S4 Ep. 4</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ab4d2e33830afefd570877f/featuredImage_1790235364341.jpg"/>
     <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20261114154600 +0000" stop="20261114161000 +0000">
-    <title>Breadwinners S1 Ep. 113</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20261114161000 +0000" stop="20261114163900 +0000">
-    <title>Rise of the Teenage Mutant Ninja Turtles S1 Ep. 19</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de24872c3507bb0a251515/featuredImage_1776166024176.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20261114163900 +0000" stop="20261114170301 +0000">
-    <title>Breadwinners S2 Ep. 204</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
-    <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nicktoons" start="20261114170300 +0000" stop="20261114172801 +0000">
     <title>Breadwinners S2 Ep. 205</title>
@@ -60262,11 +59706,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-historyandwarfare" start="20261114155000 +0000" stop="20261114164800 +0000">
-    <title>The Business of War</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171AHC86VALNT_2_3.jpg"/>
-    <category>documentary</category>
-  </programme>
   <programme channel="mjh-10-historyandwarfare" start="20261114164800 +0000" stop="20261114174500 +0000">
     <title>Aftermath and Injustice</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171AHC86VALNT_2_3.jpg"/>
@@ -60871,16 +60310,6 @@
     <title>Rogues</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU1719GTUMUIDEV_2_3.jpg"/>
     <category>documentary</category>
-  </programme>
-  <programme channel="mjh-10-sitcomcentral" start="20261114160300 +0000" stop="20261114163000 +0000">
-    <title>The Odd Couple (2015) S3 Ep. 7</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ad686c373415cc4ae1abb57/featuredImage_1792444100536.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-sitcomcentral" start="20261114163000 +0000" stop="20261114165800 +0000">
-    <title>The Odd Couple (2015) S3 Ep. 8</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ad686c373415cc4ae1abb57/featuredImage_1792444100536.jpg"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-sitcomcentral" start="20261114165800 +0000" stop="20261114172600 +0000">
     <title>The Odd Couple (2015) S3 Ep. 9</title>
@@ -61747,11 +61176,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ad686c373415cc4ae1abb57/featuredImage_1792444100536.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-grahamnorton" start="20261114155500 +0000" stop="20261114163601 +0000">
-    <title>Series 16 Compilation Episode</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-10-grahamnorton" start="20261114163600 +0000" stop="20261114172200 +0000">
     <title>Series 17 Compilation Episode</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
@@ -62550,21 +61974,6 @@
   <programme channel="mjh-10-grahamnorton" start="20261119124951 +0000" stop="20261119132951 +0000">
     <title>Series 24 Ep 10 with Matthew McConaughey</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261114154100 +0000" stop="20261114160700 +0000">
-    <title>Episode 11</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
-    <category>N/A</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261114160700 +0000" stop="20261114163500 +0000">
-    <title>Episode 7</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/8OutOf10CatsSeason02_EP18_Show7645964_TXT_English_UpRes_0a303e33-dc62-4d69-8a31-896608738b98-1.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261114163500 +0000" stop="20261114170400 +0000">
-    <title>8 Out of 10 Cats: Season 11 Episode 11</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/25514_1088377_8Outof10CatsS11E11_542a3659-d3cd-4c33-be57-8af3f863c986-1.jpg"/>
     <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-eightoutof10cats" start="20261114170400 +0000" stop="20261114174801 +0000">
@@ -63562,21 +62971,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>Entertainment</category>
   </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261114154300 +0000" stop="20261114160901 +0000">
-    <title>Ridiculousness S9 Ep. 17</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261114160900 +0000" stop="20261114163501 +0000">
-    <title>Ridiculousness S9 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261114163500 +0000" stop="20261114170201 +0000">
-    <title>Ridiculousness S10 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-mtvridiculousness" start="20261114170200 +0000" stop="20261114172900 +0000">
     <title>Ridiculousness S10 Ep. 27</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
@@ -64472,11 +63866,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20261114154500 +0000" stop="20261114163801 +0000">
-    <title>Have You Been Paying Attention? S4 Ep. 26</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-haveyoubeenpayingattention" start="20261114163800 +0000" stop="20261114173000 +0000">
     <title>Have You Been Paying Attention? S1 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
@@ -64952,11 +64341,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-cheapseats" start="20261114155700 +0000" stop="20261114164900 +0000">
-    <title>The Cheap Seats S3 Ep. 13</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-cheapseats" start="20261114164900 +0000" stop="20261114174200 +0000">
     <title>The Cheap Seats S3 Ep. 14</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
@@ -65402,11 +64786,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-thankgodyourehere" start="20261114153200 +0000" stop="20261114163101 +0000">
-    <title>Thank God You're Here S6 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-thankgodyourehere" start="20261114163100 +0000" stop="20261114174901 +0000">
     <title>Thank God You're Here S4 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
@@ -65820,16 +65199,6 @@
   <programme channel="mjh-10-thankgodyourehere" start="20261117223815 +0000" stop="20261117233415 +0000">
     <title>Thank God You're Here S3 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261114155600 +0000" stop="20261114162301 +0000">
-    <title>Daria S1 Ep. 12</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/5df1660048dd4e9d2d9f20d0d7c57d39-1061124.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261114162300 +0000" stop="20261114165001 +0000">
-    <title>Daria S3 Ep. 303</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/5df1660048dd4e9d2d9f20d0d7c57d39-1061124.jpg"/>
     <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-adultanimation" start="20261114165000 +0000" stop="20261114171701 +0000">
@@ -66737,16 +66106,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/5df1660048dd4e9d2d9f20d0d7c57d39-1061124.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-becker" start="20261114154600 +0000" stop="20261114161401 +0000">
-    <title>Becker S3 Ep. 21</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20261114161400 +0000" stop="20261114164101 +0000">
-    <title>Becker S3 Ep. 22</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-becker" start="20261114164100 +0000" stop="20261114170900 +0000">
     <title>Becker S3 Ep. 23</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
@@ -67602,11 +66961,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-aussiedramapopup" start="20261114155900 +0000" stop="20261114165501 +0000">
-    <title>Rush S2 Ep. 16</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64d093a0a5aa6e001384f2a9/featuredImage_1767916248166.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-aussiedramapopup" start="20261114165500 +0000" stop="20261114175000 +0000">
     <title>Rush S2 Ep. 17</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
@@ -68045,11 +67399,6 @@
   <programme channel="mjh-10-aussiedramapopup" start="20261117224146 +0000" stop="20261117233446 +0000">
     <title>Rush S4 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20261114153900 +0000" stop="20261114162700 +0000">
-    <title>Honour Roll</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
   <programme channel="mjh-10-rookieblue" start="20261114162700 +0000" stop="20261114171600 +0000">
@@ -68777,11 +68126,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-heartland" start="20261114152700 +0000" stop="20261114161801 +0000">
-    <title>Brave New World</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-heartland" start="20261114161800 +0000" stop="20261114170801 +0000">
     <title>Begin Again</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
@@ -69492,11 +68836,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-prisoner-cell-block-h" start="20261114153000 +0000" stop="20261114162200 +0000">
-    <title>Prisoner Cell Block H S2 Ep. 56</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-prisoner-cell-block-h" start="20261114162200 +0000" stop="20261114171600 +0000">
     <title>Prisoner Cell Block H S2 Ep. 57</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
@@ -69967,11 +69306,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-diagnosismurder" start="20261114155300 +0000" stop="20261114164701 +0000">
-    <title>Diagnosis Murder S4 Ep. 10</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-diagnosismurder" start="20261114164700 +0000" stop="20261114174101 +0000">
     <title>Diagnosis Murder S4 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
@@ -70416,16 +69750,6 @@
     <title>Diagnosis Murder S8 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-dallascheerleaders" start="20261114153000 +0000" stop="20261114162301 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team S3 Ep. 301</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-dallascheerleaders" start="20261114162300 +0000" stop="20261114165001 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team S3 Ep. 302</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-dallascheerleaders" start="20261114165000 +0000" stop="20261114171801 +0000">
     <title>Dallas Cowboys Cheerleaders: Making the Team S3 Ep. 303</title>
@@ -71010,16 +70334,6 @@
   <programme channel="mjh-10-dallascheerleaders" start="20261117225931 +0000" stop="20261117234431 +0000">
     <title>Dallas Cowboys Cheerleaders: Making the Team S7 Ep. 711</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20261114151800 +0000" stop="20261114161100 +0000">
-    <title>Project Runway</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20261114161100 +0000" stop="20261114170401 +0000">
-    <title>Project Runway</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-projectrunway" start="20261114170400 +0000" stop="20261114175700 +0000">
@@ -71687,11 +71001,6 @@
     <icon src="https://preview-amagistv-amg02189-cloudport.now.amagi.tv/Images/S3/PRAS_S4_ep401.jpg"/>
     <category>Unscripted Competition</category>
   </programme>
-  <programme channel="mjh-10-masterchef" start="20261114154400 +0000" stop="20261114165801 +0000">
-    <title>MasterChef Australia AU S12 Ep. 12</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-masterchef" start="20261114165800 +0000" stop="20261114182300 +0000">
     <title>MasterChef Australia AU S12 Ep. 13</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
@@ -72047,11 +71356,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-world-of-survivor" start="20261114153900 +0000" stop="20261114163600 +0000">
-    <title>Australian Survivor S2 Ep. 22</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/01/21/7ed52087d862734638d8612e5790bbfb-1407229.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-world-of-survivor" start="20261114163600 +0000" stop="20261114173800 +0000">
     <title>Australian Survivor S2 Ep. 23</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/01/21/7ed52087d862734638d8612e5790bbfb-1407229.jpg"/>
@@ -72375,11 +71679,6 @@
   <programme channel="mjh-10-world-of-survivor" start="20261117220040 +0000" stop="20261117225740 +0000">
     <title>Australian Survivor S2 Ep. 22</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/01/21/7ed52087d862734638d8612e5790bbfb-1407229.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-mtv-the-shores" start="20261114154200 +0000" stop="20261114163200 +0000">
-    <title>Geordie Shore S9 Ep. 904</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/76cc999c54efdc240e9b3479c5ee26bf-1437861.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-mtv-the-shores" start="20261114163200 +0000" stop="20261114172101 +0000">
@@ -72861,16 +72160,6 @@
     <title>Jersey Shore S1 Ep. 109</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/03/e793739f541f8b6a6423517b6e9257e3-1439572.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261114155500 +0000" stop="20261114162301 +0000">
-    <title>Judge Judy S3 Ep. 112</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261114162300 +0000" stop="20261114165100 +0000">
-    <title>Judge Judy S3 Ep. 113</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
   </programme>
   <programme channel="mjh-10-judge-judy" start="20261114165100 +0000" stop="20261114171901 +0000">
     <title>Judge Judy S3 Ep. 114</title>
@@ -73717,16 +73006,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
     <category>Light Entertainment</category>
   </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261114153600 +0000" stop="20261114161801 +0000">
-    <title>The Only Way Is Essex S8 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261114161800 +0000" stop="20261114170101 +0000">
-    <title>The Only Way Is Essex S8 Ep. 12</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-theonlywayisessex" start="20261114170100 +0000" stop="20261114174501 +0000">
     <title>The Only Way Is Essex S9 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
@@ -74327,11 +73606,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-undercoverboss" start="20261114154000 +0000" stop="20261114163300 +0000">
-    <title>Undercover Boss S5 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-undercoverboss" start="20261114163300 +0000" stop="20261114172601 +0000">
     <title>Undercover Boss S5 Ep. 12</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
@@ -74785,16 +74059,6 @@
   <programme channel="mjh-10-undercoverboss" start="20261117230305 +0000" stop="20261117235605 +0000">
     <title>Undercover Boss S5 Ep. 6</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261114160500 +0000" stop="20261114162901 +0000">
-    <title>Drama Online, Part 2</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason11_589319.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261114162900 +0000" stop="20261114165400 +0000">
-    <title>Daddy Daughter Dance</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason11_589316.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-hardcorepawn" start="20261114165400 +0000" stop="20261114171901 +0000">
@@ -76067,16 +75331,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason09_591950.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-wicked-tuna" start="20261114151900 +0000" stop="20261114161100 +0000">
-    <title>Wicked Tuna: Outer Banks</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/30/6e2842d68d5c07e672d32f99577b2758-1151628.jpg"/>
-    <category>Adventure</category>
-  </programme>
-  <programme channel="mjh-10-wicked-tuna" start="20261114161100 +0000" stop="20261114170301 +0000">
-    <title>Wicked Tuna: Outer Banks</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/30/6e2842d68d5c07e672d32f99577b2758-1151628.jpg"/>
-    <category>Adventure</category>
-  </programme>
   <programme channel="mjh-10-wicked-tuna" start="20261114170300 +0000" stop="20261114175600 +0000">
     <title>Wicked Tuna: Outer Banks</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/30/6e2842d68d5c07e672d32f99577b2758-1151628.jpg"/>
@@ -76732,11 +75986,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
     <category>Adventure</category>
   </programme>
-  <programme channel="mjh-10-embarrassing-bodies" start="20261114152300 +0000" stop="20261114161501 +0000">
-    <title>Embarrassing Bodies S6 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-embarrassing-bodies" start="20261114161500 +0000" stop="20261114170701 +0000">
     <title>Embarrassing Bodies S6 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
@@ -77196,11 +76445,6 @@
     <title>Embarrassing Bodies S4 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-highwaythruhell" start="20261114154400 +0000" stop="20261114164000 +0000">
-    <title>Between life and death</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HeavyRescue401Season05.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-highwaythruhell" start="20261114164000 +0000" stop="20261114173600 +0000">
     <title>Beat up and bloody</title>
@@ -77831,21 +77075,6 @@
     <title>Episode 15</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HighwayThruHellSeason10.jpg"/>
     <category>Factual</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261114155700 +0000" stop="20261114162001 +0000">
-    <title>Cops S28 Ep. 2805</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261114162000 +0000" stop="20261114164200 +0000">
-    <title>Cops S28 Ep. 2806</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261114164200 +0000" stop="20261114170401 +0000">
-    <title>Cops S28 Ep. 2807</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
   </programme>
   <programme channel="mjh-10-cops" start="20261114170400 +0000" stop="20261114172901 +0000">
     <title>Cops S28 Ep. 2808</title>
@@ -78872,11 +78101,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-medical-emergency" start="20261114153100 +0000" stop="20261114162100 +0000">
-    <title>Mystery Diagnosis S10 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/31/6415323f886854ec55ef28fe26e26fe5-1252445.jpg"/>
-    <category>Documentary</category>
-  </programme>
   <programme channel="mjh-10-medical-emergency" start="20261114162100 +0000" stop="20261114171200 +0000">
     <title>24 Hours In A&amp;E S4 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/28/6ccc0b04a2a19ac9fbc66c8dd8f3389f-1252038.jpg"/>
@@ -79326,11 +78550,6 @@
     <title>24 Hours In A&amp;E S3 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/28/6ccc0b04a2a19ac9fbc66c8dd8f3389f-1252038.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-deadlywomen" start="20261114155800 +0000" stop="20261114165200 +0000">
-    <title>Born Bad</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason03.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-deadlywomen" start="20261114165200 +0000" stop="20261114174501 +0000">
     <title>Lethal Vengeance</title>
@@ -79982,16 +79201,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason07.jpg"/>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-crime-time" start="20261114152000 +0000" stop="20261114160700 +0000">
-    <title>Murder Made Me Famous S2 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/12/53b7abfa7ac000c0c089d98355080989-1349717.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-crime-time" start="20261114160700 +0000" stop="20261114165501 +0000">
-    <title>Murder Made Me Famous S2 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/12/53b7abfa7ac000c0c089d98355080989-1349717.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-time" start="20261114165500 +0000" stop="20261114174800 +0000">
     <title>Murdertown S2 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/02/06/322a842d4c517f003702681fd05c9590-1296562.jpg"/>
@@ -80437,11 +79646,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/12/53b7abfa7ac000c0c089d98355080989-1349717.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-crime-hunters" start="20261114152300 +0000" stop="20261114162301 +0000">
-    <title>The FBI Files S4 Ep. 65</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/50043a49919fb14e5280aa7db108f117-1328467.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-hunters" start="20261114162300 +0000" stop="20261114172401 +0000">
     <title>The New Detectives: Case Studies in Forensic Science S6 Ep. 58</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
@@ -80836,11 +80040,6 @@
     <title>The New Detectives: Case Studies in Forensic Science S9 Ep. 107</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-forty-eight-hours" start="20261114153800 +0000" stop="20261114162700 +0000">
-    <title>48 Hours S26 Ep. 62</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-forty-eight-hours" start="20261114162700 +0000" stop="20261114171600 +0000">
     <title>48 Hours S24 Ep. 58</title>
@@ -81321,11 +80520,6 @@
     <title>48 Hours S21 Ep. 53</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20261114155700 +0000" stop="20261114164900 +0000">
-    <title>Vanity Fair Confidential AU S2 Ep. 12</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-true-stories" start="20261114164900 +0000" stop="20261114173801 +0000">
     <title>Vanity Fair Confidential AU S3 Ep. 5</title>
@@ -81866,11 +81060,6 @@
     <title>Vanity Fair Confidential AU S4 Ep. 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-haunt-tv" start="20261114154900 +0000" stop="20261114164100 +0000">
-    <title>My Paranormal Nightmare</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_myparanormalnightmare_Season_1_16x9.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-haunt-tv" start="20261114164100 +0000" stop="20261114173200 +0000">
     <title>My Paranormal Nightmare</title>
@@ -82702,11 +81891,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_celebrityhelpmyhouseishaunted_Season_4_16x9.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-ghosthunters" start="20261114154500 +0000" stop="20261114164101 +0000">
-    <title>Ghost Hunters S8 Ep. 23</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-ghosthunters" start="20261114164100 +0000" stop="20261114173601 +0000">
     <title>Ghost Hunters S5 Ep. 15</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
@@ -83146,11 +82330,6 @@
     <title>Ghost Hunters S5 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-anthonybourdain" start="20261114155300 +0000" stop="20261114163801 +0000">
-    <title>Anthony Bourdain Parts Unknown S5 Ep. 5</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
-    <category>Food &amp; Cooking</category>
   </programme>
   <programme channel="mjh-10-anthonybourdain" start="20261114163800 +0000" stop="20261114172300 +0000">
     <title>Anthony Bourdain Parts Unknown S4 Ep. 3</title>
@@ -83681,11 +82860,6 @@
     <title>Anthony Bourdain Parts Unknown S4 Ep. 6</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
     <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-wildest" start="20261114151700 +0000" stop="20261114161500 +0000">
-    <title>Life And Death In The Dunes</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_arabianinferno_Season_1_2x3.jpg"/>
-    <category>nature</category>
   </programme>
   <programme channel="mjh-10-wildest" start="20261114161500 +0000" stop="20261114171300 +0000">
     <title>Wonders Of The Wadi</title>
@@ -84352,11 +83526,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_deadlyaustralians_Season_1_2x3.jpg"/>
     <category>nature</category>
   </programme>
-  <programme channel="mjh-10-shockwave" start="20261114153000 +0000" stop="20261114163200 +0000">
-    <title>Earthquake Rapid Response</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QF8QRMHLGJXR6DVQBW2_2_3.jpg"/>
-    <category>documentary</category>
-  </programme>
   <programme channel="mjh-10-shockwave" start="20261114163200 +0000" stop="20261114173401 +0000">
     <title>Hurricane Hospital</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QF8QRMHLGJXR6DVQBW2_2_3.jpg"/>
@@ -85002,11 +84171,6 @@
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QFAZ4SO2KRHP530M8JG_2_3.jpg"/>
     <category>documentary</category>
   </programme>
-  <programme channel="mjh-10-christmasmovies" start="20261114151700 +0000" stop="20261114165000 +0000">
-    <title>12 Days Of Giving</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/10/03/4a0ffcdd2f3fd0bcc5bf867116b75dd8-1267889.jpg"/>
-    <category>Movies</category>
-  </programme>
   <programme channel="mjh-10-christmasmovies" start="20261114165000 +0000" stop="20261114183101 +0000">
     <title>A Christmas Hero</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/10/06/d06a7e382c7552104fc48e4bfea8131f-1269164.jpg"/>
@@ -85556,21 +84720,6 @@
     <title>The Perfect Match</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/2650143_landscape.jpg"/>
     <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261114154400 +0000" stop="20261114161000 +0000">
-    <title>Dora The Explorer S7 Ep. 8</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/07/02/b589babf4cdee056e055c023c54e1aff-972373.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261114161000 +0000" stop="20261114163401 +0000">
-    <title>Shimmer and Shine S4 Ep. 14</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/8855eee97bbaed70a0ccd2be9d5bdbb8-991824.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261114163400 +0000" stop="20261114170300 +0000">
-    <title>Bubble Guppies S2 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nick-jr" start="20261114170300 +0000" stop="20261114172800 +0000">
     <title>Shimmer and Shine S4 Ep. 2</title>
@@ -86450,21 +85599,6 @@
   <programme channel="mjh-10-nick-jr" start="20261117231819 +0000" stop="20261117234219 +0000">
     <title>Shimmer and Shine S4 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/8855eee97bbaed70a0ccd2be9d5bdbb8-991824.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261114155200 +0000" stop="20261114161600 +0000">
-    <title>SpongeBob SquarePants S7 Ep. 14</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261114161600 +0000" stop="20261114163900 +0000">
-    <title>SpongeBob SquarePants S7 Ep. 15</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261114163900 +0000" stop="20261114170401 +0000">
-    <title>SpongeBob SquarePants S7 Ep. 16</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-spongebobsquarepants" start="20261114170400 +0000" stop="20261114172900 +0000">
@@ -87402,16 +86536,6 @@
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261114155800 +0000" stop="20261114162800 +0000">
-    <title>Hey Arnold! S4 Ep. 70</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261114162800 +0000" stop="20261114165500 +0000">
-    <title>The Fairly Odd Parents S10 Ep. 6</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/06/04/5b8b5c9561272be1e1979d5f88a3462a-1318354.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons-90s" start="20261114165500 +0000" stop="20261114172201 +0000">
     <title>Hey Arnold! S1 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
@@ -88280,16 +87404,6 @@
   <programme channel="mjh-10-nicktoons-90s" start="20261117231517 +0000" stop="20261117233817 +0000">
     <title>Rocket Power S1 Ep. 2</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/04/27/0c3bce0648997d8da40e36f862f6aa39-1052016.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20261114155700 +0000" stop="20261114162501 +0000">
-    <title>Big Time Rush S2 Ep. 19</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20261114162500 +0000" stop="20261114165401 +0000">
-    <title>Zoey 101 S1 Ep. 112</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/08/11/68c2c1ce3ce930bcfe25d0cc101ed547-1449619.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nickteen" start="20261114165400 +0000" stop="20261114172301 +0000">
@@ -89481,19 +88595,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6b4c3cc04f344e712500/image"/>
     <rating>
       <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20261114151500 +0000" stop="20261114161000 +0000" channel="mjh-sbs-sbst">
-    <title>Julia Bradbury's Irish Journey</title>
-    <sub-title>North</sub-title>
-    <desc>Julia Bradbury travels through Northern Ireland and the North-West corner of the Republic, experiencing everything from sailing to surfing to a seaweed bath.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0609cebaebdfcb2c3791/image"/>
-    <episode-num system="SxxExx">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20261114161000 +0000" stop="20261114171000 +0000" channel="mjh-sbs-sbst">
@@ -94397,19 +93498,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261114153000 +0000" stop="20261114163500 +0000" channel="mjh-sbs-3syd">
-    <title>Rick Stein's Far Eastern Odyssey</title>
-    <sub-title>Malaysia And Sri Lanka</sub-title>
-    <desc>Rick is spoilt for choice as he explores the multi-faceted food of Penang, an appealing mix of Malay, Indian and Chinese with a bit of British charm thrown in for good measure.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f434689893078f8a26db/image"/>
-    <episode-num system="SxxExx">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261114163500 +0000" stop="20261114173000 +0000" channel="mjh-sbs-3syd">
     <title>Gordon Ramsay: Uncharted</title>
     <sub-title>A Royal Taste Of Jordan</sub-title>
@@ -97938,19 +97026,6 @@
     <episode-num system="original-air-date">2026-11-21</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="mjh-sbs-5nsw">
-    <title>Going Places with Ernie Dingo</title>
-    <sub-title>Fitzroy Crossing, Bellenden Ker, Inverloch</sub-title>
-    <desc>Ernie cruises the ancient waterways of Danggu Gorge, Aaron catches up with a talented woodcarver in QLD's sugarcane country and Narelda tries her hand at natural horsemanship in regional Victoria.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/644e5d320de60180bbc6/image"/>
-    <episode-num system="SxxExx">S05E03</episode-num>
-    <episode-num system="xmltv_ns">4.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="mjh-sbs-5nsw">
@@ -109601,53 +108676,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261114155500 +0000" stop="20261114161500 +0000" channel="mjh-abc-tv-plus">
-    <title>Scooby-Doo and Guess Who?</title>
-    <sub-title>The Legend of the Gold Microphone!</sub-title>
-    <desc>Our mystery teens work with Joseph "Run" Simmons (Run DMC) to get to the bottom of a mystery.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e82c784991d5e52d60bc/image"/>
-    <episode-num system="SxxExx">S02E19</episode-num>
-    <episode-num system="xmltv_ns">1.18.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114161500 +0000" stop="20261114163000 +0000" channel="mjh-abc-tv-plus">
-    <title>Odd Squad</title>
-    <sub-title>Happily Ever Odd</sub-title>
-    <desc>The agents accidentally lose someone in headquarters.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d5f47d3ba5c75f0d2473/image"/>
-    <episode-num system="SxxExx">S02E94</episode-num>
-    <episode-num system="xmltv_ns">1.93.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114165500 +0000" channel="mjh-abc-tv-plus">
-    <title>Odd Squad</title>
-    <sub-title>Haunt Squad</sub-title>
-    <desc>Odd Squad is haunted by a ghost.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d5f47d3ba5c75f0d2473/image"/>
-    <episode-num system="SxxExx">S02E95</episode-num>
-    <episode-num system="xmltv_ns">1.94.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114165500 +0000" stop="20261114170000 +0000" channel="mjh-abc-tv-plus">
-    <title>ABC Kids Programs Resume At 4am</title>
-    <desc>ABC Kids programs resume at 4.00am</desc>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/928b06be6db4ce66ba56/image"/>
-    <episode-num system="SxxExx">S2026E1114</episode-num>
-    <episode-num system="xmltv_ns">2025.1113.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114171000 +0000" channel="mjh-abc-tv-plus">
     <title>Teletubbies</title>
     <sub-title>Being Quiet</sub-title>
@@ -112123,32 +111151,6 @@
     <episode-num system="original-air-date">2026-11-20</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114155500 +0000" stop="20261114162500 +0000" channel="mjh-abc-me">
-    <title>QI</title>
-    <sub-title>Vices and Virtues</sub-title>
-    <desc>Join Sandi Toksvig for a QI look at Vices and Virtues with Eshaan Akbar, Jo Brand, Rhys James, and Alan Davies.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2088f9907e6160690c52/image"/>
-    <episode-num system="SxxExx">S23E12</episode-num>
-    <episode-num system="xmltv_ns">22.11.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114162500 +0000" stop="20261114170000 +0000" channel="mjh-abc-me">
-    <title>QI</title>
-    <sub-title>Creatures</sub-title>
-    <desc>Joining QI master Stephen Fry are Helen Atkinson-Wood, Andy Hamilton, Bill Bailey and Alan Davies to discuss creatures. Each of the panellists has been given animal noise buzzers.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2088f9907e6160690c52/image"/>
-    <episode-num system="SxxExx">S03E09</episode-num>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114171000 +0000" channel="mjh-abc-me">
@@ -116643,39 +115645,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114161700 +0000" channel="mjh-abc-news">
-    <title>DW News</title>
-    <sub-title>Sunday 15 November 2026</sub-title>
-    <desc>The latest international news and the day's top stories from a European perspective. Our broadcast partner DW brings you live coverage from Berlin with updated reports and expert analysis on the big global issues and events.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8f4b0d99cf47756b7473/image"/>
-    <episode-num system="SxxExx">S2026E91</episode-num>
-    <episode-num system="xmltv_ns">2025.90.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
-  <programme start="20261114161700 +0000" stop="20261114162800 +0000" channel="mjh-abc-news">
-    <title>Play On</title>
-    <sub-title>Ice Hockey League</sub-title>
-    <desc>Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community, identity and opportunity.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/ce1d3ceebc31e60da085/image"/>
-    <episode-num system="SxxExx">S01E07</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261114162800 +0000" stop="20261114170000 +0000" channel="mjh-abc-news">
-    <title>If You're Listening</title>
-    <sub-title>Black Swans</sub-title>
-    <desc>For years, many feared our planet would be stripped by the weight of a colossal population. In 2026 we've found ourselves in a world where we're not scared about having too many babies, but too few. So what happened?</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/ae3c131d1596774bfb45/image"/>
-    <episode-num system="SxxExx">S2026E01</episode-num>
-    <episode-num system="xmltv_ns">2025.0.</episode-num>
-    <episode-num system="original-air-date">2026-11-14</episode-num>
-  </programme>
   <programme start="20261114170000 +0000" stop="20261114171600 +0000" channel="mjh-abc-news">
     <title>DW News</title>
     <sub-title>Sunday 15 November 2026</sub-title>
@@ -118714,22 +117683,6 @@
     <episode-num system="xmltv_ns">2025.92.</episode-num>
     <episode-num system="original-air-date">2026-11-21</episode-num>
   </programme>
-  <programme channel="mjh-bbc-news" start="20261114160000 +0000" stop="20261114163000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20261114163000 +0000" stop="20261114170000 +0000">
-    <title>Unspun World with John Simpson</title>
-    <desc>John Simpson brings his expertise to bear on critical stories  through discussion with the BBC's range of experts across the world, he uses their unique local knowledge dig deeper than headlines to find the unspun truth about the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3102183490_0_20260625T084226460Z_106_imageprocessorclient-tvplus-linear-75df688c49-bb4m8.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20261114170000 +0000" stop="20261114180000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -118794,35 +117747,13 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261114153158 +0000" stop="20261114160623 +0000" channel="mjh-redbull-tv">
-    <title>FITNESS: Beyond the ROX – Strength in Motion</title>
-    <desc>After years of training, Jake Dearden reaches the Elite 15. Can he prove he belongs in the 2024/25 season?</desc>
-    <icon src="https://img.liiift.io/v1/DAM/FO3AIMUIPWS3PH4VJSCN.jpeg/a:p/im/MI202409250431_Artwork_2_3_SI202411230251.jpeg"/>
-    <episode-num system="original-air-date">2026-11-11 02:41:45</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FO3AIMUIPWS3PH4VJSCN.jpeg/a:p/im/MI202409250431_Artwork_2_3_SI202411230251.jpeg</image>
-  </programme>
-  <programme start="20261114160623 +0000" stop="20261114162712 +0000" channel="mjh-redbull-tv">
-    <title>SNOW: NST Snow Super Sessions 2026 – Utah</title>
-    <desc>Results from three NST Snow Super Sessions determine who goes on to YETI Natural Selection Snow in Revelstoke.</desc>
-    <icon src="https://img.liiift.io/v1/DAM/FORLS7XXQCNJUPVFM5FB.jpeg/a:p/im/MI202602100619_Artwork_2_3_SuperSessions.jpeg"/>
-    <episode-num system="original-air-date">2026-11-10 06:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FORLS7XXQCNJUPVFM5FB.jpeg/a:p/im/MI202602100619_Artwork_2_3_SuperSessions.jpeg</image>
+  <programme channel="mjh-bbc-news" start="20261114220000 +0000" stop="20261114230000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme start="20261114162712 +0000" stop="20261114171115 +0000" channel="mjh-redbull-tv">
     <title>SNOWBOARDING: Volare: Valentino Guseli – A Prodigy</title>
@@ -119454,51 +118385,35 @@
     </audio>
     <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOW1P8CUVUMCJUJCG04H.jpeg/a:p/im/MI202508260989_Artwork_2_3_PressureDrop.jpeg</image>
   </programme>
-  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1190046552</episode-num>
-    <episode-num system="original-air-date">2026-11-07 11:45:50</episode-num>
+  <programme start="20261115153408 +0000" stop="20261115155007 +0000" channel="mjh-redbull-tv">
+    <title>SKATE: Skate Tales – Madars Apse's Global Journey</title>
+    <desc>Madars and Nico Hiraga explore how San Francisco is shaping skateboarding’s new generation.</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FOZF4JM2VJR82U3WMI1S.jpeg/a:p/im/MI202412040859_Artwork_2_3_SI202603180297.jpeg"/>
+    <episode-num system="original-air-date">2026-11-10 08:55:23</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
       <stereo>stereo</stereo>
     </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOZF4JM2VJR82U3WMI1S.jpeg/a:p/im/MI202412040859_Artwork_2_3_SI202603180297.jpeg</image>
   </programme>
-  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="mjh-al-jazeera">
-    <title>Fault Lines</title>
-    <desc>Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg"/>
-    <episode-num system="dd_progid">EP/22552425./59205457</episode-num>
-    <episode-num system="original-air-date">2026-10-21 11:46:48</episode-num>
+  <programme start="20261115155007 +0000" stop="20261115160510 +0000" channel="mjh-redbull-tv">
+    <title>SKATE: Skate Tales – Madars Apse's Global Journey</title>
+    <desc>Madars travels to Brazil to uncover Tiago Lemos’s rise from the streets to global skate stardom.</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FONV20MSU3XYPI60HWBK.jpeg/a:p/im/MI202412040855_Artwork_2_3_SI202506100524.jpeg"/>
+    <episode-num system="original-air-date">2026-11-10 09:11:22</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
       <stereo>stereo</stereo>
     </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/53D444D2-58DB-46A0-9F5F00A4059AAFE9.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/25861609-26ce-4c8d-90d6-f59167385634/faultlines_showcard.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3B5DAC7D-B0E1-4658-92831437EC7DB7E1.jpg</image>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FONV20MSU3XYPI60HWBK.jpeg/a:p/im/MI202412040855_Artwork_2_3_SI202506100524.jpeg</image>
   </programme>
   <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
