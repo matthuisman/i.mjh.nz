@@ -208,14 +208,7 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme channel="mjh-sky-popup1" start="20261121213500 +1300" stop="20261122045000 +1300">
-    <title>LIVE MotoGP: Grand Prix Of Portugal Day 2</title>
-    <sub-title>MotoGP: Grand Prix of Portugal Day 2</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/5E5FE6F9-D7AB-452E-BE9944F47B97C891.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S2026E122</episode-num>
-    <category>Sports</category>
-  </programme>
-  <programme channel="mjh-sky-popup1" start="20261122045000 +1300" stop="20261122060000 +1300">
+  <programme channel="mjh-sky-popup1" start="20261122041500 +1300" stop="20261122060000 +1300">
     <title>MotoGP: Grand Prix Of Portugal Day 3 Live Today 10.35pm</title>
     <sub-title>NASCAR O'Reilly Series: The Progress Group 250 Live Sunday 25th Oct 8am</sub-title>
     <category>Sport</category>
@@ -288,39 +281,6 @@
     <title>SailGP: Abu Dhabi Sail Grand Prix Day 1 Live Saturday 28th Nov 11.00pm</title>
     <sub-title>NASCAR O'Reilly Series: The Progress Group 250 Live Sunday 25th Oct 8am</sub-title>
     <category>Sport</category>
-  </programme>
-  <programme start="20261121150000 +0000" stop="20261121152500 +0000" channel="mjh-sky-hgtv">
-    <title>House Hunters</title>
-    <sub-title>Capital Vs Comfort In Chicago</sub-title>
-    <desc>Lifelong renters are looking for their first home in the heart of Chicago. They want it to include a rental property.</desc>
-    <date>2021</date>
-    <category>Factual</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/DAC4AB16-F540-4D3A-BE995400579780B0.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/house-hunters/S3535-744</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1002360./SNZ11935347</episode-num>
-    <episode-num system="xmltv_ns">201.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/6480</episode-num>
-    <episode-num system="original-air-date">2026-11-13 11:42:32</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>5.5/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/DAC4AB16-F540-4D3A-BE995400579780B0.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/0220240F-F34B-41AA-8719EE1750C893E7.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
   </programme>
   <programme start="20261121152500 +0000" stop="20261121161500 +0000" channel="mjh-sky-hgtv">
     <title>What's Wrong With That House?</title>
@@ -18569,11 +18529,6 @@
     <sub-title>Top Stories from CNN</sub-title>
     <category>News/Current Affairs</category>
   </programme>
-  <programme channel="mjh-sky-ptms" start="20261122025300 +1300" stop="20261122044000 +1300">
-    <title>Kickboxer 2: The Road Back</title>
-    <sub-title>Kickboxer 2: The Road Back</sub-title>
-    <category>Movies</category>
-  </programme>
   <programme channel="mjh-sky-ptms" start="20261122044000 +1300" stop="20261122064000 +1300">
     <title>Chaos</title>
     <sub-title>Chaos</sub-title>
@@ -18653,20 +18608,6 @@
     <title>Good Morning, Killer</title>
     <sub-title>Good Morning, Killer</sub-title>
     <category>Movies</category>
-  </programme>
-  <programme channel="mjh-sky-fast3" start="20261122032500 +1300" stop="20261122041000 +1300">
-    <title>Below Deck</title>
-    <sub-title>Big Girls Do Cry</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/F7F3D6F3-9B1F-4EBF-96F52AC05CD89841.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S07E18</episode-num>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-sky-fast3" start="20261122041000 +1300" stop="20261122045500 +1300">
-    <title>Below Deck</title>
-    <sub-title>Reunion Part 1</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/F7F3D6F3-9B1F-4EBF-96F52AC05CD89841.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S07E19</episode-num>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-fast3" start="20261122045500 +1300" stop="20261122054500 +1300">
     <title>Below Deck</title>
@@ -18908,10 +18849,12 @@
     <episode-num system="onscreen">S08E03</episode-num>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-sky-ptmb" start="20261122031200 +1300" stop="20261122041100 +1300">
-    <title>MythBusters</title>
-    <sub-title>MythBusters</sub-title>
-    <category>Technology</category>
+  <programme channel="mjh-sky-fast3" start="20261123081000 +1300" stop="20261123090000 +1300">
+    <title>Below Deck</title>
+    <sub-title>Do Not Disturb</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/F7F3D6F3-9B1F-4EBF-96F52AC05CD89841.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-ptmb" start="20261122041100 +1300" stop="20261122051200 +1300">
     <title>MythBusters</title>
@@ -19053,26 +18996,10 @@
     <sub-title>MythBusters</sub-title>
     <category>Technology</category>
   </programme>
-  <programme channel="mjh-sky-fast4" start="20261122035000 +1300" stop="20261122041000 +1300">
-    <title>Secrets Of Stepford Wives</title>
-    <sub-title>Murder for Hire</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/8FD4704D-2F34-4B09-A96162887800FF10.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-sky-fast4" start="20261122041000 +1300" stop="20261122043500 +1300">
-    <title>Cry Wolfe</title>
-    <sub-title>Clown Schooled</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/80C33FBC-5940-4791-95A41F772E6DCEC6.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-sky-fast4" start="20261122043500 +1300" stop="20261122050000 +1300">
-    <title>Redrum</title>
-    <sub-title>Two-Faced Victim</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/81D78216-F836-487F-94EAC0FAE80D6020.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S02E19</episode-num>
-    <category>Crime</category>
+  <programme channel="mjh-sky-ptmb" start="20261123080300 +1300" stop="20261123090200 +1300">
+    <title>MythBusters</title>
+    <sub-title>MythBusters</sub-title>
+    <category>Technology</category>
   </programme>
   <programme channel="mjh-sky-fast4" start="20261122050000 +1300" stop="20261122060000 +1300">
     <title>Warner Bros. TV True Crime Back Soon</title>
@@ -19370,12 +19297,12 @@
     <episode-num system="onscreen">S01E02</episode-num>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-sky-fast5" start="20261122040500 +1300" stop="20261122045500 +1300">
-    <title>Kindred Spirits</title>
-    <sub-title>The Country Club Murders</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C49CB05C-7FB3-404A-B39ED53C5BEAC6A6.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S07E10</episode-num>
-    <category>Supernatural</category>
+  <programme channel="mjh-sky-fast4" start="20261123083500 +1300" stop="20261123092000 +1300">
+    <title>Southern Fried Homicide</title>
+    <sub-title>Evil Among Us</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/DD533F65-D1D4-44DF-B297AEE2EE8FF5A4.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <category>Crime</category>
   </programme>
   <programme channel="mjh-sky-fast5" start="20261122045500 +1300" stop="20261122060000 +1300">
     <title>Warner Bros. TV Paranormal Back Soon</title>
@@ -19610,12 +19537,19 @@
     <episode-num system="onscreen">S01E04</episode-num>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-sky-fast1" start="20261122040500 +1300" stop="20261122045000 +1300">
-    <title>Kindig Customs</title>
-    <sub-title>The Gentlemans Hot Rod</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/A90FC2C8-B86A-4736-9A5B941BBBA1449B.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S09E02</episode-num>
-    <category>Motoring</category>
+  <programme channel="mjh-sky-fast5" start="20261123080000 +1300" stop="20261123084500 +1300">
+    <title>Ghost Adventures: House Calls</title>
+    <sub-title>Malevolent in Murfreesboro</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/F058D892-F5C8-4866-940E27AC9245FB1C.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <category>Supernatural</category>
+  </programme>
+  <programme channel="mjh-sky-fast5" start="20261123084500 +1300" stop="20261123093000 +1300">
+    <title>Jack Osbourne's Night Of Terror</title>
+    <sub-title>Glen Tavern Inn</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/EFF2910F-D2D8-46FB-82A494A5E8FB23E1.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <category>Reality</category>
   </programme>
   <programme channel="mjh-sky-fast1" start="20261122045000 +1300" stop="20261122060000 +1300">
     <title>Warner Bros. TV Motorheads Back Soon</title>
@@ -19833,18 +19767,11 @@
     <episode-num system="onscreen">S05E07</episode-num>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-sky-fast2" start="20261122033000 +1300" stop="20261122041500 +1300">
-    <title>Deadliest Catch</title>
-    <sub-title>Prodigal Son</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S11E02</episode-num>
-    <category>Factual</category>
-  </programme>
-  <programme channel="mjh-sky-fast2" start="20261122041500 +1300" stop="20261122050500 +1300">
-    <title>Deadliest Catch</title>
-    <sub-title>The Ultimatum</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S11E03</episode-num>
+  <programme channel="mjh-sky-fast1" start="20261123084000 +1300" stop="20261123093000 +1300">
+    <title>Texas Metal</title>
+    <sub-title>Custom Sasquatch Bronco</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/50B8FE12-9745-4897-BFFAEB0824EE8446.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S07E05</episode-num>
     <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast2" start="20261122050500 +1300" stop="20261122055000 +1300">
@@ -20080,26 +20007,12 @@
     <episode-num system="onscreen">S11E07</episode-num>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-sky-fast6" start="20261122034500 +1300" stop="20261122041000 +1300">
-    <title>House Hunters</title>
-    <sub-title>Island Life in Florida</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S237E09</episode-num>
-    <category>Home/gardening</category>
-  </programme>
-  <programme channel="mjh-sky-fast6" start="20261122041000 +1300" stop="20261122043500 +1300">
-    <title>House Hunters</title>
-    <sub-title>A Newlywed Conundrum in Colorado</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S238E09</episode-num>
-    <category>Home/gardening</category>
-  </programme>
-  <programme channel="mjh-sky-fast6" start="20261122043500 +1300" stop="20261122045500 +1300">
-    <title>House Hunters</title>
-    <sub-title>Lovebirds or Landlords in Chicago</sub-title>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/97304F77-0F01-473A-9219AF84EC795082.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <episode-num system="onscreen">S239E09</episode-num>
-    <category>Home/gardening</category>
+  <programme channel="mjh-sky-fast2" start="20261123083000 +1300" stop="20261123091500 +1300">
+    <title>Deadliest Catch</title>
+    <sub-title>Zero Hour</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/C5CF63FB-4F87-4B75-9C749AA4EBA0F57F.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S11E08</episode-num>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-sky-fast6" start="20261122045500 +1300" stop="20261122052000 +1300">
     <title>House Hunters</title>
@@ -20586,30 +20499,26 @@
     <episode-num system="onscreen">S236E10</episode-num>
     <category>Home/gardening</category>
   </programme>
-  <programme start="20261121110000 +0000" stop="20261121160000 +0000" channel="mjh-mood-1290">
-    <title>After Dark</title>
-    <desc>After Dark was a British late night live discussion programme broadcast on Channel 4 television between 1987 and 1997, and on the BBC in 2003. Inspired by an Austrian programme called Club 2, Roly Keating of the BBC described it as "one of the great television talk formats of all time". In 2010 the television trade magazine Broadcast wrote "After Dark defined the first 10 years of Channel 4, just as Big Brother did for the second".</desc>
-    <date>1987</date>
-    <orig-language>English</orig-language>
-    <icon src="https://images.nzxmltv.com/posters/after-dark_juicetv.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="themoviedb.org">series/13681</episode-num>
-    <episode-num system="original-air-date">2026-08-30 05:32:08</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/after-dark_juicetv.jpg</image>
+  <programme channel="mjh-sky-fast6" start="20261123081000 +1300" stop="20261123083000 +1300">
+    <title>House Hunters International</title>
+    <sub-title>The Beat of Playa Tambor, Costa Rica</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S125E10</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261123083000 +1300" stop="20261123085500 +1300">
+    <title>House Hunters International</title>
+    <sub-title>Checking Off a Goal</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S126E10</episode-num>
+    <category>Factual</category>
+  </programme>
+  <programme channel="mjh-sky-fast6" start="20261123085500 +1300" stop="20261123092000 +1300">
+    <title>House Hunters International</title>
+    <sub-title>Experience vs Space In Bologna</sub-title>
+    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/E885EEF6-046C-402C-896CD064E24C6659.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
+    <episode-num system="onscreen">S127E10</episode-num>
+    <category>Factual</category>
   </programme>
   <programme start="20261121160000 +0000" stop="20261122060000 +0000" channel="mjh-mood-1290">
     <title>Lazy Sunday</title>
@@ -23036,50 +22945,6 @@
       <value>0.0/10</value>
     </star-rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/after-dark_juicetv.jpg</image>
-  </programme>
-  <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="mjh-tvnz-1">
-    <title>Infomercials</title>
-    <desc>Infomercials</desc>
-    <category>Advertisement/Shopping</category>
-    <icon src="https://images.nzxmltv.com/posters/infomercials_tvnz1.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1564315203.mac_ptc142660573</episode-num>
-    <episode-num system="original-air-date">2026-08-30 00:02:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_tvnz1.jpg</image>
-  </programme>
-  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="mjh-tvnz-1">
-    <title>Infomercials</title>
-    <desc>Infomercials</desc>
-    <category>Advertisement/Shopping</category>
-    <icon src="https://images.nzxmltv.com/posters/infomercials_tvnz1.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1564315203.mac_ptc51443325</episode-num>
-    <episode-num system="original-air-date">2026-08-30 00:02:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_tvnz1.jpg</image>
   </programme>
   <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="mjh-tvnz-1">
     <title>Infomercials</title>
@@ -33650,28 +33515,6 @@
     </subtitle>
     <image type="poster" size="3" orient="L">https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/D7FAF7D4-05DC-4BBC-B144-B84DD4B0F507/0-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web</image>
     <image type="backdrop" size="3" orient="L">https://image-resizer-cloud-cdn.cms-api.tvnz.co.nz/image/D7FAF7D4-05DC-4BBC-B144-B84DD4B0F507/2-16x9.png?width=1920&amp;updatedTime=0&amp;dt=Web</image>
-  </programme>
-  <programme start="20261121150500 +0000" stop="20261121160000 +0000" channel="mjh-tvnz-2">
-    <title>TVNZ2 Quiz</title>
-    <desc>TVNZ2 Quiz</desc>
-    <category>Advertisement/Shopping</category>
-    <icon src="https://images.nzxmltv.com/posters/tvnz2-quiz_tvnz2.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc34338410.mac_ptc1243670064</episode-num>
-    <episode-num system="original-air-date">2026-10-05 07:13:25</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/tvnz2-quiz_tvnz2.jpg</image>
   </programme>
   <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="mjh-tvnz-2">
     <title>Infomercial</title>
@@ -46248,31 +46091,6 @@
     </subtitle>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/tvnz2-quiz_tvnz2.jpg</image>
   </programme>
-  <programme start="20261121120000 +0000" stop="20261121160000 +0000" channel="mjh-three">
-    <title>Infomercials</title>
-    <desc>Infomercials</desc>
-    <category>General</category>
-    <category>Movie</category>
-    <icon src="https://images.nzxmltv.com/posters/infomercials_three.jpg"/>
-    <url>https://www.skygo.co.nz/movie/mac_11317297</url>
-    <episode-num system="dd_progid">EPmac_11317297.mac_11317297</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_three.jpg</image>
-  </programme>
   <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="mjh-three">
     <title>Leading The Way</title>
     <sub-title>Leading The Way 2026 19</sub-title>
@@ -55718,31 +55536,6 @@
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/F3A399DF-4B24-4B39-97EE9A937EFE8207.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/C8CBF849-1F6B-4EBA-8B15A3EFCB05409A.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/AFC9E77A-BFCD-430C-9D3C806CC554FE0F.jpg</image>
-  </programme>
-  <programme start="20261121114000 +0000" stop="20261121154000 +0000" channel="mjh-bravo">
-    <title>Infomercials</title>
-    <desc>Infomercials</desc>
-    <category>General</category>
-    <category>Movie</category>
-    <icon src="https://images.nzxmltv.com/posters/infomercials_bravo.jpg"/>
-    <url>https://www.skygo.co.nz/movie/mac_11317297</url>
-    <episode-num system="dd_progid">EPmac_11317297.mac_11317297</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_bravo.jpg</image>
   </programme>
   <programme start="20261121154000 +0000" stop="20261121170000 +0000" channel="mjh-bravo">
     <title>Survivor</title>
@@ -98920,75 +98713,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     </subtitle>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/duke-back-in-the-future_tvnzduke.jpg</image>
   </programme>
-  <programme start="20261121142500 +0000" stop="20261121152000 +0000" channel="mjh-tvnz-2-plus1">
-    <title>The Hunt: Prey vs Predator</title>
-    <desc>The players discover who is the first to be culled from the contest, before another heart-pounding hunt begins... Will alliances and friendships count for anything in the thrill of the chase?</desc>
-    <date>2026</date>
-    <category>Lifestyle</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/g0NHpZBiFCqUN7b3UebeV1PxXR.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/the-hunt-prey-vs-predator</url>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">EP/1040290./10768953</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="themoviedb.org">series/316047</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>16-L</value>
-    </rating>
-    <star-rating>
-      <value>1.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/g0NHpZBiFCqUN7b3UebeV1PxXR.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/hJoOE5w58phzXUL9jGNBN6UMqci.jpg</image>
-  </programme>
-  <programme start="20261121152000 +0000" stop="20261121160500 +0000" channel="mjh-tvnz-2-plus1">
-    <title>Dr. Ken</title>
-    <sub-title>Allison's Career Move</sub-title>
-    <desc>Season Premiere: A job opens up at Welltopia, and Pat thinks Allison would be the perfect candidate; Dave tries to help Molly hide her low SAT scores from their parents. S2 E1</desc>
-    <date>2015</date>
-    <category>Comedy</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/rLuRcr3E7mFGR4jGnNjEuAWWO8p.jpg"/>
-    <url>https://www.tvnz.co.nz/tvseries/dr-ken</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP/1039854./10761216</episode-num>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-    <episode-num system="themoviedb.org">series/62776</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-    <star-rating>
-      <value>5.6/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/rLuRcr3E7mFGR4jGnNjEuAWWO8p.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/tgOQGfgxg6ysxtzh62gn7jn0N7V.jpg</image>
-  </programme>
   <programme start="20261121160500 +0000" stop="20261121170000 +0000" channel="mjh-tvnz-2-plus1">
     <title>TVNZ2 Quiz</title>
     <desc>TVNZ2 Quiz</desc>
@@ -123451,39 +123175,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F8CCE162-8560-4204-842541A20E151D8B.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/3D892B04-D8DA-47BF-A40AC24293F9C72A.jpg</image>
   </programme>
-  <programme start="20261121143500 +0000" stop="20261121152500 +0000" channel="mjh-rush-nz">
-    <title>Lone Star Law</title>
-    <sub-title>Stag Poaching</sub-title>
-    <desc>Texas Game Warden Gould responds to the call about an exotic red stag that was shot. In Hunt County, a plethora of warrants are dispersed for unpaid fishing violations.</desc>
-    <date>2016</date>
-    <category>Factual</category>
-    <orig-language>English</orig-language>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/BEE5E9A3-D45F-4E77-A60BE687BBB697EB.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/lone-star-law/S4523-352</url>
-    <country>United States of America</country>
-    <episode-num system="dd_progid">EP90011418.90269944</episode-num>
-    <episode-num system="xmltv_ns">4.17.0</episode-num>
-    <episode-num system="themoviedb.org">series/67095</episode-num>
-    <episode-num system="original-air-date">2026-11-21 09:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>PG-C</value>
-    </rating>
-    <star-rating>
-      <value>5.1/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/BEE5E9A3-D45F-4E77-A60BE687BBB697EB.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/EE8AED59-7DD2-461D-87B9EF315EC73D74.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/2D823FF0-6B84-4B71-A28D0F821D452CB5.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
   <programme start="20261121152500 +0000" stop="20261121161500 +0000" channel="mjh-rush-nz">
     <title>American Chopper</title>
     <sub-title>Senior's Moment</sub-title>
@@ -145111,49 +144802,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     <image type="poster" size="3" orient="L">https://www.maoriplus.co.nz/api/thumbnail-media/file/HakaPedia-thumbnail.jpg</image>
     <image type="backdrop" size="3" orient="L">https://www.maoriplus.co.nz/api/background-media/file/HAKAPEDIA3-BG1-min.jpg</image>
   </programme>
-  <programme start="20261121144000 +0000" stop="20261121153000 +0000" channel="mjh-tvnz-1-plus1">
-    <title>TVNZ1 Quiz</title>
-    <desc>TVNZ1 Quiz</desc>
-    <category>Game Show/Quiz/Contest</category>
-    <icon src="https://images.nzxmltv.com/posters/tvnz1-quiz_tvnz1plus1.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc127170628.mac_ptc1713024712</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/tvnz1-quiz_tvnz1plus1.jpg</image>
-  </programme>
-  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="mjh-tvnz-1-plus1">
-    <title>Infomercials</title>
-    <desc>Infomercials</desc>
-    <category>Advertisement/Shopping</category>
-    <icon src="https://images.nzxmltv.com/posters/infomercials_tvnz1plus1.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1564315203.mac_ptc51443325</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <new/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_tvnz1plus1.jpg</image>
-  </programme>
   <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="mjh-tvnz-1-plus1">
     <title>Infomercials</title>
     <desc>Infomercials</desc>
@@ -155810,28 +155458,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
       <language>English (NZ)</language>
     </subtitle>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/infomercials_tvnz1plus1.jpg</image>
-  </programme>
-  <programme start="20261121130000 +0000" stop="20261121160000 +0000" channel="mjh-tvnz-duke-plus1">
-    <title>Duke - Back In The Future</title>
-    <desc>We'll catch you later on DUKE.</desc>
-    <category>Other</category>
-    <icon src="https://images.nzxmltv.com/posters/duke-back-in-the-future_tvnzdukeplus1.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc1172160031.mac_ptc1012905206</episode-num>
-    <episode-num system="original-air-date">2026-08-30 05:32:08</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <subtitle type="teletext">
-      <language>English (NZ)</language>
-    </subtitle>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/duke-back-in-the-future_tvnzdukeplus1.jpg</image>
   </programme>
   <programme start="20261121160000 +0000" stop="20261121220000 +0000" channel="mjh-tvnz-duke-plus1">
     <title>UFC Fight Night</title>
@@ -179801,32 +179427,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/6ED77A83-0985-4765-96022AA88B691E4A.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F8BBCD40-A687-4EC7-BE1E29DB434AF4EE.jpg</image>
   </programme>
-  <programme start="20261121145000 +0000" stop="20261121154000 +0000" channel="mjh-eden">
-    <title>Help! My House Is Haunted</title>
-    <sub-title>The Foreboding Fortress</sub-title>
-    <desc>Three years after buying a 33â€‘acre former Napoleonic fortress, entrepreneur David is still plagued by paranormal activity. The team tackles its biggest investigation yet to restore peace.</desc>
-    <category>Paranormal</category>
-    <icon src="https://mac-images.digital.skyone.co.nz/v3/479214/DAM/EBA27146-A959-416D-9EF0564ED312E852.jpg?width=[width]&amp;height=[height]&amp;crop=auto"/>
-    <url>https://www.threenow.co.nz/shows/help!-my-house-is-haunted/mac_sh_183747</url>
-    <episode-num system="dd_progid">EPmac_sh_183747.mac_11966793</episode-num>
-    <episode-num system="xmltv_ns">6.6.0</episode-num>
-    <episode-num system="original-air-date">2026-11-21 08:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>M-LC</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/EBA27146-A959-416D-9EF0564ED312E852.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="backdrop" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/FD27531E-AE6B-4D8F-BCBEC12E9D89064B.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-    <image type="still" size="3" orient="L">https://mac-images.digital.skyone.co.nz/v3/479214/DAM/30E4B076-BBBC-4F99-857B8DFC6470E8EB.jpg?width=[width]&amp;height=[height]&amp;crop=auto</image>
-  </programme>
   <programme start="20261121154000 +0000" stop="20261121163500 +0000" channel="mjh-eden">
     <title>Bakers Vs. Fakers</title>
     <sub-title>Blondies Have More Fun</sub-title>
@@ -195465,35 +195065,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/ADF1BF9C-66AC-484C-B0BB02D866EC3F26.jpg</image>
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/AEF00337-0CC8-4D3B-9E729A313CC9CE08.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F18C93E5-3F48-4661-BE26D29E10859992.jpg</image>
-  </programme>
-  <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="mjh-al-jazeera">
-    <title>NEWSHOUR: The Wider Story</title>
-    <desc>A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc894372324</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-20 16:17:19</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
   </programme>
   <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -212979,28 +212550,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/15D0BE9E-8FDA-4E49-AED8C1326891B487.jpg</image>
     <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F7B46FF0-DF22-42E2-8AF95F5DFA3D605D.jpg</image>
   </programme>
-  <programme start="20261121150000 +0000" stop="20261121154500 +0000" channel="mjh-trackside-1">
-    <title>Racing Replay New Plymouth</title>
-    <desc>Replay from Saturday's Australian gallops meetings - 21st November.</desc>
-    <category>Sport</category>
-    <icon src="https://images.nzxmltv.com/posters/racing-replay-new-plymouth_trackside1.jpg"/>
-    <country>New Zealand</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc1207491049.mac_ptc33418518</episode-num>
-    <episode-num system="original-air-date">2026-09-04 08:52:52</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/racing-replay-new-plymouth_trackside1.jpg</image>
-  </programme>
   <programme start="20261121154500 +0000" stop="20261121163000 +0000" channel="mjh-trackside-1">
     <title>Racing Replay Hong Kong</title>
     <desc>Replay from Saturday's Australian gallops meetings - 21st November.</desc>
@@ -222264,28 +221813,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/weigh-in-cont_trackside1.jpg</image>
   </programme>
-  <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="mjh-trackside-2">
-    <title>Australian Trials</title>
-    <desc>Australian Trials from Warwick - 24th November</desc>
-    <category>Sport</category>
-    <icon src="https://images.nzxmltv.com/posters/australian-trials_trackside2.jpg"/>
-    <country>Australia</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc754357952.mac_ptc491247639</episode-num>
-    <episode-num system="original-air-date">2026-08-30 05:32:09</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <previously-shown/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/australian-trials_trackside2.jpg</image>
-  </programme>
   <programme start="20261121153000 +0000" stop="20261121161500 +0000" channel="mjh-trackside-2">
     <title>Racing Replay Cambridge</title>
     <desc>Replay from Saturday's Australian gallops meetings - 21st November.</desc>
@@ -229075,35 +228602,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
       <value>G</value>
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/weigh-in-cont_trackside2.jpg</image>
-  </programme>
-  <programme start="20261121140000 +0000" stop="20261121160000 +0000" channel="mjh-shine-tv">
-    <title>Broken</title>
-    <desc>Logan, an ex-gang leader, has left the gang life to raise his daughter Tori. But when Tori is murdered by an opposing gang in town, Logan must choose forgiveness or revenge. Directed by Tarry Mortlock</desc>
-    <date>2018</date>
-    <category>Drama</category>
-    <category>Movie</category>
-    <orig-language>English</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/cNeDPyJdeV4Gzs3TcVthM8AJYHW.jpg"/>
-    <url>Movies</url>
-    <episode-num system="dd_progid">EP/A0039939./A0039939</episode-num>
-    <episode-num system="themoviedb.org">movie/109584</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-    <star-rating>
-      <value>6.9/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/cNeDPyJdeV4Gzs3TcVthM8AJYHW.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://image.tmdb.org/t/p/original/gG5ZlQNnJs2NsO9JdeCf1jgNzn7.jpg</image>
-    <image type="still" size="3" orient="L">https://img-store-prod.switch.tv/images/1d194fc2-a97b-4a7c-b5a6-ef1cfc04e92c/Broken.jpg</image>
   </programme>
   <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="mjh-shine-tv">
     <title>Anglican Diocese, Nelson</title>
@@ -242843,50 +242341,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     <image type="poster" size="3" orient="L">https://img-store-prod.switch.tv/images/57e28e15-9c87-49e3-8788-929e558dc395/LifeFMPR2025.jpg</image>
     <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/57e28e15-9c87-49e3-8788-929e558dc395/LifeFMPR2025.jpg</image>
   </programme>
-  <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="mjh-firstlight">
-    <title>God So Loved The World</title>
-    <desc>Hear these smiling, talented young people as they share from their own hearts, with their host, Mike Lemon, about their passion, their love for God. S2 E3</desc>
-    <category>Other</category>
-    <icon src="https://images.nzxmltv.com/posters/god-so-loved-the-world_firstlight.jpg"/>
-    <url>http://www.firstlight.org.nz</url>
-    <episode-num system="dd_progid">EP/GSLTW./GSLTW4_03</episode-num>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/god-so-loved-the-world_firstlight.jpg</image>
-  </programme>
-  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="mjh-firstlight">
-    <title>The Preparation Ministry</title>
-    <desc>Renier Horn explores the prophetic timeline in the book of Daniel, focusing on the 2,300-day prophecy and how it identifies the coming of the Messiah. S1E10</desc>
-    <category>Other</category>
-    <icon src="https://images.nzxmltv.com/posters/the-preparation-ministry_firstlight.jpg"/>
-    <url>http://www.firstlight.org.nz</url>
-    <episode-num system="dd_progid">EP/TPM./TPM_BPS_10</episode-num>
-    <episode-num system="xmltv_ns">0.9.0</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/the-preparation-ministry_firstlight.jpg</image>
-  </programme>
   <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="mjh-firstlight">
     <title>Behold the Lamb</title>
     <desc>Kenny &amp; Chris Shelton open Scripture to reveal why true greatness begins with a humble heart, the essential virtue of humility in the Christian walk. S1E1</desc>
@@ -251216,48 +250670,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     </star-rating>
     <image type="poster" size="3" orient="P">https://image.tmdb.org/t/p/original/57pk4PY2hJZWw6T5AjZFu0oZylo.jpg</image>
   </programme>
-  <programme start="20261121150000 +0000" stop="20261121153500 +0000" channel="mjh-hope-channel">
-    <title>Answers In Genesis</title>
-    <desc>Dr Tommy Mitchell explores the scientific view and the biblical view in finding an answer to the question 'What is Life?</desc>
-    <category>Science</category>
-    <icon src="https://images.nzxmltv.com/posters/answers-in-genesis_hopechannel.jpg"/>
-    <url>https://www.hopechannel.nz/</url>
-    <episode-num system="dd_progid">EP/AIG02./AIG02x293</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>PG-C</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/answers-in-genesis_hopechannel.jpg</image>
-  </programme>
-  <programme start="20261121153500 +0000" stop="20261121160000 +0000" channel="mjh-hope-channel">
-    <title>Country Wisdom</title>
-    <desc>In the eyes of God, the marriage bond has been sacred from the beginning of time. It can become a fiery hell or it can be a haven of rest and joy. The question is how?</desc>
-    <category>Religion</category>
-    <icon src="https://images.nzxmltv.com/posters/country-wisdom_hopechannel.jpg"/>
-    <url>https://www.hopechannel.nz/</url>
-    <episode-num system="dd_progid">EP/COUNTRYWIS01./COUNTRYWISDX116</episode-num>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/country-wisdom_hopechannel.jpg</image>
-  </programme>
   <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="mjh-hope-channel">
     <title>Secrets from the Ancient Sanctuary</title>
     <desc>The Sanctuary of God reveals in very practical terms how God's going to end this problem of sin in the universe.</desc>
@@ -258594,26 +258006,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/artvox_parliamenttv.jpg</image>
   </programme>
-  <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="mjh-wairarapa-tv">
-    <title>Economics Explained</title>
-    <desc>Economics explained</desc>
-    <category>Social, Political Issues, Economics</category>
-    <icon src="https://images.nzxmltv.com/posters/economics-explained_wairarapatv.jpg"/>
-    <url>http://www.np.co.nz/epg.asp?p=Economics%20Explained</url>
-    <episode-num system="original-air-date">2026-11-14 11:42:44</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/economics-explained_wairarapatv.jpg</image>
-  </programme>
   <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="mjh-wairarapa-tv">
     <title>Wairarapa Stuff</title>
     <desc>Different Stuff from all around the Wairarapa</desc>
@@ -263747,36 +263139,6 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
     </rating>
     <image type="poster" size="3" orient="P">https://images.nzxmltv.com/posters/juice-tv_ch200.jpg</image>
   </programme>
-  <programme start="20261121142837 +0000" stop="20261121151302 +0000" channel="mjh-redbull-tv">
-    <title>BIKE: Unrideable – Hard Enduro Behind the Scenes</title>
-    <desc>Champion Manuel Lettenbichler suffers a setback as his challengers fiercely race to take his lead away.</desc>
-    <icon src="https://img.liiift.io/v1/DAM/FONIKUZTMWNR2M1V6XJH.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202403120230_Poster_2000x7237_Unrideable.jpeg"/>
-    <episode-num system="original-air-date">2026-11-16 07:20:12</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FONIKUZTMWNR2M1V6XJH.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202403120230_Poster_2000x7237_Unrideable.jpeg</image>
-  </programme>
-  <programme start="20261121151302 +0000" stop="20261121155310 +0000" channel="mjh-redbull-tv">
-    <title>BIKE: Unrideable – Hard Enduro Behind the Scenes</title>
-    <desc>Billy Bolt returns as Mario Román chases his dream, the rivals race literally from sea to sky in Türkiye.</desc>
-    <icon src="https://img.liiift.io/v1/DAM/FOT5N0A9S73QBSMKX6XD.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202403120232_Poster_2000x7237_Unrideable.jpeg"/>
-    <episode-num system="original-air-date">2026-11-16 08:04:37</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOT5N0A9S73QBSMKX6XD.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202403120232_Poster_2000x7237_Unrideable.jpeg</image>
-  </programme>
   <programme start="20261121155310 +0000" stop="20261121163051 +0000" channel="mjh-redbull-tv">
     <title>BIKE: Unrideable – Hard Enduro Behind the Scenes</title>
     <desc>Drama hits the 2024 season finale. Will Lettenbichler win the title again or lose it all to a fierce rival?</desc>
@@ -264421,5 +263783,35 @@ Hinekura joins kitchen tohunga Aunties Kasey and Karena to prepare a delicious f
       <stereo>stereo</stereo>
     </audio>
     <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOT5N0A9S73QBSMKX6XD.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202403120232_Poster_2000x7237_Unrideable.jpeg</image>
+  </programme>
+  <programme start="20261122131520 +0000" stop="20261122135301 +0000" channel="mjh-redbull-tv">
+    <title>BIKE: Unrideable – Hard Enduro Behind the Scenes</title>
+    <desc>Drama hits the 2024 season finale. Will Lettenbichler win the title again or lose it all to a fierce rival?</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FORH2EDT9GZEXBJZJSW3.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202403120229_Poster_2000x7237_Unrideable.jpeg"/>
+    <episode-num system="original-air-date">2026-11-16 08:44:45</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FORH2EDT9GZEXBJZJSW3.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202403120229_Poster_2000x7237_Unrideable.jpeg</image>
+  </programme>
+  <programme start="20261122135301 +0000" stop="20261122144043 +0000" channel="mjh-redbull-tv">
+    <title>SNOWBOARDING: Under Black Flag – A Retrospective Thrill</title>
+    <desc>Top Pirate Crew snowboard shots explode into an epic, timeless thrill – Gigi Rüf, Elias Elhardt and more.</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FO7PUC1S15XNG77RM4MB.jpeg/a:p/im/MI202307190833_Artwork_2_3_SI201603300522.jpeg"/>
+    <episode-num system="original-air-date">2026-11-16 09:22:26</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FO7PUC1S15XNG77RM4MB.jpeg/a:p/im/MI202307190833_Artwork_2_3_SI201603300522.jpeg</image>
   </programme>
 </tv>
