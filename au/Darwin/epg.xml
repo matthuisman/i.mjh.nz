@@ -122,6 +122,10 @@
     <display-name>Better Homes And Gardens</display-name>
     <icon src="https://i.mjh.nz/.images/auto-betterhomesandgardens-fast-8d1753.png"/>
   </channel>
+  <channel id="mjh-per2_event-fast">
+    <display-name>Horse Racing</display-name>
+    <icon src="https://i.mjh.nz/.images/auto-per2_event-fast-fd8776.png"/>
+  </channel>
   <channel id="mjh-cas33-fast">
     <display-name>The Yorkshire Vet</display-name>
     <icon src="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png"/>
@@ -239,6 +243,10 @@
     <display-name>Hells Kitchen</display-name>
     <icon src="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png"/>
   </channel>
+  <channel id="mjh-misc511-fast">
+    <display-name>Australian Supercross</display-name>
+    <icon src="https://i.mjh.nz/.images/auto-misc511-fast-7ca7d9.png"/>
+  </channel>
   <channel id="mjh-belowdeckvault-fast">
     <display-name>Below Deck Vault</display-name>
     <icon src="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png"/>
@@ -274,6 +282,14 @@
   <channel id="mjh-cas41-fast">
     <display-name>Bondi Rescue</display-name>
     <icon src="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png"/>
+  </channel>
+  <channel id="mjh-7news-fast">
+    <display-name>7NEWS</display-name>
+    <icon src="https://i.mjh.nz/.images/auto-7news-fast-afb214.png"/>
+  </channel>
+  <channel id="mjh-election-2026-victoria-decides-fast">
+    <display-name>Election 2026: Victoria Decides</display-name>
+    <icon src="https://imageresizer.static9.net.au/7CjbHde7irXhDcYc3Z65nNf3uH8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F11%2F809104%2Fnews_sq.png"/>
   </channel>
   <channel id="mjh-wnbl-202627-fast">
     <display-name>WNBL 2026/27</display-name>
@@ -346,10 +362,6 @@
   <channel id="mjh-bbc-food-fast">
     <display-name>BBC Food</display-name>
     <icon src="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png"/>
-  </channel>
-  <channel id="mjh-election-2026-victoria-decides-fast">
-    <display-name>Election 2026: Victoria Decides</display-name>
-    <icon src="https://imageresizer.static9.net.au/7CjbHde7irXhDcYc3Z65nNf3uH8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F11%2F809104%2Fnews_sq.png"/>
   </channel>
   <channel id="mjh-10-bigbrother">
     <display-name>Big Brother Live Stream</display-name>
@@ -737,18 +749,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20261128044500 +0000" stop="20261128063500 +0000" channel="mjh-abc-nt">
-    <title>SSO Stravinsky's The Firebird</title>
-    <desc>Andrey Boreyko leads the Sydney Symphony Orchestra in Stravinsky's The Firebird and Shostakovich's First Cello Concerto, featuring cellist Maximilian Hornung in his Sydney debut. A program filled with wonder &amp; transformation.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/579ce516efdd190362f8/image"/>
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128063500 +0000" stop="20261128073000 +0000" channel="mjh-abc-nt">
     <title>David Attenborough's Conquest of the Skies</title>
     <desc>Witness the incredible innovations and technical advancements that went into The Making Of David Attenborough's TV series Conquest Of The Skies.</desc>
@@ -3023,29 +3023,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128055900 +0000" stop="20261128063000 +0000" channel="mjh-channel-9-sa">
-    <title>The Garden Gurus</title>
-    <sub-title>Episode 15 of Season 41</sub-title>
-    <desc>This week on The Garden Gurus, Simon shares some helpful tips for keeping your plants healthy and thriving, while Trevor explores a sustainable hotel with great ideas you can put to use in your own home.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/87125b97edeb61f0b37a/image"/>
-    <episode-num system="SxxExx">S41E15</episode-num>
-    <episode-num system="xmltv_ns">40.14.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128065400 +0000" channel="mjh-channel-9-sa">
-    <title>9News First at Five</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Join the 9News First At Five team for all the latest from around the country as well as sport and weather.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2d4ca1f8fc1c743ef932/image"/>
-    <episode-num system="SxxExx">S2026E95</episode-num>
-    <episode-num system="xmltv_ns">2025.94.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
   <programme start="20261128065400 +0000" stop="20261128072900 +0000" channel="mjh-channel-9-sa">
     <title>Getaway</title>
     <sub-title>Episode 42</sub-title>
@@ -4983,32 +4960,6 @@
     <episode-num system="original-air-date">2026-12-04</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128052000 +0000" stop="20261128063000 +0000" channel="mjh-gem-sa">
-    <title>New Tricks</title>
-    <sub-title>Blue Flower</sub-title>
-    <desc>The detectives investigate the murder of an East German immigrant, but all they have to go on are his mysterious final words, which translate to "blue flower".</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/bb1270b5dff29e58df06/image"/>
-    <episode-num system="SxxExx">S09E08</episode-num>
-    <episode-num system="xmltv_ns">8.7.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070100 +0000" channel="mjh-gem-sa">
-    <title>As Time Goes By</title>
-    <sub-title>Episode 3</sub-title>
-    <desc>Lionel's chattering secretary, Gwen, is still around with her "helpful" suggestions, so Jean devises a plan to get rid of her without hurting her feelings.</desc>
-    <category>Similar</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/fc722c1be17dda5f3036/image"/>
-    <episode-num system="SxxExx">S2026E03</episode-num>
-    <episode-num system="xmltv_ns">2025.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261128070100 +0000" stop="20261128090100 +0000" channel="mjh-gem-sa">
@@ -7127,19 +7078,6 @@
     <episode-num system="SxxExx">S01E30</episode-num>
     <episode-num system="xmltv_ns">0.29.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128055900 +0000" stop="20261128065700 +0000" channel="mjh-go-sa">
-    <title>Hellcats</title>
-    <sub-title>Beale St. After Dark</sub-title>
-    <desc>Savannah has her first date with Dan and, to ease her nervousness the Hellcats tag along, but some things just shouldn't be done as a team; Marti tries to wow her law professor so he'll ask to her to join his legal team.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/307078ebdf7de910b0cf/image"/>
-    <episode-num system="SxxExx">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -10171,32 +10109,6 @@
     <episode-num system="xmltv_ns">2025.8.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063100 +0000" channel="mjh-life-sa">
-    <title>My Lottery Dream Home</title>
-    <sub-title>Seven Million Big Ones</sub-title>
-    <desc>Two New York EMTs who've spent years helping others now win the lotto and look for self-care. David finds them a sunny dream home in Cape Coral, Florida.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8211d4fc6fffc6341b28/image"/>
-    <episode-num system="SxxExx">S12E06</episode-num>
-    <episode-num system="xmltv_ns">11.5.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128063100 +0000" stop="20261128070000 +0000" channel="mjh-life-sa">
-    <title>My Lottery Dream Home</title>
-    <sub-title>BFF Lottery</sub-title>
-    <desc>After winning $3 million, a woman and her best friend are ready to search for a place in Rochester, New York. She wants to find her daughter a dream home, so David's also bringing along his bestie to help the duo find the perfect place.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8211d4fc6fffc6341b28/image"/>
-    <episode-num system="SxxExx">S19E07</episode-num>
-    <episode-num system="xmltv_ns">18.6.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128070000 +0000" stop="20261128073200 +0000" channel="mjh-life-sa">
     <title>The Build Up</title>
     <sub-title>Hately Construct</sub-title>
@@ -13018,32 +12930,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128065800 +0000" channel="mjh-rush-sa">
-    <title>Salvage Hunters</title>
-    <sub-title>Victorian Folly in Devon</sub-title>
-    <desc>Meet modern-day treasure hunter Drew Pritchard. With demanding customers, high turnover, and one of the biggest salvage yards in the UK, Drew is constantly on the road in search of derelict gems and for forgotten remnants.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/dc29633a89a71b0fc720/image"/>
-    <episode-num system="SxxExx">S07E10</episode-num>
-    <episode-num system="xmltv_ns">6.9.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128065800 +0000" stop="20261128070300 +0000" channel="mjh-rush-sa">
-    <title>Explore TV</title>
-    <sub-title>Cable Car, Zealandia</sub-title>
-    <desc>Journey with Trevor and friends as they explore New Zealand's top experiences and food destinations.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/af4cbfb9f96f07e5fb30/image"/>
-    <episode-num system="SxxExx">S02E03</episode-num>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128070300 +0000" stop="20261128080200 +0000" channel="mjh-rush-sa">
     <title>Tanked</title>
     <sub-title>Medieval Protection</sub-title>
@@ -15506,16 +15392,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128065930 +0000" channel="mjh-seven-ade">
-    <title>Supercars</title>
-    <sub-title>Adelaide Grand Final - Day 1 Pre-Race &amp; Race</sub-title>
-    <desc>The Grand Final 2026 Supercars Championship returns to Adelaide where the winner will be decided. Live and free from Adelaide Parklands.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/00ccc94e33b7132cd354/image"/>
-    <episode-num system="SxxExx">S26E21</episode-num>
-    <episode-num system="xmltv_ns">25.20.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
   <programme start="20261128065930 +0000" stop="20261128072930 +0000" channel="mjh-seven-ade">
     <title>Border Security: Australia's Front Line</title>
     <sub-title>Episode 209 of Season 1</sub-title>
@@ -17271,16 +17147,6 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261128010000 +0000" stop="20261128070000 +0000" channel="mjh-7two-ade">
-    <title>Seven's Horse Racing</title>
-    <sub-title>Sandown/Rosehill/Doomben</sub-title>
-    <desc>Live coverage of horse racing every Saturday.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/99015c5e8fda13fe31fb/image"/>
-    <episode-num system="SxxExx">S26E59</episode-num>
-    <episode-num system="xmltv_ns">25.58.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-7two-ade">
     <title>Escape To The Country</title>
@@ -19899,32 +19765,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="SxxExx">S26E10</episode-num>
     <episode-num system="xmltv_ns">25.9.</episode-num>
     <episode-num system="original-air-date">2026-12-04</episode-num>
-  </programme>
-  <programme start="20261128053505 +0000" stop="20261128063235 +0000" channel="mjh-7mate-ade">
-    <title>Engineering Disasters</title>
-    <sub-title>Exploding Manhole Covers</sub-title>
-    <desc>A modern jetliner crashes with 228 people on board. Manhole covers explode around the country, killing people and destroying property.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/b82b232ddd4c52b02aa6/image"/>
-    <episode-num system="SxxExx">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128063235 +0000" stop="20261128070135 +0000" channel="mjh-7mate-ade">
-    <title>Counting Cars</title>
-    <sub-title>Boiling Point</sub-title>
-    <desc>Danny and Kevin find themselves in hot water when a motorcycle pullover goes south. Later, a woman brings in her recovered IROC-Z and leaves with a genius thief-busting solution.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/dcbbce40179f637d1ee9/image"/>
-    <episode-num system="SxxExx">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20261128070135 +0000" stop="20261128072930 +0000" channel="mjh-7mate-ade">
     <title>Counting Cars</title>
@@ -24622,19 +24462,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128053147 +0000" stop="20261128063000 +0000" channel="mjh-10-sa">
-    <title>Lingo</title>
-    <sub-title>Episode 15</sub-title>
-    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/35b0632bf1afe8ab6c55/image"/>
-    <episode-num system="SxxExx">S03E15</episode-num>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128063000 +0000" stop="20261128080000 +0000" channel="mjh-10-sa">
     <title>10 News</title>
     <sub-title>Saturday 28 November 2026</sub-title>
@@ -27437,32 +27264,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128060211 +0000" stop="20261128063144 +0000" channel="mjh-10bold-sa">
-    <title>Reel Action</title>
-    <sub-title>Episode 19</sub-title>
-    <desc>Western NSW river tinnie fishing turns up Murray Cod and Golden Perch, before a solo Coffs Harbour reef session chasing Amberjacks and Snapper.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/61aea74ae1d035ef4e74/image"/>
-    <episode-num system="SxxExx">S14E19</episode-num>
-    <episode-num system="xmltv_ns">13.18.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128063144 +0000" stop="20261128070313 +0000" channel="mjh-10bold-sa">
-    <title>Bondi Rescue</title>
-    <sub-title>Episode 6</sub-title>
-    <desc>The international borders are open and tourists flock to Bondi. Hoppo demonstrates his Float To Survive technique. Chase checks out Bondi's grey nurse shark colony. Will races in to rescue a swimmer.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e78d78e47fe29d3cea34/image"/>
-    <episode-num system="SxxExx">S17E06</episode-num>
-    <episode-num system="xmltv_ns">16.5.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128070313 +0000" stop="20261128080333 +0000" channel="mjh-10bold-sa">
     <title>JAG</title>
     <sub-title>Crossing The Line</sub-title>
@@ -29971,32 +29772,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="original-air-date">2026-12-05</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128060106 +0000" stop="20261128063027 +0000" channel="mjh-10peach-sa">
-    <title>Friends</title>
-    <sub-title>The One With The Girl From Poughkeepsie</sub-title>
-    <desc>Ross must decide whether to continue dating a girl he must travel two-and-a-half hours to see. Chandler sets Rachel up with a coworker who misunderstands her intentions.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d3beff34b53d4e4095ff/image"/>
-    <episode-num system="SxxExx">S04E10</episode-num>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128063027 +0000" stop="20261128070105 +0000" channel="mjh-10peach-sa">
-    <title>Friends</title>
-    <sub-title>The One With Phoebe's Uterus</sub-title>
-    <desc>Phoebe considers her options when her brother asks her to carry their child. Joey works as a tour guide at Ross's museum. Meanwhile, Chandler fears that he can't meet Kathy's sexual expectations.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d3beff34b53d4e4095ff/image"/>
-    <episode-num system="SxxExx">S04E11</episode-num>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20261128070105 +0000" stop="20261128073045 +0000" channel="mjh-10peach-sa">
@@ -33904,45 +33679,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="original-air-date">2026-12-05</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128054533 +0000" stop="20261128061032 +0000" channel="mjh-10shake-sa">
-    <title>SpongeBob SquarePants</title>
-    <sub-title>Bummer Vacation / Wigstruck</sub-title>
-    <desc>SpongeBob has never had a vacation. To save his job, Mr.Krabs gives him the day off! // SpongeBob finds an old, powdered wig in the trash and wears it thinking it's cool.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e1000e430a754c421a25/image"/>
-    <episode-num system="SxxExx">S04E14</episode-num>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128061032 +0000" stop="20261128063518 +0000" channel="mjh-10shake-sa">
-    <title>SpongeBob SquarePants</title>
-    <sub-title>Squidtastic Voyage / That's No Lady</sub-title>
-    <desc>When Squidward swallows his clarinet reed Sandy offers to retrieve the piece. // A misunderstanding over an advertisement causes Patrick to think he must get out of town.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e1000e430a754c421a25/image"/>
-    <episode-num system="SxxExx">S04E15</episode-num>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128063518 +0000" stop="20261128070505 +0000" channel="mjh-10shake-sa">
-    <title>SpongeBob SquarePants</title>
-    <sub-title>Scaredy Pants/I Was A Teenage Gary</sub-title>
-    <desc>It's Halloween and SpongeBob is the easiest to scare in Bikini Bottom. // Squidward reluctantly agrees to take care of SpongeBob's pet snail, Gary.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e1000e430a754c421a25/image"/>
-    <episode-num system="SxxExx">S01E13</episode-num>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261128070505 +0000" stop="20261128073522 +0000" channel="mjh-10shake-sa">
@@ -38308,29 +38044,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-first-nations-tv" start="20261128060857 +0000" stop="20261128061321 +0000">
-    <title>82	Getting Kids To School</title>
-    <desc>Community service announcement highlighting the importance of regular school attendance</desc>
-  </programme>
-  <programme channel="mjh-first-nations-tv" start="20261128061321 +0000" stop="20261128061936 +0000">
-    <title>Tick Sickness  (Kriol)</title>
-    <desc>Educational animation from AMRRIC on dealing with tick-bourne diseases</desc>
-  </programme>
-  <programme channel="mjh-first-nations-tv" start="20261128061936 +0000" stop="20261128062402 +0000">
-    <title>2604A ALPA Yaka Ding Ding</title>
-  </programme>
-  <programme channel="mjh-first-nations-tv" start="20261128062517 +0000" stop="20261128063056 +0000">
-    <title>Journeys From Heartache to Hope: Finding Family</title>
-    <desc>Series about indigenous womens' struggles and how they utilise family and friends to overcome them</desc>
-  </programme>
-  <programme channel="mjh-first-nations-tv" start="20261128063737 +0000" stop="20261128064818 +0000">
-    <title>This Is My Language</title>
-    <desc>This Is My Language is a collection of interviews of Aboriginal and Torres Strait Islander people expressing their views on the importance of their traditional languages and the extents to which they are ensuring it's preservation. </desc>
-  </programme>
-  <programme channel="mjh-first-nations-tv" start="20261128065209 +0000" stop="20261128070801 +0000">
-    <title>74	ADR Presentation 1 - Acknowledgement to Country and Connecting to Country</title>
-    <desc>The Australian Dispute Centre presents the Oceans Nine Conference, powering the surge in global dispute resolution.</desc>
-  </programme>
   <programme channel="mjh-first-nations-tv" start="20261128070909 +0000" stop="20261128072915 +0000">
     <title>83 A Special Kind of Service</title>
   </programme>
@@ -39022,12 +38735,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-first-nations-tv" start="20261130140038 +0000" stop="20261130142648 +0000">
     <title>Pathways for Cancer Care - Chemotherapy</title>
     <desc>An overview of the treatment options available for cancer patients and explaining the potential side-effects, all done in Djambarrpuyngu language.</desc>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="mjh-tourism-tv">
-    <title>Tourism TV</title>
-    <desc>Broadcasting from Darwin, Tourism TV is Australia’s only dedicated tourism channel. We take you on a visual journey through spectacular cultural landscapes, from the remotest stretches of North East Arnhem Land to the iconic Sydney Harbour Bridge.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5788cc0867edcf00c24f/image"/>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-tourism-tv">
     <title>Tourism TV</title>
@@ -40001,20 +39708,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/5788cc0867edcf00c24f/image"/>
   </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128054234 +0000" stop="20261128061034 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD-217_medium.jpeg"/>
-    <desc>Officers must establish whether an Indonesian woman is lying or the victim of identity theft. Also, Officers catch a Vietnamese student with a stash of seafood infested by exotic pests.</desc>
-    <sub-title>4.42 - 5.10pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128061122 +0000" stop="20261128064022 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD-218_medium.jpeg"/>
-    <desc>Officers question an American woman when they suspect she's arrived to perform unlawful work in the sex trade. Also, a Chinese mother and son get caught red handed with high risk concealments.</desc>
-    <sub-title>5.11 - 5.40pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
   <programme channel="mjh-bordersecurityaustralia-fast" start="20261128064035 +0000" stop="20261128070935 +0000">
     <title>Border Security - Australia's Front Line</title>
     <icon src="https://api.tvapi.com.au/images/BORD-219_medium.jpeg"/>
@@ -40022,15 +39715,20 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>5.40 - 6.09pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme start="20261128010500 +0000" stop="20261128070000 +0000" channel="mjh-racing-fast">
-    <title>Racing Live</title>
-    <sub-title>Saturday</sub-title>
-    <desc>LIVE racing from Sandown, Yarra Valley, Morphettville, Ascot and Greyhound racing from Sandown Park</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/39e896084b1362d23b93/image"/>
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128070942 +0000" stop="20261128073842 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD-220_medium.jpeg"/>
+    <desc>A detector dog leads officers to a family arriving from Cambodia and a massive concealment. Also, a passenger arriving from the middle east causes biosecurity concern when he fails to declare.</desc>
+    <sub-title>6.09 - 6.38pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128073845 +0000" stop="20261128080745 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD-221_medium.jpeg"/>
+    <desc>Border Force stop a young mother arriving from Vietnam and find her shampoo bottles contain a sophisticated concealment of illicit goods. A package from Ghana contains a gruesome biosecurity risk.&#13;
+</desc>
+    <sub-title>6.38 - 7.07pm</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128114500 +0000" channel="mjh-racing-fast">
     <title>Racing Live</title>
@@ -41821,33 +41519,26 @@ Blow Away The Smokes: Tobacco and indigenous health
     <episode-num system="xmltv_ns">2025.1204.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261128054604 +0000" stop="20261128061104 +0000">
-    <title>S5 E1 - Aftermath</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN5-001_medium.jpeg"/>
-    <desc>Les, Seth and Ashley visit Premier Jewellery and Loan, a pawn shop that Les is interested in buying. Meanwhile, a man tries to pawn his fake eye, and a woman who claims to be "Bruce Lee's sister", tries to sell her "fox mink" coat.</desc>
-    <sub-title>S5 E1 - Aftermath</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20261128070341 +0000" stop="20261128072841 +0000">
+    <title>Face Off</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN6-001_medium.jpeg"/>
+    <desc>Tensions are at an all-time high following Seth's stand-off with Les. The chaos that has been created in the store makes for bad blood and worse business. And as both father and son jockey for power, Ashley stages an intervention that blows up in her face.</desc>
+    <sub-title>Face Off</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261128061150 +0000" stop="20261128063750 +0000">
-    <title>S5 E2 - Final Decision</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN5-002_medium.jpeg"/>
-    <desc>Les reveals to Seth and Ashley whether he'll buy the new pawn shop, but his decision has bigger consequences than anyone could have imagined. Amidst the chaos, Seth challenges a customer to a competition for a vintage bubble hockey game and Ashley gets caught in the crossfire when two customers go at it in the middle of the store.</desc>
-    <sub-title>S5 E2 - Final Decision</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20261128072911 +0000" stop="20261128075511 +0000">
+    <title>Last Man Standing</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN6-002_medium.jpeg"/>
+    <desc>Seth must prove his worth after Les hands him the keys to the kingdom. Business heats up, customers unravel and all eyes are on Seth. With so much on the line, will he be able to handle the pressure.</desc>
+    <sub-title>Last Man Standing</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261128063815 +0000" stop="20261128070315 +0000">
-    <title>S5 E3 - Stolen Gold?</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN5-003_medium.jpeg"/>
-    <desc>As Les and his employees prepare the new location for new management, someone finds a bunch of jewellery in a desk; however, the former employee of that shop says that he was the rightful owner of the jewellery and wants it back. Also, a couple of ladies pawn a TV, but one of them was almost too outspoken to deal.</desc>
-    <sub-title>S5 E3 - Stolen Gold?</sub-title>
+  <programme channel="mjh-hardcorepawn-fast" start="20261128075539 +0000" stop="20261128082039 +0000">
+    <title>Family Traitor!</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN6-003_medium.jpeg"/>
+    <desc>Seth makes a major mistake that could lead the store to a financial disaster. As he scrambles to find a solution, Ashley rats him out to Les and creates a war zone. But later, when Seth lets a major transaction go down in flames, Les steps in and saves the day. But, it's Seth who must answer for the failure.</desc>
+    <sub-title>Family Traitor!</sub-title>
     <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-racingwa-fast" start="20261128060000 +0000" stop="20261128070000 +0000">
-    <title>Racing WA</title>
-    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
-    <desc>Racing WA</desc>
-    <sub-title>Racing WA</sub-title>
-    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-racingwa-fast" start="20261128070000 +0000" stop="20261128080000 +0000">
     <title>Racing WA</title>
@@ -41863,12 +41554,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Racing WA</sub-title>
     <category>GENERAL</category>
   </programme>
-  <programme channel="mjh-allsaints-fast" start="20261128054343 +0000" stop="20261128063143 +0000">
-    <title>All Saints S4 Episode 19</title>
-    <icon src="https://api.tvapi.com.au/images/AST-144_medium.jpeg"/>
-    <desc>Bron, happily in love, clashes with a grumpy old patient. Terri agrees to go on a date with Pussle.</desc>
-    <sub-title>Can You Hear Me</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-racingwa-fast" start="20261128090000 +0000" stop="20261128100000 +0000">
+    <title>Racing WA</title>
+    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
+    <desc>Racing WA</desc>
+    <sub-title>Racing WA</sub-title>
+    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-allsaints-fast" start="20261128063229 +0000" stop="20261128072229 +0000">
     <title>All Saints S4 Episode 20</title>
@@ -41884,12 +41575,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Skeletons In The Closet</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-mythbusters-fast" start="20261128052212 +0000" stop="20261128061712 +0000">
-    <title>Crash Force / Knock Your Socks Off</title>
-    <icon src="https://api.tvapi.com.au/images/MYTH6-011_medium.jpeg"/>
-    <desc>In a cacophony of car carnage the Mythbusters drive this myth up the wall. Then, armed with an arsenal of fan suggestions the team is ready for a Myth rematch.</desc>
-    <sub-title>Crash Force / Knock Your Socks Off</sub-title>
-    <category>SCIENCE &amp; TECHNOLOGY</category>
+  <programme channel="mjh-allsaints-fast" start="20261128081209 +0000" stop="20261128090309 +0000">
+    <title>All Saints S4 Episode 22</title>
+    <icon src="https://api.tvapi.com.au/images/AST-147_medium.jpeg"/>
+    <desc>Von never makes it the charity ball when her little friend Zac's condition begins to deteriorate.</desc>
+    <sub-title>The Sign</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-mythbusters-fast" start="20261128061712 +0000" stop="20261128071212 +0000">
     <title>No Pain No Gain / Gas Rocket</title>
@@ -41905,19 +41596,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Fixin' A Flat, Flaming Reel</sub-title>
     <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261128060344 +0000" stop="20261128062944 +0000">
-    <title>Creek To Coast</title>
-    <icon src="https://api.tvapi.com.au/images/7CTC24-004_medium.jpeg"/>
-    <desc>Ben is cooking mud crab spaghetti. Scott is talking tips for pelagics. A peek at a Cairns eco-retreat. Gary is helping protect against theft. What is a wonky hole? Find out with Scott.</desc>
-    <sub-title>5.03 - 5.29pm</sub-title>
-    <category>OTHER LIFESTYLE</category>
-  </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261128062950 +0000" stop="20261128065450 +0000">
-    <title>Caravan &amp; Camping WA S6 E2</title>
-    <icon src="https://api.tvapi.com.au/images/CCWA06-002_medium.jpeg"/>
-    <desc>Join the team as they set off on some of Western Australia's best getaways. Packed with all the best gear and advice for your next caravan and camping journey.</desc>
-    <sub-title>5.29 - 5.54pm</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-mythbusters-fast" start="20261128080716 +0000" stop="20261128090216 +0000">
+    <title>Let There Be Light, Bumper Cars</title>
+    <icon src="https://api.tvapi.com.au/images/MYTH07-008_medium.jpeg"/>
+    <desc>Jamie and Adam have a Hollywood lighting myth in their sights while Kari Grant and Tory go gangbusters trying to stop out of control cars.</desc>
+    <sub-title>Let There Be Light, Bumper Cars</sub-title>
+    <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
   <programme channel="mjh-travelaustralia-fast" start="20261128065545 +0000" stop="20261128072145 +0000">
     <title>Weekender</title>
@@ -41926,12 +41610,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>5.55 - 6.21pm</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-aircrashinvestigations-fast" start="20261128054731 +0000" stop="20261128063931 +0000">
-    <title>Air Crash Investigations</title>
-    <icon src="https://api.tvapi.com.au/images/MDAY10-005_medium.jpeg"/>
-    <desc>Just minutes after taking off an Airbus collides with a flock of birds causing both engines to lose all thrust. The crew desperately tries to restart their engines, but can't. Searching desperately for a place to land, the captain warns passengers and crew to brace for impact and lands the plane in the icy waters of the Hudson River.</desc>
-    <sub-title>Ditching On The Hudson</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-travelaustralia-fast" start="20261128072151 +0000" stop="20261128074851 +0000">
+    <title>Life Off Road S8 E5</title>
+    <icon src="https://api.tvapi.com.au/images/LIOR08-005_medium.jpeg"/>
+    <desc>Life Off Road celebrates all aspects of four-wheel driving and off-roading.</desc>
+    <sub-title>6.21 - 6.48pm</sub-title>
+    <category>OTHER LIFESTYLE</category>
+  </programme>
+  <programme channel="mjh-travelaustralia-fast" start="20261128074914 +0000" stop="20261128081414 +0000">
+    <title>The 4WD Adventure Show S3 E5</title>
+    <icon src="https://api.tvapi.com.au/images/FWDA03-005_medium.jpeg"/>
+    <desc>Join Ronny Dahl, Mark LeCras and the team for an action-packed outdoor adventure with expert knowledge and tips along the way.</desc>
+    <sub-title>6.49 - 7.14pm</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-aircrashinvestigations-fast" start="20261128063952 +0000" stop="20261128073152 +0000">
     <title>Air Crash Investigations</title>
@@ -41947,12 +41638,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Munich Air Disaster</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-betterhomesandgardens-fast" start="20261128045526 +0000" stop="20261128061526 +0000">
-    <title>Better Homes And Gardens</title>
-    <icon src="https://api.tvapi.com.au/images/BHAG30-004_medium.jpeg"/>
-    <desc>Joh explores how Tetra Paks can be upcycled into building and construction materials. Colin makes a watermelon, fennel, mint and pea salad. Adam and Melissa show you the best of Singapore.</desc>
-    <sub-title>3.55 - 5.15pm</sub-title>
-    <category>HOUSE &amp; GARDEN</category>
+  <programme channel="mjh-aircrashinvestigations-fast" start="20261128082259 +0000" stop="20261128091359 +0000">
+    <title>Air Crash Investigations</title>
+    <icon src="https://api.tvapi.com.au/images/MDAY11-006_medium.jpeg"/>
+    <desc>On 9 October 2002, Northwest Airlines Flight 85's 747 was cruising 35,000 feet above the Bering Sea before the lower rudder suddenly deflected to the left. The four pilots were forced to divert their plane and make an emergency landing in Anchorage, Alaska. Investigators work to determine what caused this near catastrophe.</desc>
+    <sub-title>Turning Point</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-betterhomesandgardens-fast" start="20261128061528 +0000" stop="20261128073428 +0000">
     <title>Better Homes And Gardens</title>
@@ -41968,12 +41659,34 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>6.34 - 7.53pm</sub-title>
     <category>HOUSE &amp; GARDEN</category>
   </programme>
-  <programme channel="mjh-cas33-fast" start="20261128054031 +0000" stop="20261128063231 +0000">
-    <title>Season 15 Episode 1</title>
-    <icon src="https://api.tvapi.com.au/images/YORK15-001_medium.jpeg"/>
-    <desc>Peter has an emergency at the practice in Kirkbymoorside, when a local farming couple rush in their pregnant Texel ewe.</desc>
-    <sub-title>Season 15 Episode 1</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-betterhomesandgardens-fast" start="20261128085413 +0000" stop="20261128101613 +0000">
+    <title>Better Homes And Gardens</title>
+    <icon src="https://api.tvapi.com.au/images/BHAG29-001_medium.jpeg"/>
+    <desc>Joh and Pete visit an amazing home that takes indoor/outdoor living to the next level, Charlie, Adam and Melissa transform a backyard into a stunning space. Joh and Karen make a prawn salad.</desc>
+    <sub-title>7.54 - 9.16pm</sub-title>
+    <category>HOUSE &amp; GARDEN</category>
+  </programme>
+  <programme channel="mjh-per2_event-fast" start="20261128063000 +0000" stop="20261128100000 +0000">
+    <title>Horse Racing: Winterbottom Stakes Day</title>
+    <icon src="https://api.tvapi.com.au/images/SHRC-SHOW_medium.jpeg"/>
+    <desc>Horse Racing: Winterbottom Stakes Day</desc>
+    <sub-title>5.30 - 9.00pm</sub-title>
+    <category>Other</category>
+  </programme>
+  <programme channel="mjh-per2_event-fast" start="20261205063000 +0000" stop="20261205100000 +0000">
+    <title>Horse Racing: Northerly Stakes Day</title>
+    <icon src="https://api.tvapi.com.au/images/SHRC-SHOW_medium.jpeg"/>
+    <desc>Horse Racing: Northerly Stakes Day</desc>
+    <sub-title>5.30 - 9.00pm</sub-title>
+    <category>Other</category>
+  </programme>
+  <programme channel="mjh-per2_event-fast" start="20261212063000 +0000" stop="20261212100000 +0000">
+    <title>Horse Racing: Gold Rush Day</title>
+    <icon src="https://api.tvapi.com.au/images/SHRC-SHOW_medium.jpeg"/>
+    <desc>Horse Racing: Gold Rush Day
+</desc>
+    <sub-title>5.30 - 9.00pm</sub-title>
+    <category>Other</category>
   </programme>
   <programme channel="mjh-cas33-fast" start="20261128063238 +0000" stop="20261128072438 +0000">
     <title>Season 15 Episode 2</title>
@@ -41989,19 +41702,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Season 15 Episode 3</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128052301 +0000" stop="20261128061301 +0000">
-    <title>CSI: Crime Scene Investigation - Monster In The Box</title>
-    <icon src="https://api.tvapi.com.au/images/CSIN07-016_medium.jpeg"/>
-    <desc>With potentially less than a day to attempt to prevent the next murders, the CSI team must quickly shake off their shock that the true miniature killer is not the late Ernie Edward Dell, who committed suicide after confessing to the slayings.</desc>
-    <sub-title>Monster In The Box</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
-  </programme>
-  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128061322 +0000" stop="20261128070422 +0000">
-    <title>CSI: Crime Scene Investigation - Fallen Idols</title>
-    <icon src="https://api.tvapi.com.au/images/CSIN07-017_medium.jpeg"/>
-    <desc>Grissom's quip that two missing young lovers may have run off to Mexico is soon quashed by the discovery of drops of blood by the boy's vacant parking spot at the high school.</desc>
-    <sub-title>Fallen Idols</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-cas33-fast" start="20261128081650 +0000" stop="20261128090650 +0000">
+    <title>Season 10 Ep 1</title>
+    <icon src="https://api.tvapi.com.au/images/YORK10-001_medium.jpeg"/>
+    <desc>Vet Julian comes to the rescue of a cow who is struggling to calf. Peter operates on boxer dog Boot.</desc>
+    <sub-title>Season 10 Ep 1</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128070424 +0000" stop="20261128075324 +0000">
     <title>CSI: Crime Scene Investigation - Empty Eyes</title>
@@ -42010,12 +41716,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Empty Eyes</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-mightymachines-fast" start="20261128060403 +0000" stop="20261128065603 +0000">
-    <title>Mighty Ships S6 E5</title>
-    <icon src="https://api.tvapi.com.au/images/MTYS06-005_medium.jpeg"/>
-    <desc>Climb aboard for an exclusive look at some of the coolest working vessels in the world.</desc>
-    <sub-title>Northern Eagle</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128075405 +0000" stop="20261128084405 +0000">
+    <title>CSI: New York - Uncertainy Rules</title>
+    <icon src="https://api.tvapi.com.au/images/CSIY06-016_medium.jpeg"/>
+    <desc>On the night of a young man's 21st birthday, his friends take him out to celebrate, but when they turn up dead and he's found walking in the middle of the street covered in his friends' blood and wielding an axe, the CSIs must trace the events of the man's wild night to figure out just what happened.</desc>
+    <sub-title>Uncertainy Rules</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  </programme>
+  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128084437 +0000" stop="20261128093237 +0000">
+    <title>CSI: New York - Pot Of Gold</title>
+    <icon src="https://api.tvapi.com.au/images/CSIY06-017_medium.jpeg"/>
+    <desc>When a double homicide involving two young journalists who are investigating a story about gold fraud occurs on the eve of St. Patrick's Day, the CSIs must find the clue at the end of the rainbow.</desc>
+    <sub-title>Pot Of Gold</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-mightymachines-fast" start="20261128065606 +0000" stop="20261128074806 +0000">
     <title>Mighty Ships S6 E6</title>
@@ -42031,12 +41744,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Vietnam - Reunification Express</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas21-fast" start="20261128055340 +0000" stop="20261128064440 +0000">
-    <title>S06 E09 - Spirits of the Night</title>
-    <icon src="https://api.tvapi.com.au/images/GSHU06-009_medium.png"/>
-    <desc>TAPS heads to Massachusetts to investigate claims regarding `phantom footsteps', strange whispering and eerie feelings located in a child's room.</desc>
-    <sub-title>S06 E09 - Spirits of the Night</sub-title>
-    <category>ENTERTAINMENT</category>
+  <programme channel="mjh-mightymachines-fast" start="20261128084137 +0000" stop="20261128093437 +0000">
+    <title>Mighty Trains S4 E6</title>
+    <icon src="https://api.tvapi.com.au/images/MTRA04-006_medium.jpeg"/>
+    <desc>Hop aboard New Zealand's Coastal Pacific on its triumphant return after a massive earthquake shut it down for two years.</desc>
+    <sub-title>New Zealand - Coastal Pacific</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas21-fast" start="20261128064503 +0000" stop="20261128073603 +0000">
     <title>S07 E07 - Residual Haunts</title>
@@ -42052,12 +41765,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>S07 E08 - Knights of the Living Dead</sub-title>
     <category>ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-onthecase-fast" start="20261128054533 +0000" stop="20261128063533 +0000">
-    <title>On The Case S7 E1</title>
-    <icon src="https://api.tvapi.com.au/images/ONTC07-001_medium.jpeg"/>
-    <desc>San Diego police race to catch a killer with an unthinkable calling card.</desc>
-    <sub-title>S7 E1 - Deep Wounds</sub-title>
-    <category>DOCUMENTARY SERIES</category>
+  <programme channel="mjh-cas21-fast" start="20261128082744 +0000" stop="20261128091844 +0000">
+    <title>S07 E09 - A Soldier's Story</title>
+    <icon src="https://api.tvapi.com.au/images/GSHU07-009_medium.png"/>
+    <desc>Taps goes to Derby, Connecticut to explore the Sterling Opera House.</desc>
+    <sub-title>S07 E09 - A Soldier's Story</sub-title>
+    <category>ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-onthecase-fast" start="20261128063542 +0000" stop="20261128073242 +0000">
     <title>On The Case - S2 E2</title>
@@ -42073,12 +41786,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>S7 E2 - Betrayal in Big Cottonwood Canyon</sub-title>
     <category>DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas24-fast" start="20261128054035 +0000" stop="20261128062935 +0000">
-    <title>Bondi Vet</title>
-    <icon src="https://api.tvapi.com.au/images/BONV08-001_medium.jpeg"/>
-    <desc>This week Chris performs an extraordinary transformation on a cormorant that is missing half its top beak. He refines a technique first tried out by his Dad. Local surfboard shapers are called in to help. Wait till you see the result! It’s incredible.</desc>
-    <sub-title>4.40 - 5.29pm</sub-title>
-    <category>ANIMALS</category>
+  <programme channel="mjh-onthecase-fast" start="20261128082218 +0000" stop="20261128091118 +0000">
+    <title>On The Case S7 E3</title>
+    <icon src="https://api.tvapi.com.au/images/ONTC07-003_medium.jpeg"/>
+    <desc>As beautiful young women continue to disappear out of their Kansas City area apartments, police piece together evidence that the terrifying crimes are all connected.</desc>
+    <sub-title>S7 E3 - Gone in an Instant</sub-title>
+    <category>DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas24-fast" start="20261128062950 +0000" stop="20261128071850 +0000">
     <title>Bondi Vet</title>
@@ -42092,6 +41805,13 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://api.tvapi.com.au/images/BONV08-003_medium.jpeg"/>
     <desc>Chris is out of his comfort zone jumping from a moving boat to try to catch fast moving sea turtles. It’s for an important research project and a frustrated Chris finds it’s a lot harder than it looks.</desc>
     <sub-title>6.19 - 7.09pm</sub-title>
+    <category>ANIMALS</category>
+  </programme>
+  <programme channel="mjh-cas24-fast" start="20261128080914 +0000" stop="20261128085814 +0000">
+    <title>Bondi Vet</title>
+    <icon src="https://api.tvapi.com.au/images/BONV08-004_medium.jpeg"/>
+    <desc>Poor Millie is a young pug with a massively long tongue. Chris is shocked when he first sees the courageous little dog. The problem is more than cosmetic, and Chris is under pressure to come up with a radical plan to give Millie a better quality of life.</desc>
+    <sub-title>7.09 - 7.58pm</sub-title>
     <category>ANIMALS</category>
   </programme>
   <programme channel="mjh-thechristmascollection-fast" start="20261128052741 +0000" stop="20261128070741 +0000">
@@ -42115,26 +41835,26 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>A Christmas To Cherish</sub-title>
     <category>Drama Movie</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261128055003 +0000" stop="20261128061603 +0000">
-    <title>(2020) Death - Mason Morgan</title>
-    <icon src="https://api.tvapi.com.au/images/HAAW32-123_medium.jpeg"/>
-    <desc>Lives hang in the balance as an unexpected threat arises.</desc>
-    <sub-title>4.50 - 5.16pm</sub-title>
-    <category>DRAMA</category>
-  </programme>
-  <programme channel="mjh-cas26-fast" start="20261128061643 +0000" stop="20261128064243 +0000">
-    <title>(2020) Tragedy - Hostage Situation </title>
-    <icon src="https://api.tvapi.com.au/images/HAAW32-124_medium.jpeg"/>
-    <desc>Can Robbo convince Scott to spare his life and save Jasmine?</desc>
-    <sub-title>5.16 - 5.42pm</sub-title>
-    <category>DRAMA</category>
-  </programme>
   <programme channel="mjh-cas26-fast" start="20261128064256 +0000" stop="20261128070656 +0000">
     <title>(2020) Death - Robbo Shaw</title>
     <icon src="https://api.tvapi.com.au/images/HAAW32-126_medium.jpeg"/>
     <desc>Jasmine's world comes crashing down when Colby gives her devastating news.</desc>
     <sub-title>5.42 - 6.06pm</sub-title>
     <category>DRAMA</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20261128070751 +0000" stop="20261128073551 +0000">
+    <title>(2020) Wedding - Alf &amp; Martha</title>
+    <icon src="https://api.tvapi.com.au/images/HAAW32-133_medium.jpeg"/>
+    <desc>Alf and Martha’s special moment. </desc>
+    <sub-title>6.07 - 6.35pm</sub-title>
+    <category>DRAMA SERIAL</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20261128073558 +0000" stop="20261128080258 +0000">
+    <title>(2020) Death - Evan Slater</title>
+    <icon src="https://api.tvapi.com.au/images/HAAW32-212_medium.jpeg"/>
+    <desc>Ryder and Evan share a deeply emotional moment. Colby tightens his gaze on Ari. Martha returns to Merimbula.</desc>
+    <sub-title>6.35 - 7.02pm</sub-title>
+    <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-livgolfreplays-fast" start="20261128053150 +0000" stop="20261128110050 +0000">
     <title>Adelaide | Round 2</title>
@@ -42157,14 +41877,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Adelaide | Final Round</sub-title>
     <category>GOLF</category>
   </programme>
-  <programme channel="mjh-waterrats-fast" start="20261128055958 +0000" stop="20261128064858 +0000">
-    <title>Water Rats - S1 E11 - Kilo Hotel</title>
-    <icon src="https://api.tvapi.com.au/images/WARA01-011_medium.jpeg"/>
-    <desc>Kevin Holloway's car is found abandoned at The Gap and police suspect he has committed suicide. Holloway refuses to believe it however.
-</desc>
-    <sub-title>S1 E11 - Kilo Hotel</sub-title>
-    <category>DRAMA SERIAL</category>
-  </programme>
   <programme channel="mjh-waterrats-fast" start="20261128064955 +0000" stop="20261128073955 +0000">
     <title>Water Rats - S1 E12 - The Jigsaw Man</title>
     <icon src="https://api.tvapi.com.au/images/WARA01-012_medium.jpeg"/>
@@ -42181,12 +41893,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>S1 E13 - Bang Bang, You're Dead</sub-title>
     <category>DRAMA SERIAL</category>
   </programme>
-  <programme channel="mjh-7afl-fast" start="20261128040140 +0000" stop="20261128064540 +0000">
-    <title>Rnd 17: Geelong v Brisbane</title>
-    <icon src="https://api.tvapi.com.au/images/AFLG26-171_medium.jpeg"/>
-    <desc>The Cats go head-to-head with the Lions, live and free from GMHBA Stadium. Bounce time: 7:30 pm AEST.</desc>
-    <sub-title>Rnd 17: Geelong v Brisbane</sub-title>
-    <category>AUSTRALIAN RULES FOOTBALL</category>
+  <programme channel="mjh-waterrats-fast" start="20261128083041 +0000" stop="20261128092041 +0000">
+    <title>Water Rats - S2 E1 - Black Water</title>
+    <icon src="https://api.tvapi.com.au/images/WARA02-001_medium.jpeg"/>
+    <desc>The body of a teenage boy is found in a dumped car, and police believe his killer has taken more than one victim.</desc>
+    <sub-title>S2 E1 - Black Water</sub-title>
+    <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-7afl-fast" start="20261128064558 +0000" stop="20261128075058 +0000">
     <title>The Front Bar</title>
@@ -42202,12 +41914,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Rnd 18: Fremantle v Sydney</sub-title>
     <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
-  <programme channel="mjh-cas32-fast" start="20261128051410 +0000" stop="20261128061210 +0000">
-    <title>The Truth About Amy - The Apology</title>
-    <icon src="https://api.tvapi.com.au/images/7SPL26-016_medium.jpeg"/>
-    <desc>More than a decade after Amy Wensley’s death was ruled a suicide, police have apologised to her family and reopened the case as an unsolved homicide.</desc>
-    <sub-title>The Truth About Amy - The Apology</sub-title>
-    <category>NEWS</category>
+  <programme channel="mjh-7afl-fast" start="20261128102916 +0000" stop="20261128131216 +0000">
+    <title>Rnd 18: Collingwood v North Melbourn</title>
+    <icon src="https://api.tvapi.com.au/images/AFLG26-182_medium.jpeg"/>
+    <desc>The Magpies go head-to-head with the Kangaroos, live and free from Marvel Stadium. Bounce time: 7:40 pm AEST.</desc>
+    <sub-title>Rnd 18: Collingwood v North Melbourn</sub-title>
+    <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
   <programme channel="mjh-cas32-fast" start="20261128061218 +0000" stop="20261128071218 +0000">
     <title>Scambodia &amp; Archie Sebastian</title>
@@ -42223,12 +41935,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>A Dementia Cure?</sub-title>
     <category>NEWS</category>
   </programme>
-  <programme channel="mjh-wtn-fast" start="20261128055907 +0000" stop="20261128065507 +0000">
-    <title>All Hands on Deck</title>
-    <icon src="https://api.tvapi.com.au/images/WT021_medium.jpeg"/>
-    <desc>With only four weeks left in the season, two boats have the challenge of novice fishermen on board.</desc>
-    <sub-title>All Hands on Deck</sub-title>
-    <category>Documentary</category>
+  <programme channel="mjh-cas32-fast" start="20261128080958 +0000" stop="20261128090258 +0000">
+    <title>Digital Clones &amp; The Real Olivia</title>
+    <icon src="https://api.tvapi.com.au/images/7SPL-SHOW_medium.jpeg"/>
+    <desc>Will AI clones replace our colleagues and companions? Plus, the Mum behind the megastar, Chloe Lattanzi shares never before seen moments and memories of Olivia Newton John.</desc>
+    <sub-title>Digital Clones &amp; The Real Olivia</sub-title>
+    <category>NEWS</category>
   </programme>
   <programme channel="mjh-wtn-fast" start="20261128065532 +0000" stop="20261128074932 +0000">
     <title>Uncharted Territory</title>
@@ -42244,12 +41956,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Twice Bitten</sub-title>
     <category>Documentary</category>
   </programme>
-  <programme channel="mjh-winnersnlosers-fast" start="20261128054443 +0000" stop="20261128063243 +0000">
-    <title>Head In The Sand S3 Ep2</title>
-    <icon src="https://api.tvapi.com.au/images/WILO3-002_medium.jpeg"/>
-    <desc>Frances worries that Zach may be lured by his sexy female colleague Charlie, despite her own developing a 'friendship' with self defence instructor, Shannon. Sophie is trying her best to pretend she's been enjoying working in Kenya when really the horror she's witnessed over there is taking its toll. Patrick continues to flare up about Mr Gross getting to know his daughter, Sam. But Jenny realises that his anger stems from a deeper issue - his guilt over Matt's death. Meanwhile, Bec finally agrees to see a counsellor.</desc>
-    <sub-title>Head In The Sand</sub-title>
-    <category>FAMILY DRAMA SERIES</category>
+  <programme channel="mjh-wtn-fast" start="20261128084437 +0000" stop="20261128093837 +0000">
+    <title>Money on the Line</title>
+    <icon src="https://api.tvapi.com.au/images/WT024_medium.jpeg"/>
+    <desc>Gloucester’s reigning champion Dave Carraro starts the fishing season with a $20,000 lead over his rival.</desc>
+    <sub-title>Money on the Line</sub-title>
+    <category>Documentary</category>
   </programme>
   <programme channel="mjh-winnersnlosers-fast" start="20261128063326 +0000" stop="20261128072126 +0000">
     <title>Self Defence S3 Ep3</title>
@@ -42265,19 +41977,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>When You Least Expect It</sub-title>
     <category>FAMILY DRAMA SERIES</category>
   </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20261128053631 +0000" stop="20261128062931 +0000">
-    <title>Caught On Dashcam Holiday Specials</title>
-    <icon src="https://api.tvapi.com.au/images/CDCH01-001_medium.png"/>
-    <desc>A festive compilation of the most unforgettable, chaotic, and most shocking dashcam moments from around the world.</desc>
-    <sub-title>4.36 - 5.29pm</sub-title>
-    <category>COMPILATION PROGRAM</category>
-  </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20261128063023 +0000" stop="20261128065723 +0000">
-    <title>Surveillance Oz</title>
-    <icon src="https://api.tvapi.com.au/images/SURV2-001_medium.jpeg"/>
-    <desc>An extraordinary moment as a child slips through the cracks between a platform and a train. A man takes a deadly walk through a tunnel and brings the city to a standstill. Caught on camera, a house explodes on the back of a truck, plus hilarious CCTV of one of our worst drivers trying to exit a parking lot.</desc>
-    <sub-title>5.30 - 5.57pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-winnersnlosers-fast" start="20261128081023 +0000" stop="20261128085823 +0000">
+    <title>In An Instant S3 Ep5</title>
+    <icon src="https://api.tvapi.com.au/images/WILO3-005_medium.jpeg"/>
+    <desc>Callum stuns Jenny by calling off the wedding. Shock turns to anger as Jenny demands a proper explanation, but Callum is vague and evasive. Sophie reveals the truth to Bec about Matt's affair with Tiffany. Bec's anger at Sophie is quickly replaced by anger at Matt, but Sophie doesn't get off so lightly with Doug who declares that her lying has ruined any chance they ever had of getting back together. As she assists Shannon after his assault, Frances remains blissfully unaware that he's developing romantic feelings for her - but not for long.</desc>
+    <sub-title>In An Instant</sub-title>
+    <category>FAMILY DRAMA SERIES</category>
   </programme>
   <programme channel="mjh-surveillancecentral-fast" start="20261128065815 +0000" stop="20261128072315 +0000">
     <title>Surveillance Oz</title>
@@ -42286,12 +41991,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>5.58 - 6.23pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-outbacktruckers-fast" start="20261128052623 +0000" stop="20261128061723 +0000">
-    <title>Outback Truckers</title>
-    <icon src="https://api.tvapi.com.au/images/MUTR06-001_medium.jpeg"/>
-    <desc>Husband and wife truckers Nick and Jo risk one final supply to a remote settlement as the wet season looms.</desc>
-    <sub-title>4.26 - 5.17pm</sub-title>
+  <programme channel="mjh-surveillancecentral-fast" start="20261128072356 +0000" stop="20261128074856 +0000">
+    <title>Surveillance Oz</title>
+    <icon src="https://api.tvapi.com.au/images/SURV2-003_medium.jpeg"/>
+    <desc>High speed surveillance from Victoria Police Airwing monitor a wanted man, a drunk driver leaves a trail of destruction at a Wilson car park and a car is clipped by a truck in the Sydney Harbour Tunnel and spins 180 degrees. Then, a woman attempts to steal nursery items disguised as a baby in a stolen pram and a man is distracted talking on his phone and falls onto the train tracks.</desc>
+    <sub-title>6.23 - 6.48pm</sub-title>
     <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-surveillancecentral-fast" start="20261128074937 +0000" stop="20261128084237 +0000">
+    <title>Caught On Dashcam</title>
+    <icon src="https://api.tvapi.com.au/images/CODC06-005_medium.jpeg"/>
+    <desc>From rambunctious rammers to freaky moments that’ll leave you questioning reality - join us for a brand-new episode of Caught on Dashcam!</desc>
+    <sub-title>Season 6 Episode 5</sub-title>
+    <category>COMPILATION PROGRAM</category>
   </programme>
   <programme channel="mjh-outbacktruckers-fast" start="20261128061802 +0000" stop="20261128070902 +0000">
     <title>Outback Truckers</title>
@@ -42307,12 +42019,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>6.09 - 7.00pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-anglersparadise-fast" start="20261128054057 +0000" stop="20261128063157 +0000">
-    <title>Mark Berg's Fishing Addiction</title>
-    <icon src="https://api.tvapi.com.au/images/MBFA10-006_medium.jpeg"/>
-    <desc>Fishing expert Mark Berg visits some of the best fishing destinations around. Chasing a wide variety of fish, Mark is always hoping to capture a new species or develop a new technique.</desc>
-    <sub-title>Baia With Corey, Pt. 2</sub-title>
-    <category>SPORTS OTHER</category>
+  <programme channel="mjh-outbacktruckers-fast" start="20261128080051 +0000" stop="20261128085151 +0000">
+    <title>Outback Truckers</title>
+    <icon src="https://api.tvapi.com.au/images/MUTR07-002_medium.jpeg"/>
+    <desc>In Central Australia, 450 kilometres from Alice Springs, outback legend Steve Grahame is hot and bothered.</desc>
+    <sub-title>7.00 - 7.51pm</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-anglersparadise-fast" start="20261128063207 +0000" stop="20261128072307 +0000">
     <title>Mark Berg's Fishing Addiction</title>
@@ -42328,19 +42040,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>6.23 - 7.13pm</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-truckinghell-fast" start="20261128052249 +0000" stop="20261128061049 +0000">
-    <title>Season 7 Episode 13</title>
-    <icon src="https://api.tvapi.com.au/images/TRKH07-013_medium.jpeg"/>
-    <desc>Three rescues: a 46-tonne artic on a busy A road, a lorry stuck in mud, and a crane-laden truck stranded on the M11—all demanding precision and power.</desc>
-    <sub-title>Season 7 Episode 13</sub-title>
-    <category>LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-truckinghell-fast" start="20261128061101 +0000" stop="20261128070001 +0000">
-    <title>Season 7 Episode 14</title>
-    <icon src="https://api.tvapi.com.au/images/TRKH07-014_medium.jpeg"/>
-    <desc>Four rescues: a Ferrari in a wood, a car by a collapsing wall, a road sweeper in a farmyard, and an artic on the M25—all demanding precision and nerve.</desc>
-    <sub-title>Season 7 Episode 14</sub-title>
-    <category>LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-anglersparadise-fast" start="20261128081406 +0000" stop="20261128084006 +0000">
+    <title>Al McGlashan's Fish'n With Mates</title>
+    <icon src="https://api.tvapi.com.au/images/ALFI04-001_medium.jpeg"/>
+    <desc>Al kicks off series four heading to the remote Tiwi Islands in the Northern Territory to take on Aussie cricket legend Matthew Hayden. Al may have no idea about cricket but when it comes to sledging fishing style these two take things to a new level. Searching remote mangrove estuaries to the offshore reefs in search of the biggest fish the stakes are high with no chance to chicken out unless they lose!</desc>
+    <sub-title>The Rematch Haydos VS Pumba Tiwi Sty</sub-title>
+    <category>OTHER SPORT</category>
   </programme>
   <programme channel="mjh-truckinghell-fast" start="20261128070014 +0000" stop="20261128074814 +0000">
     <title>Season 7 Episode 15</title>
@@ -42349,19 +42054,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Season 7 Episode 15</sub-title>
     <category>LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261128055952 +0000" stop="20261128062552 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>4.59 - 5.25pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
+  <programme channel="mjh-truckinghell-fast" start="20261128074828 +0000" stop="20261128083628 +0000">
+    <title>Season 7 Episode 16</title>
+    <icon src="https://api.tvapi.com.au/images/TRKH07-016_medium.jpeg"/>
+    <desc>Three rescues: a telegraph pole truck in mud, a coach blocking the M25, and a bus stuck in South Shields—all demanding skill and nerve.</desc>
+    <sub-title>Season 7 Episode 16</sub-title>
+    <category>LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261128062554 +0000" stop="20261128065154 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>5.25 - 5.51pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
+  <programme channel="mjh-truckinghell-fast" start="20261128083717 +0000" stop="20261128092717 +0000">
+    <title>Season 8 Episode 13</title>
+    <icon src="https://api.tvapi.com.au/images/TRKH08-013_medium.jpeg"/>
+    <desc>Three rescues: a curry sauce lorry crash on the A42, a bin wagon stuck on a farm track, and a diesel tanker buried in mud.</desc>
+    <sub-title>Season 8 Episode 13</sub-title>
+    <category>LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-judgejudy-fast" start="20261128065157 +0000" stop="20261128071757 +0000">
     <title>Judge Judy</title>
@@ -42370,12 +42075,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>5.51 - 6.17pm</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-all-starcinema-fast" start="20261128045715 +0000" stop="20261128063515 +0000">
-    <title>Run The Tide</title>
-    <icon src="https://api.tvapi.com.au/images/DSEF01-039_medium.jpeg"/>
-    <desc>Taylor Lautner stars in Run The Tide, the powerful and moving story of a young man who must learn to forgive his mother for a past he never wanted, in order to have the future he always dreamed of.</desc>
-    <sub-title>3.57 - 5.35pm</sub-title>
-    <category>DRAMA MOVIE</category>
+  <programme channel="mjh-judgejudy-fast" start="20261128071800 +0000" stop="20261128074400 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>6.18 - 6.44pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-judgejudy-fast" start="20261128074402 +0000" stop="20261128081002 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>6.44 - 7.10pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-all-starcinema-fast" start="20261128063541 +0000" stop="20261128081341 +0000">
     <title>Jackie &amp; Ryan</title>
@@ -42391,39 +42103,32 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>7.14 - 9.04pm</sub-title>
     <category>DRAMA MOVIE</category>
   </programme>
-  <programme channel="mjh-bluelight-fast" start="20261128054116 +0000" stop="20261128060716 +0000">
+  <programme channel="mjh-all-starcinema-fast" start="20261128100445 +0000" stop="20261128115845 +0000">
+    <title>Perfect Sisters</title>
+    <icon src="https://api.tvapi.com.au/images/DSEF01-122_medium.jpeg"/>
+    <desc>Tired of their mother's alcoholism and a string of her abusive boyfriends, two sisters plot to kill her.</desc>
+    <sub-title>Perfect Sisters</sub-title>
+    <category>THRILLER MOVIE</category>
+  </programme>
+  <programme channel="mjh-bluelight-fast" start="20261128065745 +0000" stop="20261128072245 +0000">
     <title>Highway Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/HWYP09-003_medium.jpeg"/>
-    <desc>In some of the most dramatic footage ever shown on Highway Patrol, dash cam captures the moment an SUV ploughs head on into a car.</desc>
-    <sub-title>Truck vs Car</sub-title>
+    <icon src="https://api.tvapi.com.au/images/HWYP13-006_medium.jpeg"/>
+    <desc>A mechanic leads his friend astray and drives him straight into a ticket by not checking the terms of a temporary permit. Officers can smell somethings up during a random stop.</desc>
+    <sub-title>Terms &amp; Conditions</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-bluelight-fast" start="20261128060813 +0000" stop="20261128063013 +0000">
-    <title>Highway Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/HWYP09-004_medium.jpeg"/>
-    <desc>A dangerous driver cops an earful when Leading Senior Constable Ash Bowden catches her going 50 kilometres over the speed limit. To make matters worse, she's a P plater too!</desc>
-    <sub-title>Dangerous Daydreamer</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-bluelight-fast" start="20261128063109 +0000" stop="20261128065709 +0000">
-    <title>The Force - Behind The Line</title>
-    <icon src="https://api.tvapi.com.au/images/TRUE7-017_medium.jpeg"/>
-    <desc>At just nineteen Martin Riley is already a wanted man. He's been committing serious burglaries, getting away with goods worth hundreds of thousands of dollars and putting countless lives at risk fleeing from police in stolen cars. Perth's Regional Investigations Unit has been handed the job for an all-out hunt for Riley to put a stop to his aggressive and dangerous crime spree. Next, Police set up a roadblock on one of Australia's busiest highways, enlisting the NSW Police Dog Unit to help identify people couriering drugs. The night heats up when a dog senses something very suspicious in one of the cars. Officers are called to an accident where a female motor bike rider has been hit by a car. The bike rider is in a bad way and while paramedics get on with their job, police investigate the accident.</desc>
-    <sub-title>5.31 - 5.57pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261128052855 +0000" stop="20261128061955 +0000">
-    <title>Code 1: Minute By Minute</title>
-    <icon src="https://api.tvapi.com.au/images/MINM02-006_medium.jpeg"/>
-    <desc>In February 2017 a group of golfers chartered a small aircraft to fly them from Melbourne to nearby King Island. 10 seconds after take off the plane exploded into a popular shopping centre.</desc>
-    <sub-title>The Essendon Plane Crash</sub-title>
+  <programme channel="mjh-bluelight-fast" start="20261128072336 +0000" stop="20261128075236 +0000">
+    <title>Beach Cops</title>
+    <icon src="https://api.tvapi.com.au/images/BHCP03-001_medium.jpeg"/>
+    <desc>Australia's hottest cops are back, patrolling the coastline from Manly to Palm Beach. With thousands of tourists and locals enjoying beach life, there's always something to keep our guys busy.</desc>
+    <sub-title>6.23 - 6.52pm</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261128062024 +0000" stop="20261128064524 +0000">
-    <title>Medical Emergency</title>
-    <icon src="https://api.tvapi.com.au/images/MDEM4-011_medium.jpeg"/>
-    <desc>A barbeque chef has been engulfed in flames and a 22-year-old woman is finally ready to receive her new lungs.</desc>
-    <sub-title>5.20 - 5.45pm</sub-title>
+  <programme channel="mjh-bluelight-fast" start="20261128075248 +0000" stop="20261128081848 +0000">
+    <title>The Force - Behind The Line</title>
+    <icon src="https://api.tvapi.com.au/images/TRUE9-009_medium.jpeg"/>
+    <desc>Police Rescue is called to Glebe after a daring inner city raid. Two men attempted to rob a young man at knifepoint but were interrupted. Police search for a missing boy and stop a drink driver.</desc>
+    <sub-title>6.52 - 7.18pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-medicalnrescue-fast" start="20261128064605 +0000" stop="20261128071105 +0000">
@@ -42433,12 +42138,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>5.46 - 6.11pm</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
-  <programme channel="mjh-blueheelers-fast" start="20261128053426 +0000" stop="20261128062626 +0000">
-    <title>Blue Heelers S2 Ep17</title>
-    <icon src="https://api.tvapi.com.au/images/BLUH-034_medium.jpeg"/>
-    <desc>A travelling prostitute causes some problems for the Blue Heelers, while Wayne and the new recruit have a slight personality clash.</desc>
-    <sub-title>S2 E17 - Labour Of Love</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-medicalnrescue-fast" start="20261128071159 +0000" stop="20261128073559 +0000">
+    <title>Medical Emergency</title>
+    <icon src="https://api.tvapi.com.au/images/MDEM4-012_medium.jpeg"/>
+    <desc>Paramedics are called to an overturned car where a woman's been hurt and needs to be moved fast. A young man arrives at the Trauma Unit after falling out of a tree. And a stack on the track is bad news for one man.</desc>
+    <sub-title>6.11 - 6.35pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-medicalnrescue-fast" start="20261128073640 +0000" stop="20261128082740 +0000">
+    <title>Mt. Hutt Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/HUTT01-008_medium.jpeg"/>
+    <desc>The med team fights off hypothermia after a skier takes a dangerous dive in deep snow. Mt Hutt’s biggest event brings carnage as athletes push themselves to claim the coveted Peak to Pub title.</desc>
+    <sub-title>6.36 - 7.27pm</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-blueheelers-fast" start="20261128062721 +0000" stop="20261128071821 +0000">
     <title>Blue Heelers S2 Ep18</title>
@@ -42454,12 +42166,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>S2 E19 - Adverse Possession</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-kitchennightmares-fast" start="20261128052725 +0000" stop="20261128061925 +0000">
-    <title>Prohibition Grille</title>
-    <icon src="https://api.tvapi.com.au/images/KNUS06-014_medium.jpeg"/>
-    <desc>Chef Ramsay extends a helping hand to Rishi Brown, a professional belly dancer turned restaurant owner who is unaware that her head chef is ruining her restaurant.</desc>
-    <sub-title>Prohibition Grille</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-blueheelers-fast" start="20261128081041 +0000" stop="20261128090041 +0000">
+    <title>Blue Heelers S2 Ep20</title>
+    <icon src="https://api.tvapi.com.au/images/BLUH-037_medium.jpeg"/>
+    <desc>Two missing girls cause suspicion to be placed in an unfair direction, when the Blue Heelers are looking for suspects.</desc>
+    <sub-title>S2 E20 - The Folly Of Youth</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-kitchennightmares-fast" start="20261128061937 +0000" stop="20261128071037 +0000">
     <title>Chappy's</title>
@@ -42475,12 +42187,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Amy's Baking Co</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-acountrypractice-fast" start="20261128052210 +0000" stop="20261128061610 +0000">
-    <title>S9 E76 - Call To Arms - Part 2</title>
-    <icon src="https://api.tvapi.com.au/images/CNP-698_medium.png"/>
-    <desc>Chris gives Karen Breslin some surprising news. Lucy and Matt discover an old diary that reveals some local history.</desc>
-    <sub-title>S9 E76 - Call To Arms - Part 2</sub-title>
-    <category>Drama Serial</category>
+  <programme channel="mjh-kitchennightmares-fast" start="20261128080258 +0000" stop="20261128085258 +0000">
+    <title>SOBO</title>
+    <icon src="https://api.tvapi.com.au/images/GRHB03-009_medium.jpeg"/>
+    <desc>Gordon travels to Little Rock, Arkansas, where he attempts to help restaurant owner Jermaine, who opened South Boulevard restaurant as a tribute to his mother.</desc>
+    <sub-title>SOBO</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-acountrypractice-fast" start="20261128061708 +0000" stop="20261128071108 +0000">
     <title>S9 E77 - Future Shock - Part 1</title>
@@ -42496,12 +42208,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>S9 E78 - Future Shock - Part 2</sub-title>
     <category>Drama Serial</category>
   </programme>
-  <programme channel="mjh-truecrimefiles-fast" start="20261128055214 +0000" stop="20261128064014 +0000">
-    <title>World's Most Evil Killers</title>
-    <icon src="https://api.tvapi.com.au/images/WEKI09-008_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final.</desc>
-    <sub-title>World's Most Evil Killers Season 9 Episode 8</sub-title>
-    <category>SOCIETY DOCUMENTARY</category>
+  <programme channel="mjh-acountrypractice-fast" start="20261128080718 +0000" stop="20261128090218 +0000">
+    <title>S9 E79 - For Pity's Sake - Part 1</title>
+    <icon src="https://api.tvapi.com.au/images/CNP-701_medium.png"/>
+    <desc>Matt's cousin Kenny, comes to stay at Boolaroo and reveals a suprising medical knowledge.</desc>
+    <sub-title>S9 E79 - For Pity's Sake - Part 1</sub-title>
+    <category>Drama Serial</category>
   </programme>
   <programme channel="mjh-truecrimefiles-fast" start="20261128064044 +0000" stop="20261128072944 +0000">
     <title>World's Most Evil Killers</title>
@@ -42517,12 +42229,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>World's Most Evil Killers Season 9 Episode 10</sub-title>
     <category>SOCIETY DOCUMENTARY</category>
   </programme>
-  <programme channel="mjh-art-fast" start="20261128055023 +0000" stop="20261128063923 +0000">
-    <title>Antiques Road Trip</title>
-    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR906V_medium.jpeg"/>
-    <desc>Paul Laidlaw and Margie Cooper begin in Penzance and wind through scenic Cornwall.</desc>
-    <sub-title>Paul Laidlaw and Margie Cooper, Day 1</sub-title>
-    <category>history</category>
+  <programme channel="mjh-truecrimefiles-fast" start="20261128081905 +0000" stop="20261128090905 +0000">
+    <title>World's Most Evil Killers</title>
+    <icon src="https://api.tvapi.com.au/images/WEKI09-011_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final.</desc>
+    <sub-title>World's Most Evil Killers Season 9 Episode 11</sub-title>
+    <category>SOCIETY DOCUMENTARY</category>
   </programme>
   <programme channel="mjh-art-fast" start="20261128064008 +0000" stop="20261128072908 +0000">
     <title>Antiques Road Trip</title>
@@ -42538,18 +42250,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Paul Laidlaw and Margie Cooper, Day 3</sub-title>
     <category>history</category>
   </programme>
-  <programme start="20261128060054 +0000" stop="20261128063027 +0000" channel="mjh-7bravo-fast">
-    <title>Judge Jerry</title>
-    <sub-title>Episode 106</sub-title>
-    <desc>It's a case of grand theft auto and collision as the plaintiff is suing her daughter for damages to the car. But the daughter says the car belonged to her and that she wasn't responsible for the accid</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c07e25b4309883289fdd/image"/>
-    <episode-num system="SxxExx">S01E106</episode-num>
-    <episode-num system="xmltv_ns">0.105.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="mjh-art-fast" start="20261128081935 +0000" stop="20261128091035 +0000">
+    <title>Antiques Road Trip</title>
+    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR909V_medium.jpeg"/>
+    <desc>Paul Laidlaw and Margie Cooper kick off leg four of their trip in South Wales.</desc>
+    <sub-title>Paul Laidlaw and Margie Cooper, Day 4</sub-title>
+    <category>history</category>
   </programme>
   <programme start="20261128063027 +0000" stop="20261128073037 +0000" channel="mjh-7bravo-fast">
     <title>Million Dollar Listing: LA</title>
@@ -44721,13 +44427,6 @@ Blow Away The Smokes: Tobacco and indigenous health
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="mjh-heki-fast" start="20261128055828 +0000" stop="20261128064928 +0000">
-    <title>14 Chefs</title>
-    <icon src="https://api.tvapi.com.au/images/1-5021-0150-003_HellsKitchenUSA_SR11_EP08-ENG_TD_medium.jpeg"/>
-    <desc>The teams must provide a dinner service for Gordon's family and friends.</desc>
-    <sub-title>14 Chefs</sub-title>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-heki-fast" start="20261128064942 +0000" stop="20261128074042 +0000">
     <title>13 Chefs</title>
     <icon src="https://api.tvapi.com.au/images/1-5021-0151-003_HellsKitchenUSA_SR11_EP09-ENG_TD_medium.jpeg"/>
@@ -44742,12 +44441,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>12 Chefs</sub-title>
     <category>Entertainment</category>
   </programme>
-  <programme channel="mjh-belowdeckvault-fast" start="20261128054317 +0000" stop="20261128063017 +0000">
-    <title>Last Call for Parsifal!</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU2036-S2T16_medium.jpeg"/>
-    <desc>A charter group of super-yachties arrives, and the Parsifal crew is anxious about being judged by their peers. But as the guests get boozed up, the Parsifal crew contemplates getting down.</desc>
-    <sub-title>Last Call for Parsifal!</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-heki-fast" start="20261128083211 +0000" stop="20261128092311 +0000">
+    <title>10 Chefs</title>
+    <icon src="https://api.tvapi.com.au/images/1-5021-0153-003_HellsKitchenUSA_SR11_EP11-ENG_TD_medium.jpeg"/>
+    <desc>The chefs must create an intimate dinner for a group of returning US Army servicemen.</desc>
+    <sub-title>10 Chefs</sub-title>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="mjh-misc511-fast" start="20261128065000 +0000" stop="20261128103000 +0000">
+    <title>Motorsport: Newcastle Australian Supercross Championship</title>
+    <icon src="https://api.tvapi.com.au/images/ASXC26-005_medium.jpeg"/>
+    <desc>Motorsport: Newcastle Australian Supercross Championship</desc>
+    <sub-title>5.50 - 9.30pm</sub-title>
+    <category>MOTORSPORT</category>
   </programme>
   <programme channel="mjh-belowdeckvault-fast" start="20261128063031 +0000" stop="20261128071531 +0000">
     <title>The Magic Seamen</title>
@@ -44763,12 +44469,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>An Eruption of Volcanic Proportions</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-etc-fast" start="20261128054316 +0000" stop="20261128063516 +0000">
-    <title>Somerset</title>
-    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00073_medium.jpeg"/>
-    <desc>Jules helps Maidenhead pair relocate to Somerset seeking land and rooms at £500k.</desc>
-    <sub-title>Somerset</sub-title>
-    <category>Factual</category>
+  <programme channel="mjh-belowdeckvault-fast" start="20261128080306 +0000" stop="20261128085006 +0000">
+    <title>She's Just Not That Into You</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU2330-S2T18_medium.jpeg"/>
+    <desc>Captain Jason gets involved when Chef Tzarina refuses to fulfill a guest request. Luka feels like a stew might be interested in him. The final night of the charter season leads to arguing, crying and relationships in shambles.</desc>
+    <sub-title>She's Just Not That Into You</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-etc-fast" start="20261128063559 +0000" stop="20261128072959 +0000">
     <title>Norfolk</title>
@@ -44784,19 +44490,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Cambridgeshire</sub-title>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-therealhousewivesvault-fast" start="20261128052856 +0000" stop="20261128061456 +0000">
-    <title>Stop and Throw The Roses</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU741-S13T6_medium.jpeg"/>
-    <desc>The gravity of Luann and Eboni’s paint party confrontation begins to set in, and beachside fishing turns cold when politics are brought up in conversation. Meanwhile, Heather’s faux pas comes back to haunt her as the ladies glam for Luann’s 70’s style Halloween pageant.</desc>
-    <sub-title>Stop and Throw The Roses</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-therealhousewivesvault-fast" start="20261128061554 +0000" stop="20261128070354 +0000">
-    <title>Breakdown in Beverly Hills</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU947-S14T4_medium.jpeg"/>
-    <desc>Kelly and Braunwyn watch Emily rehearse her anniversary dance number for an upcoming Vegas trip, which may turn into a girls' trip instead of the anniversary celebration she hoped for. Shannon plans a group day trip so Gina can visit Rodeo Drive for the first time. While in Beverly Hills, Emily breaks down about personal issues. Shannon and Emily argue over a comment made during a radio interview and talks about an ugly rumor leads Kelly to explode.</desc>
-    <sub-title>Breakdown in Beverly Hills</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-etc-fast" start="20261128082511 +0000" stop="20261128091711 +0000">
+    <title>Leicestershire</title>
+    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00076_medium.jpeg"/>
+    <desc>Nicki helps hoteliers seek Leicestershire retirement home balancing space/light at  £350k.</desc>
+    <sub-title>Leicestershire</sub-title>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-therealhousewivesvault-fast" start="20261128070355 +0000" stop="20261128075155 +0000">
     <title>Liar, Liar, Friendships on Fire</title>
@@ -44805,12 +44504,19 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Liar, Liar, Friendships on Fire</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cricketgold-fast" start="20261128052424 +0000" stop="20261128065824 +0000">
-    <title>1997/98 Trans-Tasman Trophy - 1st Test - Austral</title>
-    <icon src="https://api.tvapi.com.au/images/CRG00-108850_medium.jpeg"/>
-    <desc>1997/98 Trans-Tasman Trophy - 1st Test - Australia v New Zealand</desc>
-    <sub-title>1997/98 Trans-Tasman Trophy - 1st Test - Austral</sub-title>
-    <category>Sport</category>
+  <programme channel="mjh-therealhousewivesvault-fast" start="20261128075157 +0000" stop="20261128083957 +0000">
+    <title>Family Affair</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU947-S14T6_medium.jpeg"/>
+    <desc>In Season 14 of "The Real Housewives of Orange County," returning housewives Tamra Judge, Shannon Storms Beador, Kelly Dodd, Gina Kirschenheiter and Emily Simpson are joined by new newcomer Braunwyn Windham-Burke, while original OC housewife Vicki Gunvalson appears throughout.</desc>
+    <sub-title>Family Affair</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-therealhousewivesvault-fast" start="20261128083958 +0000" stop="20261128092558 +0000">
+    <title>Dramamine Drama</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU741-S15T3_medium.jpeg"/>
+    <desc>The ladies arrive in the Hamptons where Sai and Brynn attempt to clear the air, but a miscommunication causes more conflict. Racquel and Rebecca open up about their pasts. Ubah and Brynn find themselves at odds.</desc>
+    <sub-title>Dramamine Drama</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-cricketgold-fast" start="20261128065920 +0000" stop="20261128130320 +0000">
     <title>1998/99 Ashes - 2nd Test - Extended Highlights</title>
@@ -44826,12 +44532,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Australia v India - 2nd Test - 1999/00 Border-Ga</sub-title>
     <category>Sport</category>
   </programme>
-  <programme channel="mjh-botchedvault-fast" start="20261128053925 +0000" stop="20261128063025 +0000">
-    <title>The Bacon Bra</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S2T3_medium.jpeg"/>
-    <desc>The doctors help a bodybuilder look more feminine, and Katella Dash to look like a blow-up doll.</desc>
-    <sub-title>The Bacon Bra</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-cricketgold-fast" start="20261128150349 +0000" stop="20261128170349 +0000">
+    <title>Australia v India - 3rd Test - 1999/00 Border-Ga</title>
+    <icon src="https://api.tvapi.com.au/images/CRG00-120462_medium.jpeg"/>
+    <desc>Australia v India - 3rd Test - 1999/00 Border-Gavaskar Trophy</desc>
+    <sub-title>Australia v India - 3rd Test - 1999/00 Border-Ga</sub-title>
+    <category>Sport</category>
   </programme>
   <programme channel="mjh-botchedvault-fast" start="20261128063101 +0000" stop="20261128071701 +0000">
     <title>Foreign Bodies</title>
@@ -44847,12 +44553,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Man Boobs</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-ncis-fast" start="20261128055415 +0000" stop="20261128064315 +0000">
-    <title>Overdrive</title>
-    <icon src="https://api.tvapi.com.au/images/NCIN03-009_medium.jpeg"/>
-    <desc>After a Marine corporal who is an amateur race car driver has a fatal crash on the track, the NCIS team investigates when they suspect foul play.</desc>
-    <sub-title>Overdrive</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-botchedvault-fast" start="20261128080513 +0000" stop="20261128084713 +0000">
+    <title>Pinched Perfect</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S3T3_medium.png"/>
+    <desc>Paul helps singer Norwood Young find his voice again by performing a revision rhinoplasty.</desc>
+    <sub-title>Pinched Perfect</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-ncis-fast" start="20261128064401 +0000" stop="20261128073401 +0000">
     <title>Probie</title>
@@ -44868,12 +44574,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Model Behavior</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-cas39-fast" start="20261128054623 +0000" stop="20261128064123 +0000">
-    <title>Season 1 Episode 3</title>
-    <icon src="https://api.tvapi.com.au/images/TFAE01-003_medium.jpeg"/>
-    <desc>Kofi is rushed in with his father, critically injured after being hit by a van.</desc>
-    <sub-title>Season 1 Episode 3</sub-title>
-    <category>Science</category>
+  <programme channel="mjh-ncis-fast" start="20261128082559 +0000" stop="20261128091559 +0000">
+    <title>Boxed In</title>
+    <icon src="https://api.tvapi.com.au/images/NCIS03-012_medium.jpeg"/>
+    <desc>Gibbs and the team rush to find Tony and Ziva, who get trapped in a container at a shipyard after seeking refuge from a shoot-out.</desc>
+    <sub-title>Boxed In</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-cas39-fast" start="20261128064126 +0000" stop="20261128073726 +0000">
     <title>Season 2 Episode 1</title>
@@ -44889,12 +44595,12 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Season 2 Episode 2</sub-title>
     <category>Science</category>
   </programme>
-  <programme channel="mjh-cas40-fast" start="20261128053911 +0000" stop="20261128062511 +0000">
-    <title>I Ain't Afraid Of No Ghosts</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU628-S3T5_medium.jpeg"/>
-    <desc>While Fredrik is learning to juggle the delicate egos of million dollar developers, Ryan finds himself in an eerie townhouse with a few "uninvited guests!"</desc>
-    <sub-title>I Ain't Afraid Of No Ghosts</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-cas39-fast" start="20261128083420 +0000" stop="20261128093020 +0000">
+    <title>Season 2 Episode 3</title>
+    <icon src="https://api.tvapi.com.au/images/TFAE02-003_medium.jpeg"/>
+    <desc>A warm-hearted and moving episode exploring the different ways that grown men deal with pain and injury.</desc>
+    <sub-title>Season 2 Episode 3</sub-title>
+    <category>Science</category>
   </programme>
   <programme channel="mjh-cas40-fast" start="20261128062548 +0000" stop="20261128071148 +0000">
     <title>Bidding War Bitches</title>
@@ -44910,18 +44616,11 @@ Blow Away The Smokes: Tobacco and indigenous health
     <sub-title>Loss Angeles</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261128060227 +0000" stop="20261128062627 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR12-005_medium.jpeg"/>
-    <desc>Most lifeguards grow up in the salt water and waves, but this season a boy from the bush has joined the lifeguards.</desc>
-    <sub-title>Season 12 Episode 5</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-cas41-fast" start="20261128062708 +0000" stop="20261128065008 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR12-006_medium.jpeg"/>
-    <desc>Out on patrol, Mouse puts a life at risk when he accidentally turns off his radio off.</desc>
-    <sub-title>Season 12 Episode 6</sub-title>
+  <programme channel="mjh-cas40-fast" start="20261128080022 +0000" stop="20261128084822 +0000">
+    <title>Ruffled Heathers</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU628-S8T12_medium.jpeg"/>
+    <desc>Fredrik has a run-in with LA agent Heather Altman at his open house.</desc>
+    <sub-title>Ruffled Heathers</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-cas41-fast" start="20261128065040 +0000" stop="20261128071440 +0000">
@@ -44930,6 +44629,34 @@ Blow Away The Smokes: Tobacco and indigenous health
     <desc>It's New Year's Day and the Dutch are back for their annual swimming tradition. This year sees three hundred swimmers run straight into the jaws of a rip.</desc>
     <sub-title>Season 13 Episode 4</sub-title>
     <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-cas41-fast" start="20261128071512 +0000" stop="20261128073912 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR13-005_medium.jpeg"/>
+    <desc>A crippling heatwave descends on Bondi. For a short time the beach becomes the hottest place on Earth, with the mercury peaking at 47.3 degrees.</desc>
+    <sub-title>Season 13 Episode 5</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-cas41-fast" start="20261128074011 +0000" stop="20261128080511 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR13-006_medium.jpeg"/>
+    <desc>During an emergency launch of the lifeguard jetski the 4WD buggy is swamped by waves. Suddenly the lifeguards are facing danger, as well as damaging vital rescue equipment.</desc>
+    <sub-title>Season 13 Episode 6</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-7news-fast" start="20261128070000 +0000" stop="20261128080000 +0000">
+    <title>Seven News</title>
+    <icon src="https://api.tvapi.com.au/images/7NNM-SHOW_medium.png"/>
+    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
+    <sub-title>6.00 - 7.00pm</sub-title>
+    <category>NEWS</category>
+  </programme>
+  <programme channel="mjh-7news-fast" start="20261128080000 +0000" stop="20261128110000 +0000">
+    <title>7NEWS: Victoria Votes</title>
+    <icon src="https://api.tvapi.com.au/images/7NSP26-048_medium.jpeg"/>
+    <desc>7NEWS' expert panel deliver an in-depth analysis and reaction to the Victorian State Election results.</desc>
+    <sub-title>7.00 - 10.00pm</sub-title>
+    <category>NEWS</category>
   </programme>
   <programme channel="mjh-10-bigbrother" start="20261128040000 +0000" stop="20261128125900 +0000">
     <title>Big Brother Live Stream</title>
@@ -44980,11 +44707,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Big Brother Live Stream</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/10/12/9bfc6038b68e57b9c5883013f045b383-1466590.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-christmasmovies" start="20261128052600 +0000" stop="20261128070300 +0000">
-    <title>The Christmas Cure</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/09/26/d111633746b3e4d366bb5f4eb47b7925-1266427.jpg"/>
-    <category>Movies</category>
   </programme>
   <programme channel="mjh-10-christmasmovies" start="20261128070300 +0000" stop="20261128083900 +0000">
     <title>Looks Like Christmas</title>
@@ -45145,11 +44867,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>A Family For The Holidays</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/09/26/ea9572b734888c1abf02c0f05634ad7c-1266458.jpg"/>
     <category>Movies</category>
-  </programme>
-  <programme channel="mjh-10-masterchef" start="20261128053200 +0000" stop="20261128070400 +0000">
-    <title>MasterChef Australia AU S12 Ep. 5</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-masterchef" start="20261128070400 +0000" stop="20261128080800 +0000">
     <title>MasterChef Australia AU S12 Ep. 6</title>
@@ -45545,11 +45262,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>MasterChef Australia AU S1 Ep. 23</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6491acab83f70900138374f3/featuredImage_1767911931402.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-historyandwarfare" start="20261128060100 +0000" stop="20261128070500 +0000">
-    <title>Hitler's Children</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU1719A247O04VS_16_9.jpg"/>
-    <category>documentary</category>
   </programme>
   <programme channel="mjh-10-historyandwarfare" start="20261128070500 +0000" stop="20261128081400 +0000">
     <title>Doolittle's Raiders: A Final Toast</title>
@@ -46086,11 +45798,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171ABHO709EAU_16_9.jpg"/>
     <category>documentary</category>
   </programme>
-  <programme channel="mjh-10-ghosthunters" start="20261128054400 +0000" stop="20261128064000 +0000">
-    <title>Ghost Hunters S5 Ep. 22</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-ghosthunters" start="20261128064000 +0000" stop="20261128073400 +0000">
     <title>Ghost Hunters S7 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
@@ -46585,11 +46292,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Ghost Hunters S5 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20261128055400 +0000" stop="20261128062000 +0000">
-    <title>Who The Bleep Did I Marry? S1 Ep. 7</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/08/23/3f5e8724fcd5d8e07865fae86f4fa3b0-1174410.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-true-stories" start="20261128062000 +0000" stop="20261128071200 +0000">
     <title>Vanity Fair Confidential AU S2 Ep. 7</title>
@@ -47205,16 +46907,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Vanity Fair Confidential AU S4 Ep. 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-sitcomcentral" start="20261128055100 +0000" stop="20261128061800 +0000">
-    <title>Man With A Plan S1 Ep. 13</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/08/03/451b88a710b189089a03ada242182c33-1253604.png"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-sitcomcentral" start="20261128061800 +0000" stop="20261128064500 +0000">
-    <title>Man With A Plan S1 Ep. 14</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/08/03/451b88a710b189089a03ada242182c33-1253604.png"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-sitcomcentral" start="20261128064500 +0000" stop="20261128071200 +0000">
     <title>Man With A Plan S1 Ep. 15</title>
@@ -48206,16 +47898,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ad686c373415cc4ae1abb57/featuredImage_1792444100536.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-grahamnorton" start="20261128052900 +0000" stop="20261128061100 +0000">
-    <title>Series 16 Ep 11 with Jim Carrey</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-grahamnorton" start="20261128061100 +0000" stop="20261128065200 +0000">
-    <title>Series 19 Ep 12 with Dwayne Johnson</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-10-grahamnorton" start="20261128065200 +0000" stop="20261128073500 +0000">
     <title>Series 16 Ep 6 with Anne Hathaway</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
@@ -48914,11 +48596,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-grahamnorton" start="20261202123529 +0000" stop="20261202131929 +0000">
     <title>Series 20 Ep 5 with Benedict Cumberbatch</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261128060200 +0000" stop="20261128064300 +0000">
-    <title>Episode 2</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/8OutOf10CatsUKSeason18_1070098.jpg"/>
     <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-eightoutof10cats" start="20261128064300 +0000" stop="20261128071400 +0000">
@@ -49800,16 +49477,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Episode 16</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>N/A</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261128060000 +0000" stop="20261128062600 +0000">
-    <title>Ridiculousness S8 Ep. 801</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261128062600 +0000" stop="20261128065200 +0000">
-    <title>Ridiculousness S8 Ep. 811</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-mtvridiculousness" start="20261128065200 +0000" stop="20261128071900 +0000">
     <title>Ridiculousness S8 Ep. 806</title>
@@ -50821,11 +50488,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20261128052500 +0000" stop="20261128061700 +0000">
-    <title>Have You Been Paying Attention? S2 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-haveyoubeenpayingattention" start="20261128061700 +0000" stop="20261128071000 +0000">
     <title>Have You Been Paying Attention? S1 Ep. 33</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
@@ -51366,11 +51028,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-cheapseats" start="20261128055700 +0000" stop="20261128065000 +0000">
-    <title>The Cheap Seats S3 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-cheapseats" start="20261128065000 +0000" stop="20261128074100 +0000">
     <title>The Cheap Seats S3 Ep. 2</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6899a030cb15389834735597/featuredImage_1767915724495.jpg"/>
@@ -51876,11 +51533,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-thankgodyourehere" start="20261128055100 +0000" stop="20261128064600 +0000">
-    <title>Thank God You're Here S5 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-thankgodyourehere" start="20261128064600 +0000" stop="20261128074000 +0000">
     <title>Thank God You're Here S2 Ep. 8</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
@@ -52344,16 +51996,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-thankgodyourehere" start="20261201222030 +0000" stop="20261201231630 +0000">
     <title>Thank God You're Here S3 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261128060200 +0000" stop="20261128062700 +0000">
-    <title>Drawn Together S3 Ep. 12</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/02d38d982a2f0884058b90356ab09390-1438807.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261128062700 +0000" stop="20261128065300 +0000">
-    <title>Drawn Together S2 Ep. 9</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/02d38d982a2f0884058b90356ab09390-1438807.jpg"/>
     <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-adultanimation" start="20261128065300 +0000" stop="20261128071800 +0000">
@@ -53381,16 +53023,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/02d38d982a2f0884058b90356ab09390-1438807.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-becker" start="20261128054400 +0000" stop="20261128061200 +0000">
-    <title>Becker S2 Ep. 23</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20261128061200 +0000" stop="20261128064000 +0000">
-    <title>Becker S2 Ep. 24</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-becker" start="20261128064000 +0000" stop="20261128070700 +0000">
     <title>Becker S3 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
@@ -54356,11 +53988,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-aussiedramapopup" start="20261128053500 +0000" stop="20261128063000 +0000">
-    <title>Rush S2 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-aussiedramapopup" start="20261128063000 +0000" stop="20261128072500 +0000">
     <title>Rush S2 Ep. 6</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
@@ -54859,16 +54486,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-aussiedramapopup" start="20261201230143 +0000" stop="20261201235343 +0000">
     <title>Rush S4 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20261128051700 +0000" stop="20261128060600 +0000">
-    <title>Surprises</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20261128060600 +0000" stop="20261128065500 +0000">
-    <title>Homecoming</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
   <programme channel="mjh-10-rookieblue" start="20261128065500 +0000" stop="20261128074300 +0000">
@@ -55501,11 +55118,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-heartland" start="20261128053900 +0000" stop="20261128062900 +0000">
-    <title>Pandora’s Box</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-heartland" start="20261128062900 +0000" stop="20261128071900 +0000">
     <title>Love Is Just a Word</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
@@ -56121,11 +55733,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-prisoner-cell-block-h" start="20261128052400 +0000" stop="20261128061600 +0000">
-    <title>Prisoner Cell Block H S2 Ep. 44</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-prisoner-cell-block-h" start="20261128061600 +0000" stop="20261128070800 +0000">
     <title>Prisoner Cell Block H S2 Ep. 45</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
@@ -56661,11 +56268,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-diagnosismurder" start="20261128052300 +0000" stop="20261128061600 +0000">
-    <title>Diagnosis Murder S8 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-diagnosismurder" start="20261128061600 +0000" stop="20261128070900 +0000">
     <title>Diagnosis Murder S8 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
@@ -57160,16 +56762,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Diagnosis Murder S5 Ep. 21</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-dallascheerleaders" start="20261128055200 +0000" stop="20261128061900 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team S5 Ep. 504</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-dallascheerleaders" start="20261128061900 +0000" stop="20261128064700 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team S5 Ep. 505</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-dallascheerleaders" start="20261128064700 +0000" stop="20261128071400 +0000">
     <title>Dallas Cowboys Cheerleaders: Making the Team S5 Ep. 506</title>
@@ -57821,11 +57413,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-nexttopmodel" start="20261128051500 +0000" stop="20261128065300 +0000">
-    <title>America's Next Top Model S8 Ep. 1</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-nexttopmodel" start="20261128065300 +0000" stop="20261128074700 +0000">
     <title>America's Next Top Model S8 Ep. 2</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
@@ -58334,11 +57921,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-nexttopmodel" start="20261201230746 +0000" stop="20261201235746 +0000">
     <title>America's Next Top Model S11 Ep. 8</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20261128054700 +0000" stop="20261128063900 +0000">
-    <title>Project Runway</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-projectrunway" start="20261128063900 +0000" stop="20261128073200 +0000">
@@ -58941,11 +58523,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://preview-amagistv-amg02189-cloudport.now.amagi.tv/Images/S3/PRAS_S6_ep608.jpg"/>
     <category>Unscripted Competition</category>
   </programme>
-  <programme channel="mjh-10-world-of-survivor" start="20261128053100 +0000" stop="20261128061900 +0000">
-    <title>Survivor US S16 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-world-of-survivor" start="20261128061900 +0000" stop="20261128070800 +0000">
     <title>Survivor US S16 Ep. 12</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
@@ -59359,11 +58936,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-world-of-survivor" start="20261201222129 +0000" stop="20261201234429 +0000">
     <title>Australian Survivor S2 Ep. 8</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/01/21/7ed52087d862734638d8612e5790bbfb-1407229.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-mtv-the-shores" start="20261128054200 +0000" stop="20261128063100 +0000">
-    <title>Geordie Shore S11 Ep. 1101</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/76cc999c54efdc240e9b3479c5ee26bf-1437861.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-mtv-the-shores" start="20261128063100 +0000" stop="20261128072200 +0000">
@@ -59910,16 +59482,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Jersey Shore S1 Ep. 109</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/03/e793739f541f8b6a6423517b6e9257e3-1439572.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261128055400 +0000" stop="20261128062200 +0000">
-    <title>Judge Judy S3 Ep. 235</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261128062200 +0000" stop="20261128065000 +0000">
-    <title>Judge Judy S3 Ep. 236</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
   </programme>
   <programme channel="mjh-10-judge-judy" start="20261128065000 +0000" stop="20261128071800 +0000">
     <title>Judge Judy S3 Ep. 237</title>
@@ -60876,16 +60438,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
     <category>Light Entertainment</category>
   </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261128052700 +0000" stop="20261128060800 +0000">
-    <title>The Only Way Is Essex S4 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261128060800 +0000" stop="20261128064800 +0000">
-    <title>The Only Way Is Essex S4 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-theonlywayisessex" start="20261128064800 +0000" stop="20261128072900 +0000">
     <title>The Only Way Is Essex S4 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
@@ -61586,11 +61138,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-undercoverboss" start="20261128060400 +0000" stop="20261128065700 +0000">
-    <title>Undercover Boss S4 Ep. 17</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-undercoverboss" start="20261128065700 +0000" stop="20261128075100 +0000">
     <title>Undercover Boss S5 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
@@ -62094,21 +61641,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-undercoverboss" start="20261201222037 +0000" stop="20261201231337 +0000">
     <title>Undercover Boss S5 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261128054600 +0000" stop="20261128061100 +0000">
-    <title>Blackout!</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason05_591898.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261128061100 +0000" stop="20261128063600 +0000">
-    <title>Gold Battle Begins</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason05_591905.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261128063600 +0000" stop="20261128070200 +0000">
-    <title>Gold Day in Hell</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason05_591913.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-hardcorepawn" start="20261128070200 +0000" stop="20261128072600 +0000">
@@ -63230,11 +62762,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason01_591852.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-wicked-tuna" start="20261128055900 +0000" stop="20261128065500 +0000">
-    <title>Wicked Tuna</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
-    <category>Adventure</category>
-  </programme>
   <programme channel="mjh-10-wicked-tuna" start="20261128065500 +0000" stop="20261128075000 +0000">
     <title>Wicked Tuna</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
@@ -63810,16 +63337,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
     <category>Adventure</category>
   </programme>
-  <programme channel="mjh-10-embarrassing-bodies" start="20261128051400 +0000" stop="20261128060800 +0000">
-    <title>Embarrassing Bodies S3 Ep. 12</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-embarrassing-bodies" start="20261128060800 +0000" stop="20261128070000 +0000">
-    <title>Embarrassing Bodies S2 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-embarrassing-bodies" start="20261128070000 +0000" stop="20261128075300 +0000">
     <title>Embarrassing Bodies S5 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
@@ -64329,11 +63846,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Embarrassing Bodies S4 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-highwaythruhell" start="20261128060100 +0000" stop="20261128065500 +0000">
-    <title>Episode 13</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HighwayThruHellSeason10.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-highwaythruhell" start="20261128065500 +0000" stop="20261128075100 +0000">
     <title>Big, Mean and Heavy</title>
@@ -64889,21 +64401,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Episode 3</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HighwayThruHellSeason10.jpg"/>
     <category>Factual</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261128054500 +0000" stop="20261128061100 +0000">
-    <title>Cops S23 Ep. 3</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261128061100 +0000" stop="20261128063700 +0000">
-    <title>Cops S23 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261128063700 +0000" stop="20261128070200 +0000">
-    <title>Cops S23 Ep. 5</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
   </programme>
   <programme channel="mjh-10-cops" start="20261128070200 +0000" stop="20261128072800 +0000">
     <title>Cops S23 Ep. 6</title>
@@ -66050,11 +65547,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-medical-emergency" start="20261128053100 +0000" stop="20261128062500 +0000">
-    <title>999: What's Your Emergency AU S4 Ep. 4</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64a2b408f56d820013754408/featuredImage_1767991743018.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-medical-emergency" start="20261128062500 +0000" stop="20261128072000 +0000">
     <title>999: What's Your Emergency AU S4 Ep. 15</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64a2b408f56d820013754408/featuredImage_1767991743018.jpg"/>
@@ -66559,11 +66051,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Mystery Diagnosis S10 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/31/6415323f886854ec55ef28fe26e26fe5-1252445.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-deadlywomen" start="20261128060100 +0000" stop="20261128065500 +0000">
-    <title>Episode 10</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason04.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-deadlywomen" start="20261128065500 +0000" stop="20261128074800 +0000">
     <title>Episode 11</title>
@@ -67140,11 +66627,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason05.jpg"/>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-crime-time" start="20261128053100 +0000" stop="20261128063000 +0000">
-    <title>Real Prison Breaks S1 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/18/f3cb209c342ff0069dd87f4648b2b0ad-1033003.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-time" start="20261128063000 +0000" stop="20261128072700 +0000">
     <title>Forensic Investigators S1 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/04/73330fb14e1b76afdab939383ba8aaea-1029837.jpg"/>
@@ -67645,11 +67127,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/01/20/699b51db8a5e4b67947fb5a4fdba89bd-1026558.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-crime-hunters" start="20261128060100 +0000" stop="20261128070100 +0000">
-    <title>The New Detectives: Case Studies in Forensic Science S9 Ep. 111</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-hunters" start="20261128070100 +0000" stop="20261128075900 +0000">
     <title>The New Detectives: Case Studies in Forensic Science S9 Ep. 107</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
@@ -68089,11 +67566,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>The New Detectives: Case Studies in Forensic Science S4 Ep. 37</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-forty-eight-hours" start="20261128054300 +0000" stop="20261128063300 +0000">
-    <title>48 Hours S26 Ep. 15</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-forty-eight-hours" start="20261128063300 +0000" stop="20261128072100 +0000">
     <title>48 Hours S24 Ep. 56</title>
@@ -68633,16 +68105,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-forty-eight-hours" start="20261201222318 +0000" stop="20261201231318 +0000">
     <title>48 Hours S21 Ep. 53</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-haunt-tv" start="20261128050700 +0000" stop="20261128060600 +0000">
-    <title>Paranormal Mysteries</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_paranormalmysteries_Season_1_16x9.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-haunt-tv" start="20261128060600 +0000" stop="20261128065900 +0000">
-    <title>Paranormal 911</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_paranormal911_Season_2_16x9.jpg"/>
     <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-haunt-tv" start="20261128065900 +0000" stop="20261128075200 +0000">
@@ -69390,11 +68852,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_paranormal911_Season_1_16x9.jpg"/>
     <category>Documentary</category>
   </programme>
-  <programme channel="mjh-10-jamieoliverchristmas" start="20261128054100 +0000" stop="20261128063700 +0000">
-    <title>Jamie’s Cracking Christmas S1 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/02/0dabd05511dc65c9bad4a47751d0647b-1439435.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-jamieoliverchristmas" start="20261128063700 +0000" stop="20261128073300 +0000">
     <title>Jamie’s Easy Christmas Countdown S1 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/26/ecde960489eb0ad827843abc93cbafbe-1431946.jpg"/>
@@ -69873,11 +69330,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-jamieoliverchristmas" start="20261201222415 +0000" stop="20261201231915 +0000">
     <title>Jamie’s Italian Christmas S1 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/02/c8917d1ca1e7b2870f3ab2cf141847d1-1439265.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-jamieoliver" start="20261128055900 +0000" stop="20261128065400 +0000">
-    <title>Jamie’s Food Escapes S1 Ep. 6</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/08/20/4eee242bf50ecc5f380b5c613437e8fb-1452396.jpg"/>
     <category>Lifestyle</category>
   </programme>
   <programme channel="mjh-10-jamieoliver" start="20261128065400 +0000" stop="20261128074700 +0000">
@@ -70419,11 +69871,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Jamie &amp; Jimmy’s Food Fight Club S8 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/d1a57ecbac01020dfa0f112db1e073eb-1437934.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-anthonybourdain" start="20261128060200 +0000" stop="20261128064700 +0000">
-    <title>Anthony Bourdain Parts Unknown S5 Ep. 6</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
-    <category>Food &amp; Cooking</category>
   </programme>
   <programme channel="mjh-10-anthonybourdain" start="20261128064700 +0000" stop="20261128073200 +0000">
     <title>Anthony Bourdain Parts Unknown S4 Ep. 8</title>
@@ -71019,11 +70466,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Anthony Bourdain Parts Unknown S4 Ep. 6</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
     <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-wildest" start="20261128051600 +0000" stop="20261128061400 +0000">
-    <title>A Buck's Life</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_secretlifeofthekangaroo_Season_1_2x3.jpg"/>
-    <category>nature</category>
   </programme>
   <programme channel="mjh-10-wildest" start="20261128061400 +0000" stop="20261128071200 +0000">
     <title>Meet The Devils</title>
@@ -71659,11 +71101,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>Castaway Island</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_landofgremlins_Season_1_2x3.jpg"/>
     <category>nature</category>
-  </programme>
-  <programme channel="mjh-10-shockwave" start="20261128052900 +0000" stop="20261128063200 +0000">
-    <title>The Great Wall of Japan</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/5N1HJZ69IH6XRLTJ02DPTI_16_9.jpg"/>
-    <category>documentary</category>
   </programme>
   <programme channel="mjh-10-shockwave" start="20261128063200 +0000" stop="20261128072700 +0000">
     <title>SuperTornado: Anatomy of a Megadisaster</title>
@@ -72455,11 +71892,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/11/02/0e20b354b883b426a914440ee9380b97-1277225.jpg"/>
     <category>Movies</category>
   </programme>
-  <programme channel="mjh-10-moviesphere" start="20261128032700 +0000" stop="20261128060800 +0000">
-    <title>Dune</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/9850004_landscape.jpg"/>
-    <category>Action</category>
-  </programme>
   <programme channel="mjh-10-moviesphere" start="20261128060800 +0000" stop="20261128081000 +0000">
     <title>The Forbidden Kingdom</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/9382020_landscape.jpg"/>
@@ -72724,16 +72156,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <title>7 Days in Entebbe</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/16/e79cc7ac7647242f29e42069fdae45d5-1443124.jpg"/>
     <category>Movies</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261128054700 +0000" stop="20261128063300 +0000">
-    <title>Team Umizoomi S2 Ep. 999</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/fdcbc23a5debdb6fe4711b408f9b9346-991749.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261128063300 +0000" stop="20261128065700 +0000">
-    <title>Shimmer and Shine S4 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/8855eee97bbaed70a0ccd2be9d5bdbb8-991824.jpg"/>
-    <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nick-jr" start="20261128065700 +0000" stop="20261128072700 +0000">
     <title>Back at the Barnyard S1 Ep. 6</title>
@@ -73718,21 +73140,6 @@ Blow Away The Smokes: Tobacco and indigenous health
   <programme channel="mjh-10-nick-jr" start="20261201231935 +0000" stop="20261201234835 +0000">
     <title>Bubble Guppies S3 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261128054900 +0000" stop="20261128061300 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 117</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261128061300 +0000" stop="20261128063800 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 118</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261128063800 +0000" stop="20261128070200 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 119</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-spongebobsquarepants" start="20261128070200 +0000" stop="20261128072700 +0000">
@@ -74790,21 +74197,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons" start="20261128053900 +0000" stop="20261128060700 +0000">
-    <title>Danny Phantom S3 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20261128060700 +0000" stop="20261128063200 +0000">
-    <title>Danny Phantom S2 Ep. 19</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20261128063200 +0000" stop="20261128065900 +0000">
-    <title>Danny Phantom S2 Ep. 18</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons" start="20261128065900 +0000" stop="20261128072700 +0000">
     <title>Danny Phantom S3 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
@@ -75815,16 +75207,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261128054900 +0000" stop="20261128061900 +0000">
-    <title>Hey Arnold! S4 Ep. 66</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261128061900 +0000" stop="20261128064600 +0000">
-    <title>The Fairly Odd Parents S10 Ep. 14</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/06/04/5b8b5c9561272be1e1979d5f88a3462a-1318354.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons-90s" start="20261128064600 +0000" stop="20261128071100 +0000">
     <title>Rocket Power S1 Ep. 17</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/04/27/0c3bce0648997d8da40e36f862f6aa39-1052016.jpg"/>
@@ -76805,16 +76187,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/06/04/5b8b5c9561272be1e1979d5f88a3462a-1318354.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nickteen" start="20261128055200 +0000" stop="20261128062100 +0000">
-    <title>Drake and Josh S3 Ep. 10</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648af2be5719ba00138eba18/featuredImage.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20261128062100 +0000" stop="20261128064600 +0000">
-    <title>Game Shakers S1 Ep. 120</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/0a1e27fe77c699688217df67e0cfaf16-1061258.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nickteen" start="20261128064600 +0000" stop="20261128071400 +0000">
     <title>Nicky, Ricky, Dicky &amp; Dawn S4 Ep. 1</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de2433f22f20f768af6238/featuredImage_1776165940486.jpg"/>
@@ -77775,24 +77147,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de2433f22f20f768af6238/featuredImage_1776165940486.jpg"/>
     <category>Children &amp; Family</category>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="mjh-10-geckotv">
-    <title>Home Shopping</title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="mjh-10-geckotv">
-    <title>Global Shop</title>
-    <desc>Global Shop Direct has a range of products to help with the stress of modern day-to-day life, all at the best possible price.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e751bb507ae9a5bcb9aa/image"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-10-geckotv">
     <title>Home Shopping</title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -78204,24 +77558,6 @@ Blow Away The Smokes: Tobacco and indigenous health
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128055000 +0000" stop="20261128064000 +0000" channel="mjh-10-youtv">
-    <title>Ciencia Skincare – The Science Of Beauty</title>
-    <desc>Proudly Australian made, our professional-grade, science-backed formulations combine powerful active ingredients and advanced research to help firm, lift, hydrate, and rejuvenate.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/b910ce7c64431e0a6202/image"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128064000 +0000" stop="20261128070500 +0000" channel="mjh-10-youtv">
-    <title>Vasco120 Road To Longevity Bundle</title>
-    <desc>VASCO120 is Australia’s newest breakthrough supplement designed to support your heart &amp; liver health, all in one simple capsule.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c749a67163809bb6dff6/image"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128070500 +0000" stop="20261128073000 +0000" channel="mjh-10-youtv">
     <title>Dry Styx Ultra Offer - The Lot</title>
     <desc>Dry Styx is the new, safe, and non-toxic way to extract that household damp and help control the spread of mould.</desc>
@@ -78280,19 +77616,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <desc>Watch live as the prices drop during our jewellery auctions offering beautiful gemstone jewellery set in precious gold and silver at incredible prices! </desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/b97a695cbd1f735387a2/image"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="mjh-sbs-sbst">
-    <title>Going Places with Ernie Dingo</title>
-    <sub-title>Rottnest Island, Tamar Valley, Mildura</sub-title>
-    <desc>Ernie is welcomed onto Wadjemup by a Whadjuk elder, Rae gets a taste of Tassie's Tamar Valley with a wine educator, and Narelda takes on a trapeze in regional Victoria.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/644e5d320de60180bbc6/image"/>
-    <episode-num system="SxxExx">S05E12</episode-num>
-    <episode-num system="xmltv_ns">4.11.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -80946,16 +80269,6 @@ Blow Away The Smokes: Tobacco and indigenous health
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128054500 +0000" stop="20261128064000 +0000" channel="mjh-sbs-2syd">
-    <title>PBS News Hour</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e2f5638e1dbb76126670/image"/>
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
   <programme start="20261128064000 +0000" stop="20261128071000 +0000" channel="mjh-sbs-2syd">
     <title>Mastermind Australia</title>
     <sub-title>Episode 59</sub-title>
@@ -83553,28 +82866,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <episode-num system="original-air-date">2026-12-05</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128053000 +0000" stop="20261128063000 +0000" channel="mjh-sbs-3syd">
-    <title>Mary Berry's Highland Christmas</title>
-    <desc>Dame Mary Berry travels to her mother's homeland of Scotland for a magical winter break. She is joined by friends Andy Murray, Iain Stirling, and Emeli Sande.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403c07a0769c42e5a17f/image"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="mjh-sbs-3syd">
-    <title>Thai Street Food: Best Kept Secrets</title>
-    <sub-title>Foodcourts: From 12 Til 1</sub-title>
-    <desc>In Thai office life, lunchtime is a serious business. We step into food court vendors in the busy centre of Bangkok, juxtaposed with the spiritual food courts found in ancient vegetarian communities.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0d0ed485902297e9f71f/image"/>
-    <episode-num system="SxxExx">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-sbs-3syd">
@@ -87417,12 +86708,6 @@ Blow Away The Smokes: Tobacco and indigenous health
     <rating>
       <value>G</value>
     </rating>
-  </programme>
-  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="mjh-sbs-5nsw">
-    <title>Pacific Netball Challenge</title>
-    <desc>Live from Nissan Arena, Brisbane: the top two teams from the round robin meet for the title in the final of the inaugural Pacific Netball Challenge, followed by the trophy presentation.</desc>
-    <category>Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0a86f75847e3a2a66fbb/image"/>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-sbs-5nsw">
     <title>Bamay</title>
@@ -91694,12 +90979,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="mjh-sbs-sbs-radio-1">
-    <title>Greek</title>
-    <desc>Stay connected in Greek to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Greek team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f8a664d77c0950f2a6b3/image"/>
-  </programme>
   <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-sbs-sbs-radio-1">
     <title>NITV Radio (RPT)</title>
     <desc>Stay connected to Australian news and conversations that matter to you. Balanced, impartial and without agenda from NITV Radio team.</desc>
@@ -92173,12 +91452,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
     <desc>Stay connected in Macedonian to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Macedonian team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/72aea848d5ba6faad2ed/image"/>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="mjh-sbs-sbs-radio-2">
-    <title>Hindi</title>
-    <desc>Stay connected in Hindi to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Hindi team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d269f6eca79316fca80f/image"/>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-sbs-sbs-radio-2">
     <title>Bangla (RPT)</title>
@@ -92767,45 +92040,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
     <desc>Stay connected in Spanish to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Spanish team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/91b4ea3ec4573a3b07ed/image"/>
-  </programme>
-  <programme start="20261128060500 +0000" stop="20261128061000 +0000" channel="mjh-abc-kids">
-    <title>Peppa Pig</title>
-    <sub-title>Movie Night</sub-title>
-    <desc>Peppa and friends are at Penny Polar Bear's house for a movie night. But before they can watch it, the children need to decide where to sit, which popcorn to eat and take a toilet break too.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5885f23d8fba75fda017/image"/>
-    <episode-num system="SxxExx">S08E18</episode-num>
-    <episode-num system="xmltv_ns">7.17.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128061000 +0000" stop="20261128062000 +0000" channel="mjh-abc-kids">
-    <title>It's Andrew!</title>
-    <sub-title>Big BIG Grandpa Mum</sub-title>
-    <desc>When Dasha is away, Andrew expects Captain Wonderful to do everything the same way as his Mum. When Captain Wonderful learns to perfectly imitate Dasha, Andrew discovers that what he really misses is his Grandpa after all.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9f7cd5cbb35b821e081f/image"/>
-    <episode-num system="SxxExx">S01E32</episode-num>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128062000 +0000" stop="20261128064500 +0000" channel="mjh-abc-kids">
-    <title>Super Monsters</title>
-    <sub-title>Super Monsters: Santa's Super Monster Helpers</sub-title>
-    <desc>The Super Monsters save Christmas by helping Santa repair a North Pole mishap, learning the value of teamwork, responsibility, and spreading holiday joy while delivering presents with Grrbus.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f4063f564ec4284ccf7a/image"/>
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20261128064500 +0000" stop="20261128071000 +0000" channel="mjh-abc-kids">
     <title>Iron Man and His Awesome Friends</title>
@@ -102446,19 +101680,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261128053500 +0000" stop="20261128062500 +0000" channel="mjh-abc-me">
-    <title>George Clarke's Amazing Spaces</title>
-    <sub-title>George Clarke's Amazing Spaces Northern Lights Adventure</sub-title>
-    <desc>George and master-craftsman Will Hardie explore the fantastic hidden architectural gems that Finland has to offer. Before he travels back home, will George fulfil a lifelong dream and see the elusive Northern Lights?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/43bed7bb69420d269c06/image"/>
-    <episode-num system="SxxExx">S2026E1128</episode-num>
-    <episode-num system="xmltv_ns">2025.1127.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128062500 +0000" stop="20261128071500 +0000" channel="mjh-abc-me">
     <title>Mythbusters</title>
     <sub-title>No Pain No Gain/Gas Rocket</sub-title>
@@ -107065,26 +106286,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="mjh-abc-news">
-    <title>ABC News</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c83b5fa4f9d341c1b93c/image"/>
-    <episode-num system="SxxExx">S2026E95</episode-num>
-    <episode-num system="xmltv_ns">2025.94.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128065900 +0000" channel="mjh-abc-news">
-    <title>ABC News: Victoria Votes</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Ahead of ABC's coverage of Victoria Votes, Melissa Mackay brings you the day's top stories and the latest news.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1d77f2f50346118d937a/image"/>
-    <episode-num system="SxxExx">S2026E332</episode-num>
-    <episode-num system="xmltv_ns">2025.331.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
   <programme start="20261128065900 +0000" stop="20261128083000 +0000" channel="mjh-abc-news">
     <title>Victoria Votes: Election Night Live</title>
     <sub-title>Saturday 28 November 2026</sub-title>
@@ -109290,22 +108491,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
     <episode-num system="xmltv_ns">2025.96.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
   </programme>
-  <programme channel="mjh-bbc-news" start="20261128060000 +0000" stop="20261128063000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20261128063000 +0000" stop="20261128070000 +0000">
-    <title>Tech Now</title>
-    <desc>Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled  Nick Kwek is at the Imperial War Museum in London to hear how survivor stories are brought to life.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20261128070000 +0000" stop="20261128073000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -109370,35 +108555,21 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128062600 +0000" channel="mjh-redbull-tv">
-    <title>ACTION: For Reals – Legendary Red Bull Moments</title>
-    <desc>Red Bull athletes try freethrowing against robots, wingsuit flights, wakeboarding and dirtbike barrel racing.</desc>
-    <icon src="https://img.liiift.io/v1/DAM/FODMXLZES8EUCXMZRPB1.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202309070655_Artwork_2_3_SI202210250029.jpeg"/>
-    <episode-num system="original-air-date">2026-11-23 21:21:03</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FODMXLZES8EUCXMZRPB1.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202309070655_Artwork_2_3_SI202210250029.jpeg</image>
+  <programme channel="mjh-bbc-news" start="20261128113000 +0000" stop="20261128120000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme start="20261128062600 +0000" stop="20261128065236 +0000" channel="mjh-redbull-tv">
-    <title>ACTION: For Reals – Legendary Red Bull Moments</title>
-    <desc>Red Bull athletes break records with space jumps, massive skydives and the world’s biggest BMX loop!</desc>
-    <icon src="https://img.liiift.io/v1/DAM/FOJKJ1IUWNMRY9ID7DV3.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202309070646_Artwork_2_3_SI201812090087.jpeg"/>
-    <episode-num system="original-air-date">2026-11-23 21:47:03</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOJKJ1IUWNMRY9ID7DV3.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/MI202309070646_Artwork_2_3_SI201812090087.jpeg</image>
+  <programme channel="mjh-bbc-news" start="20261128120000 +0000" stop="20261128123000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme start="20261128065236 +0000" stop="20261128074436 +0000" channel="mjh-redbull-tv">
     <title>ATHLETICS: Wings for Life World Run 2026 – Highlights</title>
@@ -110089,59 +109260,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <stereo>stereo</stereo>
     </audio>
     <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOX5A2LEFI6C8955P2TY.jpeg/a:p/im/MI202604161003_Artwork_2_3_%20SI202605070985.jpeg</image>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg"/>
-    <episode-num system="dd_progid">EPmac_sh_ptc1037923899.mac_ptc1575607536</episode-num>
-    <episode-num system="original-air-date">2026-11-20 11:18:13</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <live/>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/93DF9CAC-656A-4B35-A96BE5E690FA2AAA.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/47F76E30-03EB-463C-B99341FBE5A3990A.jpg</image>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="mjh-al-jazeera">
-    <title>Making Peace</title>
-    <desc>In a Salvadoran prison, young women from rival gangs must live together, learning to coexist and prepare for life beyond the walls.</desc>
-    <date>2026</date>
-    <category>Documentary</category>
-    <orig-language>English</orig-language>
-    <icon src="https://img-store-prod.switch.tv/images/5c5daa53-9460-46b1-8330-100aadd05716/MakingPeace_1_6_1772196999157_0.jpg"/>
-    <country>Spain</country>
-    <episode-num system="dd_progid">EP/898488./57558591</episode-num>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-    <episode-num system="themoviedb.org">series/330294</episode-num>
-    <episode-num system="original-air-date">2026-11-17 11:16:38</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>SDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="NZ">
-      <value>G-CV</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://img-store-prod.switch.tv/images/5c5daa53-9460-46b1-8330-100aadd05716/MakingPeace_1_6_1772196999157_0.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://img-store-prod.switch.tv/images/5c5daa53-9460-46b1-8330-100aadd05716/MakingPeace_1_6_1772196999157_0.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/F90E4FA3-EB98-4F24-AD6AEF04D24A2B40.jpg</image>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
