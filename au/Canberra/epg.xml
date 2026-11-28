@@ -277,13 +277,13 @@
     <display-name>7NEWS</display-name>
     <icon src="https://i.mjh.nz/.images/auto-7news-fast-afb214.png"/>
   </channel>
-  <channel id="mjh-election-2026-victoria-decides-fast">
-    <display-name>Election 2026: Victoria Decides</display-name>
-    <icon src="https://imageresizer.static9.net.au/7CjbHde7irXhDcYc3Z65nNf3uH8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F11%2F809104%2Fnews_sq.png"/>
-  </channel>
   <channel id="mjh-wnbl-202627-fast">
     <display-name>WNBL 2026/27</display-name>
     <icon src="https://imageresizer.static9.net.au/SBz7DKoMTTXJvmj-XGrjU093es0=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F800206%2Fwnbl_squircle.png"/>
+  </channel>
+  <channel id="mjh-election-2026-victoria-decides-fast">
+    <display-name>Election 2026: Victoria Decides</display-name>
+    <icon src="https://imageresizer.static9.net.au/7CjbHde7irXhDcYc3Z65nNf3uH8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F11%2F809104%2Fnews_sq.png"/>
   </channel>
   <channel id="mjh-seinfeld-fast">
     <display-name>Seinfeld</display-name>
@@ -739,32 +739,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-abc-act">
-    <title>Kath &amp; Kim</title>
-    <sub-title>The Moon</sub-title>
-    <desc>Brett is working 48 hours straight and a bored Kim makes a nuisance of herself at Kath's. Sharon is reunited with old school friend Lisa-Marie making Kim jealous.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/ec21053926119fbf06f7/image"/>
-    <episode-num system="SxxExx">S02E03</episode-num>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="mjh-abc-act">
-    <title>Hard Quiz</title>
-    <sub-title>Episode 29</sub-title>
-    <desc>Tom Gleeson has questions about Prince, the Holden Torana, David Unaipon, and Studio Ghibli films, so he invited some self-proclaimed experts to answer them in an unhealthily competitive environment. This is Hard Quiz!</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0122e4c8baea685d54d1/image"/>
-    <episode-num system="SxxExx">S05E29</episode-num>
-    <episode-num system="xmltv_ns">4.28.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="mjh-abc-act">
     <title>ABC News</title>
     <sub-title>Saturday 28 November 2026</sub-title>
@@ -2990,16 +2964,6 @@
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20261128065900 +0000" stop="20261128080000 +0000" channel="mjh-channel-9-nsw">
-    <title>9News Saturday</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8aec33c917e5a03139e2/image"/>
-    <episode-num system="SxxExx">S05E48</episode-num>
-    <episode-num system="xmltv_ns">4.47.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
   </programme>
   <programme start="20261128080000 +0000" stop="20261128083100 +0000" channel="mjh-channel-9-nsw">
     <title>A Current Affair</title>
@@ -10015,19 +9979,6 @@
     <episode-num system="xmltv_ns">2025.8.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
   </programme>
-  <programme start="20261128070200 +0000" stop="20261128073400 +0000" channel="mjh-life-nsw">
-    <title>The Build Up</title>
-    <sub-title>Mileham Constructions</sub-title>
-    <desc>Architect James and his wife Alice set out to build their forever home, inspired by the elegance of South Florida and the Bahamas. With soft colours, generous proportions and thoughtful spaces for family, pets and guests, their dream home takes shape.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/b6c9f76945417c2b85fc/image"/>
-    <episode-num system="SxxExx">S01E02</episode-num>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128073400 +0000" stop="20261128083300 +0000" channel="mjh-life-nsw">
     <title>Beachfront Bargain Hunt: Renovation</title>
     <sub-title>Relocation Renovation</sub-title>
@@ -12836,19 +12787,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128063300 +0000" stop="20261128073200 +0000" channel="mjh-rush-nsw">
-    <title>Tanked</title>
-    <sub-title>Medieval Protection</sub-title>
-    <desc>A Californian family wants a medieval tank filled with crystals, gems and a dragon on top to guard their treasures; owners of military replica store taps the ATM crew for a WWII army tank.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3a91c6126c6951b8c203/image"/>
-    <episode-num system="SxxExx">S04E11</episode-num>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128073200 +0000" stop="20261128083100 +0000" channel="mjh-rush-nsw">
     <title>Wheeler Dealers</title>
     <sub-title>Fiat Coupe 20 Valve Turbo</sub-title>
@@ -15311,16 +15249,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261128065930 +0000" stop="20261128080030 +0000" channel="mjh-seven-syd">
-    <title>Seven News</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/17ef79c7d6aaa5f9ac33/image"/>
-    <episode-num system="SxxExx">S26E332</episode-num>
-    <episode-num system="xmltv_ns">25.331.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
   <programme start="20261128080030 +0000" stop="20261128083015 +0000" channel="mjh-seven-syd">
     <title>Norwegian Cruise Line Special</title>
     <desc>Set sail with Norwegian Cruise Line and discover delicious dining, world-class entertainment and cruising designed with adults in mind.</desc>
@@ -17025,19 +16953,6 @@ flesh-eating bacteria, and James makes a connection with Louis Keating’s nurse
     <episode-num system="SxxExx">S26E46</episode-num>
     <episode-num system="xmltv_ns">25.45.</episode-num>
     <episode-num system="original-air-date">2026-12-04</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-7two-syd">
-    <title>Dog Patrol</title>
-    <sub-title>Episode 6</sub-title>
-    <desc>Two drivers of two wrecked cars take on Delta team Nick and Ink in Wellington. In Waipa DOC dog team Tom and Leeroy find a national icon inside a national treasure – Sanctuary Mountain Maungatautari.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/258336cc051882f175c0/image"/>
-    <episode-num system="SxxExx">S13E06</episode-num>
-    <episode-num system="xmltv_ns">12.5.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
     <rating>
       <value>PG</value>
     </rating>
@@ -19646,19 +19561,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="SxxExx">S26E10</episode-num>
     <episode-num system="xmltv_ns">25.9.</episode-num>
     <episode-num system="original-air-date">2026-12-04</episode-num>
-  </programme>
-  <programme start="20261128065930 +0000" stop="20261128073145 +0000" channel="mjh-7mate-syd">
-    <title>Storage Wars</title>
-    <sub-title>The Way Of The Gam Gam</sub-title>
-    <desc>In Santa Ana, Lisa channels her grandmother to profit, Brandi faces a frustrating day, Darrell tackles a tiny locker, and Kenny trains for ultimate stealth.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/33155894b16b2e60a3e5/image"/>
-    <episode-num system="SxxExx">S15E09</episode-num>
-    <episode-num system="xmltv_ns">14.8.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20261128073145 +0000" stop="20261128083000 +0000" channel="mjh-7mate-syd">
     <title>Pawn Stars: Best Of</title>
@@ -24372,29 +24274,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128073000 +0000" channel="mjh-10-nsw">
-    <title>10 News</title>
-    <sub-title>Saturday 28 November 2026</sub-title>
-    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5268304728e2fc1edea6/image"/>
-    <episode-num system="SxxExx">S2026E95</episode-num>
-    <episode-num system="xmltv_ns">2025.94.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="mjh-10-nsw">
-    <title>Deal Or No Deal</title>
-    <sub-title>Episode 92</sub-title>
-    <desc>Harry Uyar is an ESL teacher who wants to revive his lawn, aka patch of dirt. After years of neglect, it really needs a facelift.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/47dca8ad1f42e971064d/image"/>
-    <episode-num system="SxxExx">S03E92</episode-num>
-    <episode-num system="xmltv_ns">2.91.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128080000 +0000" stop="20261128084500 +0000" channel="mjh-10-nsw">
     <title>Matildas V Colombia Pre-Game</title>
     <sub-title>Episode 37 of Season 2026</sub-title>
@@ -27187,19 +27066,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128063313 +0000" stop="20261128073333 +0000" channel="mjh-10bold-nsw">
-    <title>JAG</title>
-    <sub-title>Crossing The Line</sub-title>
-    <desc>Harm and Mac investigate a female fighter pilot's charge of sexual harassment against her commanding officer.</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3da590233f34b8a1d60a/image"/>
-    <episode-num system="SxxExx">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128073333 +0000" stop="20261128083326 +0000" channel="mjh-10bold-nsw">
     <title>JAG</title>
     <sub-title>Trinity</sub-title>
@@ -29708,32 +29574,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="original-air-date">2026-12-04</episode-num>
     <rating>
       <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128070045 +0000" stop="20261128073056 +0000" channel="mjh-10peach-nsw">
-    <title>Friends</title>
-    <sub-title>The One With Rachel's Crush</sub-title>
-    <desc>Chandler can't deal with the fact that Kathy simulates sex, with a very handsome man in her new play. Meanwhile, Monica wants to play hostess again now that Joey has the bigger apartment.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d3beff34b53d4e4095ff/image"/>
-    <episode-num system="SxxExx">S04E13</episode-num>
-    <episode-num system="xmltv_ns">3.12.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128073056 +0000" stop="20261128080037 +0000" channel="mjh-10peach-nsw">
-    <title>Friends</title>
-    <sub-title>The One With Joey's Dirty Day</sub-title>
-    <desc>After a three-day fishing trip with his dad, Joey is in a jam when he doesn't have time to take a shower before going to the set of Charlton Heston's new movie.</desc>
-    <category>Comedy</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d3beff34b53d4e4095ff/image"/>
-    <episode-num system="SxxExx">S04E14</episode-num>
-    <episode-num system="xmltv_ns">3.13.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
     </rating>
   </programme>
   <programme start="20261128080037 +0000" stop="20261128083033 +0000" channel="mjh-10peach-nsw">
@@ -33613,19 +33453,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="SxxExx">S08E13</episode-num>
     <episode-num system="xmltv_ns">7.12.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128070522 +0000" stop="20261128073629 +0000" channel="mjh-10shake-nsw">
-    <title>SpongeBob SquarePants</title>
-    <sub-title>Sleepy Time / Suds</sub-title>
-    <desc>SpongeBob suddenly possess the ability to visit the dreams of his friends. // SpongeBob comes down with a case of the Suds, an illness which turns him into a bubble-maker.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/e1000e430a754c421a25/image"/>
-    <episode-num system="SxxExx">S01E15</episode-num>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
     <rating>
       <value>G</value>
     </rating>
@@ -37992,26 +37819,26 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128064035 +0000" stop="20261128070935 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD-219_medium.jpeg"/>
-    <desc>Officers fear a cocaine user may be smuggling drugs in a dangerous place after his quick trip to South America.</desc>
-    <sub-title>5.40 - 6.09pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128070942 +0000" stop="20261128073842 +0000">
-    <title>Border Security - Australia's Front Line</title>
-    <icon src="https://api.tvapi.com.au/images/BORD-220_medium.jpeg"/>
-    <desc>A detector dog leads officers to a family arriving from Cambodia and a massive concealment. Also, a passenger arriving from the middle east causes biosecurity concern when he fails to declare.</desc>
-    <sub-title>6.09 - 6.38pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
   <programme channel="mjh-bordersecurityaustralia-fast" start="20261128073845 +0000" stop="20261128080745 +0000">
     <title>Border Security - Australia's Front Line</title>
     <icon src="https://api.tvapi.com.au/images/BORD-221_medium.jpeg"/>
     <desc>Border Force stop a young mother arriving from Vietnam and find her shampoo bottles contain a sophisticated concealment of illicit goods. A package from Ghana contains a gruesome biosecurity risk.&#13;
 </desc>
     <sub-title>6.38 - 7.07pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128080828 +0000" stop="20261128083628 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD-222_medium.jpeg"/>
+    <desc>An English Ex-Con tries to hide his dangerous past and it could stop him from entering to meet his new born granddaughter.</desc>
+    <sub-title>7.08 - 7.36pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-bordersecurityaustralia-fast" start="20261128083650 +0000" stop="20261128090550 +0000">
+    <title>Border Security - Australia's Front Line</title>
+    <icon src="https://api.tvapi.com.au/images/BORD-223_medium.jpeg"/>
+    <desc>A Vietnamese man causes concern when he claims he doesn't know what's in his bag. Officers fear the worst when an x-ray shows something suspicious. Officers find a deadly concealment in a kid's toy.</desc>
+    <sub-title>7.36 - 8.05pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme start="20261128070000 +0000" stop="20261128114500 +0000" channel="mjh-racing-fast">
@@ -39803,20 +39630,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="xmltv_ns">2025.1204.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
   </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261128070341 +0000" stop="20261128072841 +0000">
-    <title>Face Off</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN6-001_medium.jpeg"/>
-    <desc>Tensions are at an all-time high following Seth's stand-off with Les. The chaos that has been created in the store makes for bad blood and worse business. And as both father and son jockey for power, Ashley stages an intervention that blows up in her face.</desc>
-    <sub-title>Face Off</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-hardcorepawn-fast" start="20261128072911 +0000" stop="20261128075511 +0000">
-    <title>Last Man Standing</title>
-    <icon src="https://api.tvapi.com.au/images/HPWN6-002_medium.jpeg"/>
-    <desc>Seth must prove his worth after Les hands him the keys to the kingdom. Business heats up, customers unravel and all eyes are on Seth. With so much on the line, will he be able to handle the pressure.</desc>
-    <sub-title>Last Man Standing</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
   <programme channel="mjh-hardcorepawn-fast" start="20261128075539 +0000" stop="20261128082039 +0000">
     <title>Family Traitor!</title>
     <icon src="https://api.tvapi.com.au/images/HPWN6-003_medium.jpeg"/>
@@ -39824,12 +39637,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Family Traitor!</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-racingwa-fast" start="20261128070000 +0000" stop="20261128080000 +0000">
-    <title>Racing WA</title>
-    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
-    <desc>Racing WA</desc>
-    <sub-title>Racing WA</sub-title>
-    <category>GENERAL</category>
+  <programme channel="mjh-hardcorepawn-fast" start="20261128082110 +0000" stop="20261128084710 +0000">
+    <title>Rich Returns</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN7-001_medium.jpeg"/>
+    <desc>Rich returns to confront Les about being fired. While there, Rich spots what he thinks are stolen goods. If he's right, he just might be able to get his job back. But if he's wrong, he will be out.</desc>
+    <sub-title>Rich Returns</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-hardcorepawn-fast" start="20261128084733 +0000" stop="20261128091333 +0000">
+    <title>The Shocker</title>
+    <icon src="https://api.tvapi.com.au/images/HPWN7-002_medium.jpeg"/>
+    <desc>Seth's new money scheme draws harsh criticism from Ashley. But if it works, it could mean millions for the store. Then, a customer brings in a vintage electric chair that helps Rich gain favor with Les. And later, Seth's road to riches shows it could be a direct path to the poorhouse.</desc>
+    <sub-title>The Shocker</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-racingwa-fast" start="20261128080000 +0000" stop="20261128090000 +0000">
     <title>Racing WA</title>
@@ -39845,12 +39665,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Racing WA</sub-title>
     <category>GENERAL</category>
   </programme>
-  <programme channel="mjh-allsaints-fast" start="20261128063229 +0000" stop="20261128072229 +0000">
-    <title>All Saints S4 Episode 20</title>
-    <icon src="https://api.tvapi.com.au/images/AST-145_medium.jpeg"/>
-    <desc>Ben and Scott receive a call-out to a low security prison and arrive to find a siege in progress with a guard, a nurse and another inmate hostage in the prison clinic.</desc>
-    <sub-title>Close To Home</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-racingwa-fast" start="20261128100000 +0000" stop="20261128110000 +0000">
+    <title>Racing WA</title>
+    <icon src="https://api.tvapi.com.au/v1/data/appconfig/p8/images/RacingWA25_Dark.jpg"/>
+    <desc>Racing WA</desc>
+    <sub-title>Racing WA</sub-title>
+    <category>GENERAL</category>
   </programme>
   <programme channel="mjh-allsaints-fast" start="20261128072244 +0000" stop="20261128081144 +0000">
     <title>All Saints S4 Episode 21</title>
@@ -39866,12 +39686,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>The Sign</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-mythbusters-fast" start="20261128061712 +0000" stop="20261128071212 +0000">
-    <title>No Pain No Gain / Gas Rocket</title>
-    <icon src="https://api.tvapi.com.au/images/MYTH6-012_medium.jpeg"/>
-    <desc>Adam and Jamie become lab rats, testing if some types of people really more tolerant to pain. Then Kari, Grant and Tory ask; if the garage catches fire, will the BBQ gas tank launch through the roof?</desc>
-    <sub-title>No Pain No Gain / Gas Rocket</sub-title>
-    <category>SCIENCE &amp; TECHNOLOGY</category>
+  <programme channel="mjh-allsaints-fast" start="20261128090335 +0000" stop="20261128095135 +0000">
+    <title>All Saints S4 Episode 23</title>
+    <icon src="https://api.tvapi.com.au/images/AST-148_medium.jpeg"/>
+    <desc>Bron takes a gamble, which ends up being one of the worst mistakes of her life.</desc>
+    <sub-title>Maiden's Revenge</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-mythbusters-fast" start="20261128071212 +0000" stop="20261128080712 +0000">
     <title>Fixin' A Flat, Flaming Reel</title>
@@ -39887,19 +39707,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Let There Be Light, Bumper Cars</sub-title>
     <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261128065545 +0000" stop="20261128072145 +0000">
-    <title>Weekender</title>
-    <icon src="https://api.tvapi.com.au/images/WEKN24-009_medium.jpeg"/>
-    <desc>Duane learns how to drive safe on the beach. Alastair has a perfect midweek one pot wonder. Alana finds treats from around in world in Logan. Lee and doggo Lulu go on a brewery hop.</desc>
-    <sub-title>5.55 - 6.21pm</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
-  <programme channel="mjh-travelaustralia-fast" start="20261128072151 +0000" stop="20261128074851 +0000">
-    <title>Life Off Road S8 E5</title>
-    <icon src="https://api.tvapi.com.au/images/LIOR08-005_medium.jpeg"/>
-    <desc>Life Off Road celebrates all aspects of four-wheel driving and off-roading.</desc>
-    <sub-title>6.21 - 6.48pm</sub-title>
-    <category>OTHER LIFESTYLE</category>
+  <programme channel="mjh-mythbusters-fast" start="20261128090219 +0000" stop="20261128095719 +0000">
+    <title>Depth Charge Disaster, Paper Armor</title>
+    <icon src="https://api.tvapi.com.au/images/MYTH07-009_medium.jpeg"/>
+    <desc>On this episode of Mythbusters reach for the dial marked science and turn it up to 11!</desc>
+    <sub-title>Depth Charge Disaster, Paper Armor</sub-title>
+    <category>SCIENCE &amp; TECHNOLOGY</category>
   </programme>
   <programme channel="mjh-travelaustralia-fast" start="20261128074914 +0000" stop="20261128081414 +0000">
     <title>The 4WD Adventure Show S3 E5</title>
@@ -39908,12 +39721,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>6.49 - 7.14pm</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-aircrashinvestigations-fast" start="20261128063952 +0000" stop="20261128073152 +0000">
-    <title>Air Crash Investigations</title>
-    <icon src="https://api.tvapi.com.au/images/MDAY10-006_medium.jpeg"/>
-    <desc>On a Turkish Airlines flight, the crew is following instructions from the control tower that will line up their Boeing 737 with the runway. In the final seconds of the flight, however, the plane suddenly falls from the sky and crashes into a muddy field just north of the airport where it was supposed to land. Was it the pilot or plane's fault that caused this disaster?</desc>
-    <sub-title>Mid Air Landing</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-travelaustralia-fast" start="20261128081419 +0000" stop="20261128084019 +0000">
+    <title>Weekender</title>
+    <icon src="https://api.tvapi.com.au/images/WEKN24-010_medium.jpeg"/>
+    <desc>Lee checks out the latest Mater Prize Home. Duane has a winter escape in Fiji. Alana whips up a unique salad. Alastair drops by Matso's and Chris has an epic Fraser Coast feast.</desc>
+    <sub-title>7.14 - 7.40pm</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
+  </programme>
+  <programme channel="mjh-travelaustralia-fast" start="20261128084025 +0000" stop="20261128090625 +0000">
+    <title>Creek To Coast</title>
+    <icon src="https://api.tvapi.com.au/images/7CTC24-005_medium.jpeg"/>
+    <desc>Scott and Kim pack up the caravan and hit the road to explore the Bundaberg region.</desc>
+    <sub-title>7.40 - 8.06pm</sub-title>
+    <category>OTHER LIFESTYLE</category>
   </programme>
   <programme channel="mjh-aircrashinvestigations-fast" start="20261128073159 +0000" stop="20261128082259 +0000">
     <title>Air Crash Investigations</title>
@@ -39929,12 +39749,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Turning Point</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-betterhomesandgardens-fast" start="20261128061528 +0000" stop="20261128073428 +0000">
-    <title>Better Homes And Gardens</title>
-    <icon src="https://api.tvapi.com.au/images/BHAG30-005_medium.jpeg"/>
-    <desc>Joh visits Mandurah and checks out Crab Fest. Karen cooks some mac and cheese. Graham visits Boongala Gardens, one of the most admired Australian native gardens in Sydney.</desc>
-    <sub-title>5.15 - 6.34pm</sub-title>
-    <category>HOUSE &amp; GARDEN</category>
+  <programme channel="mjh-aircrashinvestigations-fast" start="20261128091400 +0000" stop="20261128101300 +0000">
+    <title>Air Crash Investigations</title>
+    <icon src="https://api.tvapi.com.au/images/MDAY3-007_medium.jpeg"/>
+    <desc>January 19, 1995, sixteen oil rig workers' and two pilots' lives hang in the balance when their Super Puma helicopter is struck by lightning in a storm while flying to a North Sea oil platform. When lightning strikes the tail rotor and it fails crashing in the waters below. Everyone on board gets on a life raft, which is overcrowded and leaking in giant swells. Despite the conditions, the workers and pilots are rescued.</desc>
+    <sub-title>Helicopter Down</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-betterhomesandgardens-fast" start="20261128073441 +0000" stop="20261128085341 +0000">
     <title>Better Homes And Gardens</title>
@@ -39948,6 +39768,13 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://api.tvapi.com.au/images/BHAG29-001_medium.jpeg"/>
     <desc>Joh and Pete visit an amazing home that takes indoor/outdoor living to the next level, Charlie, Adam and Melissa transform a backyard into a stunning space. Joh and Karen make a prawn salad.</desc>
     <sub-title>7.54 - 9.16pm</sub-title>
+    <category>HOUSE &amp; GARDEN</category>
+  </programme>
+  <programme channel="mjh-betterhomesandgardens-fast" start="20261128101635 +0000" stop="20261128113635 +0000">
+    <title>Better Homes And Gardens</title>
+    <icon src="https://api.tvapi.com.au/images/BHAG29-002_medium.jpeg"/>
+    <desc>Joh checks out a business that recycles plastic milk bottles into cutting boards. Karen cooks chai-spiced French toast with orange mascarpone. Dr. Harry ventures to a camel farm in Queensland.</desc>
+    <sub-title>9.16 - 10.36pm</sub-title>
     <category>HOUSE &amp; GARDEN</category>
   </programme>
   <programme channel="mjh-per2_event-fast" start="20261128063000 +0000" stop="20261128100000 +0000">
@@ -39972,13 +39799,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>5.30 - 9.00pm</sub-title>
     <category>Other</category>
   </programme>
-  <programme channel="mjh-cas33-fast" start="20261128063238 +0000" stop="20261128072438 +0000">
-    <title>Season 15 Episode 2</title>
-    <icon src="https://api.tvapi.com.au/images/YORK15-002_medium.jpeg"/>
-    <desc>Julian meets a champion ferret who has an infected foot and Shona heads out to see an old horse that is suffering with sore eyes.</desc>
-    <sub-title>Season 15 Episode 2</sub-title>
-    <category>OTHER LIGHT ENTERTAINMENT</category>
-  </programme>
   <programme channel="mjh-cas33-fast" start="20261128072444 +0000" stop="20261128081644 +0000">
     <title>Season 15 Episode 3</title>
     <icon src="https://api.tvapi.com.au/images/YORK15-003_medium.jpeg"/>
@@ -39993,12 +39813,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Season 10 Ep 1</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128070424 +0000" stop="20261128075324 +0000">
-    <title>CSI: Crime Scene Investigation - Empty Eyes</title>
-    <icon src="https://api.tvapi.com.au/images/CSIN07-018_medium.jpeg"/>
-    <desc>While processing the house where several showgirls were murdered, Sara is haunted by the terrified eyes and cryptic dying words of the sixth victim she discovers.</desc>
-    <sub-title>Empty Eyes</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-cas33-fast" start="20261128090725 +0000" stop="20261128095725 +0000">
+    <title>Season 10 Ep 2</title>
+    <icon src="https://api.tvapi.com.au/images/YORK10-002_medium.jpeg"/>
+    <desc>Vet Julian feels the pressure in surgery when he treats a youngster's old rabbit.</desc>
+    <sub-title>Season 10 Ep 2</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128075405 +0000" stop="20261128084405 +0000">
     <title>CSI: New York - Uncertainy Rules</title>
@@ -40014,12 +39834,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Pot Of Gold</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-mightymachines-fast" start="20261128065606 +0000" stop="20261128074806 +0000">
-    <title>Mighty Ships S6 E6</title>
-    <icon src="https://api.tvapi.com.au/images/MTYS06-006_medium.jpeg"/>
-    <desc>Climb aboard for an exclusive look at some of the coolest working vessels in the world.</desc>
-    <sub-title>Neptune</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
+  <programme channel="mjh-csicrimesceneinvestigation-fast" start="20261128093313 +0000" stop="20261128102313 +0000">
+    <title>CSI: New York - Rest In Peace, Marina Garito</title>
+    <icon src="https://api.tvapi.com.au/images/CSIY06-018_medium.jpeg"/>
+    <desc>When a woman linked to an unsolved murder case is found dead, the evidence and autopsy both suggest a suicide, but Stella is unconvinced and risks her life to pursue the case.</desc>
+    <sub-title>Rest In Peace, Marina Garito</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-mightymachines-fast" start="20261128074807 +0000" stop="20261128084107 +0000">
     <title>Mighty Trains S4 E5</title>
@@ -40035,12 +39855,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>New Zealand - Coastal Pacific</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas21-fast" start="20261128064503 +0000" stop="20261128073603 +0000">
-    <title>S07 E07 - Residual Haunts</title>
-    <icon src="https://api.tvapi.com.au/images/GSHU07-007_medium.png"/>
-    <desc>The team investigates a fortress in Fort Knox and the Ferrell house in North Carolina.</desc>
-    <sub-title>S07 E07 - Residual Haunts</sub-title>
-    <category>ENTERTAINMENT</category>
+  <programme channel="mjh-mightymachines-fast" start="20261128093506 +0000" stop="20261128102606 +0000">
+    <title>Mighty Cruise Ships</title>
+    <icon src="https://api.tvapi.com.au/images/MCRU03-001_medium.jpeg"/>
+    <desc>The crew of the Koningsdam, Holland America's latest, largest and most technologically-advanced ship, face sailing through the narrow Norwegian fjords.</desc>
+    <sub-title>Koningsdam</sub-title>
+    <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas21-fast" start="20261128073623 +0000" stop="20261128082723 +0000">
     <title>S07 E08 - Knights of the Living Dead</title>
@@ -40056,12 +39876,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>S07 E09 - A Soldier's Story</sub-title>
     <category>ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-onthecase-fast" start="20261128063542 +0000" stop="20261128073242 +0000">
-    <title>On The Case - S2 E2</title>
-    <icon src="https://api.tvapi.com.au/images/ONTC02-002_medium.jpeg"/>
-    <desc>When police arrive at the scene of a grisly murder, the evidence makes them wonder if the victim's dying act would point them to her killer.</desc>
-    <sub-title>S2 E2 - Message in Blood</sub-title>
-    <category>DOCUMENTARY SERIES</category>
+  <programme channel="mjh-cas21-fast" start="20261128091905 +0000" stop="20261128101005 +0000">
+    <title>S02 E07 - Hitler's Ghost</title>
+    <icon src="https://api.tvapi.com.au/images/GSHI02-007_medium.jpeg"/>
+    <desc>The team investigates the rumours of hauntings at the Gran Hotel Viena in Miramar, Argentina, which was once the secret residence of many Nazi war criminals.</desc>
+    <sub-title>S02 E07 - Hitler's Ghost</sub-title>
+    <category>ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-onthecase-fast" start="20261128073245 +0000" stop="20261128082145 +0000">
     <title>On The Case S7 E2</title>
@@ -40077,12 +39897,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>S7 E3 - Gone in an Instant</sub-title>
     <category>DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-cas24-fast" start="20261128062950 +0000" stop="20261128071850 +0000">
-    <title>Bondi Vet</title>
-    <icon src="https://api.tvapi.com.au/images/BONV08-002_medium.jpeg"/>
-    <desc>Accident-prone Cairn Terrier Fergus has jumped out of the family car and badly torn his toe. He’s been brought into the Bondi Clinic bleeding and in pain. Chris is impressed with the tough little dog’s bravery as he tries to assess his injuries.</desc>
-    <sub-title>5.29 - 6.18pm</sub-title>
-    <category>ANIMALS</category>
+  <programme channel="mjh-onthecase-fast" start="20261128091210 +0000" stop="20261128100610 +0000">
+    <title>On The Case S8 E1</title>
+    <icon src="https://api.tvapi.com.au/images/ONTC08-001_medium.jpeg"/>
+    <desc>When a teenager vanishes during a visit to her hometown, it becomes the beginning of a terrifying 30-year mystery.</desc>
+    <sub-title>S8 E1 - A Stranger Among Us</sub-title>
+    <category>DOCUMENTARY SERIES</category>
   </programme>
   <programme channel="mjh-cas24-fast" start="20261128071910 +0000" stop="20261128080910 +0000">
     <title>Bondi Vet</title>
@@ -40098,12 +39918,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>7.09 - 7.58pm</sub-title>
     <category>ANIMALS</category>
   </programme>
-  <programme channel="mjh-thechristmascollection-fast" start="20261128052741 +0000" stop="20261128070741 +0000">
-    <title>Christmas Plus One</title>
-    <icon src="https://api.tvapi.com.au/images/ROIF01-040_medium.jpeg"/>
-    <desc>With her sister's winter wedding approaching, Cara finally finds her own perfect man - however immediately loses his number!</desc>
-    <sub-title>Christmas Plus One</sub-title>
-    <category>Drama Movie</category>
+  <programme channel="mjh-cas24-fast" start="20261128085844 +0000" stop="20261128094744 +0000">
+    <title>Bondi Vet</title>
+    <icon src="https://api.tvapi.com.au/images/BONV08-005_medium.jpeg"/>
+    <desc>A challenge for Chris as he’s confronted with a 2-tonne southern White rhino. The massive animal has sore feet which need Chris’ urgent attention.</desc>
+    <sub-title>7.58 - 8.47pm</sub-title>
+    <category>ANIMALS</category>
   </programme>
   <programme channel="mjh-thechristmascollection-fast" start="20261128070759 +0000" stop="20261128084459 +0000">
     <title>The Christmas Retreat</title>
@@ -40119,25 +39939,32 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>A Christmas To Cherish</sub-title>
     <category>Drama Movie</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261128064256 +0000" stop="20261128070656 +0000">
-    <title>(2020) Death - Robbo Shaw</title>
-    <icon src="https://api.tvapi.com.au/images/HAAW32-126_medium.jpeg"/>
-    <desc>Jasmine's world comes crashing down when Colby gives her devastating news.</desc>
-    <sub-title>5.42 - 6.06pm</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-thechristmascollection-fast" start="20261128102138 +0000" stop="20261128120238 +0000">
+    <title>A Christmas To Savour</title>
+    <icon src="https://api.tvapi.com.au/images/ROIF01-043_medium.jpeg"/>
+    <desc>Scarlett is an incredible chef, but her unique holiday dishes never sell. So this year, she's at a holiday cooking getaway where she'll relearn festive cooking, and maybe find love?</desc>
+    <sub-title>A Christmas To Savour</sub-title>
+    <category>Drama Movie</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261128070751 +0000" stop="20261128073551 +0000">
-    <title>(2020) Wedding - Alf &amp; Martha</title>
-    <icon src="https://api.tvapi.com.au/images/HAAW32-133_medium.jpeg"/>
-    <desc>Alf and Martha’s special moment. </desc>
-    <sub-title>6.07 - 6.35pm</sub-title>
+  <programme channel="mjh-cas26-fast" start="20261128080336 +0000" stop="20261128083136 +0000">
+    <title>Tragedy - Witness X Reveal</title>
+    <icon src="https://api.tvapi.com.au/images/HAAW33-084_medium.jpeg"/>
+    <desc>Colby’s trial begins with a bombshell. Marilyn hides the true reason she’s on a dating app.</desc>
+    <sub-title>7.03 - 7.31pm</sub-title>
     <category>DRAMA SERIAL</category>
   </programme>
-  <programme channel="mjh-cas26-fast" start="20261128073558 +0000" stop="20261128080258 +0000">
-    <title>(2020) Death - Evan Slater</title>
-    <icon src="https://api.tvapi.com.au/images/HAAW32-212_medium.jpeg"/>
-    <desc>Ryder and Evan share a deeply emotional moment. Colby tightens his gaze on Ari. Martha returns to Merimbula.</desc>
-    <sub-title>6.35 - 7.02pm</sub-title>
+  <programme channel="mjh-cas26-fast" start="20261128083144 +0000" stop="20261128085844 +0000">
+    <title>(2021) Tragedy - Hit &amp; Run On Ari</title>
+    <icon src="https://api.tvapi.com.au/images/HAAW33-135_medium.jpeg"/>
+    <desc>A nervous wait for Ari as he is rushed to hospital. </desc>
+    <sub-title>7.31 - 7.58pm</sub-title>
+    <category>DRAMA SERIAL</category>
+  </programme>
+  <programme channel="mjh-cas26-fast" start="20261128085901 +0000" stop="20261128092601 +0000">
+    <title>(2021) Death - Suzie McAllister</title>
+    <icon src="https://api.tvapi.com.au/images/HAAW33-208_medium.jpeg"/>
+    <desc>The Bay is desperate to discover whose body is in the water. </desc>
+    <sub-title>7.59 - 8.26pm</sub-title>
     <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-livgolfreplays-fast" start="20261128053150 +0000" stop="20261128110050 +0000">
@@ -40161,14 +39988,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Adelaide | Final Round</sub-title>
     <category>GOLF</category>
   </programme>
-  <programme channel="mjh-waterrats-fast" start="20261128064955 +0000" stop="20261128073955 +0000">
-    <title>Water Rats - S1 E12 - The Jigsaw Man</title>
-    <icon src="https://api.tvapi.com.au/images/WARA01-012_medium.jpeg"/>
-    <desc>Holloway is stunned when told by Internal Affairs they think Kevin was murdered. A suspect is brought in for questioning and Holloway is convinced he is guilty.
-</desc>
-    <sub-title>S1 E12 - The Jigsaw Man</sub-title>
-    <category>DRAMA SERIAL</category>
-  </programme>
   <programme channel="mjh-waterrats-fast" start="20261128074011 +0000" stop="20261128083011 +0000">
     <title>Water Rats - S1 E13 - Bang Bang, You're Dead</title>
     <icon src="https://api.tvapi.com.au/images/WARA01-013_medium.jpeg"/>
@@ -40184,12 +40003,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>S2 E1 - Black Water</sub-title>
     <category>DRAMA SERIAL</category>
   </programme>
-  <programme channel="mjh-7afl-fast" start="20261128064558 +0000" stop="20261128075058 +0000">
-    <title>The Front Bar</title>
-    <icon src="https://api.tvapi.com.au/images/FBAR-SHOW_medium.jpeg"/>
-    <desc>Join Sam Pang, Mick Molloy and Andy Maher as they share a laugh about the world of AFL and catch up with stars of yesteryear and today.</desc>
-    <sub-title>The Front Bar</sub-title>
-    <category>AUSTRALIAN RULES FOOTBALL</category>
+  <programme channel="mjh-waterrats-fast" start="20261128092045 +0000" stop="20261128100945 +0000">
+    <title>Water Rats - S2 E2 - Eyewitness</title>
+    <icon src="https://api.tvapi.com.au/images/WARA02-002_medium.jpeg"/>
+    <desc>An old enemy of Holloway's, and well known crime figure, Marty Miller, is responsible for the brutal slaying of a young father.</desc>
+    <sub-title>S2 E2 - Eyewitness</sub-title>
+    <category>DRAMA SERIAL</category>
   </programme>
   <programme channel="mjh-7afl-fast" start="20261128075153 +0000" stop="20261128102853 +0000">
     <title>Rnd 18: Fremantle v Sydney</title>
@@ -40205,12 +40024,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Rnd 18: Collingwood v North Melbourn</sub-title>
     <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
-  <programme channel="mjh-cas32-fast" start="20261128061218 +0000" stop="20261128071218 +0000">
-    <title>Scambodia &amp; Archie Sebastian</title>
-    <icon src="https://api.tvapi.com.au/images/7SPL-SHOW_medium.jpeg"/>
-    <desc>Liam Bartlett goes inside Cambodia’s massive scam compounds where workers are ripping off Australians. Plus, Guy Sebastian’s son Archie becomes a viral star after an impromptu performance with Dad.</desc>
-    <sub-title>Scambodia &amp; Archie Sebastian</sub-title>
-    <category>NEWS</category>
+  <programme channel="mjh-7afl-fast" start="20261128131225 +0000" stop="20261128141425 +0000">
+    <title>The Front Bar - 15th July</title>
+    <icon src="https://api.tvapi.com.au/images/FBAR-SHOW_medium.jpeg"/>
+    <desc>Join Sam Pang, Mick Molloy and Andy Maher as they share a laugh about the world of AFL and catch up with stars of yesteryear and today.</desc>
+    <sub-title>The Front Bar - 15th July</sub-title>
+    <category>AUSTRALIAN RULES FOOTBALL</category>
   </programme>
   <programme channel="mjh-cas32-fast" start="20261128071251 +0000" stop="20261128080951 +0000">
     <title>A Dementia Cure?</title>
@@ -40226,12 +40045,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Digital Clones &amp; The Real Olivia</sub-title>
     <category>NEWS</category>
   </programme>
-  <programme channel="mjh-wtn-fast" start="20261128065532 +0000" stop="20261128074932 +0000">
-    <title>Uncharted Territory</title>
-    <icon src="https://api.tvapi.com.au/images/WT022_medium.jpeg"/>
-    <desc>The Atlantic Bluefin are starting to migrate out, so the local fleet races to find any edge they can.</desc>
-    <sub-title>Uncharted Territory</sub-title>
-    <category>Documentary</category>
+  <programme channel="mjh-cas32-fast" start="20261128090318 +0000" stop="20261128095318 +0000">
+    <title>Beyond The Tower - The Hidden Dangers of Flying</title>
+    <icon src="https://api.tvapi.com.au/images/7SPL-SHOW_medium.jpeg"/>
+    <desc>A series of investigative specials focusing on major breaking news events and long-form investigations of national significance.</desc>
+    <sub-title>Beyond The Tower - The Hidden Dangers of Flying</sub-title>
+    <category>NEWS</category>
   </programme>
   <programme channel="mjh-wtn-fast" start="20261128075012 +0000" stop="20261128084412 +0000">
     <title>Twice Bitten</title>
@@ -40247,12 +40066,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Money on the Line</sub-title>
     <category>Documentary</category>
   </programme>
-  <programme channel="mjh-winnersnlosers-fast" start="20261128063326 +0000" stop="20261128072126 +0000">
-    <title>Self Defence S3 Ep3</title>
-    <icon src="https://api.tvapi.com.au/images/WILO3-003_medium.jpeg"/>
-    <desc>Self-preservation is proving to be a challenge, especially for Frances who is confronted by the siege all over again when she learns that gunman, Jackson, has been released from prison. Despite her financial restrictions, Jenny is determined to have the lavish wedding of her dreams. Heeding Ryan's counselling advice, Bec decides to take some time for herself. But despite assuring everyone she's off pampering herself with massages, she's actually immersing herself in the world of Matt more than ever - and disengaging from Harrison in the process.</desc>
-    <sub-title>Self Defence</sub-title>
-    <category>FAMILY DRAMA SERIES</category>
+  <programme channel="mjh-wtn-fast" start="20261128093847 +0000" stop="20261128103347 +0000">
+    <title>Endgame</title>
+    <icon src="https://api.tvapi.com.au/images/WT025_medium.jpeg"/>
+    <desc>The captains race against each other - and an oncoming storm - to land their final fish of the season.</desc>
+    <sub-title>Endgame</sub-title>
+    <category>Documentary</category>
   </programme>
   <programme channel="mjh-winnersnlosers-fast" start="20261128072138 +0000" stop="20261128080938 +0000">
     <title>When You Least Expect It S3 Ep4</title>
@@ -40268,19 +40087,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>In An Instant</sub-title>
     <category>FAMILY DRAMA SERIES</category>
   </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20261128065815 +0000" stop="20261128072315 +0000">
-    <title>Surveillance Oz</title>
-    <icon src="https://api.tvapi.com.au/images/SURV2-002_medium.jpeg"/>
-    <desc>Three young men attempt to climb onto the roof of their fast-moving taxi in the Sydney Harbour Tunnel, two fully-laden trucks make the same deadly mistake in one night - driving on the busy Cahill Expressway in the wrong direction and a man brazenly steals designer fragrances at Target in broad daylight. Then, a man in a wheelchair topples onto the tracks seconds before a train arrives.</desc>
-    <sub-title>5.58 - 6.23pm</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-surveillancecentral-fast" start="20261128072356 +0000" stop="20261128074856 +0000">
-    <title>Surveillance Oz</title>
-    <icon src="https://api.tvapi.com.au/images/SURV2-003_medium.jpeg"/>
-    <desc>High speed surveillance from Victoria Police Airwing monitor a wanted man, a drunk driver leaves a trail of destruction at a Wilson car park and a car is clipped by a truck in the Sydney Harbour Tunnel and spins 180 degrees. Then, a woman attempts to steal nursery items disguised as a baby in a stolen pram and a man is distracted talking on his phone and falls onto the train tracks.</desc>
-    <sub-title>6.23 - 6.48pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-winnersnlosers-fast" start="20261128085828 +0000" stop="20261128094628 +0000">
+    <title>Blame It On The Moon S3 Ep6</title>
+    <icon src="https://api.tvapi.com.au/images/WILO3-006_medium.jpeg"/>
+    <desc>The full moon brings out the green-eyed monster as the girls grapple with jealousy issues at Patrick's 21st party. After Shannon's attempted kiss, Frances has decided to give up self-defence classes and their friendship. Sophie's still fighting her feelings for Doug so when he invites their new boss, Carla, to Patrick's 21st, she brings her own date to make him jealous. Despite Sam's protests and their fiery bickering, Flynn admits to Sophie that pursuing her isn't just a game any more. Meanwhile, Bec's hell-bent on erasing Matt from history.</desc>
+    <sub-title>Blame It On The Moon</sub-title>
+    <category>FAMILY DRAMA SERIES</category>
   </programme>
   <programme channel="mjh-surveillancecentral-fast" start="20261128074937 +0000" stop="20261128084237 +0000">
     <title>Caught On Dashcam</title>
@@ -40289,19 +40101,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Season 6 Episode 5</sub-title>
     <category>COMPILATION PROGRAM</category>
   </programme>
-  <programme channel="mjh-outbacktruckers-fast" start="20261128061802 +0000" stop="20261128070902 +0000">
-    <title>Outback Truckers</title>
-    <icon src="https://api.tvapi.com.au/images/MUTR06-002_medium.jpeg"/>
-    <desc>Brother and sister truckers Robbie and Ashleigh Mackay hit house removal hell on a mud-bogged mission.</desc>
-    <sub-title>5.18 - 6.09pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-surveillancecentral-fast" start="20261128084258 +0000" stop="20261128093558 +0000">
+    <title>Caught On Dashcam</title>
+    <icon src="https://api.tvapi.com.au/images/CODC06-006_medium.jpeg"/>
+    <desc>From leaner driver calamities to heinous hit-and-runs, chainsaw rescues and biking wipeouts - join us for a brand-new episode of Caught on Dashcam!</desc>
+    <sub-title>Season 6 Episode 6</sub-title>
+    <category>COMPILATION PROGRAM</category>
   </programme>
-  <programme channel="mjh-outbacktruckers-fast" start="20261128070942 +0000" stop="20261128080042 +0000">
-    <title>Outback Truckers</title>
-    <icon src="https://api.tvapi.com.au/images/MUTR07-001_medium.jpeg"/>
-    <desc>Trucking veteran Steve Grahame's heading to the beach, but it's no vacation.</desc>
-    <sub-title>6.09 - 7.00pm</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-surveillancecentral-fast" start="20261128093625 +0000" stop="20261128102925 +0000">
+    <title>Caught On Dashcam</title>
+    <icon src="https://api.tvapi.com.au/images/CODC02-003_medium.jpeg"/>
+    <desc>More dramatic scenes caught on dashcam, including flash floods that turn our roads into rivers, hair-raising encounters with bears and big cats, and dangers of being a cyclist on the road.</desc>
+    <sub-title>8.36 - 9.29pm</sub-title>
+    <category>COMPILATION PROGRAM</category>
   </programme>
   <programme channel="mjh-outbacktruckers-fast" start="20261128080051 +0000" stop="20261128085151 +0000">
     <title>Outback Truckers</title>
@@ -40310,12 +40122,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>7.00 - 7.51pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-anglersparadise-fast" start="20261128063207 +0000" stop="20261128072307 +0000">
-    <title>Mark Berg's Fishing Addiction</title>
-    <icon src="https://api.tvapi.com.au/images/MBFA11-006_medium.jpeg"/>
-    <desc>Fishing expert Mark Berg visits some of the best fishing destinations around. Chasing a wide variety of fish, Mark is always hoping to capture a new species or develop a new technique.</desc>
-    <sub-title>Dhipirri Lodge, NT With Simon, Pt. 1</sub-title>
-    <category>SPORTS OTHER</category>
+  <programme channel="mjh-outbacktruckers-fast" start="20261128085201 +0000" stop="20261128094301 +0000">
+    <title>Outback Truckers</title>
+    <icon src="https://api.tvapi.com.au/images/MUTR08-001_medium.jpeg"/>
+    <desc>Mick King fights off deadly bushfires to deliver to a fire ravaged community, an oversized load drives Athol Martin over the edge. Sludge hauls 3 high value vintage racers to a burn up in the desert.</desc>
+    <sub-title>7.52 - 8.43pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-outbacktruckers-fast" start="20261128094341 +0000" stop="20261128103441 +0000">
+    <title>Outback Truckers</title>
+    <icon src="https://api.tvapi.com.au/images/MUTR08-002_medium.jpeg"/>
+    <desc>Brian Andersson and Athol Martin dodge high tech solar cars and battle heavy haulage blow outs, Steve Grahame tackles the bush and all its fury. Sludge races to get an ancient load to the start line.</desc>
+    <sub-title>8.43 - 9.34pm</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-anglersparadise-fast" start="20261128072316 +0000" stop="20261128081316 +0000">
     <title>Hook Line And Sinker S10 E06</title>
@@ -40331,12 +40150,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>The Rematch Haydos VS Pumba Tiwi Sty</sub-title>
     <category>OTHER SPORT</category>
   </programme>
-  <programme channel="mjh-truckinghell-fast" start="20261128070014 +0000" stop="20261128074814 +0000">
-    <title>Season 7 Episode 15</title>
-    <icon src="https://api.tvapi.com.au/images/TRKH07-015_medium.jpeg"/>
-    <desc>Three rescues: a burnt-out brick truck, a tipper stuck in mud, and a Sprinter van stranded on the M42—all demanding speed and precision.</desc>
-    <sub-title>Season 7 Episode 15</sub-title>
-    <category>LIGHT ENTERTAINMENT</category>
+  <programme channel="mjh-anglersparadise-fast" start="20261128084057 +0000" stop="20261128092557 +0000">
+    <title>Mark Berg's Fishing Addiction</title>
+    <icon src="https://api.tvapi.com.au/images/MBFA5-003_medium.jpeg"/>
+    <desc>Fishing expert Mark Berg visits some of the best fishing destinations around. Chasing a wide variety of fish, Mark is always hoping to capture a new species or develop a new technique.</desc>
+    <sub-title>NZ With Tim Part 1</sub-title>
+    <category>SPORTS OTHER</category>
   </programme>
   <programme channel="mjh-truckinghell-fast" start="20261128074828 +0000" stop="20261128083628 +0000">
     <title>Season 7 Episode 16</title>
@@ -40352,25 +40171,32 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Season 8 Episode 13</sub-title>
     <category>LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261128065157 +0000" stop="20261128071757 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>5.51 - 6.17pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-judgejudy-fast" start="20261128071800 +0000" stop="20261128074400 +0000">
-    <title>Judge Judy</title>
-    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
-    <sub-title>6.18 - 6.44pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
+  <programme channel="mjh-truckinghell-fast" start="20261128092732 +0000" stop="20261128101632 +0000">
+    <title>Season 8 Episode 14</title>
+    <icon src="https://api.tvapi.com.au/images/TRKH08-014_medium.jpeg"/>
+    <desc>Three rescues: a 44-tonne artic down a bank, a lorry stuck in a ditch, and a sightseeing bus blocking a London stop.</desc>
+    <sub-title>Season 8 Episode 14</sub-title>
+    <category>LIGHT ENTERTAINMENT</category>
   </programme>
   <programme channel="mjh-judgejudy-fast" start="20261128074402 +0000" stop="20261128081002 +0000">
     <title>Judge Judy</title>
     <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
     <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
     <sub-title>6.44 - 7.10pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-judgejudy-fast" start="20261128081010 +0000" stop="20261128083610 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>7.10 - 7.36pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
+  </programme>
+  <programme channel="mjh-judgejudy-fast" start="20261128083618 +0000" stop="20261128090218 +0000">
+    <title>Judge Judy</title>
+    <icon src="https://api.tvapi.com.au/images/JUJU-SHOW_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final</desc>
+    <sub-title>7.36 - 8.02pm</sub-title>
     <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-all-starcinema-fast" start="20261128063541 +0000" stop="20261128081341 +0000">
@@ -40394,20 +40220,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Perfect Sisters</sub-title>
     <category>THRILLER MOVIE</category>
   </programme>
-  <programme channel="mjh-bluelight-fast" start="20261128065745 +0000" stop="20261128072245 +0000">
-    <title>Highway Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/HWYP13-006_medium.jpeg"/>
-    <desc>A mechanic leads his friend astray and drives him straight into a ticket by not checking the terms of a temporary permit. Officers can smell somethings up during a random stop.</desc>
-    <sub-title>Terms &amp; Conditions</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-bluelight-fast" start="20261128072336 +0000" stop="20261128075236 +0000">
-    <title>Beach Cops</title>
-    <icon src="https://api.tvapi.com.au/images/BHCP03-001_medium.jpeg"/>
-    <desc>Australia's hottest cops are back, patrolling the coastline from Manly to Palm Beach. With thousands of tourists and locals enjoying beach life, there's always something to keep our guys busy.</desc>
-    <sub-title>6.23 - 6.52pm</sub-title>
-    <category>OTHER DOCUMENTARY SERIES</category>
-  </programme>
   <programme channel="mjh-bluelight-fast" start="20261128075248 +0000" stop="20261128081848 +0000">
     <title>The Force - Behind The Line</title>
     <icon src="https://api.tvapi.com.au/images/TRUE9-009_medium.jpeg"/>
@@ -40415,19 +40227,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>6.52 - 7.18pm</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261128064605 +0000" stop="20261128071105 +0000">
-    <title>Surf Patrol</title>
-    <icon src="https://api.tvapi.com.au/images/SPTL4-003_medium.jpeg"/>
-    <desc>A team of lifesavers try to rescue two foreign students from a flash rip at Surfers Paradise. A swarm of bluebottles has invaded Kings Beach and lifesavers are slammed dealing with over three-hundred stings in one day. Then, the hunt is on when a young boy goes missing in the water. Hosted by Tom Williams.</desc>
-    <sub-title>5.46 - 6.11pm</sub-title>
-    <category>OTHER REALITY TELEVISION</category>
-  </programme>
-  <programme channel="mjh-medicalnrescue-fast" start="20261128071159 +0000" stop="20261128073559 +0000">
-    <title>Medical Emergency</title>
-    <icon src="https://api.tvapi.com.au/images/MDEM4-012_medium.jpeg"/>
-    <desc>Paramedics are called to an overturned car where a woman's been hurt and needs to be moved fast. A young man arrives at the Trauma Unit after falling out of a tree. And a stack on the track is bad news for one man.</desc>
-    <sub-title>6.11 - 6.35pm</sub-title>
+  <programme channel="mjh-bluelight-fast" start="20261128081918 +0000" stop="20261128084518 +0000">
+    <title>The Force - Behind The Line</title>
+    <icon src="https://api.tvapi.com.au/images/TRUE11-012_medium.jpeg"/>
+    <desc>Police attend a break and enter in progress at the rear of a shopping centre. Also, a speeding driver is stopped by a highway patrol officer and subjected to a breath test.</desc>
+    <sub-title>7.19 - 7.45pm</sub-title>
     <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-bluelight-fast" start="20261128084607 +0000" stop="20261128091207 +0000">
+    <title>Highway Patrol</title>
+    <icon src="https://api.tvapi.com.au/images/HWYP09-006_medium.jpeg"/>
+    <desc>A man who decides the law doesn't apply to him is in for a rude shock after police pull him over. A speeding young woman wants to become a cop but has trouble sticking to the right side of the law.</desc>
+    <sub-title>Drunk Off Roading</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-medicalnrescue-fast" start="20261128073640 +0000" stop="20261128082740 +0000">
     <title>Mt. Hutt Rescue</title>
@@ -40436,12 +40248,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>6.36 - 7.27pm</sub-title>
     <category>OTHER DOCUMENTARY SERIES</category>
   </programme>
-  <programme channel="mjh-blueheelers-fast" start="20261128062721 +0000" stop="20261128071821 +0000">
-    <title>Blue Heelers S2 Ep18</title>
-    <icon src="https://api.tvapi.com.au/images/BLUH-035_medium.jpeg"/>
-    <desc>The Blue Heelers find it difficult to help a woman who won't press charges against her husband for brutally beating her.</desc>
-    <sub-title>S2 E18 - Escape Route</sub-title>
-    <category>DRAMA</category>
+  <programme channel="mjh-medicalnrescue-fast" start="20261128082750 +0000" stop="20261128085250 +0000">
+    <title>Medical Emergency</title>
+    <icon src="https://api.tvapi.com.au/images/MDEM4-013_medium.jpeg"/>
+    <desc>A young girl has been crushed by her 600-kilogram horse and a man loses consciousness and runs into a parked car.</desc>
+    <sub-title>7.27 - 7.52pm</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-medicalnrescue-fast" start="20261128085340 +0000" stop="20261128091940 +0000">
+    <title>Surf Patrol</title>
+    <icon src="https://api.tvapi.com.au/images/SPTL4-004_medium.jpeg"/>
+    <desc>The search is on when a nineteen-year-old disappears after an early morning swim. Then, lifesavers race to save a swimmer caught in a rip, and elsewhere, a chopper spots a pack of bull sharks that are dangerously close to a group of surfers. Hosted by Tom Williams.</desc>
+    <sub-title>7.53 - 8.19pm</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-blueheelers-fast" start="20261128071917 +0000" stop="20261128081017 +0000">
     <title>Blue Heelers S2 Ep19</title>
@@ -40457,19 +40276,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>S2 E20 - The Folly Of Youth</sub-title>
     <category>DRAMA</category>
   </programme>
-  <programme channel="mjh-kitchennightmares-fast" start="20261128061937 +0000" stop="20261128071037 +0000">
-    <title>Chappy's</title>
-    <icon src="https://api.tvapi.com.au/images/KNUS06-015_medium.jpeg"/>
-    <desc>John and Starr Champan's last restaurant was destroyed during Hurricane Katrina. Can Chef Ramsay help them find new success in Nashville?</desc>
-    <sub-title>Chappy's</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-kitchennightmares-fast" start="20261128071046 +0000" stop="20261128080246 +0000">
-    <title>Amy's Baking Co</title>
-    <icon src="https://api.tvapi.com.au/images/KNUS06-016_medium.jpeg"/>
-    <desc>Chef Ramsay helps a couple navigate through the treacherous waters of customer complaints at Amy's Baking Company in Scottsdale, Arizona.</desc>
-    <sub-title>Amy's Baking Co</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-blueheelers-fast" start="20261128090139 +0000" stop="20261128095239 +0000">
+    <title>Blue Heelers S2 Ep21 </title>
+    <icon src="https://api.tvapi.com.au/images/BLUH-038_medium.jpeg"/>
+    <desc>A car accident involving a priest has the Blue Heelers puzzled as to what really happened.</desc>
+    <sub-title>S2 E21 - Face Value</sub-title>
+    <category>DRAMA</category>
   </programme>
   <programme channel="mjh-kitchennightmares-fast" start="20261128080258 +0000" stop="20261128085258 +0000">
     <title>SOBO</title>
@@ -40478,12 +40290,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>SOBO</sub-title>
     <category>OTHER LIGHT ENTERTAINMENT</category>
   </programme>
-  <programme channel="mjh-acountrypractice-fast" start="20261128061708 +0000" stop="20261128071108 +0000">
-    <title>S9 E77 - Future Shock - Part 1</title>
-    <icon src="https://api.tvapi.com.au/images/CNP-699_medium.png"/>
-    <desc>Frank and Shirley stand on opposite sides as Wandin Valley residents fight to stop the proposed dam development.</desc>
-    <sub-title>S9 E77 - Future Shock - Part 1</sub-title>
-    <category>Drama Serial</category>
+  <programme channel="mjh-kitchennightmares-fast" start="20261128085259 +0000" stop="20261128103059 +0000">
+    <title>Save Our Town</title>
+    <icon src="https://api.tvapi.com.au/images/GRHB03-010_medium.jpeg"/>
+    <desc>Gordon helps revitalise three businesses in Ellicott City after flood damage. Interior designer Nate Berkus, former baseball player Cal Ripken Jr. and former football player Torrey Smith help Gordon.</desc>
+    <sub-title>Save Our Town</sub-title>
+    <category>OTHER LIGHT ENTERTAINMENT</category>
+  </programme>
+  <programme channel="mjh-kitchennightmares-fast" start="20261128103110 +0000" stop="20261128112510 +0000">
+    <title>Return To Amy's Baking Company</title>
+    <icon src="https://api.tvapi.com.au/images/KNUS07-001_medium.jpeg"/>
+    <desc>Gordon catches up with the most talked-about restaurant in the series' history. Find out what has happened with Amy and Samy in the past year since the original episode aired.</desc>
+    <sub-title>Return To Amy's Baking Company</sub-title>
+    <category>OTHER REALITY TELEVISION</category>
   </programme>
   <programme channel="mjh-acountrypractice-fast" start="20261128071156 +0000" stop="20261128080656 +0000">
     <title>S9 E78 - Future Shock - Part 2</title>
@@ -40499,12 +40318,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>S9 E79 - For Pity's Sake - Part 1</sub-title>
     <category>Drama Serial</category>
   </programme>
-  <programme channel="mjh-truecrimefiles-fast" start="20261128064044 +0000" stop="20261128072944 +0000">
-    <title>World's Most Evil Killers</title>
-    <icon src="https://api.tvapi.com.au/images/WEKI09-009_medium.jpeg"/>
-    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final.</desc>
-    <sub-title>World's Most Evil Killers Season 9 Episode 9</sub-title>
-    <category>SOCIETY DOCUMENTARY</category>
+  <programme channel="mjh-acountrypractice-fast" start="20261128090221 +0000" stop="20261128095721 +0000">
+    <title>S9 E80 - For Pity's Sake - Part 2</title>
+    <icon src="https://api.tvapi.com.au/images/CNP-702_medium.png"/>
+    <desc>Kenny's mysterious illness gets worse and Terence and Chris are forced to operate.</desc>
+    <sub-title>S9 E80 - For Pity's Sake - Part 2</sub-title>
+    <category>Drama Serial</category>
   </programme>
   <programme channel="mjh-truecrimefiles-fast" start="20261128073019 +0000" stop="20261128081819 +0000">
     <title>World's Most Evil Killers</title>
@@ -40520,12 +40339,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>World's Most Evil Killers Season 9 Episode 11</sub-title>
     <category>SOCIETY DOCUMENTARY</category>
   </programme>
-  <programme channel="mjh-art-fast" start="20261128064008 +0000" stop="20261128072908 +0000">
-    <title>Antiques Road Trip</title>
-    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR907V_medium.jpeg"/>
-    <desc>After a victory for Paul Laidlaw, Margie Cooper has a lot of catching up to do in Exeter.</desc>
-    <sub-title>Paul Laidlaw and Margie Cooper, Day 2</sub-title>
-    <category>history</category>
+  <programme channel="mjh-truecrimefiles-fast" start="20261128090909 +0000" stop="20261128095909 +0000">
+    <title>World's Most Evil Killers</title>
+    <icon src="https://api.tvapi.com.au/images/WEKI09-012_medium.jpeg"/>
+    <desc>Welcome to the courtroom of Judge Judith Sheindlin. The cases are real, the people are real, and the rulings are final.</desc>
+    <sub-title>World's Most Evil Killers Season 9 Episode 12</sub-title>
+    <category>SOCIETY DOCUMENTARY</category>
   </programme>
   <programme channel="mjh-art-fast" start="20261128072953 +0000" stop="20261128081853 +0000">
     <title>Antiques Road Trip</title>
@@ -40541,18 +40360,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Paul Laidlaw and Margie Cooper, Day 4</sub-title>
     <category>history</category>
   </programme>
-  <programme start="20261128063027 +0000" stop="20261128073037 +0000" channel="mjh-7bravo-fast">
-    <title>Million Dollar Listing: LA</title>
-    <sub-title>Fuchsia My Life!</sub-title>
-    <desc>Josh Altman lists a home with a $2 million dollar closet, but is left hung out to dry when his client refuses every offer. Josh Flagg takes an internet mogul shopping for a fixer to flip into masterpiece.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/a015a0dc6fbc40130c65/image"/>
-    <episode-num system="SxxExx">S09E03</episode-num>
-    <episode-num system="xmltv_ns">8.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="mjh-art-fast" start="20261128091121 +0000" stop="20261128100021 +0000">
+    <title>Antiques Road Trip</title>
+    <icon src="https://api.tvapi.com.au/images/PBS_AMAGI_ATR910V_medium.jpeg"/>
+    <desc>Paul Laidlaw and Margie Cooper begin their last day in Newport, South Wales.</desc>
+    <sub-title>Paul Laidlaw and Margie Cooper, Day 5</sub-title>
+    <category>history</category>
   </programme>
   <programme start="20261128073037 +0000" stop="20261128083056 +0000" channel="mjh-7bravo-fast">
     <title>Shark Tank</title>
@@ -42711,13 +42524,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="mjh-heki-fast" start="20261128064942 +0000" stop="20261128074042 +0000">
-    <title>13 Chefs</title>
-    <icon src="https://api.tvapi.com.au/images/1-5021-0151-003_HellsKitchenUSA_SR11_EP09-ENG_TD_medium.jpeg"/>
-    <desc>Gordon challenges the teams to create five beautiful steak dishes.</desc>
-    <sub-title>13 Chefs</sub-title>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-heki-fast" start="20261128074057 +0000" stop="20261128083157 +0000">
     <title>12 Chefs</title>
     <icon src="https://api.tvapi.com.au/images/1-5021-0152-003_HellsKitchenUSA_SR11_EP10-ENG_TD_medium.jpeg"/>
@@ -42732,26 +42538,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>10 Chefs</sub-title>
     <category>Entertainment</category>
   </programme>
+  <programme channel="mjh-heki-fast" start="20261128092326 +0000" stop="20261128101426 +0000">
+    <title>9 Chefs</title>
+    <icon src="https://api.tvapi.com.au/images/1-5021-0154-003_HellsKitchenUSA_SR11_EP12-ENG_TD_medium.jpeg"/>
+    <desc>The two teams must create their own menus for the evening service.</desc>
+    <sub-title>9 Chefs</sub-title>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="mjh-misc511-fast" start="20261128065000 +0000" stop="20261128103000 +0000">
     <title>Motorsport: Newcastle Australian Supercross Championship</title>
     <icon src="https://api.tvapi.com.au/images/ASXC26-005_medium.jpeg"/>
     <desc>Motorsport: Newcastle Australian Supercross Championship</desc>
     <sub-title>5.50 - 9.30pm</sub-title>
     <category>MOTORSPORT</category>
-  </programme>
-  <programme channel="mjh-belowdeckvault-fast" start="20261128063031 +0000" stop="20261128071531 +0000">
-    <title>The Magic Seamen</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU2330-S2T16_medium.jpeg"/>
-    <desc>The guests get upset with Aesha when their bucket list Great Barrier Reef diving excursion gets denied. A familiar character returns to coach the deck team through a strip show for the guests.</desc>
-    <sub-title>The Magic Seamen</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-belowdeckvault-fast" start="20261128071606 +0000" stop="20261128080206 +0000">
-    <title>An Eruption of Volcanic Proportions</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU2330-S2T17_medium.jpeg"/>
-    <desc>The crew erupts in an argument when a deckhand meddles in the stew's drama. A date goes awry when Chef Tzarina reveals her true feelings. A stew has to come clean to a charter guest after making a big mistake.</desc>
-    <sub-title>An Eruption of Volcanic Proportions</sub-title>
-    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-belowdeckvault-fast" start="20261128080306 +0000" stop="20261128085006 +0000">
     <title>She's Just Not That Into You</title>
@@ -42760,12 +42559,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>She's Just Not That Into You</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-etc-fast" start="20261128063559 +0000" stop="20261128072959 +0000">
-    <title>Norfolk</title>
-    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00074_medium.jpeg"/>
-    <desc>Denise aids Southampton suburbs escape to North Norfolk semi-retirement at max of  £450k.</desc>
-    <sub-title>Norfolk</sub-title>
-    <category>Factual</category>
+  <programme channel="mjh-belowdeckvault-fast" start="20261128085013 +0000" stop="20261128093713 +0000">
+    <title>The Thunder From Down Under Pt. 2</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU1140-S10T16_medium.heif"/>
+    <desc>Captain Lee plays the ultimate prank on an unsuspecting guest. Chef Rachel reaches her breaking point when she challenges herself with an intricate Japanese tasting menu.</desc>
+    <sub-title>The Thunder From Down Under Pt. 2</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-belowdeckvault-fast" start="20261128093719 +0000" stop="20261128102419 +0000">
+    <title>Oh Captain, My Captain</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU1140-S10T17_medium.heif"/>
+    <desc>St. David sets off for the final charter of the season. Fraser is terrified of the new bodybuilder charter guests but learns a valuable lesson about not judging a book by its cover.</desc>
+    <sub-title>Oh Captain, My Captain</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-etc-fast" start="20261128073042 +0000" stop="20261128082442 +0000">
     <title>Cambridgeshire</title>
@@ -42781,12 +42587,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Leicestershire</sub-title>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-therealhousewivesvault-fast" start="20261128070355 +0000" stop="20261128075155 +0000">
-    <title>Liar, Liar, Friendships on Fire</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU947-S14T5_medium.jpeg"/>
-    <desc>The day trip to Beverly Hills continues and Shannon surprises the group with tourist clothes and a double decker bus ride through Hollywood. Tamra confronts Braunwyn about going behind her back and secretly communicating with her enemies. Emily leaves the trip early to see Shane after he returns from taking the Bar exam and becomes disappointed when he is less than enthusiastic about reuniting.</desc>
-    <sub-title>Liar, Liar, Friendships on Fire</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-etc-fast" start="20261128091752 +0000" stop="20261128100952 +0000">
+    <title>East Sussex</title>
+    <icon src="https://api.tvapi.com.au/images/BUZ_ETCR00077_medium.jpeg"/>
+    <desc>Jules aids suburbia escape to Kent/East Sussex seeking spacious garden/home at  £800k.</desc>
+    <sub-title>East Sussex</sub-title>
+    <category>Factual</category>
   </programme>
   <programme channel="mjh-therealhousewivesvault-fast" start="20261128075157 +0000" stop="20261128083957 +0000">
     <title>Family Affair</title>
@@ -42800,6 +42606,13 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://api.tvapi.com.au/images/4NBCU741-S15T3_medium.jpeg"/>
     <desc>The ladies arrive in the Hamptons where Sai and Brynn attempt to clear the air, but a miscommunication causes more conflict. Racquel and Rebecca open up about their pasts. Ubah and Brynn find themselves at odds.</desc>
     <sub-title>Dramamine Drama</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-therealhousewivesvault-fast" start="20261128092623 +0000" stop="20261128101123 +0000">
+    <title>Match Point Of No Return</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU741-S15T4_medium.jpeg"/>
+    <desc>The Hamptons trip continues as the women hit the tennis courts and cook a Shabbat dinner. Racquel opens up about her childhood. Brynn and Erin's prank leaves some a little uneasy. As tension builds, it threatens to derail the end of the trip.</desc>
+    <sub-title>Match Point Of No Return</sub-title>
     <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-cricketgold-fast" start="20261128065920 +0000" stop="20261128130320 +0000">
@@ -42823,20 +42636,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Australia v India - 3rd Test - 1999/00 Border-Ga</sub-title>
     <category>Sport</category>
   </programme>
-  <programme channel="mjh-botchedvault-fast" start="20261128063101 +0000" stop="20261128071701 +0000">
-    <title>Foreign Bodies</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S3T1_medium.jpeg"/>
-    <desc>Rajee is back and the doctors attempt to fix her cement-filled face.</desc>
-    <sub-title>Foreign Bodies</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-botchedvault-fast" start="20261128071759 +0000" stop="20261128080459 +0000">
-    <title>Man Boobs</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU105-S3T2_medium.jpeg"/>
-    <desc>Dr Dubrow helps a mother who looks like she's been pregnant for 12 years and the doctors meet with a gambler with a serious case of man boobs.</desc>
-    <sub-title>Man Boobs</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
   <programme channel="mjh-botchedvault-fast" start="20261128080513 +0000" stop="20261128084713 +0000">
     <title>Pinched Perfect</title>
     <icon src="https://api.tvapi.com.au/images/4NBCU105-S3T3_medium.png"/>
@@ -42844,12 +42643,19 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Pinched Perfect</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-ncis-fast" start="20261128064401 +0000" stop="20261128073401 +0000">
-    <title>Probie</title>
-    <icon src="https://api.tvapi.com.au/images/NCIS03-010_medium.jpeg"/>
-    <desc>When McGee kills a man while on assignment, the NCIS team steps in to back him when they discover the man was an undercover police officer.</desc>
-    <sub-title>Probie</sub-title>
-    <category>CRIME/LAW &amp; ORDER SERIES</category>
+  <programme channel="mjh-botchedvault-fast" start="20261128084752 +0000" stop="20261128093452 +0000">
+    <title>The Boob Fountain of Youth</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S4T1_medium.jpeg"/>
+    <desc>A drag queen seeks Dr Dubrow's exertise to rejuvenate his old breast implants and Dr Nassif tackles a severe nose deformity.</desc>
+    <sub-title>The Boob Fountain of Youth</sub-title>
+    <category>REALITY SERIES</category>
+  </programme>
+  <programme channel="mjh-botchedvault-fast" start="20261128093453 +0000" stop="20261128102153 +0000">
+    <title>Comic Proportions</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU105-S4T2_medium.jpeg"/>
+    <desc>Dr Dubrow helps a woman whose previous plastic surgery left her with a heart on her butt, while Dr Nassif operates on a woman who had her nose ruined over 30 years ago.</desc>
+    <sub-title>Comic Proportions</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-ncis-fast" start="20261128073458 +0000" stop="20261128082558 +0000">
     <title>Model Behavior</title>
@@ -42865,12 +42671,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Boxed In</sub-title>
     <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
-  <programme channel="mjh-cas39-fast" start="20261128064126 +0000" stop="20261128073726 +0000">
-    <title>Season 2 Episode 1</title>
-    <icon src="https://api.tvapi.com.au/images/TFAE02-001_medium.jpeg"/>
-    <desc>We meet workers who set off on their daily commute only to find themselves fighting for their lives in the skilful hands of the A&amp;E medics.</desc>
-    <sub-title>Season 2 Episode 1</sub-title>
-    <category>Science</category>
+  <programme channel="mjh-ncis-fast" start="20261128091641 +0000" stop="20261128100541 +0000">
+    <title>Deep Fake</title>
+    <icon src="https://api.tvapi.com.au/images/NCIH02-010_medium.jpeg"/>
+    <desc>Tennant, Jimmy Palmer (Brian Dietzen) and Sam Hanna (LL COOL J) find themselves captured with a woman who claims to be a CIA agent demanding intel from the team.</desc>
+    <sub-title>Deep Fake</sub-title>
+    <category>CRIME/LAW &amp; ORDER SERIES</category>
   </programme>
   <programme channel="mjh-cas39-fast" start="20261128073746 +0000" stop="20261128083346 +0000">
     <title>Season 2 Episode 2</title>
@@ -42886,19 +42692,12 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Season 2 Episode 3</sub-title>
     <category>Science</category>
   </programme>
-  <programme channel="mjh-cas40-fast" start="20261128062548 +0000" stop="20261128071148 +0000">
-    <title>Bidding War Bitches</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU628-S3T6_medium.jpeg"/>
-    <desc>Luis is introduced to a client who holds the key to his dream listing, and, a big dirty secret.</desc>
-    <sub-title>Bidding War Bitches</sub-title>
-    <category>REALITY SERIES</category>
-  </programme>
-  <programme channel="mjh-cas40-fast" start="20261128071223 +0000" stop="20261128075923 +0000">
-    <title>Loss Angeles</title>
-    <icon src="https://api.tvapi.com.au/images/4NBCU628-S8T11_medium.png"/>
-    <desc>Ryan nervously premieres a music video for his Tribeca loft.</desc>
-    <sub-title>Loss Angeles</sub-title>
-    <category>REALITY SERIES</category>
+  <programme channel="mjh-cas39-fast" start="20261128093047 +0000" stop="20261128102647 +0000">
+    <title>Season 3 Episode 1</title>
+    <icon src="https://api.tvapi.com.au/images/TFAE03-001_medium.jpeg"/>
+    <desc>In a shocking, random act of violence, a young woman is knocked to the ground, after being punched in the face by a stranger.</desc>
+    <sub-title>Season 3 Episode 1</sub-title>
+    <category>Science</category>
   </programme>
   <programme channel="mjh-cas40-fast" start="20261128080022 +0000" stop="20261128084822 +0000">
     <title>Ruffled Heathers</title>
@@ -42907,33 +42706,33 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <sub-title>Ruffled Heathers</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261128065040 +0000" stop="20261128071440 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR13-004_medium.jpeg"/>
-    <desc>It's New Year's Day and the Dutch are back for their annual swimming tradition. This year sees three hundred swimmers run straight into the jaws of a rip.</desc>
-    <sub-title>Season 13 Episode 4</sub-title>
+  <programme channel="mjh-cas40-fast" start="20261128084823 +0000" stop="20261128095523 +0000">
+    <title>The Struggle Is Real</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU626-S11T1_medium.png"/>
+    <desc>The days of easily getting a listing are over! Listings are scarce, buyers are savvier, and overzealous homeowners are expecting the world.</desc>
+    <sub-title>The Struggle Is Real</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261128071512 +0000" stop="20261128073912 +0000">
-    <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR13-005_medium.jpeg"/>
-    <desc>A crippling heatwave descends on Bondi. For a short time the beach becomes the hottest place on Earth, with the mercury peaking at 47.3 degrees.</desc>
-    <sub-title>Season 13 Episode 5</sub-title>
+  <programme channel="mjh-cas40-fast" start="20261128095553 +0000" stop="20261128110253 +0000">
+    <title>The Good Fight</title>
+    <icon src="https://api.tvapi.com.au/images/4NBCU626-S11T2_medium.png"/>
+    <desc>After the successful sale of actress Rose McGowan's Hollywood Hills home, Tracy holds an estate sale of all of the actress's belongings.</desc>
+    <sub-title>The Good Fight</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-cas41-fast" start="20261128074011 +0000" stop="20261128080511 +0000">
+  <programme channel="mjh-cas41-fast" start="20261128080555 +0000" stop="20261128082955 +0000">
     <title>Bondi Rescue</title>
-    <icon src="https://api.tvapi.com.au/images/BONR13-006_medium.jpeg"/>
-    <desc>During an emergency launch of the lifeguard jetski the 4WD buggy is swamped by waves. Suddenly the lifeguards are facing danger, as well as damaging vital rescue equipment.</desc>
-    <sub-title>Season 13 Episode 6</sub-title>
+    <icon src="https://api.tvapi.com.au/images/BONR14-004_medium.jpeg"/>
+    <desc>Lifeguards lay down the law after a woman reports being spat on at Bondi Beach.</desc>
+    <sub-title>Season 14 Episode 4</sub-title>
     <category>REALITY SERIES</category>
   </programme>
-  <programme channel="mjh-7news-fast" start="20261128070000 +0000" stop="20261128080000 +0000">
-    <title>Seven News</title>
-    <icon src="https://api.tvapi.com.au/images/7NNM-SHOW_medium.png"/>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-    <sub-title>6.00 - 7.00pm</sub-title>
-    <category>NEWS</category>
+  <programme channel="mjh-cas41-fast" start="20261128083040 +0000" stop="20261128085540 +0000">
+    <title>Bondi Rescue</title>
+    <icon src="https://api.tvapi.com.au/images/BONR14-005_medium.jpeg"/>
+    <desc>Bondi is invaded by an armada of bluebottles. Their painful stings cause havoc among swimmers.</desc>
+    <sub-title>Season 14 Episode 5</sub-title>
+    <category>REALITY SERIES</category>
   </programme>
   <programme channel="mjh-7news-fast" start="20261128080000 +0000" stop="20261128110000 +0000">
     <title>7NEWS: Victoria Votes</title>
@@ -44082,11 +43881,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/TG8ESMXYU171ABHO709EAU_16_9.jpg"/>
     <category>documentary</category>
   </programme>
-  <programme channel="mjh-10-ghosthunters" start="20261128064000 +0000" stop="20261128073400 +0000">
-    <title>Ghost Hunters S7 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-ghosthunters" start="20261128073400 +0000" stop="20261128082700 +0000">
     <title>Ghost Hunters S6 Ep. 14</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
@@ -44576,16 +44370,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Ghost Hunters S5 Ep. 10</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/08/13/69f67264f7c827f8663d2fb5d64b006f-1078015.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20261128062000 +0000" stop="20261128071200 +0000">
-    <title>Vanity Fair Confidential AU S2 Ep. 7</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-true-stories" start="20261128071200 +0000" stop="20261128073700 +0000">
-    <title>Who The Bleep Did I Marry? S1 Ep. 10</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/08/23/3f5e8724fcd5d8e07865fae86f4fa3b0-1174410.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-true-stories" start="20261128073700 +0000" stop="20261128082900 +0000">
     <title>Vanity Fair Confidential AU S1 Ep. 4</title>
@@ -45191,16 +44975,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Vanity Fair Confidential AU S4 Ep. 7</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64c022b8e5488100137dc9e5/featuredImage_1767913594595.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-sitcomcentral" start="20261128064500 +0000" stop="20261128071200 +0000">
-    <title>Man With A Plan S1 Ep. 15</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/08/03/451b88a710b189089a03ada242182c33-1253604.png"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-sitcomcentral" start="20261128071200 +0000" stop="20261128074000 +0000">
-    <title>Man With A Plan S1 Ep. 16</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/08/03/451b88a710b189089a03ada242182c33-1253604.png"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-sitcomcentral" start="20261128074000 +0000" stop="20261128080700 +0000">
     <title>Man With A Plan S1 Ep. 17</title>
@@ -46182,11 +45956,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6ad686c373415cc4ae1abb57/featuredImage_1792444100536.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-grahamnorton" start="20261128065200 +0000" stop="20261128073500 +0000">
-    <title>Series 16 Ep 6 with Anne Hathaway</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="mjh-10-grahamnorton" start="20261128073500 +0000" stop="20261128081700 +0000">
     <title>Series 16 Ep 4 with Robert Downey Jr.</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
@@ -46880,16 +46649,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-grahamnorton" start="20261202123529 +0000" stop="20261202131929 +0000">
     <title>Series 20 Ep 5 with Benedict Cumberbatch</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d1197lo2h5ac0i/AMZ-TGNS-KA_2000x3000.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261128064300 +0000" stop="20261128071400 +0000">
-    <title>Episode 14</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/8OutOf10CatsUKSeason07_555337.jpg"/>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-eightoutof10cats" start="20261128071400 +0000" stop="20261128074200 +0000">
-    <title>Show 7</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>Entertainment</category>
   </programme>
   <programme channel="mjh-10-eightoutof10cats" start="20261128074200 +0000" stop="20261128082400 +0000">
@@ -47761,16 +47520,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Episode 16</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/8O10C/Series_8OutOf10CatsSeason21.jpg"/>
     <category>N/A</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261128065200 +0000" stop="20261128071900 +0000">
-    <title>Ridiculousness S8 Ep. 806</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-mtvridiculousness" start="20261128071900 +0000" stop="20261128074500 +0000">
-    <title>Ridiculousness S10 Ep. 19</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
-    <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-mtvridiculousness" start="20261128074500 +0000" stop="20261128081100 +0000">
     <title>Ridiculousness S9 Ep. 25</title>
@@ -48772,16 +48521,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/01/d2c4ecfa35c6b0a88159ef2c7439e24f-986139.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20261128061700 +0000" stop="20261128071000 +0000">
-    <title>Have You Been Paying Attention? S1 Ep. 33</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-haveyoubeenpayingattention" start="20261128071000 +0000" stop="20261128073800 +0000">
-    <title>Have You Been Paying Attention? S1 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-haveyoubeenpayingattention" start="20261128073800 +0000" stop="20261128083100 +0000">
     <title>Have You Been Paying Attention? S5 Ep. 29</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
@@ -49312,11 +49051,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/01/2686101cc739d2393085c1c774c6a8bc-1425272.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-cheapseats" start="20261128065000 +0000" stop="20261128074100 +0000">
-    <title>The Cheap Seats S3 Ep. 2</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6899a030cb15389834735597/featuredImage_1767915724495.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-cheapseats" start="20261128074100 +0000" stop="20261128083400 +0000">
     <title>The Cheap Seats S3 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
@@ -49817,11 +49551,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/04/29/7bd2c015af4ddf24d645495a2f852c86-1424617.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-thankgodyourehere" start="20261128064600 +0000" stop="20261128074000 +0000">
-    <title>Thank God You're Here S2 Ep. 8</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-thankgodyourehere" start="20261128074000 +0000" stop="20261128083600 +0000">
     <title>Thank God You're Here S2 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
@@ -50280,16 +50009,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-thankgodyourehere" start="20261201222030 +0000" stop="20261201231630 +0000">
     <title>Thank God You're Here S3 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/24/7a990e907f9cbfa7d353b3fd97d7ca1e-1329177.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261128065300 +0000" stop="20261128071800 +0000">
-    <title>Drawn Together S3 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/02d38d982a2f0884058b90356ab09390-1438807.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-adultanimation" start="20261128071800 +0000" stop="20261128074400 +0000">
-    <title>Ugly Americans S2 Ep. 10</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/7596107b3c35eb26f1e7191ab8d7de53-1439022.jpg"/>
     <category>Comedy</category>
   </programme>
   <programme channel="mjh-10-adultanimation" start="20261128074400 +0000" stop="20261128081000 +0000">
@@ -51307,21 +51026,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/01/02d38d982a2f0884058b90356ab09390-1438807.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-becker" start="20261128064000 +0000" stop="20261128070700 +0000">
-    <title>Becker S3 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20261128070700 +0000" stop="20261128073500 +0000">
-    <title>Becker S3 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="mjh-10-becker" start="20261128073500 +0000" stop="20261128080300 +0000">
-    <title>Becker S3 Ep. 3</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
-    <category>Comedy</category>
-  </programme>
   <programme channel="mjh-10-becker" start="20261128080300 +0000" stop="20261128083100 +0000">
     <title>Becker S3 Ep. 4</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
@@ -52272,11 +51976,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/05/17/0720f401959d77eee75f1228d0910367-266639.jpg"/>
     <category>Comedy</category>
   </programme>
-  <programme channel="mjh-10-aussiedramapopup" start="20261128063000 +0000" stop="20261128072500 +0000">
-    <title>Rush S2 Ep. 6</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-aussiedramapopup" start="20261128072500 +0000" stop="20261128081700 +0000">
     <title>Rush S2 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
@@ -52770,11 +52469,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-aussiedramapopup" start="20261201230143 +0000" stop="20261201235343 +0000">
     <title>Rush S4 Ep. 11</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/01/25/f1f4862589231c3d82fdd2e00a42fb6c-1213614.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-rookieblue" start="20261128065500 +0000" stop="20261128074300 +0000">
-    <title>Different, Not Better</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
   <programme channel="mjh-10-rookieblue" start="20261128074300 +0000" stop="20261128083200 +0000">
@@ -53402,11 +53096,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/RookieBlue_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-heartland" start="20261128062900 +0000" stop="20261128071900 +0000">
-    <title>Love Is Just a Word</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-heartland" start="20261128071900 +0000" stop="20261128080900 +0000">
     <title>Resolutions</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
@@ -54017,16 +53706,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/cloud/Images/S3/Heartland_landscape.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-prisoner-cell-block-h" start="20261128061600 +0000" stop="20261128070800 +0000">
-    <title>Prisoner Cell Block H S2 Ep. 45</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
-    <category>Drama</category>
-  </programme>
-  <programme channel="mjh-10-prisoner-cell-block-h" start="20261128070800 +0000" stop="20261128075800 +0000">
-    <title>Prisoner Cell Block H S2 Ep. 46</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
-    <category>Drama</category>
-  </programme>
   <programme channel="mjh-10-prisoner-cell-block-h" start="20261128075800 +0000" stop="20261128084800 +0000">
     <title>Prisoner Cell Block H S2 Ep. 47</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
@@ -54552,16 +54231,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6772c1993eea50001360f06e/featuredImage.jpg"/>
     <category>Drama</category>
   </programme>
-  <programme channel="mjh-10-diagnosismurder" start="20261128061600 +0000" stop="20261128070900 +0000">
-    <title>Diagnosis Murder S8 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-diagnosismurder" start="20261128070900 +0000" stop="20261128080200 +0000">
-    <title>Diagnosis Murder S8 Ep. 5</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-diagnosismurder" start="20261128080200 +0000" stop="20261128085400 +0000">
     <title>Diagnosis Murder S8 Ep. 6</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
@@ -55046,16 +54715,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Diagnosis Murder S5 Ep. 21</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/06/12/a26646080d8e7183e5f0f02f484a7177-282547.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-dallascheerleaders" start="20261128064700 +0000" stop="20261128071400 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team S5 Ep. 506</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-dallascheerleaders" start="20261128071400 +0000" stop="20261128074100 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team S5 Ep. 507</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
-    <category>Reality</category>
   </programme>
   <programme channel="mjh-10-dallascheerleaders" start="20261128074100 +0000" stop="20261128083000 +0000">
     <title>Dallas Cowboys Cheerleaders: Making the Team S5 Ep. 508</title>
@@ -55697,11 +55356,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/435141b94503ff563dc89c1cfbc07904-1429777.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-nexttopmodel" start="20261128065300 +0000" stop="20261128074700 +0000">
-    <title>America's Next Top Model S8 Ep. 2</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-nexttopmodel" start="20261128074700 +0000" stop="20261128084000 +0000">
     <title>America's Next Top Model S8 Ep. 3</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
@@ -56205,11 +55859,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-nexttopmodel" start="20261201230746 +0000" stop="20261201235746 +0000">
     <title>America's Next Top Model S11 Ep. 8</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/648afa9f12e6ce00131300d4/featuredImage.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-projectrunway" start="20261128063900 +0000" stop="20261128073200 +0000">
-    <title>Project Runway</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/03/31/aed21059c446681d9837796b141ad8ff-1421625.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-projectrunway" start="20261128073200 +0000" stop="20261128082400 +0000">
@@ -56807,16 +56456,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://preview-amagistv-amg02189-cloudport.now.amagi.tv/Images/S3/PRAS_S6_ep608.jpg"/>
     <category>Unscripted Competition</category>
   </programme>
-  <programme channel="mjh-10-world-of-survivor" start="20261128061900 +0000" stop="20261128070800 +0000">
-    <title>Survivor US S16 Ep. 12</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-world-of-survivor" start="20261128070800 +0000" stop="20261128075700 +0000">
-    <title>Survivor US S16 Ep. 13</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-world-of-survivor" start="20261128075700 +0000" stop="20261128094700 +0000">
     <title>Survivor US S16 Ep. 14</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/29/9b3e99b9434899d0b81fec94675735ba-1438354.jpg"/>
@@ -57220,11 +56859,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-world-of-survivor" start="20261201222129 +0000" stop="20261201234429 +0000">
     <title>Australian Survivor S2 Ep. 8</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/01/21/7ed52087d862734638d8612e5790bbfb-1407229.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-mtv-the-shores" start="20261128063100 +0000" stop="20261128072200 +0000">
-    <title>Geordie Shore S11 Ep. 1102</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/76cc999c54efdc240e9b3479c5ee26bf-1437861.jpg"/>
     <category>Reality</category>
   </programme>
   <programme channel="mjh-10-mtv-the-shores" start="20261128072200 +0000" stop="20261128081200 +0000">
@@ -57766,16 +57400,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Jersey Shore S1 Ep. 109</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/03/e793739f541f8b6a6423517b6e9257e3-1439572.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261128065000 +0000" stop="20261128071800 +0000">
-    <title>Judge Judy S3 Ep. 237</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
-  </programme>
-  <programme channel="mjh-10-judge-judy" start="20261128071800 +0000" stop="20261128074600 +0000">
-    <title>Judge Judy S3 Ep. 238</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
-    <category>Light Entertainment</category>
   </programme>
   <programme channel="mjh-10-judge-judy" start="20261128074600 +0000" stop="20261128081400 +0000">
     <title>Judge Judy S3 Ep. 239</title>
@@ -58722,16 +58346,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/21/f5a5c0d4b6532b359fb597e348a83b6b-223211.jpg"/>
     <category>Light Entertainment</category>
   </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261128064800 +0000" stop="20261128072900 +0000">
-    <title>The Only Way Is Essex S4 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-theonlywayisessex" start="20261128072900 +0000" stop="20261128075700 +0000">
-    <title>The Only Way Is Essex S1 Ep. 2</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-theonlywayisessex" start="20261128075700 +0000" stop="20261128082700 +0000">
     <title>The Only Way Is Essex S1 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
@@ -59422,11 +59036,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/24/d53a3f101b0c0cff3f8e1f11cb2ce2fa-1352024.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-undercoverboss" start="20261128065700 +0000" stop="20261128075100 +0000">
-    <title>Undercover Boss S5 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-undercoverboss" start="20261128075100 +0000" stop="20261128084400 +0000">
     <title>Undercover Boss S5 Ep. 2</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
@@ -59926,14 +59535,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Undercover Boss S5 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/10/14/d2d07924e2a19c9c22d1c7bc699dabb2-1397155.jpg"/>
     <category>Reality</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261128070200 +0000" stop="20261128072600 +0000">
-    <title>The Big Bet</title>
-    <category>Factual</category>
-  </programme>
-  <programme channel="mjh-10-hardcorepawn" start="20261128072600 +0000" stop="20261128075000 +0000">
-    <title>Acid Test</title>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-hardcorepawn" start="20261128075000 +0000" stop="20261128081500 +0000">
     <title>The Family Feud</title>
@@ -61046,11 +60647,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HPAWN/HardcorePawnSeason01_591852.jpg"/>
     <category>Reality</category>
   </programme>
-  <programme channel="mjh-10-wicked-tuna" start="20261128065500 +0000" stop="20261128075000 +0000">
-    <title>Wicked Tuna</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
-    <category>Adventure</category>
-  </programme>
   <programme channel="mjh-10-wicked-tuna" start="20261128075000 +0000" stop="20261128084400 +0000">
     <title>Wicked Tuna</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
@@ -61621,11 +61217,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2022/05/25/b2fc159c5c826cefbc8cf016173a5cfa-1150388.jpg"/>
     <category>Adventure</category>
   </programme>
-  <programme channel="mjh-10-embarrassing-bodies" start="20261128070000 +0000" stop="20261128075300 +0000">
-    <title>Embarrassing Bodies S5 Ep. 11</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-embarrassing-bodies" start="20261128075300 +0000" stop="20261128084400 +0000">
     <title>Embarrassing Bodies S1 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
@@ -62130,11 +61721,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Embarrassing Bodies S4 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/11/01/6c76cd27c7eda0a8670d1417067f26df-1347546.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-highwaythruhell" start="20261128065500 +0000" stop="20261128075100 +0000">
-    <title>Big, Mean and Heavy</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HeavyRescue401Season05.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-highwaythruhell" start="20261128075100 +0000" stop="20261128084700 +0000">
     <title>The worst place</title>
@@ -62685,16 +62271,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Episode 3</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/HTHRU/Series_HighwayThruHellSeason10.jpg"/>
     <category>Factual</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261128070200 +0000" stop="20261128072800 +0000">
-    <title>Cops S23 Ep. 6</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-cops" start="20261128072800 +0000" stop="20261128075300 +0000">
-    <title>Cops S23 Ep. 7</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
-    <category>Crime</category>
   </programme>
   <programme channel="mjh-10-cops" start="20261128075300 +0000" stop="20261128081900 +0000">
     <title>Cops S23 Ep. 8</title>
@@ -63831,11 +63407,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/67a1f730b3210d00130b21af/featuredImage_1793663553715.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-medical-emergency" start="20261128062500 +0000" stop="20261128072000 +0000">
-    <title>999: What's Your Emergency AU S4 Ep. 15</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/64a2b408f56d820013754408/featuredImage_1767991743018.jpg"/>
-    <category>Reality</category>
-  </programme>
   <programme channel="mjh-10-medical-emergency" start="20261128072000 +0000" stop="20261128081300 +0000">
     <title>Mystery Diagnosis S9 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/31/6415323f886854ec55ef28fe26e26fe5-1252445.jpg"/>
@@ -64335,11 +63906,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Mystery Diagnosis S10 Ep. 9</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/07/31/6415323f886854ec55ef28fe26e26fe5-1252445.jpg"/>
     <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-deadlywomen" start="20261128065500 +0000" stop="20261128074800 +0000">
-    <title>Episode 11</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason04.jpg"/>
-    <category>Factual</category>
   </programme>
   <programme channel="mjh-10-deadlywomen" start="20261128074800 +0000" stop="20261128084000 +0000">
     <title>Episode 12</title>
@@ -64911,11 +64477,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2yv6y0n3qsl5c/DDWM/Series_DeadlyWomenSeason05.jpg"/>
     <category>Factual</category>
   </programme>
-  <programme channel="mjh-10-crime-time" start="20261128063000 +0000" stop="20261128072700 +0000">
-    <title>Forensic Investigators S1 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/02/04/73330fb14e1b76afdab939383ba8aaea-1029837.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-time" start="20261128072700 +0000" stop="20261128081700 +0000">
     <title>Declassified S2 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/01/20/699b51db8a5e4b67947fb5a4fdba89bd-1026558.jpg"/>
@@ -65411,11 +64972,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/01/20/699b51db8a5e4b67947fb5a4fdba89bd-1026558.jpg"/>
     <category>Crime</category>
   </programme>
-  <programme channel="mjh-10-crime-hunters" start="20261128070100 +0000" stop="20261128075900 +0000">
-    <title>The New Detectives: Case Studies in Forensic Science S9 Ep. 107</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
-    <category>Crime</category>
-  </programme>
   <programme channel="mjh-10-crime-hunters" start="20261128075900 +0000" stop="20261128090100 +0000">
     <title>The FBI Files S1 Ep. 7</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/50043a49919fb14e5280aa7db108f117-1328467.jpg"/>
@@ -65850,11 +65406,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>The New Detectives: Case Studies in Forensic Science S4 Ep. 37</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/07/19/c5e2aaf9c4ca44bad9bfb32095a96507-1328463.jpg"/>
     <category>Crime</category>
-  </programme>
-  <programme channel="mjh-10-forty-eight-hours" start="20261128063300 +0000" stop="20261128072100 +0000">
-    <title>48 Hours S24 Ep. 56</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-forty-eight-hours" start="20261128072100 +0000" stop="20261128081000 +0000">
     <title>48 Hours S23 Ep. 7</title>
@@ -66389,11 +65940,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-forty-eight-hours" start="20261201222318 +0000" stop="20261201231318 +0000">
     <title>48 Hours S21 Ep. 53</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2019/03/22/a526136d4eac39647f0d72de2dd19617-224104.jpg"/>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="mjh-10-haunt-tv" start="20261128065900 +0000" stop="20261128075200 +0000">
-    <title>Paranormal 911</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_paranormal911_Season_2_16x9.jpg"/>
     <category>Documentary</category>
   </programme>
   <programme channel="mjh-10-haunt-tv" start="20261128075200 +0000" stop="20261128084400 +0000">
@@ -67136,11 +66682,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d2y2gft5545ze9/HNTTV/Series_paranormal911_Season_1_16x9.jpg"/>
     <category>Documentary</category>
   </programme>
-  <programme channel="mjh-10-jamieoliverchristmas" start="20261128063700 +0000" stop="20261128073300 +0000">
-    <title>Jamie’s Easy Christmas Countdown S1 Ep. 1</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/26/ecde960489eb0ad827843abc93cbafbe-1431946.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
   <programme channel="mjh-10-jamieoliverchristmas" start="20261128073300 +0000" stop="20261128083100 +0000">
     <title>Jamie’s Festive Feast S1 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/06/bb8de3c32ee56443441fcffb9f5a981e-1439847.jpg"/>
@@ -67614,11 +67155,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-jamieoliverchristmas" start="20261201222415 +0000" stop="20261201231915 +0000">
     <title>Jamie’s Italian Christmas S1 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/02/c8917d1ca1e7b2870f3ab2cf141847d1-1439265.jpg"/>
-    <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-jamieoliver" start="20261128065400 +0000" stop="20261128074700 +0000">
-    <title>Jamie &amp; Jimmy’s Food Fight Club S8 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/d1a57ecbac01020dfa0f112db1e073eb-1437934.jpg"/>
     <category>Lifestyle</category>
   </programme>
   <programme channel="mjh-10-jamieoliver" start="20261128074700 +0000" stop="20261128084000 +0000">
@@ -68155,11 +67691,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Jamie &amp; Jimmy’s Food Fight Club S8 Ep. 1</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/06/25/d1a57ecbac01020dfa0f112db1e073eb-1437934.jpg"/>
     <category>Lifestyle</category>
-  </programme>
-  <programme channel="mjh-10-anthonybourdain" start="20261128064700 +0000" stop="20261128073200 +0000">
-    <title>Anthony Bourdain Parts Unknown S4 Ep. 8</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
-    <category>Food &amp; Cooking</category>
   </programme>
   <programme channel="mjh-10-anthonybourdain" start="20261128073200 +0000" stop="20261128081700 +0000">
     <title>Anthony Bourdain Parts Unknown S4 Ep. 7</title>
@@ -68750,11 +68281,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Anthony Bourdain Parts Unknown S4 Ep. 6</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/6720c7a4e87eac0013412037/featuredImage.jpg"/>
     <category>Food &amp; Cooking</category>
-  </programme>
-  <programme channel="mjh-10-wildest" start="20261128061400 +0000" stop="20261128071200 +0000">
-    <title>Meet The Devils</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_secretlifeofthetasmaniandevil_Season_1_2x3.jpg"/>
-    <category>nature</category>
   </programme>
   <programme channel="mjh-10-wildest" start="20261128071200 +0000" stop="20261128081000 +0000">
     <title>Young Devils</title>
@@ -69386,11 +68912,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/Series_landofgremlins_Season_1_2x3.jpg"/>
     <category>nature</category>
   </programme>
-  <programme channel="mjh-10-shockwave" start="20261128063200 +0000" stop="20261128072700 +0000">
-    <title>SuperTornado: Anatomy of a Megadisaster</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/05/14/5e1d56cfdbc1ce3960edde6044db5328-1429685.jpg"/>
-    <category>Documentary</category>
-  </programme>
   <programme channel="mjh-10-shockwave" start="20261128072700 +0000" stop="20261128083100 +0000">
     <title>Fukushima: Robots in Hell</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/20QF8QRMHLGKDPF44HRJA_16_9.jpg"/>
@@ -69895,11 +69416,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>Avalanche: Man Versus Earth</title>
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/amg/d326zal162nowe/Images/S3/EPWKOL5U66CS4RS5U3M0D2_16_9.jpg"/>
     <category>documentary</category>
-  </programme>
-  <programme channel="mjh-10-seasonalmovies" start="20261128053600 +0000" stop="20261128071200 +0000">
-    <title>Amish Abduction</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2023/10/31/17599caea9a9860309c2b78a70fc572d-1276639.jpg"/>
-    <category>Movies</category>
   </programme>
   <programme channel="mjh-10-seasonalmovies" start="20261128071200 +0000" stop="20261128084900 +0000">
     <title>Cheer For Your Life</title>
@@ -70440,16 +69956,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <title>7 Days in Entebbe</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2026/07/16/e79cc7ac7647242f29e42069fdae45d5-1443124.jpg"/>
     <category>Movies</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261128065700 +0000" stop="20261128072700 +0000">
-    <title>Back at the Barnyard S1 Ep. 6</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69ca2d70ede44078d065cafd/featuredImage_1774857585684.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
-  <programme channel="mjh-10-nick-jr" start="20261128072700 +0000" stop="20261128075200 +0000">
-    <title>Team Umizoomi S2 Ep. 201</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/fdcbc23a5debdb6fe4711b408f9b9346-991749.jpg"/>
-    <category>Kids</category>
   </programme>
   <programme channel="mjh-10-nick-jr" start="20261128075200 +0000" stop="20261128082200 +0000">
     <title>Back at the Barnyard S2 Ep. 10</title>
@@ -71424,16 +70930,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
   <programme channel="mjh-10-nick-jr" start="20261201231935 +0000" stop="20261201234835 +0000">
     <title>Bubble Guppies S3 Ep. 20</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/2ea155956b9ed04b7f4a8af8ec48cc99-991680.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261128070200 +0000" stop="20261128072700 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 120</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-spongebobsquarepants" start="20261128072700 +0000" stop="20261128075100 +0000">
-    <title>SpongeBob SquarePants S6 Ep. 121</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
   <programme channel="mjh-10-spongebobsquarepants" start="20261128075100 +0000" stop="20261128081500 +0000">
@@ -72481,16 +71977,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/12/15/3fd03c22d6f1e0fb1327672acb850dde-1403591.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons" start="20261128065900 +0000" stop="20261128072700 +0000">
-    <title>Danny Phantom S3 Ep. 4</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons" start="20261128072700 +0000" stop="20261128075500 +0000">
-    <title>Danny Phantom S3 Ep. 12</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons" start="20261128075500 +0000" stop="20261128082200 +0000">
     <title>Danny Phantom S1 Ep. 14</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/10/23/6dc62dfc96a646f2f99aafd34aec28b5-1346042.jpg"/>
@@ -73491,21 +72977,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/15/446c6d56a1c86f42bce79b109c8e5c7d-992216.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261128064600 +0000" stop="20261128071100 +0000">
-    <title>Rocket Power S1 Ep. 17</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/04/27/0c3bce0648997d8da40e36f862f6aa39-1052016.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261128071100 +0000" stop="20261128073800 +0000">
-    <title>The Fairly Odd Parents S7 Ep. 17</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/06/04/5b8b5c9561272be1e1979d5f88a3462a-1318354.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nicktoons-90s" start="20261128073800 +0000" stop="20261128080500 +0000">
-    <title>Hey Arnold! S1 Ep. 19</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2025/04/16/6da5370a873e0aad363a0bf7c1f96c27-1374863.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nicktoons-90s" start="20261128080500 +0000" stop="20261128083200 +0000">
     <title>The Fairly Odd Parents S7 Ep. 5</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/06/04/5b8b5c9561272be1e1979d5f88a3462a-1318354.jpg"/>
@@ -74471,21 +73942,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2024/06/04/5b8b5c9561272be1e1979d5f88a3462a-1318354.jpg"/>
     <category>Kids</category>
   </programme>
-  <programme channel="mjh-10-nickteen" start="20261128064600 +0000" stop="20261128071400 +0000">
-    <title>Nicky, Ricky, Dicky &amp; Dawn S4 Ep. 1</title>
-    <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de2433f22f20f768af6238/featuredImage_1776165940486.jpg"/>
-    <category>Children &amp; Family</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20261128071400 +0000" stop="20261128073900 +0000">
-    <title>Game Shakers S1 Ep. 115</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2021/06/03/0a1e27fe77c699688217df67e0cfaf16-1061258.jpg"/>
-    <category>Kids</category>
-  </programme>
-  <programme channel="mjh-10-nickteen" start="20261128073900 +0000" stop="20261128080500 +0000">
-    <title>Big Time Rush S1 Ep. 14</title>
-    <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
-    <category>Kids</category>
-  </programme>
   <programme channel="mjh-10-nickteen" start="20261128080500 +0000" stop="20261128083200 +0000">
     <title>Big Time Rush S1 Ep. 3</title>
     <icon src="https://tendaily-prod-images.s3.ap-southeast-2.amazonaws.com/2020/09/13/fa9e40d592f5eefb43d250ab70b7d7a1-991063.jpg"/>
@@ -75431,24 +74887,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <icon src="https://10-static-assets.global.ssl.fastly.net/ip/pluto/images/series/69de2433f22f20f768af6238/featuredImage_1776165940486.jpg"/>
     <category>Children &amp; Family</category>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-10-geckotv">
-    <title>Home Shopping</title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="mjh-10-geckotv">
-    <title>Home Shopping</title>
-    <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2a664e885371d10cd12e/image"/>
-    <rating>
-      <value>MA 15+</value>
-    </rating>
-  </programme>
   <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="mjh-10-geckotv">
     <title>Home Shopping</title>
     <desc>A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.</desc>
@@ -75842,24 +75280,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128070500 +0000" stop="20261128073000 +0000" channel="mjh-10-youtv">
-    <title>Dry Styx Ultra Offer - The Lot</title>
-    <desc>Dry Styx is the new, safe, and non-toxic way to extract that household damp and help control the spread of mould.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/d93c786e90fb31857a4b/image"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128075500 +0000" channel="mjh-10-youtv">
-    <title>Payton Wonder Wax Spring Special Deal</title>
-    <desc>WonderWax is one product every leather and timber furniture owner should have at home because it's the natural way to restore both tired leather and withered timber.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/242ee953e0d7e248672e/image"/>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128075500 +0000" stop="20261128082000 +0000" channel="mjh-10-youtv">
     <title>Id Blocker Essentials Protection Pack</title>
     <desc>ID BLOCKER. INSTANT PROTECTION. 100% IMPREGNABLE. INDEPENDENTLY TESTED. Results show that the ID Blockers 360-degree electronic halo of protection (E-Field) cannot be breached by skimmers. Stay safe at home and abroad.</desc>
@@ -75900,15 +75320,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <desc>Watch live as the prices drop during our jewellery auctions offering beautiful gemstone jewellery set in precious gold and silver at incredible prices! </desc>
     <category>Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/b97a695cbd1f735387a2/image"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128073000 +0000" channel="mjh-sbs-sbst">
-    <title>Ukraine: Holocaust Ground Zero</title>
-    <desc>An exploration of the shocking impact of the Holocaust in Ukraine, where some of the most horrific Nazi massacres of World War II occurred.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/bebd9161f2a50902941a/image"/>
     <rating>
       <value>PG</value>
     </rating>
@@ -78553,32 +77964,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128064000 +0000" stop="20261128071000 +0000" channel="mjh-sbs-2syd">
-    <title>Mastermind Australia</title>
-    <sub-title>Episode 59</sub-title>
-    <desc>Tonight's specialty subjects are: The New Hollywood, The Baby-Sitters Club books, Ace Attorney: Phoenix Wright Video Game and Professional Surfing.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9cb438cb08ec848118bc/image"/>
-    <episode-num system="SxxExx">S06E59</episode-num>
-    <episode-num system="xmltv_ns">5.58.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128071000 +0000" stop="20261128074000 +0000" channel="mjh-sbs-2syd">
-    <title>Mastermind Australia</title>
-    <sub-title>Episode 60</sub-title>
-    <desc>Our weekly winners are back with two minutes of general knowledge, plus the dreaded slow burn round. Tonight's slow burn topics are a sportsperson, a film personality, a character and a TV series.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/9cb438cb08ec848118bc/image"/>
-    <episode-num system="SxxExx">S06E60</episode-num>
-    <episode-num system="xmltv_ns">5.59.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128074000 +0000" stop="20261128083500 +0000" channel="mjh-sbs-2syd">
     <title>Mysteries From Above</title>
     <sub-title>Decoding Disasters</sub-title>
@@ -81150,19 +80535,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
     <episode-num system="original-air-date">2026-12-05</episode-num>
     <rating>
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-sbs-3syd">
-    <title>Global Soul Kitchen</title>
-    <sub-title>Thai Seasoned Catfish And Corn Hushpuppies</sub-title>
-    <desc>Chef Deborah VanTrece blends Soul food and Thai flavours for a mouthwatering dish of Thai Seasoned Catfish and Corn Hushpuppies.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/0189e336a52515f2949a/image"/>
-    <episode-num system="SxxExx">S02E08</episode-num>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
     </rating>
   </programme>
   <programme start="20261128073000 +0000" stop="20261128083000 +0000" channel="mjh-sbs-3syd">
@@ -84993,42 +84365,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="mjh-sbs-5nsw">
-    <title>Bamay</title>
-    <sub-title>Tasmania Northwest - Part 3</sub-title>
-    <desc>In part three of Tasmania's north-west journey, coastal tracks and windswept beaches meet cultural memory, from The Nut's ancient volcanic form to the shores of Perkins Bay.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/bff1d72df919a64bf989/image"/>
-    <episode-num system="SxxExx">S06E06</episode-num>
-    <episode-num system="xmltv_ns">5.5.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128074000 +0000" channel="mjh-sbs-5nsw">
-    <title>NITV News Update</title>
-    <sub-title>Episode 225</sub-title>
-    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6ae707f631ad3f89f49c/image"/>
-    <episode-num system="SxxExx">S2026E225</episode-num>
-    <episode-num system="xmltv_ns">2025.224.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-  </programme>
-  <programme start="20261128074000 +0000" stop="20261128080500 +0000" channel="mjh-sbs-5nsw">
-    <title>The Other Side</title>
-    <sub-title>Hanging Man</sub-title>
-    <desc>Three Valley Gap may be nestled within a beautiful valley, but it's also a ghost town where tortured spirits can't escape their past.</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/64081e2d169a7403c954/image"/>
-    <episode-num system="SxxExx">S09E01</episode-num>
-    <episode-num system="xmltv_ns">8.0.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128080500 +0000" stop="20261128083000 +0000" channel="mjh-sbs-5nsw">
     <title>The Other Side</title>
     <sub-title>Alley Of The Dead</sub-title>
@@ -88466,15 +87802,6 @@ Christina discovers a fine collection of postcards, including some cheeky ones f
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261128052000 +0000" stop="20261128075500 +0000" channel="mjh-sbs-4syd">
-    <title>The Scarlet And The Black</title>
-    <desc>A Vatican priest hides thousands of escaped prisoners of war and Jews in occupied Rome in WWII after defying the orders of a Nazi colonel. (Gregory Peck, Christopher Plummer, John Gielgud)</desc>
-    <category>Drama</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/98a11b837bbc8a007177/image"/>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20261128075500 +0000" stop="20261128093000 +0000" channel="mjh-sbs-4syd">
     <title>A Hard Day's Night</title>
     <desc>Over two "typical" days in the life of The Beatles, the boys struggle to keep themselves and Paul McCartney's mischievous grandfather in check while preparing for a live television performance.</desc>
@@ -89263,12 +88590,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-sbs-sbs-radio-1">
-    <title>NITV Radio (RPT)</title>
-    <desc>Stay connected to Australian news and conversations that matter to you. Balanced, impartial and without agenda from NITV Radio team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/70235e39796cab893aa7/image"/>
-  </programme>
   <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="mjh-sbs-sbs-radio-1">
     <title>Vietnamese</title>
     <desc>Stay connected in Vietnamese to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Vietnamese team.</desc>
@@ -89736,12 +89057,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
     <desc>Stay connected in Macedonian to Australian news and conversations that matter to you. Balanced, impartial and without agenda from the SBS Macedonian team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/72aea848d5ba6faad2ed/image"/>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-sbs-sbs-radio-2">
-    <title>Bangla (RPT)</title>
-    <desc>Stay connected in Bangla to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Bangla team.</desc>
-    <category>News</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/c3078db8d7f8e055ae58/image"/>
   </programme>
   <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="mjh-sbs-sbs-radio-2">
     <title>The Bollywood Session</title>
@@ -90324,97 +89639,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
     <desc>Stay connected in Spanish to Australian news and conversations that matter to you. Balanced, impartial, and without agenda from the SBS Spanish team.</desc>
     <category>News</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/91b4ea3ec4573a3b07ed/image"/>
-  </programme>
-  <programme start="20261128064500 +0000" stop="20261128071000 +0000" channel="mjh-abc-kids">
-    <title>Iron Man and His Awesome Friends</title>
-    <sub-title>The Iron Friends vs. The Iron Fiends / Vision's Invisible Trouble</sub-title>
-    <desc>When Iron Friend imposters cause chaos, the team must clear their names. Vision's art tour turns dangerous as Ultron threatens to make the museum vanish.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/83a35c14b707d2906a25/image"/>
-    <episode-num system="SxxExx">S01E19</episode-num>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128071000 +0000" stop="20261128072000 +0000" channel="mjh-abc-kids">
-    <title>Shaun the Sheep</title>
-    <sub-title>Fleeced</sub-title>
-    <desc>The Farmer decides it's time to give the flock a shearing. But when they see his first attempt, Shaun and co plan their escape.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/73f1d04a9678a93f64ec/image"/>
-    <episode-num system="SxxExx">S01E14</episode-num>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128072000 +0000" stop="20261128072500 +0000" channel="mjh-abc-kids">
-    <title>Bluey</title>
-    <sub-title>The Pool</sub-title>
-    <desc>Packing for the pool, Bluey and Dad tease Mum about being so fussy with what to take. But when they arrive underprepared, they realise a little planning goes a long way.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/f0234330bd36b547a762/image"/>
-    <episode-num system="SxxExx">S01E22</episode-num>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128072500 +0000" stop="20261128074000 +0000" channel="mjh-abc-kids">
-    <title>Zog</title>
-    <sub-title>Madam Dragon Knows Best</sub-title>
-    <desc>Spark isn't feeling well but Madam Dragon insists he is fine, just over-excited for his lesson. Zog's intuition tells him Madam Dragon is wrong, but can he tell her?</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/61052ea4336c42b45c8a/image"/>
-    <episode-num system="SxxExx">S01E27</episode-num>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128074000 +0000" stop="20261128074500 +0000" channel="mjh-abc-kids">
-    <title>MaeBee</title>
-    <sub-title>Mae, Bee and the Forgotten Place</sub-title>
-    <desc>Mae and Bee encourage their friend, Tiger, a blind witch's cat, to trust his senses and find his lost place in the treetops, bringing the spark back to his magic whiskers.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/08d3a934047aa7b65306/image"/>
-    <episode-num system="SxxExx">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128074500 +0000" stop="20261128075500 +0000" channel="mjh-abc-kids">
-    <title>Superbuns</title>
-    <sub-title>Oh Snap</sub-title>
-    <desc>Kevin loses his heirloom gum that he chewed for 367 days straight. Everyone agrees that's gross, but Superbuns is always there to help a friend no matter what!</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2d165e24696ac6f8ed34/image"/>
-    <episode-num system="SxxExx">S01E32</episode-num>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261128075500 +0000" stop="20261128080500 +0000" channel="mjh-abc-kids">
-    <title>Superkitties</title>
-    <sub-title>Bubble Bother</sub-title>
-    <desc>The SuperKitties stop Zsa-Zsa from turning the Kittydale Water Tower into her own giant bubble bath.</desc>
-    <category>Kids &amp; Family</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/45e99b2cd4a1a7982fa5/image"/>
-    <episode-num system="SxxExx">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20261128080500 +0000" stop="20261128082000 +0000" channel="mjh-abc-kids">
     <title>Do Not Watch This Show</title>
@@ -99964,32 +99188,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20261128062500 +0000" stop="20261128071500 +0000" channel="mjh-abc-me">
-    <title>Mythbusters</title>
-    <sub-title>No Pain No Gain/Gas Rocket</sub-title>
-    <desc>On this episode of Mythbusters, Adam and Jamie both become “lab rats”. In “No Pain, No Gain”, they test a myth that touches us all: are some types of people really more tolerant to pain?</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6b5a193d058d6c007a44/image"/>
-    <episode-num system="SxxExx">S06E12</episode-num>
-    <episode-num system="xmltv_ns">5.11.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128071500 +0000" stop="20261128080500 +0000" channel="mjh-abc-me">
-    <title>Phil Spencer: Secret Agent Specials</title>
-    <sub-title>Birmingham</sub-title>
-    <desc>Phil is in Birmingham where he's trying to sell two tricky terraces on the same street with completely different problems. In a crammed market, can he help these houses stand out? (Final)</desc>
-    <category>Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/8881ae9e1dfef71ec866/image"/>
-    <episode-num system="SxxExx">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="original-air-date">2026-11-28</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20261128080500 +0000" stop="20261128083000 +0000" channel="mjh-abc-me">
     <title>Spicks and Specks</title>
     <sub-title>Peter Oxley, Dave O'neil, Tom Ballard &amp; Ashleigh Dallas</sub-title>
@@ -106775,22 +105973,6 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
     <episode-num system="xmltv_ns">2025.96.</episode-num>
     <episode-num system="original-air-date">2026-12-05</episode-num>
   </programme>
-  <programme channel="mjh-bbc-news" start="20261128070000 +0000" stop="20261128073000 +0000">
-    <title>BBC News</title>
-    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20261128073000 +0000" stop="20261128080000 +0000">
-    <title>Clive Myrie's African Adventure: Casablanca</title>
-    <desc>Clive trains with some of the country's best young footballers and gets on his bike to ride the streets with a Moroccan female motorcycle gang.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3505005004_1_20260921T015027944Z_22_imageprocessorclient-tvplus-linear-6b56cc9f55-d5g9z.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="mjh-bbc-news" start="20261128080000 +0000" stop="20261128083000 +0000">
     <title>BBC News</title>
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
@@ -106855,20 +106037,21 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261128065236 +0000" stop="20261128074436 +0000" channel="mjh-redbull-tv">
-    <title>ATHLETICS: Wings for Life World Run 2026 – Highlights</title>
-    <desc>Watch highlights of the 13th edition of the world’s largest running event in support of spinal cord research.</desc>
-    <icon src="https://img.liiift.io/v1/DAM/FOVKFWCMYXLZS54RKWVP.jpeg/a:p/im/MI202511120510_Artwork_2_3_%20SI202605140531.jpeg"/>
-    <episode-num system="original-air-date">2026-11-23 22:13:39</episode-num>
-    <video>
-      <present>yes</present>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOVKFWCMYXLZS54RKWVP.jpeg/a:p/im/MI202511120510_Artwork_2_3_%20SI202605140531.jpeg</image>
+  <programme channel="mjh-bbc-news" start="20261128123000 +0000" stop="20261128130000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20261128130000 +0000" stop="20261128133000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme start="20261128074436 +0000" stop="20261128082558 +0000" channel="mjh-redbull-tv">
     <title>ATHLETICS: Michelle Khare's Great World Race – Marathon</title>
@@ -107545,34 +106728,80 @@ Carl Nargle (Owen Wilson), a local treasure with a soothing whisper of a voice, 
     </audio>
     <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOX5A2LEFI6C8955P2TY.jpeg/a:p/im/MI202604161003_Artwork_2_3_%20SI202605070985.jpeg</image>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-    <date>2026</date>
-    <category>News</category>
-    <orig-language>English</orig-language>
-    <icon src="https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg"/>
-    <country>Canada</country>
-    <episode-num system="dd_progid">EPmac_sh_ptc990239023.mac_ptc1493450277</episode-num>
-    <episode-num system="themoviedb.org">series/42300</episode-num>
-    <episode-num system="original-air-date">2026-11-20 11:18:13</episode-num>
+  <programme start="20261129054247 +0000" stop="20261129055047 +0000" channel="mjh-redbull-tv">
+    <title>ACTION: Red Bull Soapbox Race – Crazy Obstacle Courses</title>
+    <desc>Meet fearless teams who race fast and push their soapbox cars beyond the limits… and sometimes rules.</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FORLF1KC4Z586GJVAMT5.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/EA_fo-1m8qb1qa51w11-featuremedia.jpeg"/>
+    <episode-num system="original-air-date">2026-11-15 05:51:28</episode-num>
     <video>
       <present>yes</present>
-      <quality>SDTV</quality>
+      <quality>HDTV</quality>
     </video>
     <audio>
       <present>yes</present>
       <stereo>stereo</stereo>
     </audio>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-    <star-rating>
-      <value>0.0/10</value>
-    </star-rating>
-    <image type="poster" size="3" orient="P">https://images.skyone.co.nz/mac/479214/DAM/35ECB47A-E047-45F6-89C7EA8A6D6B512C.jpg</image>
-    <image type="backdrop" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B626EE88-BEE6-41C7-BBC8BBDF6821E97E.jpg</image>
-    <image type="still" size="3" orient="L">https://images.skyone.co.nz/mac/479214/DAM/B483DE3B-68DE-4673-B722790646F12F10.jpg</image>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FORLF1KC4Z586GJVAMT5.jpeg/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/EA_fo-1m8qb1qa51w11-featuremedia.jpeg</image>
+  </programme>
+  <programme start="20261129055047 +0000" stop="20261129060000 +0000" channel="mjh-redbull-tv">
+    <title>ACTION: Red Bull Soapbox Race – Crazy Obstacle Courses</title>
+    <desc>It’s not always just about speed, it's also the look. Check out the top designs that wow the crowds!</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FOG5FL8IDZHR7UX5GT7J.png/a:p/im:i:f_jpg/SI201409290036%3AArtwork%3AVertical%3A2.3.jpg"/>
+    <episode-num system="original-air-date">2026-11-23 05:25:22</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOG5FL8IDZHR7UX5GT7J.png/a:p/im:i:f_jpg/SI201409290036%3AArtwork%3AVertical%3A2.3.jpg</image>
+  </programme>
+  <programme start="20261129060000 +0000" stop="20261129062139 +0000" channel="mjh-redbull-tv">
+    <title>ATHLETICS: Michelle Khare's Great World Race – Marathon</title>
+    <desc>Michelle faces the final stretch. With everything on the line, will she make it to the final finish?</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FOJ9NH7XL4LLYHGY51D8.jpeg/a:p/im/MI202604161006_Artwork_2_3_%20SI202605070985.jpeg"/>
+    <episode-num system="original-air-date">2026-11-10 23:45:20</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FOJ9NH7XL4LLYHGY51D8.jpeg/a:p/im/MI202604161006_Artwork_2_3_%20SI202605070985.jpeg</image>
+  </programme>
+  <programme start="20261129062139 +0000" stop="20261129064309 +0000" channel="mjh-redbull-tv">
+    <title>ATHLETICS: Limit/less – Adventuring Against the Odds</title>
+    <desc>Triathletes Natascha Badmann and Claire Danson meet in Switzerland to go on a special adventure together.</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FO9MDTBULPBIYPKA7GV8.png/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/WFLWR%20Limitless_portrait.jpg"/>
+    <episode-num system="original-air-date">2026-11-24 00:40:58</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FO9MDTBULPBIYPKA7GV8.png/a:p/im:i:c_limit,w_1920,h_1080,f_jpg/WFLWR%20Limitless_portrait.jpg</image>
+  </programme>
+  <programme start="20261129064309 +0000" stop="20261129070945 +0000" channel="mjh-redbull-tv">
+    <title>ATHLETICS: Mondo Classic 2025 – Highlights</title>
+    <desc>A world-class pole vaulting competition, watch Armand 'Mondo' Duplantis faces top competitors in his hometown!</desc>
+    <icon src="https://img.liiift.io/v1/DAM/FO3TTDD4XRL5NEBU8U17.jpg/a:p/im/SI202503130641_Portrait.jpg"/>
+    <episode-num system="original-air-date">2026-11-24 01:02:29</episode-num>
+    <video>
+      <present>yes</present>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <image type="poster" size="3" orient="P">https://img.liiift.io/v1/DAM/FO3TTDD4XRL5NEBU8U17.jpg/a:p/im/SI202503130641_Portrait.jpg</image>
   </programme>
   <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
